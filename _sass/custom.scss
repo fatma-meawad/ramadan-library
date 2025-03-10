@@ -2,3 +2,16 @@
 body {
     text-align: right;
 }
+
+// Move sidebar to the right
+@media (min-width: 64em) {
+    .side-bar {
+        left: auto; // Remove default left positioning
+        right: 0; // Position it on the right
+    }
+
+    .main {
+        margin-left: 0; // Remove left margin for content
+        margin-right: var(--sidebar-width); // Push content left when sidebar is on the right
+    }
+}
