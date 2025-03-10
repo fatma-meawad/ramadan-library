@@ -4,7 +4,7 @@
     parent: الأيات 6-18
     nav_order: 6
 ---
-## مقارنة بين الإيمان والشرك ومثل النور الإلهي
+## ٧. مقارنة بين الإيمان والشرك ومثل النور الإلهي
 ***
 ## الأسئلة 
 {% include h5pcontainer.html id="6" path="../../assets/QSet" path2="../../assets/QSet/baqra/part2/map6" %}

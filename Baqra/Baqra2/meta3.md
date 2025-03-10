@@ -4,7 +4,7 @@
     parent: الأيات 6-18
     nav_order: 3
 ---
-## تحليل النفاق وصفات المنافقين في الإسلام
+## ٤. تحليل النفاق وصفات المنافقين في الإسلام
 ***
 ## الأسئلة 
 {% include h5pcontainer.html id="3" path="../../assets/QSet" path2="../../assets/QSet/baqra/part2/map3" %}

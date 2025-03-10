@@ -4,7 +4,7 @@
     parent: الأيات 6-18
     nav_order: 8
 ---
-## صفات المنافقين وتعطل وسائل الإدراك لديهم
+## ٩. صفات المنافقين وتعطل وسائل الإدراك لديهم
 ***
 ## الأسئلة 
 {% include h5pcontainer.html id="8" path="../../assets/QSet" path2="../../assets/QSet/baqra/part2/map8" %}

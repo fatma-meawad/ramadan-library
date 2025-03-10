@@ -4,7 +4,7 @@
     parent: الأيات 6-18
     nav_order: 0
 ---
-## منافذ الإدراك وصفات المؤمنين والكافرين والمنافقين
+## ١. منافذ الإدراك وصفات المؤمنين والكافرين والمنافقين
 ***
 ## الأسئلة 
 {% include h5pcontainer.html id="0" path="../../assets/QSet" path2="../../assets/QSet/baqra/part2/map0" %}

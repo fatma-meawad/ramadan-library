@@ -4,7 +4,7 @@
     parent: الأيات 6-18
     nav_order: 7
 ---
-## تحليل النص حول المنافقين ونور الإيمان
+## ٨. تحليل النص حول المنافقين ونور الإيمان
 ***
 ## الأسئلة 
 {% include h5pcontainer.html id="7" path="../../assets/QSet" path2="../../assets/QSet/baqra/part2/map7" %}

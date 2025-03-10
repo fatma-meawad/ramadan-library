@@ -4,7 +4,7 @@
     parent: الأيات 6-18
     nav_order: 4
 ---
-## تحليل النفاق وتمثيل الإيمان في القرآن الكريم
+## ٥. تحليل النفاق وتمثيل الإيمان في القرآن الكريم
 ***
 ## الأسئلة 
 {% include h5pcontainer.html id="4" path="../../assets/QSet" path2="../../assets/QSet/baqra/part2/map4" %}

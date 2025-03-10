@@ -4,7 +4,7 @@
     parent: الأيات 6-18
     nav_order: 5
 ---
-## صفات المنافقين واستخدام الأمثال في القرآن الكريم
+## ٦. صفات المنافقين واستخدام الأمثال في القرآن الكريم
 ***
 ## الأسئلة 
 {% include h5pcontainer.html id="5" path="../../assets/QSet" path2="../../assets/QSet/baqra/part2/map5" %}

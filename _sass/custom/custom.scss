@@ -8,34 +8,44 @@ body {
 .side-bar {
     z-index: 0;
     right: 0;
+    left: auto;
     display: flex;
     flex-wrap: wrap;
     background-color: $sidebar-color;
+
     max-width: 250px;
 
     @include mq(md) {
-        flex-flow: column nowrap;
+        flex-flow: column;
         position: fixed;
         width: $nav-width-md;
         height: 100%;
         border-right: $border $border-color;
         align-items: flex-end;
+        left: auto !important;
+        /* Override any left alignment */
+        right: 0 !important;
     }
 
     @include mq(lg) {
         width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
         min-width: $nav-width;
+        left: auto !important;
+        /* Override any left alignment */
+        right: 0 !important;
+        margin-right: 0px;
+
     }
 
     &+.main {
         @include mq(md) {
-            margin-right: 50px;
+            margin-right: 0px;
         }
 
         @include mq(lg) {
             // stylelint-disable function-name-case
             // disable for Max(), we want to use the CSS max() function
-            margin-right: 250px; //Max(#{$nav-width},
+            margin-right: 0px; //Max(#{$nav-width},
             //  calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}));
             // stylelint-enable function-name-case
         }

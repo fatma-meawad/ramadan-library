@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% unless page.nav_exclude %}
+{{ content }}
+
+{{ "This content is not available for navigation" }}
+{% else %}
+{{ page.nav_exclude }}
+{% endunless %}

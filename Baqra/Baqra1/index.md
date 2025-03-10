@@ -5,5 +5,3 @@ parent: سورة البقرة
 nav_order: 1
 has_children: true
 ---
-
- {% include h5pcontainer.html id="GIT" path="../../assets/QSet" path2="../../assets/QSet/content" %}

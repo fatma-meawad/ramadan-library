@@ -4,7 +4,7 @@
     parent: الأيات 6-18
     nav_order: 1
 ---
-## صفات المنافقين واختلافهم عن الكافرين
+## ٢. صفات المنافقين واختلافهم عن الكافرين
 ***
 ## الأسئلة 
 {% include h5pcontainer.html id="1" path="../../assets/QSet" path2="../../assets/QSet/baqra/part2/map1" %}

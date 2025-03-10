@@ -4,7 +4,7 @@
     parent: الأيات 6-18
     nav_order: 2
 ---
-## صفات المنافقين وعاقبتهم في الدنيا والآخرة
+## ٣. صفات المنافقين وعاقبتهم في الدنيا والآخرة
 ***
 ## الأسئلة 
 {% include h5pcontainer.html id="2" path="../../assets/QSet" path2="../../assets/QSet/baqra/part2/map2" %}
