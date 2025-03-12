@@ -26,8 +26,7 @@ parent: العقيدة و الاعجاز
 
 {% for tag in tags %}
 
-### {{ tag }}
-
+{{ tag }}
 {: .note}
 
 <ul>
