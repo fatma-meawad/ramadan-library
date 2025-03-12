@@ -237,3 +237,9 @@ body {
     height: $sp-5;
     color: $link-color;
 }
+
+input#search-input {
+    direction: rtl;
+    text-align: right;
+  }
+  

@@ -2,8 +2,21 @@ title: "مكتبة رمضان"
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
 
 # Enable custom styles
 just_the_docs:
   custom_css: "assets/css/custom.css"
+
+search_enabled: true
+search.heading_level: 2  # Index h1, h2, and h3 headers
+search.tokenizer_separator: /[\s\-/،؟؛.،]+/ 
+mermaid:
+  version: "11.1.0"
+
+callouts:
+  note:
+    color: blue
+
+  warning:
+    title: Important
+    color: red

@@ -1,0 +1,156 @@
+
+
+    <!-- Styles -->
+<style>
+  #chartdiv {
+    width: 100%;
+    height: 500px;
+  }
+  </style>
+  
+  <!-- Resources -->
+  <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/wc.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+
+  <!-- Chart code -->
+  <script>
+  am5.ready(function() {
+  
+  
+  // Create root element
+  // https://www.amcharts.com/docs/v5/getting-started/#Root_element
+  var root = am5.Root.new("chartdiv");
+  
+  
+  // Set themes
+  // https://www.amcharts.com/docs/v5/concepts/themes/
+  root.setThemes([
+    am5themes_Animated.new(root)
+  ]);
+  
+  var zoomableContainer = root.container.children.push(
+    am5.ZoomableContainer.new(root, {
+      width: am5.p100,
+      height: am5.p100,
+      wheelable: true,
+      pinchZoom: true
+    })
+  );
+  
+  var zoomTools = zoomableContainer.children.push(am5.ZoomTools.new(root, {
+    target: zoomableContainer
+  }));
+  
+  
+  // Add series
+  // https://www.amcharts.com/docs/v5/charts/word-cloud/
+  var series = zoomableContainer.contents.children.push(am5wc.WordCloud.new(root, {
+    maxCount:100,
+    minWordLength:2,
+    maxFontSize:am5.percent(35)
+    }));
+
+   
+  
+  // Configure labels
+  series.labels.template.setAll({
+    paddingTop: 5,
+    paddingBottom: 5,
+    paddingLeft: 5,
+    paddingRight: 5,
+    fontFamily: "Courier New",
+    rtl: true
+  });
+  
+
+  
+  series.data.setAll([
+    {
+        "category": "أَمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أَنْ نَجْعَلَهُمْ كَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+        "value": 4
+    },
+    {
+        "category": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ بِجَهَالَةٍ ثُمَّ تَابُوا مِنْ بَعْدِ ذَلِكَ وَأَصْلَحُوا إِنَّ رَبَّكَ مِنْ بَعْدِهَا لَغَفُورٌ رَحِيمٌ",
+        "value": 4
+    },
+    {
+        "category": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعاً إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+        "value": 4
+       
+    },
+    {
+        "category": "وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ",
+        "value": 3
+       
+    },
+    {
+        "category": "مَنْ لَمْ يَدَعْ قَوْلَ الزُّورِ وَالْعَمَلَ بِهِ فَلَيْسَ لِلَّهِ حَاجَةٌ فِي أَنْ يَدَعَ طَعَامَهُ وَشَرَابَهُ",
+        "value": 3
+       
+    },
+    {
+        "category": "قُلْ أَنْفِقُوا طَوْعاً أَوْ كَرْهاً لَنْ يُتَقَبَّلَ مِنْكُمْ إِنَّكُمْ كُنْتُمْ قَوْماً فَاسِقِينَ",
+        "value": 3
+    },
+    {
+        "category": "وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَنْ كَثِيرٍ",
+        "value": 3
+    },
+    {
+        "category": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ",
+        "value": 2
+    },
+    {
+        "category": "إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا",
+        "value": 2
+    },
+    {
+        "category": "اللَّهُ الَّذِي رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا",
+        "value": 2
+    },
+    {
+        "category": "لَوْ يَعْلَمُ النَّاسُ مَا فِي صَلَاةِ الْعِشَاءِ وَصَلَاةِ الْفَجْرِ لَأَتَوْهُمَا وَلَوْ حَبْوًا",
+        "value": 2
+       
+    },
+    {
+        "category": "﴿ وَفِي الْأَرْضِ آيَاتٌ لِلْمُوقِنِينَ (20) ﴾",
+        "value": 2
+    },
+    {
+        "category": "﴿ فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ (75) وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ (76) إِنَّهُ لَقُرْآنٌ كَرِيمٌ (77) ﴾",
+        "value": 2
+        
+    },
+    {
+        "category": "﴿ وَالشَّمْسِ وَضُحَاهَا (1) وَالْقَمَرِ إِذَا تَلَاهَا (2) وَالنَّهَارِ إِذَا جَلَّاهَا (3) وَاللَّيْلِ إِذَا يَغْشَاهَا (4) ﴾",
+        "value": 2
+    },
+    {
+        "category": "﴿ وَالْفَجْرِ (1) وَلَيَالٍ عَشْرٍ (2) وَالشَّفْعِ وَالْوَتْرِ (3) وَاللَّيْلِ إِذَا يَسْرِ (4) هَلْ فِي ذَلِكَ قَسَمٌ لِذِي حِجْرٍ (5) ﴾",
+        "value": 2
+    },
+    {
+        "category": "﴿ قُلِ انْظُرُوا مَاذَا فِي السَّمَاوَاتِ وَالْأَرْضِ (101) ﴾",
+        "value": 2
+    },
+    {
+        "category": "﴿ فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ (5) خُلِقَ مِنْ مَاءٍ دَافِقٍ (6) ﴾",
+        "value": 2
+    },
+    {
+        "category": "﴿ فَلْيَنْظُرِ الْإِنْسَانُ إِلَى طَعَامِهِ (24) ﴾",
+        "value": 2
+    },
+    {
+        "category": "﴿ وَمَا أَنْتُمْ لَهُ بِخَازِنِينَ (22) ﴾",
+        "value": 2
+    }]);
+
+    });
+  </script>
+  
+  <!-- HTML -->
+  <div id="chartdiv"></div>
+  

@@ -2,6 +2,6 @@
 layout: default
 title: الأيات 6-18
 parent: سورة البقرة 
-nav_order: 2
+nav_order: 10
 has_children: true
 ---
