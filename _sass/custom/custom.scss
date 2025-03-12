@@ -4,15 +4,14 @@ body {
 
 }
 
-
-
-
 .side-bar {
     z-index: 0;
     right: 0;
     left: auto;
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-start;
+
     background-color: $sidebar-color;
 
     max-width: 32ew;

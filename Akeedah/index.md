@@ -2,13 +2,15 @@
 layout: default
 title: العقيدة و الاعجاز
 description: كتاب العقيدة و الاعجاز
-nav_order: 0
+nav_order: 1
 has_children: true
 ---
 
 # {{page.description}}
 
 ---
+
+[المصدر الاصلي ](https://www.nabulsi.com/category/Creed-Miraculousness620#)
 
 ```mermaid
 graph RL;
