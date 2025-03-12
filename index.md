@@ -8,4 +8,4 @@ nav_order: 0
 
 ## [١ كتاب العقيدة و الاعجاز ](Akeedah/index.html)‏
 
-## [٢ سورة البقرة](Baqra/index.html)‏
+## [٢ تفسير سورة البقرة للشيخ الشعراوي ](Baqra/index.html)‏
