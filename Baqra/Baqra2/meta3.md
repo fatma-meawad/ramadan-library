@@ -2,7 +2,7 @@
 layout: default
 title: ٤.تحليل النفاق وصفات المنافقين في الإسلام
 parent: الأيات 6-18
-nav_order: 24
+nav_order: 24000
 tags: []
 keys:
   [

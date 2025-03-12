@@ -2,7 +2,7 @@
 layout: default
 title: ١.تفسير الحروف المقطعة في القرآن الكريم
 parent: الأيات 1 - 5
-nav_order: 10
+nav_order: 100
 tags:
   [
     "{الم}",

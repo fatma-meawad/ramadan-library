@@ -24,8 +24,6 @@ permalink: /tags/
 
 {% for tag in tags %}
 
-### {{ tag }}
-
 {{ tag }}
 {: .note}
 

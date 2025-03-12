@@ -28,6 +28,8 @@ parent: العقيدة و الاعجاز
 
 ### {{ tag }}
 
+{: .note}
+
 <ul>
   {% for page in site.pages %}
     {% if page.tags contains tag %}

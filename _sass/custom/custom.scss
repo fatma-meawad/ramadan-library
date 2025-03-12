@@ -15,12 +15,13 @@ body {
     flex-wrap: wrap;
     background-color: $sidebar-color;
 
-    max-width: 320px;
+    max-width: 32ew;
 
     .site-title {
         text-align: right;
         display: block;
         width: 100%;
+        margin-right: 0;
     
     }
     @include mq(md) {
@@ -29,10 +30,7 @@ body {
         width: $nav-width-md;
         height: 100%;
         border-right: $border $border-color;
-        align-items: flex-end;
-        left: auto !important;
-        /* Override any left alignment */
-        right: 0 !important;
+       
     }
 
     @include mq(lg) {
@@ -47,21 +45,20 @@ body {
 
     &+.main {
         @include mq(md) {
-            margin-right: 0px;
+            margin-right: Max(#{$nav-width},calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}));
         }
 
         @include mq(lg) {
             // stylelint-disable function-name-case
             // disable for Max(), we want to use the CSS max() function
-            margin-right: 0px; //Max(#{$nav-width},
-            //  calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}));
+            margin-right: Max(#{$nav-width},calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}));
             // stylelint-enable function-name-case
         }
 
         .main-header {
             display: none;
             background-color: $sidebar-color;
-            text-align: right;
+            text-align: left;
 
             @include mq(md) {
                 display: flex;
@@ -185,7 +182,7 @@ body {
     display: flex;
     height: 100%;
     padding: $gutter-spacing-sm;
-    align-items: center;
+    align-items: left;
 }
 
 @include mq(md) {
