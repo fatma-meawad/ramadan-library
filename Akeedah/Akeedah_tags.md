@@ -5,7 +5,7 @@ nav_order: 60
 parent: العقيدة و الاعجاز
 ---
 
-# دليل الأيات لكتاب العقيدة و الاعجاز
+# دليل الأيات و الأحاديث لكتاب العقيدة و الاعجاز
 
 {% assign selected_parent = page.parent %}
 {% assign tags = "" | split: "," %}
