@@ -5,6 +5,8 @@ body {
 }
 
 
+
+
 .side-bar {
     z-index: 0;
     right: 0;
@@ -13,8 +15,14 @@ body {
     flex-wrap: wrap;
     background-color: $sidebar-color;
 
-    max-width: 250px;
+    max-width: 320px;
 
+    .site-title {
+        text-align: right;
+        display: block;
+        width: 100%;
+    
+    }
     @include mq(md) {
         flex-flow: column;
         position: fixed;
