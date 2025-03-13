@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع هو القلق والجزع، وليس عدم الاهتمام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا في عكس المعنى؛ 'هلوع' تشير إلى الضعف وليس الشجاعة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشخص الذي لا يهتم بأي شيء.</p>"
+            "text": "<p style=\"text-align:right\">شجاع وقوي.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع هو الذي يقلق ويجزع عند مواجهة الشر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! 'هلوع' تعني الخائف أو الجزوع، كما ورد في القرآن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشخص الذي يقلق ويجزع عند مواجهة الشر.</p>"
+            "text": "<p style=\"text-align:right\">الخائف والجزوع.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتعلق بالقلق عند الشر، وليس الفرح عند الخير.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الحكمة ليست معنا مرتبطة بكلمة 'هلوع'.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشخص الذي يفرح عند مواجهة الخير.</p>"
+            "text": "<p style=\"text-align:right\">الشخص الحكيم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان بطبيعته يتأثر بالأحداث، خاصة الشر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المجتهد في عمله لا يُعبر عنه بكلمة 'هلوع'.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشخص الذي لا يتأثر بأي حدث.</p>"
+            "text": "<p style=\"text-align:right\">المجتهد في عمله.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما معنى الهلوع كما ورد في القرآن؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما معنى كلمة 'هلوع' كما وردت في سورة المعارج؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما معنى الهلوع كما ورد في القرآن؟",
+        "title": "ما معنى كلمة 'هلوع' كما وردت في سورة المعارج؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما معنى الهلوع كما ورد في القرآن؟"
+        "extraTitle": "ما معنى كلمة 'هلوع' كما وردت في سورة المعارج؟"
       },
-      "subContentId": "6ecceb23-1b5e-464f-8b30-e5f5e7182598"
+      "subContentId": "aa96d696-b6d7-41b0-a20b-c9e7cf1d3daf"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان خُلق ضعيفًا، وليس قويًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات المعنية ليست في سورة البقرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإنسان خُلق قويًا.</p>"
+            "text": "<p style=\"text-align:right\">سورة البقرة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإنسان خُلق هلوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات التي تصف الإنسان بالهلع والعجلة وردت في سورة المعارج.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإنسان خُلق هلوعًا.</p>"
+            "text": "<p style=\"text-align:right\">سورة المعارج.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يتأثر بالخير والشر، وليس غير مبالٍ.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سورة النساء تتحدث عن خاصيات أخرى للإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإنسان خُلق غير مبالٍ.</p>"
+            "text": "<p style=\"text-align:right\">سورة النساء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يتأثر بالخير والشر، خاصة الشر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سورة الإسراء تتحدث عن العجول لكن في سياق مختلف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإنسان خُلق لا يتأثر بالخير أو الشر.</p>"
+            "text": "<p style=\"text-align:right\">سورة الإسراء.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي إحدى خصائص النفس البشرية كما ذكرت في القرآن؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">أين وردت الآيات التي تصف الإنسان بأنه 'هلوعاً' و'عجولاً'؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي إحدى خصائص النفس البشرية كما ذكرت في القرآن؟",
+        "title": "أين وردت الآيات التي تصف الإنسان بأنه 'هلوعاً' و'عجولاً'؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي إحدى خصائص النفس البشرية كما ذكرت في القرآن؟"
+        "extraTitle": "أين وردت الآيات التي تصف الإنسان بأنه 'هلوعاً' و'عجولاً'؟"
       },
-      "subContentId": "94f44de1-9c74-4140-8ca2-bd7cf4e70987"
+      "subContentId": "beca8969-eac7-4838-86fb-64754bf79621"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عندما يمسه الشر يكون جزوعًا، وليس منوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتماد على الآخرين ليس المعنى الدقيق للضعف في هذا السياق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يمسه الشر.</p>"
+            "text": "<p style=\"text-align:right\">يعني أنه يجب الاعتماد على الآخر.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عندما يمسه الخير يكون منوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الضعف يعني أن الإنسان محدود في قوته وقدرته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يمسه الخير.</p>"
+            "text": "<p style=\"text-align:right\">يعني أن الإنسان محدود في قوته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الحزن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التحمل هو جزء من الإنسان لكن لا يعني القوة الدائمة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون في حالة حزن.</p>"
+            "text": "<p style=\"text-align:right\">يعني أنه دائمًا يتحمل المسؤولية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الفرح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">بالطبع، 'ضعيفاً' لا يعني أنه قوي بل بالعكس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون في حالة فرح.</p>"
+            "text": "<p style=\"text-align:right\">يعني أنه قوي في جميع المواقف.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ماذا يعني أن الإنسان خلق 'ضعيفاً' كما ورد في القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟",
+        "title": "ماذا يعني أن الإنسان خلق 'ضعيفاً' كما ورد في القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟"
+        "extraTitle": "ماذا يعني أن الإنسان خلق 'ضعيفاً' كما ورد في القرآن؟"
       },
-      "subContentId": "6d329bd8-b949-419d-ab81-00479ef51831"
+      "subContentId": "50e81fcf-5806-4b6e-ad89-86a47f095ff4"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اتباع الشهوات يؤدي إلى الهلاك، وليس الرقي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التصميم قد يحدث أحيانًا، لكنه ليس المعنى الأساسي هنا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اتباع شهواته ورغباته.</p>"
+            "text": "<p style=\"text-align:right\">يصبح أكثر تصميماً.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! اختيار الآخرة على الدنيا يرقى بالإنسان عند الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلع غالبًا يؤدي إلى ردود فعل سلبية مثل القلق والخوف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اختيار الآخرة على الدنيا.</p>"
+            "text": "<p style=\"text-align:right\">يتفاعل بشكل سلبي مع الظروف.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستغناء عن الله يؤدي إلى الطغيان، وليس الرقي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرارات العقلانية قد تُعطّل بسبب الهلع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاستغناء عن الله بقوته.</p>"
+            "text": "<p style=\"text-align:right\">يأتي بقرارات عقلانية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات هي وسيلة للتقرب إلى الله والرقي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">عدم المبالاة لا يتوافق مع الهلع وصفة القلق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عدم الاهتمام بالعبادات.</p>"
+            "text": "<p style=\"text-align:right\">يصبح غير مبالي بالأمور.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو السبب الذي يجعل الإنسان يرقى عند الله وفقًا للنصوص القرآنية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">في قوله تعالى: 'إن الإنسان خلق هلوعاً'، كيف تنعكس هذه الخصيصة على سلوك الإنسان في المواقف الصعبة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو السبب الذي يجعل الإنسان يرقى عند الله وفقًا للنصوص القرآنية؟",
+        "title": "في قوله تعالى: 'إن الإنسان خلق هلوعاً'، كيف تنعكس هذه الخصيصة على سلوك الإنسان في المواقف الصعبة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو السبب الذي يجعل الإنسان يرقى عند الله وفقًا للنصوص القرآنية؟"
+        "extraTitle": "في قوله تعالى: 'إن الإنسان خلق هلوعاً'، كيف تنعكس هذه الخصيصة على سلوك الإنسان في المواقف الصعبة؟"
       },
-      "subContentId": "5909ab87-3b76-4c16-977d-701300a6f98d"
+      "subContentId": "f849c5aa-a392-4825-b2c8-14e7a9f61ba6"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اختيار الآخرة يعاكس العجلة، وليس العجلة نفسها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">السعي للأهداف الطويلة يتعارض مع وصف العجلة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يختار الآخرة على الدنيا.</p>"
+            "text": "<p style=\"text-align:right\">يجعل الإنسان يسعى للأهداف الطويلة الأجل.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العجلة هي الرغبة في الأشياء القريبة والسريعة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العجولة تجعل الإنسان يميل لاتخاذ القرارات السريعة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يريد أشياء قريبة وسريعة.</p>"
+            "text": "<p style=\"text-align:right\">يجعله يميل للقرارات السريعة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصبر على المصائب هو عكس العجلة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تجنب المخاطر ليس دائمًا متوافقًا مع العجول.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون صبورًا على المصائب.</p>"
+            "text": "<p style=\"text-align:right\">يجعله يتجنب المخاطر.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجنب الشهوات يتطلب صبرًا، وليس عجلة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">عقلاانية اتخاذ القرارات غالبًا ما تتأثر بالهلع والعجلة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يتجنب الشهوات.</p>"
+            "text": "<p style=\"text-align:right\">يجعل خياراته دوماً عقلانية.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +499,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يؤثر 'ضعف الإنسان' و'عجولته' على اختياراته في الحياة وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟",
+        "title": "كيف يؤثر 'ضعف الإنسان' و'عجولته' على اختياراته في الحياة وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟"
+        "extraTitle": "كيف يؤثر 'ضعف الإنسان' و'عجولته' على اختياراته في الحياة وفقًا للنص؟"
       },
-      "subContentId": "68d044c5-72ae-4861-83a1-9ddc4a8460ea"
+      "subContentId": "5211e72c-32e9-4754-ba0f-c2291d7b87c9"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإيمان بالله يمنح الإنسان الثقة والدعم النفسي اللازم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يوفر دعمًا نفسيًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الإيمان يجب أن يكون مع تفكير وتأمل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يؤدي للطاعة دون تفكير.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">لا يعني الإيمان إغناءً بالبساطة من التقليد.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يُغني عن التقليد.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الإيمان لا يضمن النجاح بل يساعد في السعي إليه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يضمن النجاح دائمًا.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">لماذا يعتبر الإيمان بالله مهمًا لتجاوز خصائص النفس مثل الهلع والعجلة؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "لماذا يعتبر الإيمان بالله مهمًا لتجاوز خصائص النفس مثل الهلع والعجلة؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "لماذا يعتبر الإيمان بالله مهمًا لتجاوز خصائص النفس مثل الهلع والعجلة؟"
+      },
+      "subContentId": "177d78be-b7c6-4ee6-9b15-899b793c6f98"
     },
     {
       "params": {
@@ -522,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستغناء عن الله يؤدي إلى الطغيان، وليس الضعف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">ضعف الإنسان هنا يُعتبر سمة سلبية وليس قوة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يستغني بقوته عن الله.</p>"
+            "text": "<p style=\"text-align:right\">يمنح الإنسان قوة داخلية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التوازن النفسي ليس الهدف الرئيسي من الضعف.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يساعد الإنسان في التوازن النفسي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">ضعف الإنسان قد يؤدي بسوء الفهم للاستغناء عن الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يجعل الإنسان عرضة للاستغناء عن الله.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الافتقار إلى الله في الضعف يجعل الإنسان سعيدًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يدل على ضرورة الاعتماد على الله لتعويض الضعف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يفتقر إلى الله في ضعفه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوة دون الاعتماد على الله تؤدي إلى الشقاء.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عندما يكون قويًا ولا يحتاج إلى أحد.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الغنى دون الاعتماد على الله يؤدي إلى الطغيان.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عندما يكون غنيًا ولا يحتاج إلى الله.</p>"
+            "text": "<p style=\"text-align:right\">يدل على ضرورة الاعتماد على الله.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه ضعيفًا؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي التفسيرات المحتملة لضعف الإنسان كما ذُكر في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه ضعيفًا؟",
+        "title": "ما هي التفسيرات المحتملة لضعف الإنسان كما ذُكر في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه ضعيفًا؟"
+        "extraTitle": "ما هي التفسيرات المحتملة لضعف الإنسان كما ذُكر في النص؟"
       },
-      "subContentId": "5908e27c-cb5f-4b24-b12f-fa81799561e3"
+      "subContentId": "cbf321d1-e8b4-4763-bef6-73a405d89318"
     },
     {
       "params": {
@@ -623,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صفة الهلوع يمكن أن تكون مفيدة إذا وجهت بشكل صحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الضعف ليس دائماً عائقًا، بل يُعتبر محركًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">صفة سلبية فقط ولا فائدة منها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صفة الهلوع ليست إيجابية بذاتها، ولكن يمكن توجيهها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">صفة إيجابية تساعد الإنسان على التطور.</p>"
+            "text": "<p style=\"text-align:right\">كعائق أمام رقي الروح.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! صفة الهلوع حيادية ويمكن أن تستخدم للخير أو الشر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الضعف والعجولة يمكن أن يحفزا الأفراد للبحث عن التوازن الروحي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">صفة حيادية يمكن أن تستخدم للخير أو الشر.</p>"
+            "text": "<p style=\"text-align:right\">كمحفز لتحقيق التوازن الروحي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صفة الهلوع قد تدفع الإنسان إلى التوبة إذا وجهت بشكل صحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">ليست سمة ثابتة؛ يمكن التعامل معها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">صفة تمنع الإنسان من التوبة.</p>"
+            "text": "<p style=\"text-align:right\">كسمة ثابتة في جميع البشر.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">يمكن أن يُعتبر ظاهرة تتنوع عبر الزمن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">كظاهرة تستمر عبر التاريخ.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +802,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لصفة 'الهلوع' في النفس البشرية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف قد يُفسر الفلاسفة ضعف الإنسان وعجولته في سياق التطور العقلي والروحي؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو التفسير الصحيح لصفة 'الهلوع' في النفس البشرية؟",
+        "title": "كيف قد يُفسر الفلاسفة ضعف الإنسان وعجولته في سياق التطور العقلي والروحي؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو التفسير الصحيح لصفة 'الهلوع' في النفس البشرية؟"
+        "extraTitle": "كيف قد يُفسر الفلاسفة ضعف الإنسان وعجولته في سياق التطور العقلي والروحي؟"
       },
-      "subContentId": "40ac8d19-9d82-416b-9a59-94b97e59e9fd"
+      "subContentId": "b909265b-1cd0-4e26-a446-616ac06d7348"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإيمان والدعم الروحي يساعدان في تجاوز الهموم الثقيلة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">البحث عن دعم روحي والإيمان.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">انتظار التحسن قد يكون غير فعال.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الانتظار ليتحسن وضعه بمفرده.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تجاهل المشكلة لن يحلها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">صرف النظر عن المشكلة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">اعتمادك على صديق وحده ليس كافيًا دون إيمان داخلي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">اللجوء لصديق لعلاج المشكلة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا واجه شخصًا صدمة بسبب مرضه، كيف يمكن له أن يتجاوز خصائص الهلع والعجلة في هذه الحالة؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا واجه شخصًا صدمة بسبب مرضه، كيف يمكن له أن يتجاوز خصائص الهلع والعجلة في هذه الحالة؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا واجه شخصًا صدمة بسبب مرضه، كيف يمكن له أن يتجاوز خصائص الهلع والعجلة في هذه الحالة؟"
+      },
+      "subContentId": "beaef97b-0dcc-4ebb-914d-9cd54dc98055"
     },
     {
       "params": {
@@ -724,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عندما يمسه الشر يكون جزوعًا، وليس منوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكير لفترة طويلة قد يزيد من العجلة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يمسه الشر.</p>"
+            "text": "<p style=\"text-align:right\">التفكير لمدة طويلة قبل اتخاذ القرار.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عندما يمسه الخير يكون منوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الدعاء والاعتماد على الله يُعد وسيلة فعالة لتجاوز العجلة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يمسه الخير.</p>"
+            "text": "<p style=\"text-align:right\">التوكل على الله والدعاء للرشاد.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الحزن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">اعتمادك فقط على الآخرين قد ينبع عن عدم الثقة بنفسك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون في حالة حزن.</p>"
+            "text": "<p style=\"text-align:right\">الاعتماد على آراء من حولك.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الفرح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">استخدام تجارب سابقة لا يضمن اتخاذ القرار الصحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون في حالة فرح.</p>"
+            "text": "<p style=\"text-align:right\">اتخاذ القرار بناءً على مواقف سابقة.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">عندما تتعامل مع موقف يتطلب اتخاذ قرار سريع، كيف يمكنك الحفاظ على إيمانك بتجاوز عجولتك؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟",
+        "title": "عندما تتعامل مع موقف يتطلب اتخاذ قرار سريع، كيف يمكنك الحفاظ على إيمانك بتجاوز عجولتك؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟"
+        "extraTitle": "عندما تتعامل مع موقف يتطلب اتخاذ قرار سريع، كيف يمكنك الحفاظ على إيمانك بتجاوز عجولتك؟"
       },
-      "subContentId": "2da46907-4e66-4f48-8cb2-ce2be06958f3"
+      "subContentId": "40e34942-437e-42ab-aeb0-beb390f7a3e6"
     },
     {
       "params": {
@@ -825,37 +1027,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اختيار الآخرة يعاكس العجلة، وليس العجلة نفسها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قبول القلق جيد، لكن دون طريقة إيجابية لتعزيزه، قد يكون غير فعال.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يختار الآخرة على الدنيا.</p>"
+            "text": "<p style=\"text-align:right\">التأكيد على أن القلق طبيعي ويجب قبوله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الابتعاد سيزيد من العزلة ويؤثر سلبًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الابتعاد عن التفاعلات الاجتماعية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العجلة هي الرغبة في الأشياء القريبة والسريعة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأنشطة المخدمة تؤدي لتحسين النفس بصفة دائمة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يريد أشياء قريبة وسريعة.</p>"
+            "text": "<p style=\"text-align:right\">المشاركة في الأنشطة التي تعزز الإيمان.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصبر على المصائب هو عكس العجلة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">جعل المخاوف سلبية ليس الحل الأمثل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون صبورًا على المصائب.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجنب الشهوات يتطلب صبرًا، وليس عجلة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عندما يتجنب الشهوات.</p>"
+            "text": "<p style=\"text-align:right\">جعل المخاوف من الأمور السلبية جزءًا من حياته.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,321 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص تفاقم قلقه حول المستقبل بسبب ضغوط الحياة. كيف يمكن له استخدام ضعفه الطبيعي للتحسين؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟",
+        "title": "شخص تفاقم قلقه حول المستقبل بسبب ضغوط الحياة. كيف يمكن له استخدام ضعفه الطبيعي للتحسين؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟"
+        "extraTitle": "شخص تفاقم قلقه حول المستقبل بسبب ضغوط الحياة. كيف يمكن له استخدام ضعفه الطبيعي للتحسين؟"
       },
-      "subContentId": "aa98c5f0-749e-4b42-b685-2459bfc36a39"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتسبب في القلق والجزع، وليس الهدوء.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح أكثر هدوءًا واستسلامًا للمصير.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع يقلق ويجزع عند مواجهة الشر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيقلق ويجزع بشدة على حياته ومستقبله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التخطيط لحياة بعد الموت يتطلب هدوءًا، وليس هلعًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيبدأ في التخطيط لحياته بعد الموت.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يجعل الإنسان يتأثر بالأحداث، وليس غير مبالٍ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح غير مبالٍ بما يحدث حوله.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من مرض خطير وأخبره الطبيب بأنه لن يعيش أكثر من أربعة أشهر. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يعاني من مرض خطير وأخبره الطبيب بأنه لن يعيش أكثر من أربعة أشهر. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يعاني من مرض خطير وأخبره الطبيب بأنه لن يعيش أكثر من أربعة أشهر. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟"
-      },
-      "subContentId": "a913fa5f-b8fa-4d6d-aa13-dffe008ff513"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتسبب في القلق على الرزق، وليس الكرم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح أكثر كرمًا وإنفاقًا.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع يقلق ويجزع على رزقه ومستقبله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيقلق ويجزع على رزقه ومستقبله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يجعل الإنسان يتأثر بالأحداث، وليس غير مبالٍ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح غير مبالٍ بأي شيء.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التخطيط لحياة بعد الموت يتطلب هدوءًا، وليس هلعًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيبدأ في التخطيط لحياته بعد الموت.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟"
-      },
-      "subContentId": "cb39eeb9-b46d-4f9e-afed-ff65878b010c"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتسبب في القلق على الرزق، وليس الكرم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح أكثر كرمًا وإنفاقًا.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع يقلق ويجزع على رزقه ومستقبله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيقلق ويجزع على رزقه ومستقبله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يجعل الإنسان يتأثر بالأحداث، وليس غير مبالٍ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح غير مبالٍ بأي شيء.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التخطيط لحياة بعد الموت يتطلب هدوءًا، وليس هلعًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيبدأ في التخطيط لحياته بعد الموت.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟"
-      },
-      "subContentId": "945c7cef-7c33-4538-8939-ef02fdf7459f"
+      "subContentId": "4a7696e3-1ff2-4a38-bee2-bcb09b348584"
     }
   ],
   "disableBackwardsNavigation": false,

@@ -17,25 +17,16 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية جزء من معرفة الله، ولكن هناك أيضًا الآيات التكوينية والقرآنية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية مهم، ولكن هناك أيضًا الآيات التكوينية والقرآنية.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">الآيات الكونية فقط.</p>"
           },
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات التكوينية جزء من معرفة الله، ولكن هناك أيضًا الآيات الكونية والقرآنية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات التكوينية فقط.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! معرفة الله تتم من خلال التفكر في الآيات الكونية والتكوينية والقرآنية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب على المؤمن أن يتفكر في الآيات الكونية والتكوينية والقرآنية.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">الآيات الكونية والتكوينية والقرآنية.</p>"
@@ -44,10 +35,19 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات القرآنية جزء من معرفة الله، ولكن هناك أيضًا الآيات الكونية والتكوينية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات القرآنية جزء من التفكر، ولكن هناك أيضًا الآيات الكونية والتكوينية.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">الآيات القرآنية فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات التكوينية جزء من التفكر، ولكن هناك أيضًا الآيات الكونية والقرآنية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآيات التكوينية فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,725 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي أنواع الآيات التي يمكن من خلالها معرفة الله حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي أنواع الآيات التي يجب على المؤمن أن يتفكر فيها وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي أنواع الآيات التي يمكن من خلالها معرفة الله حسب النص؟",
+        "title": "ما هي أنواع الآيات التي يجب على المؤمن أن يتفكر فيها وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي أنواع الآيات التي يمكن من خلالها معرفة الله حسب النص؟"
+        "extraTitle": "ما هي أنواع الآيات التي يجب على المؤمن أن يتفكر فيها وفقًا للنص؟"
       },
-      "subContentId": "154e1137-7c41-4e80-9d90-95ce2c229a62"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لا تقتصر على الأحداث التاريخية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن الأحداث التاريخية.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات الكونية تشمل التفكر في خلق السماوات والأرض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن خلق السماوات والأرض.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لا تتعلق بالأحكام الشرعية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن الأحكام الشرعية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لا تقتصر على القصص القرآنية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن القصص القرآنية.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما المقصود بالآيات الكونية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما المقصود بالآيات الكونية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما المقصود بالآيات الكونية؟"
-      },
-      "subContentId": "e7dc4d50-f624-49fd-b13b-3a184fc8f315"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إثبات وجود الله جزء من الحكمة، ولكن التفكر يؤدي أيضًا إلى تعظيم الله ومحبته والخوف منه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لإثبات وجود الله فقط.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الآيات الكونية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لتعظيم الله ومحبته والخوف منه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية ليس هدفه حل المشكلات اليومية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لحل المشكلات اليومية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية ليس هدفه تحقيق النجاح المادي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لتحقيق النجاح المادي.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من التفكر في الآيات الكونية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي الحكمة من التفكر في الآيات الكونية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي الحكمة من التفكر في الآيات الكونية؟"
-      },
-      "subContentId": "44d8e605-3f6b-42a4-9a69-ab555878c590"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن عاقبة المكذبين، وليس عن التفكر في الآيات الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">﴿قُلْ سِيرُوا فِي الْأَرْضِ ثُمَّ انْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ﴾</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية تشير إلى أهمية التفكر في خلق السماوات والأرض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ﴾</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن عدل الله، وليس عن التفكر في الآيات الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">﴿فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ﴾</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تحث على تدبر القرآن، وليس التفكر في الآيات الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">﴿أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا﴾</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل القرآني على أهمية التفكر في الآيات الكونية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الدليل القرآني على أهمية التفكر في الآيات الكونية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الدليل القرآني على أهمية التفكر في الآيات الكونية؟"
-      },
-      "subContentId": "42aaa8ba-5859-4a1c-aa24-b52900d1ea1a"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية لا يهدف إلى زيادة الثروة المادية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">زيادة الثروة المادية.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الآيات الكونية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تعظيم الله ومحبته والخوف منه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية لا يقتصر على تحقيق السعادة الدنيوية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تحقيق السعادة الدنيوية فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية ليس هدفه اكتساب المعرفة العلمية فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">اكتساب المعرفة العلمية فقط.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة التفكر في الآيات الكونية حسب النص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي نتيجة التفكر في الآيات الكونية حسب النص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي نتيجة التفكر في الآيات الكونية حسب النص؟"
-      },
-      "subContentId": "5bdac832-906c-40b7-a489-e6d34935e350"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة فهم أفعال الله التكوينية بالتفصيل قد لا تكون ممكنة دائمًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">محاولة فهمها بالتفصيل.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بأفعال الله التكوينية دون محاولة فهمها بالكامل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التسليم بها دون محاولة فهمها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رفض أفعال الله التكوينية ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رفضها إذا لم تفهم.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على أفعال الله التكوينية ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الاعتراض عليها إذا لم تعجبنا.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من أفعال الله التكوينية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الموقف الصحيح من أفعال الله التكوينية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من أفعال الله التكوينية؟"
-      },
-      "subContentId": "51eee3cf-40eb-4b83-b6b8-e802a4f42c2a"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن لا يقتصر على نفي الفعل فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الفعل فقط، بينما نفي الحدث يعني نفي الصفة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن لا يقتصر على نفي الصفة فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الصفة فقط، بينما نفي الحدث يعني نفي الفعل.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نفي الشأن يعني نفي الفعل مع التأكيد على أنه خلاف الطبيعة، بينما نفي الحدث يعني نفي الفعل فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الفعل مع التأكيد على أنه خلاف الطبيعة، بينما نفي الحدث يعني نفي الفعل فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن لا يتعلق بنفي الصفة فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الفعل مع التأكيد على أنه خلاف الطبيعة، بينما نفي الحدث يعني نفي الصفة فقط.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين نفي الشأن ونفي الحدث في اللغة العربية حسب النص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الفرق بين نفي الشأن ونفي الحدث في اللغة العربية حسب النص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الفرق بين نفي الشأن ونفي الحدث في اللغة العربية حسب النص؟"
-      },
-      "subContentId": "9c01b77b-83f9-42af-9420-4dd160505e66"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تصديق القصص دون تفكير ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تصديقها دون تفكير.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رفض القصص تمامًا ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رفضها تمامًا.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم لله وعدم الانشغال بالقصص التي نسمعها من آخر فصل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التسليم لله وعدم الانشغال بها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة فهم القصص بالتفصيل قد لا تكون ممكنة دائمًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">محاولة فهمها بالتفصيل.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من القصص التي نسمعها من آخر فصل حسب النص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الموقف الصحيح من القصص التي نسمعها من آخر فصل حسب النص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من القصص التي نسمعها من آخر فصل حسب النص؟"
-      },
-      "subContentId": "4a982702-ba23-4339-9903-d37bac0a4799"
+      "subContentId": "4d20d92f-87fd-47bb-ba9b-f64c4fc4eec6"
     },
     {
       "params": {
@@ -834,7 +127,7 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! ذكر الآيات الكونية والتكوينية والقرآنية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الآيات الكونية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">لتعظيم الله ومحبته والخوف منه.</p>"
@@ -843,19 +136,19 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ذكر الآيات الكونية والتكوينية والقرآنية ليس هدفه حل المشكلات اليومية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية لا يهدف إلى إثبات عدم وجود الشر في العالم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لحل المشكلات اليومية.</p>"
+            "text": "<p style=\"text-align:right\">لإثبات عدم وجود الشر في العالم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ذكر الآيات الكونية والتكوينية والقرآنية ليس هدفه تحقيق النجاح المادي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن يؤكد أن الكون لم يخلق عبثًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لتحقيق النجاح المادي.</p>"
+            "text": "<p style=\"text-align:right\">لإثبات أن الكون خلق عبثًا.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من ذكر الآيات الكونية والتكوينية والقرآنية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من التفكر في الآيات الكونية وفقًا للآية الكريمة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الحكمة من ذكر الآيات الكونية والتكوينية والقرآنية؟",
+        "title": "ما هي الحكمة من التفكر في الآيات الكونية وفقًا للآية الكريمة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الحكمة من ذكر الآيات الكونية والتكوينية والقرآنية؟"
+        "extraTitle": "ما هي الحكمة من التفكر في الآيات الكونية وفقًا للآية الكريمة؟"
       },
-      "subContentId": "6c972470-439c-4ab7-aac8-11e54dd3e4be"
+      "subContentId": "530f8d84-0bca-4ede-8ee2-82a0ba4f8e87"
     },
     {
       "params": {
@@ -926,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">مساعدة شخص على الهروب من العقاب ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تدعو إلى النظر في عاقبة المكذبين، وليس التفكر في خلق السماوات والأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مساعدته على الهروب من العقاب.</p>"
+            "text": "<p style=\"text-align:right\">﴿قُلْ سِيرُوا فِي الْأَرْضِ ثُمَّ انْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ﴾</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بحكمة الله وعدله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية تدعو إلى التفكر في خلق السماوات والأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
+            "text": "<p style=\"text-align:right\">﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ﴾</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن عدل الله، وليس التفكر في خلق السماوات والأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر.</p>"
+            "text": "<p style=\"text-align:right\">﴿فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ﴾</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن إرادة الله في منّ الضعفاء، وليس التفكر في خلق السماوات والأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي.</p>"
+            "text": "<p style=\"text-align:right\">﴿وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ﴾</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يقع في مشكلة بسبب شهادة زور، ما هو الموقف الصحيح حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل القرآني الذي يدعو إلى التفكر في خلق السماوات والأرض؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا رأيت شخصًا يقع في مشكلة بسبب شهادة زور، ما هو الموقف الصحيح حسب النص؟",
+        "title": "ما هو الدليل القرآني الذي يدعو إلى التفكر في خلق السماوات والأرض؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا رأيت شخصًا يقع في مشكلة بسبب شهادة زور، ما هو الموقف الصحيح حسب النص؟"
+        "extraTitle": "ما هو الدليل القرآني الذي يدعو إلى التفكر في خلق السماوات والأرض؟"
       },
-      "subContentId": "0e65f9fd-95f1-47c2-ae41-61fb20a2a1c2"
+      "subContentId": "5f16549d-f6ef-4312-9513-9378cdbf383e"
     },
     {
       "params": {
@@ -1027,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على عدل الله ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">محاولة فهم أفعال الله التكوينية بالتفصيل قد لا تكون ممكنة دائمًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاعتراض على عدل الله.</p>"
+            "text": "<p style=\"text-align:right\">محاولة فهمها بالتفصيل.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بحكمة الله وعدله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بأفعال الله التكوينية دون محاولة فهمها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
+            "text": "<p style=\"text-align:right\">التسليم بها دون محاولة فهمها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير القصة ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">رفض أفعال الله التكوينية يتعارض مع الإيمان بالله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">محاولة تغيير القصة.</p>"
+            "text": "<p style=\"text-align:right\">رفضها لأنها غير مفهومة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رفض القصة تمامًا ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">أفعال الله التكوينية لا تحدث بالصدفة، بل بحكمة إلهية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">رفض القصة تمامًا.</p>"
+            "text": "<p style=\"text-align:right\">الاعتقاد بأنها تحدث بالصدفة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا سمعت قصة عن شخص عوقب بسبب فعل لم يقم به، ما هو الموقف الصحيح حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من أفعال الله التكوينية وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا سمعت قصة عن شخص عوقب بسبب فعل لم يقم به، ما هو الموقف الصحيح حسب النص؟",
+        "title": "ما هو الموقف الصحيح من أفعال الله التكوينية وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا سمعت قصة عن شخص عوقب بسبب فعل لم يقم به، ما هو الموقف الصحيح حسب النص؟"
+        "extraTitle": "ما هو الموقف الصحيح من أفعال الله التكوينية وفقًا للنص؟"
       },
-      "subContentId": "836ffdcf-1133-43a8-930f-88cb028e8be7"
+      "subContentId": "5f3f8aa1-65a0-428b-86ed-e47e2e70fa83"
     },
     {
       "params": {
@@ -1128,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">مساعدة شخص على الهروب من العقاب ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القصة توضح أن الكذب لا يمر دون عقاب.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مساعدته على الهروب من العقاب.</p>"
+            "text": "<p style=\"text-align:right\">أن الكذب قد يمر دون عقاب.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بحكمة الله وعدله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! القصة توضح أن الله يعاقب الكاذبين في الدنيا قبل الآخرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
+            "text": "<p style=\"text-align:right\">أن الله يعاقب الكاذبين في الدنيا قبل الآخرة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القصة لا تتحدث عن أخطاء القضاء البشري.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر.</p>"
+            "text": "<p style=\"text-align:right\">أن القضاء البشري قد يخطئ.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكذب ليس مفيدًا أبدًا، بل هو محرم في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي.</p>"
+            "text": "<p style=\"text-align:right\">أن الكذب قد يكون مفيدًا في بعض الأحيان.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +499,725 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يقع في مشكلة بسبب فعل خاطئ، ما هو الموقف الصحيح حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدرس المستفاد من قصة المحامي والشاهد الكاذب؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا رأيت شخصًا يقع في مشكلة بسبب فعل خاطئ، ما هو الموقف الصحيح حسب النص؟",
+        "title": "ما هو الدرس المستفاد من قصة المحامي والشاهد الكاذب؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا رأيت شخصًا يقع في مشكلة بسبب فعل خاطئ، ما هو الموقف الصحيح حسب النص؟"
+        "extraTitle": "ما هو الدرس المستفاد من قصة المحامي والشاهد الكاذب؟"
       },
-      "subContentId": "dc8ba343-c1cd-40d8-8389-675739c15fc8"
+      "subContentId": "f7bbcb4c-7771-4887-99a6-c600a26a352d"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن ليس نفيًا لحدوث شيء ما.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">نفي حدوث شيء ما.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نفي الشأن يعني نفي أن يكون شيء ما من طبيعة الشخص أو مبادئه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">نفي أن يكون شيء ما من طبيعة الشخص أو مبادئه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن ليس نفيًا لوجود شيء ما.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">نفي وجود شيء ما.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن ليس نفيًا لأهمية شيء ما.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">نفي أهمية شيء ما.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو معنى 'نفي الشأن' في اللغة وفقًا للنص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو معنى 'نفي الشأن' في اللغة وفقًا للنص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو معنى 'نفي الشأن' في اللغة وفقًا للنص؟"
+      },
+      "subContentId": "7d34c692-2dcf-4430-a233-c40b8bab69cc"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نفي الشأن يتعلق بالطبيعة والمبادئ، بينما نفي الحدث يتعلق بحدوث شيء ما.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">نفي الشأن يتعلق بالطبيعة والمبادئ، بينما نفي الحدث يتعلق بحدوث شيء ما.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا عكس الصحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">نفي الشأن يتعلق بحدوث شيء ما، بينما نفي الحدث يتعلق بالطبيعة والمبادئ.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق واضح بين نفي الشأن ونفي الحدث.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لا يوجد فرق بينهما.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن ونفي الحدث لا يتعلقان بالزمن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">نفي الشأن يتعلق بالمستقبل، بينما نفي الحدث يتعلق بالماضي.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين 'نفي الشأن' و'نفي الحدث' وفقًا للنص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الفرق بين 'نفي الشأن' و'نفي الحدث' وفقًا للنص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الفرق بين 'نفي الشأن' و'نفي الحدث' وفقًا للنص؟"
+      },
+      "subContentId": "e70864ee-b392-4853-a5f0-f501fcf8d77e"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا يتعارض مع عدل الله المطلق.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الله قد يظلم بعض الناس.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الله لا يظلم أحدًا أبدًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الله لا يظلم أحدًا أبدًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الظلم لا يمكن أن يحدث دون قصد من الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الظلم قد يحدث دون قصد من الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الظلم ليس جزءًا من حكمة الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الظلم قد يكون جزءًا من حكمة الله.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لقول الله تعالى: 'فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ'؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو التفسير الصحيح لقول الله تعالى: 'فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ'؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو التفسير الصحيح لقول الله تعالى: 'فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ'؟"
+      },
+      "subContentId": "d7f8cca7-53f1-4f1c-bf62-4540b77ce987"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التسامح قد يكون صعبًا، ولكن القصة توضح أن التسامح هو جزء من طبيعة المؤمن الحقيقي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن التسامح قد يكون صعبًا في بعض الأحيان.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التسامح هو جزء من طبيعة المؤمن الحقيقي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن التسامح هو جزء من طبيعة المؤمن الحقيقي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التسامح قد يؤدي إلى حل المشكلات، وليس العكس.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن التسامح لا يؤدي إلى حل المشكلات.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التسامح ليس غير عادل، بل هو فضيلة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن التسامح قد يكون غير عادل.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدرس المستفاد من قصة الرجل اللبناني والسيارة؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الدرس المستفاد من قصة الرجل اللبناني والسيارة؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الدرس المستفاد من قصة الرجل اللبناني والسيارة؟"
+      },
+      "subContentId": "ece39606-4180-42de-a923-44b41ddfd428"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الإدانة المباشرة قد تكون غير عادلة إذا لم تعرف الحقيقة الكاملة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إدانته مباشرة.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التسليم بأن الله يعلم الحقيقة الكاملة هو الموقف الصحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التسليم بأن الله يعلم الحقيقة الكاملة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">محاولة فهم الدوافع قد تكون مفيدة، ولكن التسليم بحكمة الله هو الأهم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">محاولة فهم دوافعه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التجاهل التام ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التجاهل التام.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يقع في خطأ كبير، ما هو الموقف الصحيح بناءً على النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا رأيت شخصًا يقع في خطأ كبير، ما هو الموقف الصحيح بناءً على النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا رأيت شخصًا يقع في خطأ كبير، ما هو الموقف الصحيح بناءً على النص؟"
+      },
+      "subContentId": "c7803822-434d-485d-bf83-d4b2f53ca909"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتقاد بأن الله ظالم يتعارض مع العقيدة الإسلامية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتقاد بأن الله ظالم.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التسليم بحكمة الله وعدله هو الموقف الصحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير الموقف بالقوة قد لا تكون الحل الأمثل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">محاولة تغيير الموقف بالقوة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الظلم ليس جزءًا من الحياة، بل هو نتيجة أفعال البشر.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتقاد بأن الظلم جزء من الحياة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا واجهت موقفًا ظاهره الظلم، ما هو الموقف الصحيح بناءً على النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا واجهت موقفًا ظاهره الظلم، ما هو الموقف الصحيح بناءً على النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا واجهت موقفًا ظاهره الظلم، ما هو الموقف الصحيح بناءً على النص؟"
+      },
+      "subContentId": "36230020-4123-4ad6-8347-f7a7cfac59bb"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتقاد بأن القصة صحيحة تمامًا قد يكون غير دقيق.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتقاد بأن القصة صحيحة تمامًا.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التسليم بأن الله يعلم الحقيقة الكاملة هو الموقف الصحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التسليم بأن الله يعلم الحقيقة الكاملة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">محاولة التحقق من القصة قد تكون مفيدة، ولكن التسليم بحكمة الله هو الأهم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">محاولة التحقق من القصة بنفسك.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتقاد بأن القصة خيالية قد يكون غير صحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتقاد بأن القصة خيالية.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا سمعت قصة تبدو ظالمة، ما هو الموقف الصحيح بناءً على النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا سمعت قصة تبدو ظالمة، ما هو الموقف الصحيح بناءً على النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا سمعت قصة تبدو ظالمة، ما هو الموقف الصحيح بناءً على النص؟"
+      },
+      "subContentId": "a2497b7a-bd49-4721-8230-dbf9fe5af2e0"
     }
   ],
   "disableBackwardsNavigation": false,

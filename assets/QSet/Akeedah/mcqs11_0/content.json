@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحركة في حياة الإنسان ليست مجرد تغيير في المكان، بل لها أهداف وغايات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الحركة في حياة الإنسان تتجاوز تغيير المكان لتشمل تحقيق الاحتياجات الأساسية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحركة هي مجرد تغيير في المكان دون هدف.</p>"
+            "text": "<p style=\"text-align:right\">الحركة هي تغيير مكان الإنسان فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحركة في حياة الإنسان هي استجابة لحاجاته الأساسية مثل الطعام والزواج.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحركة في حياة الإنسان هي سعيه لتلبية احتياجاته الأساسية مثل الطعام والزواج.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحركة هي استجابة لحاجات الإنسان الأساسية مثل الطعام والزواج.</p>"
+            "text": "<p style=\"text-align:right\">الحركة هي سعي الإنسان لتلبية احتياجاته الأساسية مثل الطعام والزواج.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحركة مرتبطة بالتصور والعقل، وليست مجرد نشاط بدني.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الحركة في حياة الإنسان لها أهداف واضحة تتجاوز مجرد التغيير في الموقف أو السلوك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحركة هي نشاط بدني فقط دون أي علاقة بالعقل أو التصور.</p>"
+            "text": "<p style=\"text-align:right\">الحركة هي مجرد تغيير في الموقف أو السلوك دون هدف.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحركة في حياة الإنسان لها أهداف تتجاوز الترفيه والاستمتاع.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تأكيد الذات هو جزء من الحركة ولكنها تشمل أيضًا تلبية الاحتياجات الأساسية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحركة هي مجرد وسيلة للترفيه والاستمتاع بالحياة.</p>"
+            "text": "<p style=\"text-align:right\">الحركة هي سعي الإنسان لتأكيد ذاته فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المعنى الأساسي للحركة في حياة الإنسان كما ورد في الدرس؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المعنى الأساسي للحركة في حياة الإنسان كما ورد في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المعنى الأساسي للحركة في حياة الإنسان كما ورد في الدرس؟",
+        "title": "ما هو المعنى الأساسي للحركة في حياة الإنسان كما ورد في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المعنى الأساسي للحركة في حياة الإنسان كما ورد في الدرس؟"
+        "extraTitle": "ما هو المعنى الأساسي للحركة في حياة الإنسان كما ورد في النص؟"
       },
-      "subContentId": "08967551-2168-42e9-b0b7-fa18d31c1bd5"
+      "subContentId": "d6dea7ca-6a70-4677-9d66-867dc1452e10"
     },
     {
       "params": {
@@ -118,10 +118,10 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الرغبة في التغيير قد تكون دافعًا، ولكن التصور هو ما يسبق الحركة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الرغبة هي جزء من الدافع ولكنها ليست كل ما يسبق الحركة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الرغبة في التغيير.</p>"
+            "text": "<p style=\"text-align:right\">الرغبة فقط.</p>"
           },
           {
             "correct": true,
@@ -136,19 +136,19 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الخوف من العقاب قد يكون نتيجة، وليس ما يسبق الحركة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الظروف الخارجية قد تؤثر ولكنها ليست ما يسبق الحركة مباشرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الخوف من العقاب.</p>"
+            "text": "<p style=\"text-align:right\">الظروف الخارجية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الرغبة في تحقيق الربح قد تكون دافعًا، ولكن التصور هو ما يسبق الحركة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التأثيرات الاجتماعية قد تلعب دورًا ولكنها ليست ما يسبق الحركة مباشرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الرغبة في تحقيق الربح.</p>"
+            "text": "<p style=\"text-align:right\">التأثيرات الاجتماعية.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يسبق كل حركة يقوم بها الإنسان وفقًا للدرس؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يسبق كل حركة يقوم بها الإنسان وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي يسبق كل حركة يقوم بها الإنسان وفقًا للدرس؟",
+        "title": "ما الذي يسبق كل حركة يقوم بها الإنسان وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي يسبق كل حركة يقوم بها الإنسان وفقًا للدرس؟"
+        "extraTitle": "ما الذي يسبق كل حركة يقوم بها الإنسان وفقًا للنص؟"
       },
-      "subContentId": "25ed724e-fd89-4106-a086-b7dccd0e21d8"
+      "subContentId": "eed37e76-d0a1-4dc8-b2df-ce7214ff6c68"
     },
     {
       "params": {
@@ -219,7 +219,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست تحقيق الأهداف بسهولة، بل قد تكون عكس ذلك.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست تحقيق الأهداف بسهولة بل العكس.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">تحقيق الأهداف بسهولة.</p>"
@@ -228,7 +228,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحركة الصحيحة تأتي من التصور الصحيح، وليس الخاطئ.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الحركة الصحيحة تأتي من التصور الصحيح وليس الخاطئ.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">الحركة الصحيحة.</p>"
@@ -246,7 +246,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النجاح في الحياة يأتي من التصور الصحيح، وليس الخاطئ.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النجاح في الحياة يأتي من التصور الصحيح وليس الخاطئ.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">النجاح في الحياة.</p>"
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة التصور الخاطئ وفقًا للدرس؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة التصور الخاطئ وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي نتيجة التصور الخاطئ وفقًا للدرس؟",
+        "title": "ما هي نتيجة التصور الخاطئ وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي نتيجة التصور الخاطئ وفقًا للدرس؟"
+        "extraTitle": "ما هي نتيجة التصور الخاطئ وفقًا للنص؟"
       },
-      "subContentId": "9f3e9c62-8f5f-4af5-9e49-bdc0b3b5d228"
+      "subContentId": "1fec86b7-59de-4c25-b6bf-26cf93d76abc"
     },
     {
       "params": {
@@ -320,7 +320,7 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المثال الذي قدمه الدرس هو طالب يعتقد أن الدراسة غير ضرورية إذا قدم هدية للأستاذ.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المثال الذي قدمه النص هو طالب يعتقد أن الدراسة غير ضرورية إذا قدم هدية للأستاذ.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">طالب يعتقد أن الدراسة غير ضرورية إذا قدم هدية للأستاذ.</p>"
@@ -329,28 +329,28 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في الدرس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن العمل الشاق هو الطريق الوحيد للنجاح.</p>"
+            "text": "<p style=\"text-align:right\">رجل يعتقد أن العمل الشاق هو الطريق الوحيد للنجاح.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في الدرس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن الصدقة هي أفضل طريقة لتحقيق السعادة.</p>"
+            "text": "<p style=\"text-align:right\">امرأة تعتقد أن الزواج هو السبيل الوحيد للسعادة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في الدرس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">طالب يعتقد أن النجاح يأتي من المثابرة والاجتهاد.</p>"
+            "text": "<p style=\"text-align:right\">طفل يعتقد أن اللعب هو أهم من الدراسة.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المثال الذي قدمه الدرس لشرح العلاقة بين التصور والحركة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المثال الذي قدمه النص لشرح العلاقة بين التصور والحركة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المثال الذي قدمه الدرس لشرح العلاقة بين التصور والحركة؟",
+        "title": "ما هو المثال الذي قدمه النص لشرح العلاقة بين التصور والحركة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المثال الذي قدمه الدرس لشرح العلاقة بين التصور والحركة؟"
+        "extraTitle": "ما هو المثال الذي قدمه النص لشرح العلاقة بين التصور والحركة؟"
       },
-      "subContentId": "519a4906-824a-4683-8755-7662a84fb821"
+      "subContentId": "773c7723-b443-4d74-9595-7a5b8e2fba45"
     },
     {
       "params": {
@@ -421,25 +421,25 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست الحركة الخاطئة، بل الصحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">السلوك الخاطئ يأتي من التصور الخاطئ وليس الصحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحركة الخاطئة.</p>"
+            "text": "<p style=\"text-align:right\">السلوك الخاطئ.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصور الصحيح يؤدي إلى السلوك الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصور الصحيح يؤدي إلى الحركة الصحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">السلوك الصحيح.</p>"
+            "text": "<p style=\"text-align:right\">الحركة الصحيحة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست الفشل في الحياة، بل النجاح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الفشل في الحياة يأتي من التصور الخاطئ وليس الصحيح.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">الفشل في الحياة.</p>"
@@ -448,10 +448,10 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست الخسارة المادية، بل الربح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النجاح في الحياة يأتي من التصور الصحيح ولكن النص يركز على الحركة الصحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الخسارة المادية.</p>"
+            "text": "<p style=\"text-align:right\">النجاح في الحياة.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة التصور الصحيح وفقًا للدرس؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة التصور الصحيح وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي نتيجة التصور الصحيح وفقًا للدرس؟",
+        "title": "ما هي نتيجة التصور الصحيح وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي نتيجة التصور الصحيح وفقًا للدرس؟"
+        "extraTitle": "ما هي نتيجة التصور الصحيح وفقًا للنص؟"
       },
-      "subContentId": "896d091e-0de6-436d-9fee-e9e622521964"
+      "subContentId": "075e8863-3121-4539-9dfd-60a762f222c3"
     },
     {
       "params": {
@@ -522,37 +522,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المثال الذي قدمه الدرس هو شخص يعتقد أن الغش هو طريق سهل للربح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المثال الذي قدمه النص هو رجل يعتقد أن الغش هو طريق سريع للثراء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن الغش هو طريق سهل للربح.</p>"
+            "text": "<p style=\"text-align:right\">رجل يعتقد أن الغش هو طريق سريع للثراء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في الدرس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن الصدقة هي أفضل طريقة لتحقيق السعادة.</p>"
+            "text": "<p style=\"text-align:right\">امرأة تعتقد أن الزواج هو السبيل الوحيد للسعادة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في الدرس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن العمل الشاق هو الطريق الوحيد للنجاح.</p>"
+            "text": "<p style=\"text-align:right\">طفل يعتقد أن اللعب هو أهم من الدراسة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في الدرس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن النجاح يأتي من المثابرة والاجتهاد.</p>"
+            "text": "<p style=\"text-align:right\">طالب يعتقد أن الدراسة غير ضرورية إذا قدم هدية للأستاذ.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +600,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المثال الذي قدمه الدرس لشرح نتيجة التصور الخاطئ؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المثال الذي قدمه النص لشرح نتيجة التصور الخاطئ؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المثال الذي قدمه الدرس لشرح نتيجة التصور الخاطئ؟",
+        "title": "ما هو المثال الذي قدمه النص لشرح نتيجة التصور الخاطئ؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المثال الذي قدمه الدرس لشرح نتيجة التصور الخاطئ؟"
+        "extraTitle": "ما هو المثال الذي قدمه النص لشرح نتيجة التصور الخاطئ؟"
       },
-      "subContentId": "669d4026-64b0-46d1-b45b-4ca15d8fdf43"
+      "subContentId": "3cb198c5-146f-4aa7-b485-954f1d7e9c71"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب السلف فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إثبات الصفات كما وردت دون تأويل أو تشبيه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب الأشاعرة والمعتزلة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تأويل الصفات بطريقة رمزية تنفي التشبيه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، وهو رأي بعض الفلاسفة والمتكلمين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">رفض الحديث عن الصفات تمامًا بحجة عدم إدراكها.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هناك عدة مدارس فكرية في تفسير الصفات الإلهية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">جميع ما سبق يعكس اتجاهات مختلفة لعلماء العقيدة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله كما ورد في النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله كما ورد في النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله كما ورد في النص؟"
+      },
+      "subContentId": "305ad120-813b-424a-8a70-abe2d6935f88"
     },
     {
       "params": {
@@ -623,37 +724,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصور الصحيح يؤدي إلى السلوك الصحيح، والتصور الخاطئ يؤدي إلى السلوك الخاطئ.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المثال الذي قدمه النص هو رجل يعتقد أن الاستقامة التامة هي سبب الربح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التصور الصحيح يؤدي إلى السلوك الصحيح، والتصور الخاطئ يؤدي إلى السلوك الخاطئ.</p>"
+            "text": "<p style=\"text-align:right\">رجل يعتقد أن الاستقامة التامة هي سبب الربح.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست الفشل، بل النجاح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التصور الصحيح يؤدي إلى الفشل، والتصور الخاطئ يؤدي إلى النجاح.</p>"
+            "text": "<p style=\"text-align:right\">امرأة تعتقد أن الزواج هو السبيل الوحيد للسعادة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست الخسارة المادية، بل الربح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التصور الصحيح يؤدي إلى الخسارة المادية، والتصور الخاطئ يؤدي إلى الربح.</p>"
+            "text": "<p style=\"text-align:right\">طفل يعتقد أن اللعب هو أهم من الدراسة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست الحركة الخاطئة، بل الصحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التصور الصحيح يؤدي إلى الحركة الخاطئة، والتصور الخاطئ يؤدي إلى الحركة الصحيحة.</p>"
+            "text": "<p style=\"text-align:right\">طالب يعتقد أن الدراسة غير ضرورية إذا قدم هدية للأستاذ.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,119 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين التصور الصحيح والتصور الخاطئ وفقًا للدرس؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المثال الذي قدمه النص لشرح نتيجة التصور الصحيح؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الخلاف الأساسي بين التصور الصحيح والتصور الخاطئ وفقًا للدرس؟",
+        "title": "ما هو المثال الذي قدمه النص لشرح نتيجة التصور الصحيح؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الخلاف الأساسي بين التصور الصحيح والتصور الخاطئ وفقًا للدرس؟"
+        "extraTitle": "ما هو المثال الذي قدمه النص لشرح نتيجة التصور الصحيح؟"
       },
-      "subContentId": "b221fc6d-4cc7-4128-b3f7-aa9af451b0f1"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المثال الذي قدمه الدرس هو شخص يعتقد أن الاستقامة هي سبب الربح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن الاستقامة هي سبب الربح.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في الدرس.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن الغش هو طريق سهل للربح.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في الدرس.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن الصدقة هي أفضل طريقة لتحقيق السعادة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا المثال لم يرد في الدرس.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">شخص يعتقد أن العمل الشاق هو الطريق الوحيد للنجاح.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المثال الذي قدمه الدرس لشرح نتيجة التصور الصحيح؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو المثال الذي قدمه الدرس لشرح نتيجة التصور الصحيح؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو المثال الذي قدمه الدرس لشرح نتيجة التصور الصحيح؟"
-      },
-      "subContentId": "efdfb935-370c-448c-ac08-6dd4da8ec363"
+      "subContentId": "e151b0bd-d67c-4f7e-b8d6-9f90fd8a2d87"
     },
     {
       "params": {
@@ -825,7 +825,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست الاستقامة، بل الانحراف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستقامة على أمر الله تأتي من التصور الصحيح وليس الخاطئ.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">الاستقامة على أمر الله.</p>"
@@ -834,28 +834,28 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصور الخاطئ عن الشفاعة يؤدي إلى الانحراف والوقوع في المعاصي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصور الخاطئ عن الشفاعة يؤدي إلى الانحراف والتفلت من الدين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الانحراف والوقوع في المعاصي.</p>"
+            "text": "<p style=\"text-align:right\">الانحراف والتفلت من الدين.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست تحقيق السعادة، بل الوقوع في المعاصي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تحقيق السعادة في الدنيا والآخرة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست النجاح، بل الانحراف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النجاح في الحياة يأتي من التصور الصحيح وليس الخاطئ.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">النجاح في الحياة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الفشل في الحياة يأتي من التصور الخاطئ ولكن النص يركز على الانحراف والتفلت من الدين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الفشل في الحياة.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي النتيجة التي ذكرها الدرس للتصور الخاطئ عن الشفاعة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة التصور الخاطئ عن الشفاعة كما ورد في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي النتيجة التي ذكرها الدرس للتصور الخاطئ عن الشفاعة؟",
+        "title": "ما هي نتيجة التصور الخاطئ عن الشفاعة كما ورد في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي النتيجة التي ذكرها الدرس للتصور الخاطئ عن الشفاعة؟"
+        "extraTitle": "ما هي نتيجة التصور الخاطئ عن الشفاعة كما ورد في النص؟"
       },
-      "subContentId": "d3b48f04-dee7-440a-90d7-88de6c49a746"
+      "subContentId": "ff03ff46-1ad2-45c0-8a29-83263fb0655a"
     },
     {
       "params": {
@@ -926,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست تحقيق الربح بسهولة، بل الوقوع في المشاكل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">. العبادة يجب أن تكون لله وحده بلا وسطاء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق الربح بسهولة.</p>"
+            "text": "<p style=\"text-align:right\">يجوز التبرك لأنها وسيلة للتقرب إلى الله.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصور الخاطئ بأن الغش هو طريق سهل للربح يؤدي إلى الوقوع في المشاكل والعقاب.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوحيد يقتضي عبادة الله فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الوقوع في المشاكل والعقاب.</p>"
+            "text": "<p style=\"text-align:right\">يجب عبادة الله وحده دون وسطاء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست تحقيق السعادة، بل الوقوع في المشاكل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">. العقيدة الإسلامية تحدد ضوابط العبادة بوضوح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق السعادة في الدنيا والآخرة.</p>"
+            "text": "<p style=\"text-align:right\">يمكن اعتبار التبرك جزءًا من الثقافة وليس العقيدة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست النجاح، بل الوقوع في المشاكل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\"> النصوص الشرعية واضحة في النهي عن التوسل البدعي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">النجاح في الحياة.</p>"
+            "text": "<p style=\"text-align:right\">لا يوجد حكم شرعي واضح في المسألة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يعتقد أن الغش هو طريق سهل للربح، فما هي النتيجة المتوقعة وفقًا للدرس؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كان شخص يعتقد أن الغش هو طريق سهل للربح، فما هي النتيجة المتوقعة وفقًا للدرس؟",
+        "title": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كان شخص يعتقد أن الغش هو طريق سهل للربح، فما هي النتيجة المتوقعة وفقًا للدرس؟"
+        "extraTitle": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟"
       },
-      "subContentId": "f9229d5e-3eeb-4beb-ac3e-22d0a1a74115"
+      "subContentId": "8008befe-8501-4bd4-bc94-e6cd631f740d"
     },
     {
       "params": {
@@ -1027,37 +1027,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست الوقوع في المشاكل، بل تحقيق السعادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الغش ليس طريقًا للثراء بل يؤدي إلى العقاب.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الوقوع في المشاكل والعقاب.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست تحقيق الربح بسهولة، بل تحقيق السعادة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تحقيق الربح بسهولة.</p>"
+            "text": "<p style=\"text-align:right\">الغش هو طريق سريع للثراء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصور الصحيح بأن الاستقامة هي سبب الربح يؤدي إلى تحقيق السعادة في الدنيا والآخرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الغش يؤدي إلى العقاب في الدنيا والآخرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق السعادة في الدنيا والآخرة.</p>"
+            "text": "<p style=\"text-align:right\">الغش يؤدي إلى العقاب في الدنيا والآخرة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست النجاح فقط، بل تحقيق السعادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الغش ليس جزءًا من الثقافة بل هو معصية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">النجاح في الحياة.</p>"
+            "text": "<p style=\"text-align:right\">الغش هو جزء من الثقافة وليس العقيدة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">النصوص الشرعية واضحة في النهي عن الغش.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لا يوجد حكم شرعي واضح في المسألة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يعتقد أن الاستقامة هي سبب الربح، فما هي النتيجة المتوقعة وفقًا للدرس؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">أحد الأشخاص يعتقد أن الغش في العمل هو طريق سريع للثراء. ما هو الرد الصحيح بناءً على النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كان شخص يعتقد أن الاستقامة هي سبب الربح، فما هي النتيجة المتوقعة وفقًا للدرس؟",
+        "title": "أحد الأشخاص يعتقد أن الغش في العمل هو طريق سريع للثراء. ما هو الرد الصحيح بناءً على النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كان شخص يعتقد أن الاستقامة هي سبب الربح، فما هي النتيجة المتوقعة وفقًا للدرس؟"
+        "extraTitle": "أحد الأشخاص يعتقد أن الغش في العمل هو طريق سريع للثراء. ما هو الرد الصحيح بناءً على النص؟"
       },
-      "subContentId": "9b637e51-97e2-455c-a55f-2595ec727966"
+      "subContentId": "27313d30-e20c-417f-a7ef-21d96d8871e2"
     },
     {
       "params": {
@@ -1125,40 +1125,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست الاستقامة، بل الوقوع في المعاصي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الاستقامة على أمر الله.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصور الخاطئ بأن الشفاعة ستنجيه من العقاب دون استقامة يؤدي إلى الوقوع في المعاصي والآثام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الاستقامة التامة هي سبب الربح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الوقوع في المعاصي والآثام.</p>"
+            "text": "<p style=\"text-align:right\">الاستقامة التامة هي سبب الربح.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست تحقيق السعادة، بل الوقوع في المعاصي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستقامة التامة تؤدي إلى النجاح وليس العقاب.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق السعادة في الدنيا والآخرة.</p>"
+            "text": "<p style=\"text-align:right\">الاستقامة التامة تؤدي إلى العقاب في الدنيا والآخرة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النتيجة ليست النجاح، بل الوقوع في المعاصي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستقامة التامة هي جزء من العقيدة وليس الثقافة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">النجاح في الحياة.</p>"
+            "text": "<p style=\"text-align:right\">الاستقامة التامة هي جزء من الثقافة وليس العقيدة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">النصوص الشرعية واضحة في أهمية الاستقامة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لا يوجد حكم شرعي واضح في المسألة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يعتقد أن الشفاعة ستنجيه من العقاب دون استقامة، فما هي النتيجة المتوقعة وفقًا للدرس؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">أحد الأشخاص يعتقد أن الاستقامة التامة هي سبب الربح. ما هو الرد الصحيح بناءً على النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كان شخص يعتقد أن الشفاعة ستنجيه من العقاب دون استقامة، فما هي النتيجة المتوقعة وفقًا للدرس؟",
+        "title": "أحد الأشخاص يعتقد أن الاستقامة التامة هي سبب الربح. ما هو الرد الصحيح بناءً على النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كان شخص يعتقد أن الشفاعة ستنجيه من العقاب دون استقامة، فما هي النتيجة المتوقعة وفقًا للدرس؟"
+        "extraTitle": "أحد الأشخاص يعتقد أن الاستقامة التامة هي سبب الربح. ما هو الرد الصحيح بناءً على النص؟"
       },
-      "subContentId": "aa87c685-9347-4fab-bbb6-db4977cede2c"
+      "subContentId": "941588a1-6d19-48dd-9f6a-ff3f2a37db5a"
     }
   ],
   "disableBackwardsNavigation": false,

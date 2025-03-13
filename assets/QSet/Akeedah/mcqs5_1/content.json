@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التعريف في الإسلام ليس مقتصرًا على الثقافات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التعريف في النص يتجاوز الأشياء المادية إلى معرفة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التعرف على الثقافات المختلفة.</p>"
+            "text": "<p style=\"text-align:right\">التعرف على الأشياء المادية فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التعريف في الإسلام يعني التعرف على الله من خلال آياته الكونية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التعريف هنا يعني التعرف على الله من خلال خلقه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التعرف على الله من خلال آياته الكونية.</p>"
+            "text": "<p style=\"text-align:right\">التعرف على الله من خلال خلقه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التعريف في الإسلام يتجاوز العلوم الحديثة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الثقافات جزء من الخلق ولكن ليس المقصود الأساسي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التعرف على الثقافات المختلفة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العلوم الحديثة وسيلة وليست غاية التعريف.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">التعرف على العلوم الحديثة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التعريف في الإسلام ليس مقتصرًا على التاريخ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التعرف على التاريخ الإسلامي.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المعنى الأساسي لكلمة 'التعريف' في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المعنى الأساسي لكلمة 'التعريف' في سياق النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المعنى الأساسي لكلمة 'التعريف' في الإسلام؟",
+        "title": "ما هو المعنى الأساسي لكلمة 'التعريف' في سياق النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المعنى الأساسي لكلمة 'التعريف' في الإسلام؟"
+        "extraTitle": "ما هو المعنى الأساسي لكلمة 'التعريف' في سياق النص؟"
       },
-      "subContentId": "d9c052f2-e6c0-4041-84d8-14853cc6f82e"
+      "subContentId": "7af06c1b-6c3f-45c1-bdd1-5a51c7d2ee89"
     },
     {
       "params": {
@@ -118,7 +118,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة الدنيا ليس الوظيفة الكبرى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالدنيا جزء من الوظيفة الثانية.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">الاستمتاع بالحياة الدنيا.</p>"
@@ -136,7 +136,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الثروة المادية ليس الهدف الأسمى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الثروة المادية ليست الهدف الأساسي.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">تحقيق الثروة المادية.</p>"
@@ -145,10 +145,10 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفوق العلمي ليس الوظيفة الكبرى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">السيطرة على الطبيعة وسيلة وليست غاية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفوق العلمي.</p>"
+            "text": "<p style=\"text-align:right\">السيطرة على الطبيعة.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الوظيفة الكبرى للكون وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الوظيفة الكبرى للكون حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الوظيفة الكبرى للكون وفقًا للنص؟",
+        "title": "ما هي الوظيفة الكبرى للكون حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الوظيفة الكبرى للكون وفقًا للنص؟"
+        "extraTitle": "ما هي الوظيفة الكبرى للكون حسب النص؟"
       },
-      "subContentId": "aeeb2f75-a495-4f8d-8d02-5234decc94c4"
+      "subContentId": "592068e0-ee60-4bc6-a211-f0b7f3095f20"
     },
     {
       "params": {
@@ -219,7 +219,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الثروة ليس الهدف الأكبر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الثروة وسيلة وليست غاية.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">تحقيق الثروة.</p>"
@@ -237,19 +237,19 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الشهرة ليس الهدف الأسمى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">السيطرة على الآخرين ليست من أهداف الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق الشهرة.</p>"
+            "text": "<p style=\"text-align:right\">السيطرة على الآخرين.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفوق الأكاديمي ليس الهدف الأكبر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهرة ليست هدفًا في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفوق الأكاديمي.</p>"
+            "text": "<p style=\"text-align:right\">تحقيق الشهرة.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف الأكبر من وجود الإنسان وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف الأكبر من وجود الإنسان حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الهدف الأكبر من وجود الإنسان وفقًا للنص؟",
+        "title": "ما هو الهدف الأكبر من وجود الإنسان حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الهدف الأكبر من وجود الإنسان وفقًا للنص؟"
+        "extraTitle": "ما هو الهدف الأكبر من وجود الإنسان حسب النص؟"
       },
-      "subContentId": "a2c01494-e566-48e1-8649-d8106946742d"
+      "subContentId": "f14d1102-309c-489c-806c-f1e650c3a3f9"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في نعم الله وشكره عليها هو الطريق لخرق النعمة إلى المنعم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في النعم وشكر الله هو الطريق لخرق النعمة إلى المنعم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بالتفكر في نعم الله وشكره عليها.</p>"
+            "text": "<p style=\"text-align:right\">بالتفكر في النعم وشكر الله عليها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفوق في العمل وحده لا يكفي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالنعم دون شكر الله لا يخرق النعمة إلى المنعم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بالتفوق في العمل.</p>"
+            "text": "<p style=\"text-align:right\">بجمع النعم والاستمتاع بها فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الثروة المادية ليس الطريق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال النعم يعتبر جحودًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بتحقيق الثروة المادية.</p>"
+            "text": "<p style=\"text-align:right\">بإهمال النعم وعدم الاكتراث بها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة دون التفكير لا يخرق النعمة إلى المنعم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بالنعم ليس من شكر الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بالاستمتاع بالحياة دون التفكير.</p>"
+            "text": "<p style=\"text-align:right\">بالتفاخر بالنعم أمام الآخرين.</p>"
           }
         ],
         "overallFeedback": [
@@ -409,7 +409,7 @@
         "changes": [],
         "extraTitle": "كيف يمكن للإنسان أن يخرق النعمة إلى المنعم؟"
       },
-      "subContentId": "ba342313-9a04-44b0-8fb4-beee7658c765"
+      "subContentId": "4a4a7f29-5ac8-45cd-953c-10dca11a810e"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بها دون التفكير في المنعم ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الوظيفة الأولى هي التعرف على الله وليس الاستمتاع بالدنيا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاستمتاع بها دون التفكير في المنعم.</p>"
+            "text": "<p style=\"text-align:right\">الوظيفة الأولى هي الاستمتاع بالدنيا والثانية هي التعرف على الله.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر فيها وشكر الله عليها هو الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الوظيفة الأولى هي التعرف على الله والثانية هي الانتفاع بالدنيا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر فيها وشكر الله عليها.</p>"
+            "text": "<p style=\"text-align:right\">الوظيفة الأولى هي التعرف على الله والثانية هي الانتفاع بالدنيا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الثروة والسيطرة على الطبيعة ليستا الوظيفتين الأساسيتين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين.</p>"
+            "text": "<p style=\"text-align:right\">الوظيفة الأولى هي تحقيق الثروة والثانية هي السيطرة على الطبيعة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمالها والبحث عن المزيد ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">السيطرة على الآخرين وتحقيق الشهرة ليستا من الوظائف الأساسية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمالها والبحث عن المزيد.</p>"
+            "text": "<p style=\"text-align:right\">الوظيفة الأولى هي السيطرة على الآخرين والثانية هي تحقيق الشهرة.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من نعم الله وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين الوظيفة الأولى والثانية للكون حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من نعم الله وفقًا للنص؟",
+        "title": "ما هو الفرق بين الوظيفة الأولى والثانية للكون حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من نعم الله وفقًا للنص؟"
+        "extraTitle": "ما هو الفرق بين الوظيفة الأولى والثانية للكون حسب النص؟"
       },
-      "subContentId": "cd1ac378-c1aa-4442-8ac5-db32a998d4d1"
+      "subContentId": "e0ffacc6-fd7b-48ab-be76-596f41f4c7b3"
     },
     {
       "params": {
@@ -522,7 +522,209 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض لا يهدف لزيادة الثروة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالنعم دون شكر الله يعتبر جحودًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاستمتاع بها دون التفكير في مصدرها.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في النعم وشكر الله هو الموقف الصحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر فيها وشكر الله عليها.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال النعم يعتبر جحودًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إهمالها والبحث عن نعم أخرى.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بالنعم ليس من شكر الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من النعم حسب النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الموقف الصحيح من النعم حسب النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الموقف الصحيح من النعم حسب النص؟"
+      },
+      "subContentId": "fe4ea3b2-be9a-45da-af5d-df0bc3594d11"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">المؤمنون ينتفعون بالوظيفتين معًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">المؤمنون ينتفعون بالوظيفة الأولى فقط وغير المؤمنين بالوظيفة الثانية.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المؤمنون ينتفعون بالوظيفتين معًا وغير المؤمنين بالوظيفة الثانية فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">المؤمنون ينتفعون بالوظيفتين معًا وغير المؤمنين بالوظيفة الثانية فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">المؤمنون لا يهملون الكون.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">المؤمنون يهملون الكون وغير المؤمنين ينتفعون به.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">السيطرة على الكون ليست من أهداف المؤمنين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">المؤمنون يسيطرون على الكون وغير المؤمنين يهملونه.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين المؤمنين وغير المؤمنين في التعامل مع الكون حسب النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الخلاف الأساسي بين المؤمنين وغير المؤمنين في التعامل مع الكون حسب النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الخلاف الأساسي بين المؤمنين وغير المؤمنين في التعامل مع الكون حسب النص؟"
+      },
+      "subContentId": "d5dcc076-a4c6-411a-80a3-32a668a6b97f"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الخلق لا يهدف لزيادة الثروة.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">زيادة الثروة المادية.</p>"
@@ -540,19 +742,19 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض لا يهدف لتحقيق الشهرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">السيطرة على الطبيعة ليست هدفًا من التفكر.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">السيطرة على الطبيعة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الشهرة ليس هدفًا من التفكر.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">تحقيق الشهرة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض لا يهدف للتفوق الأكاديمي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفوق الأكاديمي.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,220 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو دور التفكر في خلق السماوات والأرض؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو دور التفكر في خلق السماوات والأرض حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو دور التفكر في خلق السماوات والأرض؟",
+        "title": "ما هو دور التفكر في خلق السماوات والأرض حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو دور التفكر في خلق السماوات والأرض؟"
+        "extraTitle": "ما هو دور التفكر في خلق السماوات والأرض حسب النص؟"
       },
-      "subContentId": "01ac7e75-0bd2-4f3b-ae75-1709a0fcaa84"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكونية هي خلق الله، والتكوينية هي أفعاله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكونية هي خلق الله، والتكوينية هي أفعاله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكونية هي خلق الله، وليست أفعاله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكونية هي أفعال الله، والتكوينية هي خلق الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكونية هي خلق الله، وليست كلامه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكونية هي كلام الله، والتكوينية هي خلق الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التكوينية هي أفعال الله، وليست كلامه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكونية هي خلق الله، والتكوينية هي كلام الله.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين آيات الله الكونية والتكوينية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الفرق بين آيات الله الكونية والتكوينية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الفرق بين آيات الله الكونية والتكوينية؟"
-      },
-      "subContentId": "c7f57d5f-89e5-4116-8f81-cfaddf5c9ab3"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الترتيب الصحيح هو التفكر في آياته الكونية، ثم تدبر آياته القرآنية، ثم النظر في آياته التكوينية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفكر في آياته الكونية، ثم تدبر آياته القرآنية، ثم النظر في آياته التكوينية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الترتيب الصحيح يبدأ بالتفكر في آياته الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفكر في آياته التكوينية، ثم تدبر آياته القرآنية، ثم النظر في آياته الكونية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الترتيب الصحيح يبدأ بالتفكر في آياته الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تدبر آياته القرآنية، ثم التفكر في آياته الكونية، ثم النظر في آياته التكوينية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الترتيب الصحيح يبدأ بالتفكر في آياته الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">النظر في آياته التكوينية، ثم التفكر في آياته الكونية، ثم تدبر آياته القرآنية.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الترتيب الصحيح لمعرفة الله وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الترتيب الصحيح لمعرفة الله وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الترتيب الصحيح لمعرفة الله وفقًا للنص؟"
-      },
-      "subContentId": "d8c70a93-8957-4ad3-8ffe-79af7b10292b"
+      "subContentId": "508dc13e-722f-4123-b31e-837d56594567"
     },
     {
       "params": {
@@ -825,7 +825,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر فيها مباشرة دون تريث ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر المباشر قد يؤدي إلى سوء الفهم.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">التفكر فيها مباشرة دون تريث.</p>"
@@ -834,7 +834,7 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تأجيل النظر فيها إلى المرحلة الثالثة هو الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تأجيل النظر في الآيات التكوينية إلى المرحلة الثالثة هو الموقف الصحيح.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">تأجيل النظر فيها إلى المرحلة الثالثة.</p>"
@@ -843,7 +843,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمالها والتركيز على الآيات الكونية فقط ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال الآيات التكوينية يعتبر تقصيرًا.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">إهمالها والتركيز على الآيات الكونية فقط.</p>"
@@ -852,10 +852,10 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بفهمها ليس من أهداف التفكر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين.</p>"
+            "text": "<p style=\"text-align:right\">التفاخر بفهمها أمام الآخرين.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,119 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من آيات الله التكوينية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من آيات الله التكوينية حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من آيات الله التكوينية؟",
+        "title": "ما هو الموقف الصحيح من آيات الله التكوينية حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من آيات الله التكوينية؟"
+        "extraTitle": "ما هو الموقف الصحيح من آيات الله التكوينية حسب النص؟"
       },
-      "subContentId": "4839352b-3c45-495a-9271-3a1a8f9cf220"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر فيها وشكر الله عليها هو التصرف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفكر فيها وشكر الله عليها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين ليس التصرف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمالها والبحث عن المزيد ليس التصرف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إهمالها والبحث عن المزيد.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بها دون التفكير في المنعم ليس التصرف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الاستمتاع بها دون التفكير في المنعم.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">إذا رأى شخص نعمة كبيرة في حياته، فما هو التصرف الصحيح وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "إذا رأى شخص نعمة كبيرة في حياته، فما هو التصرف الصحيح وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "إذا رأى شخص نعمة كبيرة في حياته، فما هو التصرف الصحيح وفقًا للنص؟"
-      },
-      "subContentId": "198b4936-d7f3-47e0-85ad-afd8b446d834"
+      "subContentId": "5c0819dc-512a-4f59-a18f-cb5ebda68f1a"
     },
     {
       "params": {
@@ -1027,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستسلام واليأس ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">جمع المزيد من النعم دون شكر الله يعتبر جحودًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاستسلام واليأس.</p>"
+            "text": "<p style=\"text-align:right\">إقناعه بجمع المزيد من النعم.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في حكمة الله وشكره هو الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تذكيره بنعم الله وحثه على شكرها هو التوجيه الصحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر في حكمة الله وشكره.</p>"
+            "text": "<p style=\"text-align:right\">تذكيره بنعم الله وحثه على شكرها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اللوم على الآخرين ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال حاله يعتبر تقصيرًا في النصح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اللوم على الآخرين.</p>"
+            "text": "<p style=\"text-align:right\">إهمال حاله والتركيز على الآخرين.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال المصيبة والاستمرار في الحياة ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بالنعم ليس من أخلاق الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمال المصيبة والاستمرار في الحياة.</p>"
+            "text": "<p style=\"text-align:right\">التفاخر بنعمنا أمامه.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا تعرض شخص لمصيبة، فما هو الموقف الصحيح وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعيش في رغد من العيش ولكنه لا يشكر الله على نعمه، كيف يمكن توجيهه حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا تعرض شخص لمصيبة، فما هو الموقف الصحيح وفقًا للنص؟",
+        "title": "شخص يعيش في رغد من العيش ولكنه لا يشكر الله على نعمه، كيف يمكن توجيهه حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا تعرض شخص لمصيبة، فما هو الموقف الصحيح وفقًا للنص؟"
+        "extraTitle": "شخص يعيش في رغد من العيش ولكنه لا يشكر الله على نعمه، كيف يمكن توجيهه حسب النص؟"
       },
-      "subContentId": "18fb3db4-a913-4c8a-85bf-8d8890de058a"
+      "subContentId": "582acb21-5131-4b09-bba5-2f281fa57a43"
     },
     {
       "params": {
@@ -1125,40 +1024,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">اعتبار الكوارث عقابًا مباشرًا قد يؤدي إلى سوء الفهم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إقناعه بأنها عقاب مباشر من الله.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! استخدام الآيات الكونية هو الطريق الأقوى للدعوة إلى الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! حثه على التفكر في حكمة الله هو التوجيه الصحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">استخدام الآيات الكونية.</p>"
+            "text": "<p style=\"text-align:right\">حثه على التفكر في حكمة الله من وراء هذه الكوارث.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام القوة والإكراه ليس الطريق الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال رأيه يعتبر تقصيرًا في النصح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">استخدام القوة والإكراه.</p>"
+            "text": "<p style=\"text-align:right\">إهمال رأيه والتركيز على الجوانب المادية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام الثروة المادية ليس الطريق الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بالفهم ليس من أخلاق الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">استخدام الثروة المادية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام الشهرة والسلطة ليس الطريق الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">استخدام الشهرة والسلطة.</p>"
+            "text": "<p style=\"text-align:right\">التفاخر بفهمنا لها أمامه.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +1105,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا أراد شخص أن يدعو إلى الله، فما هو الطريق الأقوى وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يرى الكوارث الطبيعية كعقاب من الله، كيف يمكن توجيهه حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا أراد شخص أن يدعو إلى الله، فما هو الطريق الأقوى وفقًا للنص؟",
+        "title": "شخص يرى الكوارث الطبيعية كعقاب من الله، كيف يمكن توجيهه حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا أراد شخص أن يدعو إلى الله، فما هو الطريق الأقوى وفقًا للنص؟"
+        "extraTitle": "شخص يرى الكوارث الطبيعية كعقاب من الله، كيف يمكن توجيهه حسب النص؟"
       },
-      "subContentId": "f1319e85-5b59-4b91-ac97-543ac4060441"
+      "subContentId": "fffda81a-a77c-4b27-8f40-fc8c63ef935c"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشكر على النعم لا يعني التقصير في السعي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">اعتباره مقصرًا في السعي لتحسين وضعه.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! شكر الله على النعم يعني تحقيق الهدف الأكبر من الوجود.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">اعتباره قد حقق الهدف الأكبر من وجوده.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التوقف عن الشكر يعتبر جحودًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">نصحه بالتوقف عن الشكر والتركيز على العمل.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بوضعنا المادي ليس من أخلاق الإسلام.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفاخر بوضعنا المادي أمامه.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من الفقر ولكنه يشكر الله على نعمه، كيف يمكن تقييم موقفه حسب النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يعاني من الفقر ولكنه يشكر الله على نعمه، كيف يمكن تقييم موقفه حسب النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يعاني من الفقر ولكنه يشكر الله على نعمه، كيف يمكن تقييم موقفه حسب النص؟"
+      },
+      "subContentId": "ba7d1dec-a2e1-41fc-97ca-3593e26e3427"
     }
   ],
   "disableBackwardsNavigation": false,

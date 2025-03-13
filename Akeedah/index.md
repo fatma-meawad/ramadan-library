@@ -8,9 +8,13 @@ has_children: true
 
 # {{page.description}}
 
+#### [المصدر الاصلي ](https://www.nabulsi.com/category/Creed-Miraculousness620#)
+
 ---
 
-[المصدر الاصلي ](https://www.nabulsi.com/category/Creed-Miraculousness620#)
+### ابرز الكلمات
+
+{% include maincloud.html id="akeeda" path='/assets/js/clouds/akeeda.js' %}
 
 ```mermaid
 graph RL;

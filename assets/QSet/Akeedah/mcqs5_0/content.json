@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التسخير ليس فقط للخدمة بل أيضًا للتعريف بالله وتكريم الإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التسخير يشمل أكثر من مجرد التعريف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الكون خلق لخدمة الإنسان فقط دون أي غرض آخر.</p>"
+            "text": "<p style=\"text-align:right\">تسخير تعريف فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التسخير يشمل أكثر من مجرد التكريم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تسخير تكريم فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون مسخر للإنسان تسخير تعريف بالله وتكريم للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون مسخر للإنسان تسخير تعريف وتكريم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الكون مسخر للإنسان تسخير تعريف وتكريم.</p>"
+            "text": "<p style=\"text-align:right\">تسخير تعريف وتكريم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستغلال المطلق يتعارض مع مفهوم التسخير التعريفي والتكريمي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون مسخر للإنسان وفقًا للنصوص الشرعية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الكون موجود للإنسان لاستغلاله كما يشاء.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون ليس عائقًا بل هو وسيلة للتعرف على الله وتكريم الإنسان.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الكون خلق ليكون عائقًا أمام الإنسان.</p>"
+            "text": "<p style=\"text-align:right\">ليس هناك تسخير للكون للإنسان.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بتسخير الكون للإنسان؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المعنى الأساسي لتسخير الكون للإنسان؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المقصود بتسخير الكون للإنسان؟",
+        "title": "ما هو المعنى الأساسي لتسخير الكون للإنسان؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المقصود بتسخير الكون للإنسان؟"
+        "extraTitle": "ما هو المعنى الأساسي لتسخير الكون للإنسان؟"
       },
-      "subContentId": "0395a3a9-e918-42a3-ba04-cf1589b554a6"
+      "subContentId": "375f80fc-b2ab-45ce-90ed-76ef06de3c29"
     },
     {
       "params": {
@@ -118,7 +118,108 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن الكريم هو المصدر الرئيسي للعقيدة ولكن الكون هو الثابت الأول.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الخلق ليس لإثبات تفوق الإنسان.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لإثبات تفوق الإنسان على المخلوقات الأخرى.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في خلق السماوات والأرض يدل على وجود الله ووحدانيته.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لإثبات وجود الله ووحدانيته.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الهدف يتجاوز إثبات النظريات العلمية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لإثبات صحة النظريات العلمية فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الخلق يؤكد وجود حياة بعد الموت.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لإثبات عدم وجود حياة بعد الموت.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الغاية من التفكر في خلق السماوات والأرض؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هي الغاية من التفكر في خلق السماوات والأرض؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هي الغاية من التفكر في خلق السماوات والأرض؟"
+      },
+      "subContentId": "5147295a-37ef-47a3-9d55-6ea5cef41380"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن الكريم هو المصدر الأول للتشريع وليس الثابت الأول في العقيدة.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">القرآن الكريم.</p>"
@@ -127,7 +228,7 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون هو الثابت الأول في العقيدة الإسلامية لأنه يدل على وجود الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون هو الثابت الأول في العقيدة الإسلامية.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">الكون.</p>"
@@ -136,19 +237,19 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأنبياء هم رسل الله ولكن الكون هو الثابت الأول.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأحاديث النبوية هي مصدر للتشريع وليس الثابت الأول.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الأنبياء.</p>"
+            "text": "<p style=\"text-align:right\">الأحاديث النبوية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأخلاق جزء من العقيدة ولكن الكون هو الثابت الأول.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإجماع هو مصدر من مصادر التشريع وليس الثابت الأول.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الأخلاق.</p>"
+            "text": "<p style=\"text-align:right\">الإجماع.</p>"
           }
         ],
         "overallFeedback": [
@@ -207,7 +308,7 @@
         "changes": [],
         "extraTitle": "ما هو الثابت الأول في العقيدة الإسلامية؟"
       },
-      "subContentId": "8dd67ba9-d592-45cf-ad69-fc8896202b14"
+      "subContentId": "eb4b277f-d84f-412d-b46d-94830070b02c"
     },
     {
       "params": {
@@ -219,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر ليس لإثبات تفوق الإنسان بل لإثبات وجود الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">رد الفعل يشمل أكثر من الإيمان فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لإثبات تفوق الإنسان على المخلوقات الأخرى.</p>"
+            "text": "<p style=\"text-align:right\">الإيمان فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">رد الفعل يشمل أكثر من الشكر فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الشكر فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في خلق السماوات والأرض يؤدي إلى إثبات وجود الله ووحدانيته.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! رد فعل الإنسان تجاه تسخير الكون له تعريفاً وتكريماً هو الإيمان والشكر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لإثبات وجود الله ووحدانيته.</p>"
+            "text": "<p style=\"text-align:right\">الإيمان والشكر.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النظريات العلمية مهمة ولكن التفكر في الكون يهدف إلى إثبات وجود الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الرفض والجحود ليسا من ردود الفعل الصحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لإثبات صحة النظريات العلمية فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الكون يؤكد وجود الحياة بعد الموت وليس نفيه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لإثبات عدم وجود حياة بعد الموت.</p>"
+            "text": "<p style=\"text-align:right\">الرفض والجحود.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من التفكر في خلق السماوات والأرض؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو رد فعل الإنسان تجاه تسخير الكون له تعريفاً وتكريماً؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الهدف من التفكر في خلق السماوات والأرض؟",
+        "title": "ما هو رد فعل الإنسان تجاه تسخير الكون له تعريفاً وتكريماً؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الهدف من التفكر في خلق السماوات والأرض؟"
+        "extraTitle": "ما هو رد فعل الإنسان تجاه تسخير الكون له تعريفاً وتكريماً؟"
       },
-      "subContentId": "345d48c3-c906-415f-8591-f0206a0ae8d3"
+      "subContentId": "4c049664-d2e0-4d22-9e56-bdb509f98360"
     },
     {
       "params": {
@@ -317,40 +418,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفوق على المخلوقات ليس رد فعلًا للتسخير التعريفي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن يشعر بالتفوق على المخلوقات الأخرى.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التسخير التعريفي يهدف إلى إيمان الإنسان بالله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح من الآيات الكونية هو التفكر فيها للتعرف على الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يؤمن بالله.</p>"
+            "text": "<p style=\"text-align:right\">التفكر فيها للتعرف على الله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستغلال الشخصي يتعارض مع مفهوم التسخير التعريفي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال الآيات الكونية يفوت فرصة التعرف على الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يستغل الكون لتحقيق مكاسب شخصية.</p>"
+            "text": "<p style=\"text-align:right\">إهمالها والتركيز على الآيات التشريعية فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الكون يتناقض مع الهدف من تسخيره للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهدف من الآيات الكونية يتجاوز إثبات النظريات العلمية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يتجاهل وجود الكون.</p>"
+            "text": "<p style=\"text-align:right\">استخدامها لإثبات النظريات العلمية فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية ليست مجرد قصص بل أدلة على وجود الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتقاد بأنها مجرد قصص.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو رد فعل الإنسان تجاه تسخير الكون له تسخير تعريف؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من الآيات الكونية في القرآن الكريم؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو رد فعل الإنسان تجاه تسخير الكون له تسخير تعريف؟",
+        "title": "ما هو الموقف الصحيح من الآيات الكونية في القرآن الكريم؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو رد فعل الإنسان تجاه تسخير الكون له تسخير تعريف؟"
+        "extraTitle": "ما هو الموقف الصحيح من الآيات الكونية في القرآن الكريم؟"
       },
-      "subContentId": "e050dccc-76e0-4e51-82b8-78342f7b875e"
+      "subContentId": "aac31741-ea65-4885-9984-9dd5623c23f1"
     },
     {
       "params": {
@@ -421,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الآيات يتناقض مع الهدف من قراءة القرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهدف يتجاوز تحقيق الثروة والمكانة الاجتماعية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يتجاهل الآيات.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">البحث عن تفسيرات مختلفة ليس الموقف المطلوب عند قراءة آيات الأمر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن يبحث عن تفسيرات مختلفة للآيات.</p>"
+            "text": "<p style=\"text-align:right\">تحقيق الثروة والمكانة الاجتماعية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو الامتثال بما ورد في آيات الأمر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهدف من وجود الإنسان هو عبادة الله وشكره.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يأتمر بما ورد في الآيات.</p>"
+            "text": "<p style=\"text-align:right\">عبادة الله وشكره.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهدف ليس إثبات تفوق الإنسان على المخلوقات الأخرى.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن ينتقد الآيات.</p>"
+            "text": "<p style=\"text-align:right\">إثبات تفوقه على المخلوقات الأخرى.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الهدف يتجاوز العيش حياة مليئة بالملذات.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العيش حياة مليئة بالملذات.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات الأمر في القرآن؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من وجود الإنسان وفقًا للنصوص الشرعية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات الأمر في القرآن؟",
+        "title": "ما هو الهدف من وجود الإنسان وفقًا للنصوص الشرعية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات الأمر في القرآن؟"
+        "extraTitle": "ما هو الهدف من وجود الإنسان وفقًا للنصوص الشرعية؟"
       },
-      "subContentId": "f806efc0-36a4-46cf-ad26-92065c9c24b4"
+      "subContentId": "e0997e6a-35d4-4546-8b00-3913a0f31859"
     },
     {
       "params": {
@@ -522,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الآيات يتناقض مع الهدف من قراءة القرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التسخير يشمل أكثر من مجرد التعريف فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يتجاهل الآيات.</p>"
+            "text": "<p style=\"text-align:right\">هل التسخير يشمل التعريف فقط أم التكريم فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو الانتهاء عما نهى الله عنه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الخلاف الأساسي هو حول ما إذا كان التسخير يشمل التعريف والتكريم معًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن ينتهي عما نهى الله عنه.</p>"
+            "text": "<p style=\"text-align:right\">هل التسخير يشمل التعريف والتكريم معًا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">البحث عن مبررات يتناقض مع الهدف من النهي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التسخير ليس مقتصرًا على المؤمنين فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يبحث عن مبررات للاستمرار في النهي.</p>"
+            "text": "<p style=\"text-align:right\">هل التسخير مقتصر على المؤمنين فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التسخير مخصص للإنسان وليس للكائنات الأخرى.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن ينتقد الآيات.</p>"
+            "text": "<p style=\"text-align:right\">هل التسخير يشمل الكائنات الأخرى غير الإنسان.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات النهي في القرآن؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير تسخير الكون للإنسان؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات النهي في القرآن؟",
+        "title": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير تسخير الكون للإنسان؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات النهي في القرآن؟"
+        "extraTitle": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير تسخير الكون للإنسان؟"
       },
-      "subContentId": "d9d95d76-282f-4ab0-9a13-6e14b9ea7d01"
+      "subContentId": "d5554acb-79bb-4cad-bed9-53a204ad7501"
     },
     {
       "params": {
@@ -620,40 +721,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب السلف فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إثبات الصفات كما وردت دون تأويل أو تشبيه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب الأشاعرة والمعتزلة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تأويل الصفات بطريقة رمزية تنفي التشبيه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، وهو رأي بعض الفلاسفة والمتكلمين.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رفض الحديث عن الصفات تمامًا بحجة عدم إدراكها.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هناك عدة مدارس فكرية في تفسير الصفات الإلهية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية تدل على أن الكون مسخر للإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جميع ما سبق يعكس اتجاهات مختلفة لعلماء العقيدة.</p>"
+            "text": "<p style=\"text-align:right\">﴿إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنْسَانُ﴾.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن قدرة الله على إرسال العذاب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">﴿قُلْ هُوَ الْقَادِرُ عَلَى أَنْ يَبْعَثَ عَلَيْكُمْ عَذَاباً مِنْ فَوْقِكُمْ أَوْ مِنْ تَحْتِ أَرْجُلِكُمْ﴾.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن الليل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">﴿وَاللَّيْلِ إِذَا يَغْشَاهَا﴾.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تدعو الإنسان للنظر في طعامه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">﴿فَلْيَنْظُرِ الْإِنْسَانُ إِلَى طَعَامِهِ﴾.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين العلماء حول تفسير صفات الله؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل من القرآن على أن الكون مسخر للإنسان؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الخلاف الأساسي بين العلماء حول تفسير صفات الله؟",
+        "title": "ما هو الدليل من القرآن على أن الكون مسخر للإنسان؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الخلاف الأساسي بين العلماء حول تفسير صفات الله؟"
+        "extraTitle": "ما هو الدليل من القرآن على أن الكون مسخر للإنسان؟"
       },
-      "subContentId": "687243d6-84d0-42b5-8f60-6efdb2ad40f9"
+      "subContentId": "79dc2565-30b4-4343-805c-45cbb7724f1b"
     },
     {
       "params": {
@@ -724,37 +825,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفوق على المخلوقات ليس الهدف من التسخير التكريمي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الموقف يشمل أكثر من الاستمتاع بوصف الجنة فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يشعر الإنسان بالتفوق على المخلوقات الأخرى.</p>"
+            "text": "<p style=\"text-align:right\">الاستمتاع بوصف الجنة فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التسخير التكريمي يهدف إلى شكر الإنسان لله على النعم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو السعي إلى الجنة وتجنب النار.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يشكر الإنسان الله على النعم التي أنعم بها عليه.</p>"
+            "text": "<p style=\"text-align:right\">السعي إلى الجنة وتجنب النار.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستغلال الشخصي يتعارض مع مفهوم التسخير التكريمي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال هذه الآيات يفوت فرصة التعرف على الجزاء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يستغل الإنسان الكون لتحقيق مكاسب شخصية.</p>"
+            "text": "<p style=\"text-align:right\">إهمال هذه الآيات والتركيز على الآيات التشريعية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الكون يتناقض مع الهدف من تسخيره للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآيات ليست مجرد قصص بل أدلة على الجزاء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يتجاهل الإنسان وجود الكون.</p>"
+            "text": "<p style=\"text-align:right\">الاعتقاد بأنها مجرد قصص.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من تسخير الكون للإنسان تسخير تكريم؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من الآيات التي تصف الجنة والنار؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الهدف من تسخير الكون للإنسان تسخير تكريم؟",
+        "title": "ما هو الموقف الصحيح من الآيات التي تصف الجنة والنار؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الهدف من تسخير الكون للإنسان تسخير تكريم؟"
+        "extraTitle": "ما هو الموقف الصحيح من الآيات التي تصف الجنة والنار؟"
       },
-      "subContentId": "45a0d452-7279-45d2-a4d1-a8fc38ec717e"
+      "subContentId": "b0f2e00c-3589-4ba6-9854-ddf5128bdf5d"
     },
     {
       "params": {
@@ -825,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الآيات يتناقض مع الهدف من قراءة القرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال الآيات الكونية يفوت فرصة التعرف على الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يتجاهل الآيات.</p>"
+            "text": "<p style=\"text-align:right\">إهمالها والتركيز على الحياة الدنيا فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو السعي إلى الجنة وتجنب النار.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التفكر فيها للتعرف على الله ووحدانيته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يسعى إلى الجنة ويتقي النار.</p>"
+            "text": "<p style=\"text-align:right\">التفكر فيها للتعرف على الله ووحدانيته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">البحث عن تفسيرات مختلفة ليس الموقف المطلوب عند قراءة هذه الآيات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهدف من الآيات الكونية يتجاوز إثبات النظريات العلمية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يبحث عن تفسيرات مختلفة للآيات.</p>"
+            "text": "<p style=\"text-align:right\">استخدامها لإثبات النظريات العلمية فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية ليست مجرد ظواهر طبيعية بل أدلة على وجود الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن ينتقد الآيات.</p>"
+            "text": "<p style=\"text-align:right\">الاعتقاد بأنها مجرد ظواهر طبيعية.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات وصف الجنة والنار؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأى شخص آيات كونية مثل الشمس والقمر والنجوم، فما هو الموقف الصحيح الذي يجب أن يتخذه؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات وصف الجنة والنار؟",
+        "title": "إذا رأى شخص آيات كونية مثل الشمس والقمر والنجوم، فما هو الموقف الصحيح الذي يجب أن يتخذه؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات وصف الجنة والنار؟"
+        "extraTitle": "إذا رأى شخص آيات كونية مثل الشمس والقمر والنجوم، فما هو الموقف الصحيح الذي يجب أن يتخذه؟"
       },
-      "subContentId": "acd40515-a614-407b-b8fd-a48df5bd8366"
+      "subContentId": "dd137a4c-81dc-41b1-a395-34c18c8b3c98"
     },
     {
       "params": {
@@ -926,37 +1027,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التجاهل يتناقض مع الهدف من وجود الآيات الكونية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال الأمر يؤدي إلى الاستمرار في السلوك الخاطئ.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يتجاهلها ويعتبرها ظواهر طبيعية فقط.</p>"
+            "text": "<p style=\"text-align:right\">إهمال الأمر والاستمرار في السلوك الخاطئ.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الآيات الكونية يؤدي إلى معرفة الله وشكره.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو الامتثال للأمر وتغيير السلوك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يتفكر فيها ليعرف الله ويشكره على نعمه.</p>"
+            "text": "<p style=\"text-align:right\">الامتثال للأمر وتغيير السلوك.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستغلال الشخصي يتعارض مع الهدف من الآيات الكونية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأمر موجه لجميع المؤمنين وليس للآخرين فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يستغلها لتحقيق مكاسب شخصية.</p>"
+            "text": "<p style=\"text-align:right\">الاعتقاد بأن الأمر موجه للآخرين فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الانتقاد والاعتبار بالخرافات يتناقض مع الإيمان بالله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأوامر الشرعية قابلة للتطبيق في كل العصور.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن ينتقدها ويعتبرها مجرد خرافات.</p>"
+            "text": "<p style=\"text-align:right\">الاعتقاد بأن الأمر غير قابل للتطبيق في العصر الحديث.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا رأى شخص آيات كونية عظيمة مثل الشمس والقمر والنجوم، ما هو الموقف الذي ينبغي أن يقفه؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا قرأ شخص آية فيها أمر مثل ﴿قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ﴾، فما هو الموقف الصحيح؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا رأى شخص آيات كونية عظيمة مثل الشمس والقمر والنجوم، ما هو الموقف الذي ينبغي أن يقفه؟",
+        "title": "إذا قرأ شخص آية فيها أمر مثل ﴿قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ﴾، فما هو الموقف الصحيح؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا رأى شخص آيات كونية عظيمة مثل الشمس والقمر والنجوم، ما هو الموقف الذي ينبغي أن يقفه؟"
+        "extraTitle": "إذا قرأ شخص آية فيها أمر مثل ﴿قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ﴾، فما هو الموقف الصحيح؟"
       },
-      "subContentId": "facd97a1-70f9-4a3d-90ac-a4c856670906"
+      "subContentId": "ef4a64a2-8519-4897-9ad1-a559584c9f06"
     },
     {
       "params": {
@@ -1027,37 +1128,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التجاهل يتناقض مع الهدف من قراءة القرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الموقف يشمل أكثر من الاستمتاع بوصف الجنة فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يتجاهل الآية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">البحث عن تفسيرات مختلفة ليس الموقف المطلوب عند قراءة آيات الأمر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن يبحث عن تفسيرات مختلفة للآية.</p>"
+            "text": "<p style=\"text-align:right\">الاستمتاع بوصف الجنة فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو الامتثال بما ورد في آيات الأمر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو السعي إلى الجنة بالعمل الصالح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن يأتمر بما ورد في الآية.</p>"
+            "text": "<p style=\"text-align:right\">السعي إلى الجنة بالعمل الصالح.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال الآية يفوت فرصة السعي إلى الجنة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن ينتقد الآية.</p>"
+            "text": "<p style=\"text-align:right\">إهمال الآية والتركيز على الحياة الدنيا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">وصف الجنة في القرآن ليس مجرد خيال بل حقيقة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتقاد بأن الوصف مجرد خيال.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,119 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا قرأ شخص آية في القرآن تأمره بفعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا قرأ شخص آية تصف نعيم الجنة مثل ﴿فِي جَنَّةٍ عَالِيَةٍ (22) قُطُوفُهَا دَانِيَةٌ (23) كُلُوا وَاشْرَبُوا هَنِيئاً بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ (24)﴾، فما هو الموقف الصحيح؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا قرأ شخص آية في القرآن تأمره بفعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟",
+        "title": "إذا قرأ شخص آية تصف نعيم الجنة مثل ﴿فِي جَنَّةٍ عَالِيَةٍ (22) قُطُوفُهَا دَانِيَةٌ (23) كُلُوا وَاشْرَبُوا هَنِيئاً بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ (24)﴾، فما هو الموقف الصحيح؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا قرأ شخص آية في القرآن تأمره بفعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟"
+        "extraTitle": "إذا قرأ شخص آية تصف نعيم الجنة مثل ﴿فِي جَنَّةٍ عَالِيَةٍ (22) قُطُوفُهَا دَانِيَةٌ (23) كُلُوا وَاشْرَبُوا هَنِيئاً بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ (24)﴾، فما هو الموقف الصحيح؟"
       },
-      "subContentId": "9112f709-baf1-446d-86d4-5a98153ecc3d"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التجاهل يتناقض مع الهدف من قراءة القرآن.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن يتجاهل الآية.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو الانتهاء عما نهى الله عنه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن ينتهي عما نهى الله عنه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">البحث عن مبررات يتناقض مع الهدف من النهي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن يبحث عن مبررات للاستمرار في النهي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن ينتقد الآية.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">إذا قرأ شخص آية في القرآن تنهى عن فعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "إذا قرأ شخص آية في القرآن تنهى عن فعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "إذا قرأ شخص آية في القرآن تنهى عن فعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟"
-      },
-      "subContentId": "a0b2d941-8455-4e2e-9984-a7d74216425e"
+      "subContentId": "3bfb982d-91cf-4e07-824f-e9b7dfe527d0"
     }
   ],
   "disableBackwardsNavigation": false,

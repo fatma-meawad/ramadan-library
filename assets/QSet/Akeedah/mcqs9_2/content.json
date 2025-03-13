@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوة النابذة هي نتيجة لتخفيض السرعة، وليست القوة الأساسية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قدرة الله على خلق الأرض واضحة، لكن الآية تتعلق بالحفظ.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القوة النابذة</p>"
+            "text": "<p style=\"text-align:right\">تدل على قدرة الله على خلق الأرض.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! قوة الجاذبية هي التي تحافظ على الأرض في مسارها حول الشمس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى قدرة الله على حفظ الكون ومنع زواله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قوة الجاذبية</p>"
+            "text": "<p style=\"text-align:right\">تؤكد أن الله يحفظ الكون من الفساد.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوة المغناطيسية لا علاقة لها بمسار الأرض حول الشمس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا غير صحيح، الآية تتحدث عن الحفظ وليس الزوال.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القوة المغناطيسية</p>"
+            "text": "<p style=\"text-align:right\">تشير إلى أن الأرض ستزول في المستقبل.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوة الكهربائية لا تؤثر على مسار الأرض حول الشمس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الله دائمًا يحفظ السماوات والأرض، لذا هذه الفكرة غير صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القوة الكهربائية</p>"
+            "text": "<p style=\"text-align:right\">تعني أن الله يمكن أن يترك الأرض دون حماية.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي القوة التي تمنع الأرض من الانفلات من مسارها حول الشمس؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المعنى الأساسي للآية 'إن الله يمسك السماوات والأرض أن تزولا'؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي القوة التي تمنع الأرض من الانفلات من مسارها حول الشمس؟",
+        "title": "ما هو المعنى الأساسي للآية 'إن الله يمسك السماوات والأرض أن تزولا'؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي القوة التي تمنع الأرض من الانفلات من مسارها حول الشمس؟"
+        "extraTitle": "ما هو المعنى الأساسي للآية 'إن الله يمسك السماوات والأرض أن تزولا'؟"
       },
-      "subContentId": "406df076-3964-45f9-b3a5-83be4f5cea6c"
+      "subContentId": "7163def3-f365-47cc-bb79-2e7b3be78a5b"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">درجة الحرارة هذه أعلى بكثير مما يمكن أن تصل إليه الأرض في حالة الانفلات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الطير يعتبر مخلوقًا من مخلوقات الله ولكنه غير مذكور هنا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">صفر درجة مئوية</p>"
+            "text": "<p style=\"text-align:right\">الطير</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الجمل أيضًا لا يعكس الفكرة الرئيسية هنا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الجمل</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأرض يمكن أن تصل إلى مئتين وسبعين درجة تحت الصفر إذا انفلتت من الجاذبية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأرض تبرز عظمة الله في الحفاظ عليها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مئتين وسبعين درجة تحت الصفر</p>"
+            "text": "<p style=\"text-align:right\">الأرض</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">درجة الحرارة هذه أعلى بكثير مما يمكن أن تصل إليه الأرض في حالة الانفلات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأسماك لا تعكس الفكرة الرئيسية كما يعني النص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مئة درجة مئوية</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">درجة الحرارة هذه أعلى مما يمكن أن تصل إليه الأرض في حالة الانفلات.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">خمسين درجة تحت الصفر</p>"
+            "text": "<p style=\"text-align:right\">الأسماك</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي درجة الحرارة التي يمكن أن تصل إليها الأرض إذا انفلتت من الجاذبية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">أي من هذه الحيوانات تدل على عظمة الله في الحفاظ على الكون وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي درجة الحرارة التي يمكن أن تصل إليها الأرض إذا انفلتت من الجاذبية؟",
+        "title": "أي من هذه الحيوانات تدل على عظمة الله في الحفاظ على الكون وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي درجة الحرارة التي يمكن أن تصل إليها الأرض إذا انفلتت من الجاذبية؟"
+        "extraTitle": "أي من هذه الحيوانات تدل على عظمة الله في الحفاظ على الكون وفقًا للنص؟"
       },
-      "subContentId": "88bfbcda-3f89-4ed4-a8d5-cdecd5825e3e"
+      "subContentId": "36781a74-74d6-4a74-94c7-f6b18133a9dc"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">سورة الرعد تتحدث عن رفع السماوات بغير عمد ترونها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية تبين عظمة الله في عدم الحاجة لأعمدة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">سورة الرعد</p>"
+            "text": "<p style=\"text-align:right\">توضح أن السماوات بحاجة إلى أعمدة لدعمها.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا؛ لكنها تعكس قدرتها أيضًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تومئ إلى عدم قدرة البشر على فهم الكون.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية في سورة فاطر تشير إلى أن الله يمسك السماوات والأرض أن تزولا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تشير إلى قوة الثبات وعدم الحاجة لعنصر دعم مرئي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">سورة فاطر</p>"
+            "text": "<p style=\"text-align:right\">تشير إلى الثبات والقوة في خلق الله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">سورة البقرة لا تحتوي على هذه الآية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا غير صحيح، الله هو الحافظ والقادر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">سورة البقرة</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">سورة الكهف لا تحتوي على هذه الآية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سورة الكهف</p>"
+            "text": "<p style=\"text-align:right\">تنفي إمكانية وجود أي نوع من الحماية.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الآية القرآنية التي تشير إلى أن الله يمسك السماوات والأرض أن تزولا؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف تعكس آية 'اللَّهُ الَّذِي رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا' قدرة الله تعالى؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الآية القرآنية التي تشير إلى أن الله يمسك السماوات والأرض أن تزولا؟",
+        "title": "كيف تعكس آية 'اللَّهُ الَّذِي رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا' قدرة الله تعالى؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الآية القرآنية التي تشير إلى أن الله يمسك السماوات والأرض أن تزولا؟"
+        "extraTitle": "كيف تعكس آية 'اللَّهُ الَّذِي رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا' قدرة الله تعالى؟"
       },
-      "subContentId": "abe0d0f3-57c8-49bd-9d71-240b3418e554"
+      "subContentId": "94e0a2d4-cbb8-42b5-aa65-96ee062859dc"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انخفاض السرعة يؤدي إلى تقليل القوة النابذة، وليس زيادتها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">بينما هذه تعتبر نظرية، الآيات تركز على الحفظ.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تزيد القوة النابذة</p>"
+            "text": "<p style=\"text-align:right\">الأرض قد تخرج عن مسارها في حالة فقدان الجاذبية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">غير صحيح، الأمر يتطلب جهودًا غير طبيعية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يمكن استعادة الأرض إلى الشمس بسهولة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">لا يُعبر النص عن الشك في القوى، بل عن عظمتها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">قوى الجاذبية الأرضية ليست قوية كما يردد العلماء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! انخفاض السرعة يؤدي إلى تقليل القوة النابذة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يتطلب الأمر قوة هائلة للشعور بالجاذبية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تقل القوة النابذة</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأرض لا تتوقف عن الدوران بسبب انخفاض السرعة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تتوقف الأرض عن الدوران</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قوة الجاذبية لا تتأثر بانخفاض سرعة الأرض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تزيد قوة الجاذبية</p>"
+            "text": "<p style=\"text-align:right\">الحفاظ على مسار الأرض يتطلب قوة هائلة.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يحدث إذا انخفضت سرعة الأرض بشكل طارئ؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">أي من هذه الحقائق العلمية تتماشى مع الآيات المذكورة في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي يحدث إذا انخفضت سرعة الأرض بشكل طارئ؟",
+        "title": "أي من هذه الحقائق العلمية تتماشى مع الآيات المذكورة في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي يحدث إذا انخفضت سرعة الأرض بشكل طارئ؟"
+        "extraTitle": "أي من هذه الحقائق العلمية تتماشى مع الآيات المذكورة في النص؟"
       },
-      "subContentId": "507d005c-336c-4ac9-bef9-d4a4a88ff478"
+      "subContentId": "50cb3f74-c366-4683-9a19-3f150de8d4f9"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوة المطلوبة أكبر بكثير من مليون حبل فولاذي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا يتعارض مع الفهم الإسلامي حيث يوجد ترتيب واضح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مليون حبل فولاذي</p>"
+            "text": "<p style=\"text-align:right\">يثبتان عشوائية وجود الكون.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نحتاج إلى مليون مليون حبل فولاذي لإعادة الأرض إلى الشمس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تشير إلى تنظيم وتقدير متقن في الخلق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مليون مليون حبل فولاذي</p>"
+            "text": "<p style=\"text-align:right\">يدللان على تنظيم دقيق وتقدير في خلق الله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوة المطلوبة أكبر بكثير من مئة ألف حبل فولاذي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">بينما المعرفة محدودة، هذا ليس جذر السؤال.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مئة ألف حبل فولاذي</p>"
+            "text": "<p style=\"text-align:right\">تشيران إلى محدودية المعرفة البشرية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوة المطلوبة أكبر بكثير من عشرة آلاف حبل فولاذي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">فهم الإنسان له أهمية كبيرة في التعرف على آيات الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عشرة آلاف حبل فولاذي</p>"
+            "text": "<p style=\"text-align:right\">تكشفان عن عدم الحاجة لفهم الإنسان للكون.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,119 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي القوة المطلوبة لإعادة الأرض إلى الشمس إذا انفلتت؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الأثر الفلسفي للآيتين في تفسير الموجودات الكونية وفقًا لأهل العلم؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي القوة المطلوبة لإعادة الأرض إلى الشمس إذا انفلتت؟",
+        "title": "ما هو الأثر الفلسفي للآيتين في تفسير الموجودات الكونية وفقًا لأهل العلم؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي القوة المطلوبة لإعادة الأرض إلى الشمس إذا انفلتت؟"
+        "extraTitle": "ما هو الأثر الفلسفي للآيتين في تفسير الموجودات الكونية وفقًا لأهل العلم؟"
       },
-      "subContentId": "0e10fdd6-630c-424f-8d83-e7ee62b9ea54"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">سورة فاطر تتحدث عن إمساك السماوات والأرض أن تزولا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سورة فاطر</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية في سورة الرعد تشير إلى رفع السماوات بغير عمد ترونها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سورة الرعد</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">سورة البقرة لا تحتوي على هذه الآية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سورة البقرة</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">سورة الكهف لا تحتوي على هذه الآية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سورة الكهف</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الآية القرآنية التي تشير إلى رفع السماوات بغير عمد ترونها؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي الآية القرآنية التي تشير إلى رفع السماوات بغير عمد ترونها؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي الآية القرآنية التي تشير إلى رفع السماوات بغير عمد ترونها؟"
-      },
-      "subContentId": "d4519610-c7a1-4325-b2f1-c08218055b19"
+      "subContentId": "493751c3-ed54-48f3-bfa3-3a5a932d3155"
     },
     {
       "params": {
@@ -623,37 +522,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيتان تشيران إلى وجود الجاذبية قبل اكتشافها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تمثل توازنًا دقيقًا للقوى الطبيعية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تشير إلى وجود الجاذبية قبل اكتشافها</p>"
+            "text": "<p style=\"text-align:right\">تمثل مثالا على توازن القوى الطبيعية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيتان لا تشيران إلى دوران الأرض حول الشمس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا يتعارض في فهم الإسلام لعظمة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تشير إلى أن الأرض تدور حول الشمس</p>"
+            "text": "<p style=\"text-align:right\">تشير إلى أن الكون ليس له علاقة بالله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيتان لا تشيران إلى وجود حياة على كواكب أخرى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">في الحقيقة، تشير للقوة المهيمنة، لكنها موضوعة في تناسب.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تشير إلى وجود حياة على كواكب أخرى</p>"
+            "text": "<p style=\"text-align:right\">تكشف عن القوة المطلقة التي تمتلكها الكواكب.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيتان لا تشيران إلى أن الكون له بداية ونهاية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النص يشير لنظام لا عشوائية في خلق الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تشير إلى أن الكون له بداية ونهاية</p>"
+            "text": "<p style=\"text-align:right\">تؤكد الطبيعة العشوائية للأحداث الكونية.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,220 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الإعجاز العلمي في الآيتين الكريمتين من سورة فاطر والرعد؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن مقارنة القوة التي تمسك الأرض في مسارها بالقوى الأخرى التي تعكس عظمة الله؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الإعجاز العلمي في الآيتين الكريمتين من سورة فاطر والرعد؟",
+        "title": "كيف يمكن مقارنة القوة التي تمسك الأرض في مسارها بالقوى الأخرى التي تعكس عظمة الله؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الإعجاز العلمي في الآيتين الكريمتين من سورة فاطر والرعد؟"
+        "extraTitle": "كيف يمكن مقارنة القوة التي تمسك الأرض في مسارها بالقوى الأخرى التي تعكس عظمة الله؟"
       },
-      "subContentId": "2e9e26de-1501-4fc6-9c73-081b141b4b57"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأعمدة غير المرئية هي تفسير غير دقيق.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن السماوات مرفوعة بأعمدة غير مرئية</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! السماوات مرفوعة بقوى الجذب غير المرئية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن السماوات مرفوعة بقوى الجذب غير المرئية</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأعمدة المرئية هي تفسير غير صحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن السماوات مرفوعة بأعمدة مرئية</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوى الكهربائية لا علاقة لها برفع السماوات.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن السماوات مرفوعة بقوى كهربائية</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لقول الله تعالى: 'بغير عمد ترونها'؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو التفسير الصحيح لقول الله تعالى: 'بغير عمد ترونها'؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو التفسير الصحيح لقول الله تعالى: 'بغير عمد ترونها'؟"
-      },
-      "subContentId": "70b37eed-232f-4c63-8920-001acbf7b191"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">دوران الأرض حول الشمس هو جزء من النظام الكوني، وليس الدليل الوحيد على عظمة الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الأرض تدور حول الشمس</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إمساك الله للسماوات والأرض أن تزولا هو دليل على عظمته.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الله يمسك السماوات والأرض أن تزولا</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">بداية ونهاية الكون هي جزء من الإيمان، وليس الدليل الوحيد على عظمة الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الكون له بداية ونهاية</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">وجود حياة على كواكب أخرى هو فرضية، وليس دليلًا على عظمة الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن هناك حياة على كواكب أخرى</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل على عظمة الله في خلق الكون وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الدليل على عظمة الله في خلق الكون وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الدليل على عظمة الله في خلق الكون وفقًا للنص؟"
-      },
-      "subContentId": "a422cb98-0187-4d3e-96ac-8e832dfa8fc3"
+      "subContentId": "1a70810c-c223-43a6-a495-779c3bb2223c"
     },
     {
       "params": {
@@ -926,37 +623,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأرض ستتحول إلى قبر جليدي بمئتين وسبعين درجة تحت الصفر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يُظهر النص أن كل شيء في الكون يسير بعناية الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ستصبح الأرض قبراً جليدياً</p>"
+            "text": "<p style=\"text-align:right\">يمكن أن نوضح له أن كل شيء في الكون يخضع لخلق الله ورعايته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">درجة حرارة الأرض ستقل بشكل كبير، وليس العكس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">بينما هذه نقطة، لا تجيب عن الأصل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ستزداد درجة حرارة الأرض</p>"
+            "text": "<p style=\"text-align:right\">يمكن أن نقول له إن العلماء لا يعرفون كل شيء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأرض لا تتوقف عن الدوران بسبب الانفلات من الجاذبية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا غير مجدي، يجب تقديم الأدلة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ستتوقف الأرض عن الدوران</p>"
+            "text": "<p style=\"text-align:right\">نستطيع أن نرفض فكرته دون تقديم دليل.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأرض لن تصبح كوكباً مشتعلاً، بل ستتجمد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا يتعارض مع فلسفة الإسلام في فهم الخلق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ستصبح الأرض كوكباً مشتعلاً</p>"
+            "text": "<p style=\"text-align:right\">نوافقه الرأي بأن العلم يتطور بشكل عشوائي.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا افترضنا أن الأرض انفلتت من الجاذبية، ما هي النتيجة المباشرة لذلك؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص ما يرى أن الجاذبية مجرد صدفة علمية، كيف يمكن الرد عليه بناءً على النص وآيات القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا افترضنا أن الأرض انفلتت من الجاذبية، ما هي النتيجة المباشرة لذلك؟",
+        "title": "إذا كان شخص ما يرى أن الجاذبية مجرد صدفة علمية، كيف يمكن الرد عليه بناءً على النص وآيات القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا افترضنا أن الأرض انفلتت من الجاذبية، ما هي النتيجة المباشرة لذلك؟"
+        "extraTitle": "إذا كان شخص ما يرى أن الجاذبية مجرد صدفة علمية، كيف يمكن الرد عليه بناءً على النص وآيات القرآن؟"
       },
-      "subContentId": "38d9e0b3-9105-4503-870c-f905393e33b0"
+      "subContentId": "7bdfe3bc-8364-4a7c-9af5-52214ac7004d"
     },
     {
       "params": {
@@ -1027,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك تحديات أخرى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تجاهلها لن يساهم في الإقناع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحاجة إلى مليون مليون حبل فولاذي</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك تحديات أخرى.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عدم وجود مساحة كافية على سطح الأرض</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك تحديات أخرى.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عدم وجود تقنية كافية لتنفيذ ذلك</p>"
+            "text": "<p style=\"text-align:right\">يمكنه تجاهل هذه الآراء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جميع التحديات المذكورة صحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب ربط النظام بعظمة الله في القرآن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جميع ما سبق</p>"
+            "text": "<p style=\"text-align:right\">من الخصوصية الربط بين كل نظام وعظمة الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الصمت لن يحل المسألة، بل النقاش الفكري جيد.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الإقامة في الصمت وعدم النقاش.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">البحث عن الأدلة مفيد، لكن لا بد من الربط بالإيمان.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تشجيعه على مواصلة البحث عن أدلة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,119 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا أراد العلماء إعادة الأرض إلى الشمس بعد انفلاتها، ما هي التحديات التي سيواجهونها؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">حيثما دعا عالم للإيمان بالنظام الكوني بصرف النظر عن الخالق، ما هي النصيحة المناسبة للمؤمن بناءً على القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا أراد العلماء إعادة الأرض إلى الشمس بعد انفلاتها، ما هي التحديات التي سيواجهونها؟",
+        "title": "حيثما دعا عالم للإيمان بالنظام الكوني بصرف النظر عن الخالق، ما هي النصيحة المناسبة للمؤمن بناءً على القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا أراد العلماء إعادة الأرض إلى الشمس بعد انفلاتها، ما هي التحديات التي سيواجهونها؟"
+        "extraTitle": "حيثما دعا عالم للإيمان بالنظام الكوني بصرف النظر عن الخالق، ما هي النصيحة المناسبة للمؤمن بناءً على القرآن؟"
       },
-      "subContentId": "448d99c9-4967-4ce7-a282-214af8687580"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون يعمل بقوانين طبيعية، ولكن الله هو الذي يحافظ عليها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الكون يعمل بقوانين طبيعية فقط</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الله هو الذي يحافظ على النظام الكوني.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الله هو الذي يحافظ على النظام الكوني</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان لا يستطيع التحكم في الكون.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الإنسان قادر على التحكم في الكون</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون له بداية ونهاية، ولن يستمر إلى الأبد.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الكون سيستمر إلى الأبد</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الدرس المستفاد من الآيتين الكريمتين في سورة فاطر والرعد؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الدرس المستفاد من الآيتين الكريمتين في سورة فاطر والرعد؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الدرس المستفاد من الآيتين الكريمتين في سورة فاطر والرعد؟"
-      },
-      "subContentId": "9d46af06-94ac-4239-9f3c-80171a990499"
+      "subContentId": "e1182885-07ac-4242-99eb-e3f3ab66eb28"
     }
   ],
   "disableBackwardsNavigation": false,

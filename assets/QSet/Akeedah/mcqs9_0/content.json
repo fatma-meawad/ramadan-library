@@ -14,40 +14,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الفطرة تتعلق أكثر بالطبيعة الداخلية للإنسان بدلاً من التأثيرات المجتمعية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عقيدة الشخص التي يكتسبها من مجتمعه.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة هي الطبيعة البشرية التي خلقها الله على التوحيد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة تعني الطبيعة الأصيلة التي خلق الله الناس عليها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الطبيعة البشرية التي خلقها الله على التوحيد.</p>"
+            "text": "<p style=\"text-align:right\">الطبيعة أو جبلّة الإنسان التي يكون عليها منذ ولادته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة ليست عادات مكتسبة بل هي طبيعة خلقية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التعليم والمعرفة اكتساب بعد الميلاد وليس جزءاً من الفطرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العادات والتقاليد التي يكتسبها الإنسان من المجتمع.</p>"
+            "text": "<p style=\"text-align:right\">التعليم والمعرفة التي يتلقاها الفرد.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة تختلف عن المعرفة المكتسبة فهي فطرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">ثقافة الفرد تؤثر في معتقداته لكن الفطرة شيء يُخلق بها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">المعرفة المكتسبة من التعليم والتدريب.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة ليست غرائز حيوانية بل هي خاصة بالإنسان.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الغرائز الحيوانية التي تسيطر على الإنسان.</p>"
+            "text": "<p style=\"text-align:right\">الاعتقادات الدينية التي تنشأ من الثقافة.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الفطرة في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المعنى الأساسي لكلمة 'فطرة' كما ورد في القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الفطرة في الإسلام؟",
+        "title": "ما هو المعنى الأساسي لكلمة 'فطرة' كما ورد في القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الفطرة في الإسلام؟"
+        "extraTitle": "ما هو المعنى الأساسي لكلمة 'فطرة' كما ورد في القرآن؟"
       },
-      "subContentId": "29af3636-1715-400b-a34d-f8bca606e915"
+      "subContentId": "ae29ed8e-dcd2-4fd9-a18a-8ed9fe030b45"
     },
     {
       "params": {
@@ -118,108 +118,16 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الخير والشر مفهومان واسعان، لكن الآية تتحدث عن الفجور والتقوى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تعبر عن خلق الله لكن لا تحدد الفطرة بشكل مباشر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الخير والشر.</p>"
+            "text": "<p style=\"text-align:right\">﴿لَا تَبْدِيلَ لِخَلْقِ اللَّهِ﴾</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الله ألهم النفس فجورها وتقواها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الفجور والتقوى.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العلم والجهل ليسا ما ألهمه الله للنفس.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العلم والجهل.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصحة والمرض ليستا مما ألهمه الله للنفس.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصحة والمرض.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي ألهمه الله للنفس حسب الآية الكريمة؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما الذي ألهمه الله للنفس حسب الآية الكريمة؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما الذي ألهمه الله للنفس حسب الآية الكريمة؟"
-      },
-      "subContentId": "f87102c2-37f5-410d-ae4c-207b95907f97"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن تسوية النفس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية تشير بشكل مباشر إلى الفطرة والخلق الإلهي.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">﴿وَنَفْسٍ وَمَا سَوَّاهَا﴾</p>"
@@ -228,28 +136,19 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تدعو إلى إقامة الدين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتعلق بالقلب والعواطف وليست عن الفطرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفاً﴾</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية تشير إلى أن الإنسان على نفسه بصيرة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">﴿بَلِ الْإِنْسَانُ عَلَى نَفْسِهِ بَصِيرَةٌ﴾</p>"
+            "text": "<p style=\"text-align:right\">﴿كَذَٰلِكَ بَلَغَتۡ قُلُوبُهُمُ الْخَفِيَّةَ﴾</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن حب الإيمان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تشير إلى الأمور التي تعود إلى الله وليس إلى الفطرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿حَبَّبَ إِلَيْكُمُ الْإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ﴾</p>"
+            "text": "<p style=\"text-align:right\">﴿إِنَّمَا أَمْرُهُ إِلَى اللَّهِ﴾</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الآية التي تشير إلى أن الإنسان على نفسه بصيرة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">أي الآية التالية تشير إلى الفطرة كما ورد في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الآية التي تشير إلى أن الإنسان على نفسه بصيرة؟",
+        "title": "أي الآية التالية تشير إلى الفطرة كما ورد في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الآية التي تشير إلى أن الإنسان على نفسه بصيرة؟"
+        "extraTitle": "أي الآية التالية تشير إلى الفطرة كما ورد في النص؟"
       },
-      "subContentId": "7aac59e5-da88-46d1-8ca4-20a17478a29a"
+      "subContentId": "5368072c-031b-49ff-bf02-84654fcd84c7"
     },
     {
       "params": {
@@ -320,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحرية موجودة لكن الآية تتحدث عن الإلهام بالفطرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النفس قد تميل للكذب لكنها مفطورة على حب الصدق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الله أعطى الإنسان حرية الاختيار بين الخير والشر.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة السليمة جزء من التفسير لكن الآية تتحدث عن الإلهام.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الله خلق الإنسان على الفطرة السليمة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الله لم يجبر الإنسان بل ألهمه معرفة الفجور والتقوى.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الله علم الإنسان الفجور والتقوى دون اختيار.</p>"
+            "text": "<p style=\"text-align:right\">القدرة على الكذب.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الله ألهم الإنسان معرفة الفجور والتقوى بالفطرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! النفس جبلت على حب العدل والإنصاف كجزء من فطرتها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الله جعل الإنسان يعرف الفجور والتقوى بالفطرة.</p>"
+            "text": "<p style=\"text-align:right\">حب الفطرة للعدل والإنصاف.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">النشوء الاجتماعي يمكن أن يؤثر على النفس لكنه ليس خاصية فطرية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">النشوء الاجتماعي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتماد على الآخرين يعكس ضعف النفس وليس جودتها الفطرية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتماد على الآخرين في التفكير.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,119 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير قوله تعالى: ﴿فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا﴾؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي أحد خصائص النفس البشرية كما تم ذكرها في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن تفسير قوله تعالى: ﴿فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا﴾؟",
+        "title": "ما هي أحد خصائص النفس البشرية كما تم ذكرها في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن تفسير قوله تعالى: ﴿فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا﴾؟"
+        "extraTitle": "ما هي أحد خصائص النفس البشرية كما تم ذكرها في النص؟"
       },
-      "subContentId": "07dfec5f-b4eb-4031-b332-8bea9afe9b96"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المقصود التوجه الكامل للدين بكل الإمكانات.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التوجه الكامل للدين بكل الإمكانات.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات جزء من الدين لكن الآية تتحدث عن التوجه الكامل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الالتزام بالعبادات فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجوانب الروحية والعملية كلاهما مطلوب.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التركيز على الجوانب الروحية دون العملية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اتباع الدين يجب أن يكون كاملاً وليس جزئياً.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">اتباع الدين بشكل جزئي.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بقوله تعالى: ﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفاً﴾؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو المقصود بقوله تعالى: ﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفاً﴾؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو المقصود بقوله تعالى: ﴿فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفاً﴾؟"
-      },
-      "subContentId": "1561f9bc-af80-497a-b62a-dc9c44c7dbea"
+      "subContentId": "32bf6a38-49f4-4110-8aa3-3a1aa39155dc"
     },
     {
       "params": {
@@ -522,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الراحة النفسية تكون مع التوافق مع الفطرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">عكس ما يخص الفطرة، إنها في الحقيقة تجعل الإنسان يشعر بالخطيئة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الراحة النفسية والطمأنينة.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة تجعل الإنسان يتجاهل الذنب.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الخروج عن الفطرة يؤدي إلى الانهيار الداخلي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة تُلهم شعور الضيق عند ارتكاب الخطيئة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الانهيار الداخلي والشعور بالذنب.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة تُلهم الإنسان بشعور الضيق عند ارتكاب الذنب.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النجاح الحقيقي يكون مع التوافق مع الفطرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتذار أمر مرتبط بالتعليم والتربية وليس مجرد إحساس فطري.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">النجاح في الحياة الدنيا.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة تدفع الإنسان للاعتذار عن أخطائه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التوافق مع المجتمع لا يعوض عن الخروج عن الفطرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الفطرة غالبًا ما تكون دافعًا قويًا لتقييم الأفعال وتأثيرها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التوافق مع المجتمع.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة تُعتبر كصوت غير مؤثر على السلوك.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,321 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة الخروج عن الفطرة حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف تعبر الفطرة عن إحساس الإنسان بالخطيئة أو الذنب؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي نتيجة الخروج عن الفطرة حسب النص؟",
+        "title": "كيف تعبر الفطرة عن إحساس الإنسان بالخطيئة أو الذنب؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي نتيجة الخروج عن الفطرة حسب النص؟"
+        "extraTitle": "كيف تعبر الفطرة عن إحساس الإنسان بالخطيئة أو الذنب؟"
       },
-      "subContentId": "0629dbe6-5a71-49c3-8b4f-0b719eba2690"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة تعرف الحق بشكل فطري بينما العقل يحتاج إلى تفكير.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الفطرة تعرف الحق بشكل فطري بينما العقل يحتاج إلى تفكير.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العقل يحتاج إلى تفكير لفهم الحق.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل يعرف الحق بشكل فطري بينما الفطرة تحتاج إلى تفكير.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة والعقل لهما أدوار مختلفة في فهم منهج الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الفطرة والعقل متطابقان في فهم منهج الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة والعقل كلاهما مرتبطان بفهم منهج الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الفطرة والعقل لا علاقة لهما بفهم منهج الله.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين الفطرة والعقل في فهم منهج الله؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الفرق بين الفطرة والعقل في فهم منهج الله؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الفرق بين الفطرة والعقل في فهم منهج الله؟"
-      },
-      "subContentId": "7a717348-3912-4eab-a214-1bd583cfaef4"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإنسان يعرف ذنوبه حتى لو لم يعترف بها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الإنسان يعرف ذنوبه حتى لو لم يعترف بها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يعرف ذنوبه حتى بدون اعتراف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الإنسان لا يعرف ذنوبه إلا إذا اعترف بها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يعرف ذنوبه دون الحاجة إلى تنبيه الآخرين.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الإنسان يعرف ذنوبه فقط إذا نبهه الآخرون.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يعرف ذنوبه بالفطرة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الإنسان لا يعرف ذنوبه أبداً.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير قوله تعالى: ﴿بَلِ الْإِنْسَانُ عَلَى نَفْسِهِ بَصِيرَةٌ﴾؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "كيف يمكن تفسير قوله تعالى: ﴿بَلِ الْإِنْسَانُ عَلَى نَفْسِهِ بَصِيرَةٌ﴾؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "كيف يمكن تفسير قوله تعالى: ﴿بَلِ الْإِنْسَانُ عَلَى نَفْسِهِ بَصِيرَةٌ﴾؟"
-      },
-      "subContentId": "1aa8af61-849a-4bf6-a7e3-bfc0c6f163b6"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة تعزز الفطرة وتجعلها أكثر وضوحاً.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة تعزز الفطرة وتجعلها أكثر وضوحاً.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة لا تتعارض مع الفطرة بل تعززها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة تتعارض مع الفطرة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة مرتبطة بالفطرة وتعززها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة لا علاقة لها بالفطرة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة لا تغير الفطرة بل تعززها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة تغير الفطرة.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العلاقة بين الفطرة والعبادة في الإسلام؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي العلاقة بين الفطرة والعبادة في الإسلام؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي العلاقة بين الفطرة والعبادة في الإسلام؟"
-      },
-      "subContentId": "85bfe109-5e9e-453f-92a9-d93da6ce042e"
+      "subContentId": "2c0b8c2b-d952-49c0-b2e4-bd2d5390de57"
     },
     {
       "params": {
@@ -926,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشعور بالذنب يدل على أن الفطرة ما زالت تعمل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تعارض الفطرة مع منهج الله يعد سلوكاً شاذًا عن طبيعة الإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشعور بالذنب دليل على الخروج عن الفطرة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشعور بالذنب ليس دليلاً على ضعف الإيمان.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الشعور بالذنب دليل على ضعف الإيمان.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة تتعارض مع منهج الله.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشعور بالذنب دليل على قوة الفطرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة تتماشى مع ما يطلبه الله منها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشعور بالذنب دليل على قوة الفطرة.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة متوافقة تمامًا مع منهج الله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشعور بالذنب يدل على الاكتراث وليس العكس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك ارتباط وثيق بين الفطرة ومنهج الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشعور بالذنب دليل على عدم الاكتراث.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة ليست لها علاقة بمنهج الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الفطرة هي ثابته وتظل قادرة على مواجهة الظروف الزمنية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الفطرة تغير حسب الزمان والمكان.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +499,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يشعر بالذنب بعد ارتكاب معصية، كيف يمكن تفسير هذا الشعور بناءً على مفهوم الفطرة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما العلاقة بين الفطرة ومنهج الله كما تم توضيحه في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يشعر بالذنب بعد ارتكاب معصية، كيف يمكن تفسير هذا الشعور بناءً على مفهوم الفطرة؟",
+        "title": "ما العلاقة بين الفطرة ومنهج الله كما تم توضيحه في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يشعر بالذنب بعد ارتكاب معصية، كيف يمكن تفسير هذا الشعور بناءً على مفهوم الفطرة؟"
+        "extraTitle": "ما العلاقة بين الفطرة ومنهج الله كما تم توضيحه في النص؟"
       },
-      "subContentId": "794ec7d1-84a2-41df-9d08-0f27262ef326"
+      "subContentId": "ec81ba95-7026-414e-8fe7-50fa8dccf085"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! بناء النجاح على حساب الآخرين يؤدي إلى الانهيار الداخلي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">بناء النجاح على حساب الآخرين.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تحسين الذات يمثل خطوة إيجابية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاهتمام بتحسين الذات.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">مساعدة الآخرين تعزز الفطرة السليمة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">مساعدة الآخرين.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الثروات بطريقة مشروعة لا ينجم عنه انهيار داخلي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تحقيق الثروات بوسائل مشروعة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يمكن أن يؤدي إلى الانهيار الداخلي بحسب النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما الذي يمكن أن يؤدي إلى الانهيار الداخلي بحسب النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما الذي يمكن أن يؤدي إلى الانهيار الداخلي بحسب النص؟"
+      },
+      "subContentId": "2958f166-246f-4eef-a4af-2333e5deace5"
     },
     {
       "params": {
@@ -1027,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات قد تكون صحيحة لكن هناك عوامل أخرى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التوافق نابع من الفطرة والإلهام الداخلي وليس فقط التعلم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات غير صحيحة.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة والعقل مرتبطان بالتعليم والتربية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المعاصي الخفية يمكن أن تؤثر على الفطرة والراحة النفسية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! كلاهما مبنيان على القيم السامية مثل العدل والرحمة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هناك معاصي خفية تؤثر على الفطرة.</p>"
+            "text": "<p style=\"text-align:right\">كلاهما يُبنى على مبادئ متوافقة مثل العدل والرحمة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الراحة النفسية مرتبطة بالتوافق مع الفطرة والعبادات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التوافق بين العقل والفطرة ليس مصادفة بل ذات جذور عميقة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الراحة النفسية ليست مرتبطة بالعبادات.</p>"
+            "text": "<p style=\"text-align:right\">التوافق هو مجرد مصادفة وليس له أساس عقلاني.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة مرتبطة بالراحة النفسية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إذا اتجه العقل عكس الفطرة، فإن ذلك يؤدي إلى قلق داخلي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الفطرة لا علاقة لها بالراحة النفسية.</p>"
+            "text": "<p style=\"text-align:right\">عقل الإنسان يمكن أن يتجه عكس الفطرة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يمارس العبادات لكنه يشعر بعدم الراحة النفسية، ما هو التفسير المحتمل بناءً على الفطرة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير التوافق بين عقل الإنسان ومنهج الله وفقًا لما ورد في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يمارس العبادات لكنه يشعر بعدم الراحة النفسية، ما هو التفسير المحتمل بناءً على الفطرة؟",
+        "title": "كيف يمكن تفسير التوافق بين عقل الإنسان ومنهج الله وفقًا لما ورد في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يمارس العبادات لكنه يشعر بعدم الراحة النفسية، ما هو التفسير المحتمل بناءً على الفطرة؟"
+        "extraTitle": "كيف يمكن تفسير التوافق بين عقل الإنسان ومنهج الله وفقًا لما ورد في النص؟"
       },
-      "subContentId": "5e1becb5-499b-44c0-b704-26894737ac0c"
+      "subContentId": "fb7d6e80-69c1-4c60-85e9-0f1166077342"
     },
     {
       "params": {
@@ -1128,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التربية قد تعزز هذا الشعور لكن الفطرة هي الأساس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه نظرة مثالية، ولكن النفس لها جوانب متعددة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هذا الشعور ناتج عن التربية فقط.</p>"
+            "text": "<p style=\"text-align:right\">النفس دائمًا تفكر في الخير ولا تميل للسوء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة تحب الخير وتشعر بالراحة عند فعله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! النفس قد تؤدي بالإنسان نحو السوء لكنها تدرك ذلك أيضًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هذا الشعور ناتج عن الفطرة التي تحب الخير.</p>"
+            "text": "<p style=\"text-align:right\">النفس قد تدفع الإنسان إلى المعاصي لكنها تعرف الخطأ.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون دافعاً لكن الفطرة هي الأساس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النفس ليست محصورة، بل تحتوي على ضغوطات وضغوطات مختلفة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هذا الشعور ناتج عن الرغبة في الشهرة.</p>"
+            "text": "<p style=\"text-align:right\">النفس محصورة فقط في تجاوز الحدود.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الضغط الاجتماعي قد يؤثر لكن الفطرة هي الأساس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النفس تعبر عن مشاعر متنوعة بما في ذلك السوء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هذا الشعور ناتج عن الضغط الاجتماعي.</p>"
+            "text": "<p style=\"text-align:right\">النفس لا تعبر عن مشاعر السوء.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +802,321 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يشعر بالراحة عند مساعدة الآخرين، كيف يمكن تفسير هذا الشعور بناءً على الفطرة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ماذا يعني القول إن النفس يمكن أن تكون 'لأَمَّارَةٌ بِالسُّوءِ' وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يشعر بالراحة عند مساعدة الآخرين، كيف يمكن تفسير هذا الشعور بناءً على الفطرة؟",
+        "title": "ماذا يعني القول إن النفس يمكن أن تكون 'لأَمَّارَةٌ بِالسُّوءِ' وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يشعر بالراحة عند مساعدة الآخرين، كيف يمكن تفسير هذا الشعور بناءً على الفطرة؟"
+        "extraTitle": "ماذا يعني القول إن النفس يمكن أن تكون 'لأَمَّارَةٌ بِالسُّوءِ' وفقًا للنص؟"
       },
-      "subContentId": "83ff0c83-fab5-4f27-971f-f5c0107c7135"
+      "subContentId": "02b71efc-10d1-449e-bfff-dd322a985e74"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">عدم اتباع الفطرة الصحيحة قد يؤدي إلى فقدان الراحة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تحقيق الراحة النفسية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الطمأنينة تأتي من اتباع الفطرة وليس الابتعاد عنها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الشعور بالطمأنينة والثقة.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الابتعاد عن الفطرة يؤدي إلى أزمة داخلية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الابتعاد عن القيم الجيدة والشعور بالانهيار الداخلي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">النجاح قد يظهر ولكن سيتبعه عدم راحة نفسية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تسارع النجاح في الحياة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الآثار المترتبة على عدم اتباع الفطرة الصحيحة بحسب ما ورد في النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هي الآثار المترتبة على عدم اتباع الفطرة الصحيحة بحسب ما ورد في النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هي الآثار المترتبة على عدم اتباع الفطرة الصحيحة بحسب ما ورد في النص؟"
+      },
+      "subContentId": "815737fa-05bc-4732-8142-c78006b07aa2"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تشجيع التظاهر لن يحل المشكلة الحقيقية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تشجيعه على التظاهر بأنه بخير.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! من المهم توضيح أهمية الفطرة وأثرها الإيجابي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">مساعدته في فهم أهمية العودة إلى فطرته.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القلق قد يكون طبيعي لكن يجب أن يفهم أسبابه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إقناعه بأن القلق حالة طبيعية بلا حلول.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تجاهل المشاعر لن يساعد في الشفاء أو الفهم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تجاهل مشاعره لأن المشاكل ليست مهمة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا واجهت شابًا يشعر بالقلق بسبب تصرفاته المخالفة للفطرة، كيف يمكنك مساعدته وفقًا لمبادئ النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا واجهت شابًا يشعر بالقلق بسبب تصرفاته المخالفة للفطرة، كيف يمكنك مساعدته وفقًا لمبادئ النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا واجهت شابًا يشعر بالقلق بسبب تصرفاته المخالفة للفطرة، كيف يمكنك مساعدته وفقًا لمبادئ النص؟"
+      },
+      "subContentId": "f0f47261-cee8-48aa-8fbc-86471a06aa29"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التنازل عن القيم لن يجلب السعادة على المدى الطويل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تتنازل عن قيمك لتحقيق النجاح.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب أن تستمع إلى ضميرك وتجد طرقًا للحفاظ على فطرتك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تستمع إلى ضميرك وتبحث عن حلول تراعي الفطرة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأعمال ليست بنفس أهمية القيم الفطرية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تتجاهل القيم لأن العمل أهم.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التبرير لن يحل مشاعرك الداخلية وسيتسبب في الاضطراب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تبرر تصرفاتك الخاطئة بأن الجميع يفعل ذلك.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا كنت تواجه ضغطًا في العمل يتعارض مع قيمك الفطرية، ماذا يجب أن تفعل وفقًا لما تم شرحه في النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا كنت تواجه ضغطًا في العمل يتعارض مع قيمك الفطرية، ماذا يجب أن تفعل وفقًا لما تم شرحه في النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا كنت تواجه ضغطًا في العمل يتعارض مع قيمك الفطرية، ماذا يجب أن تفعل وفقًا لما تم شرحه في النص؟"
+      },
+      "subContentId": "3fa64e78-b774-4d86-bc85-0d882985554e"
     }
   ],
   "disableBackwardsNavigation": false,
