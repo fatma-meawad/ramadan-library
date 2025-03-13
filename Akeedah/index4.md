@@ -1,11 +1,10 @@
 ---
 layout: default
 title: الفصل ٥
-description: تمهيد 
+description: تمهيد
 parent: العقيدة و الاعجاز
-nav_order: 13
+nav_order: 12
 has_children: true
 ---
-
 
 # {{ page.description }}

@@ -1,7 +1,7 @@
 ---
 title: دليل الأيات للكتاب
 layout: default
-nav_order: 60
+nav_order: 50
 parent: العقيدة و الاعجاز
 ---
 

@@ -9,6 +9,16 @@ margin: 20px; font-size: 8px;"></div>
             frameJs: 'https://cdn.jsdelivr.net/npm/h5p-standalone@3.8.0/dist/frame.bundle.js',
             frameCss: 'https://cdn.jsdelivr.net/npm/h5p-standalone@3.8.0/dist/styles/h5p.css'
         };
-        new H5PStandalone.H5P(el, options);
+        const h5pInstance =new H5PStandalone.H5P(el, options);
+     
+       
     });
+
+     // Restore Progress
+     if (localStorage.getItem(`h5p_progress_{{ include.id }}`) === "completed") {
+            console.log(`User already completed: {{ include.id }}`);
+            el.style.opacity = "0.5"; // Example: Grey out completed content
+        }
+
+
 </script>

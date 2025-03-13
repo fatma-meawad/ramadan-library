@@ -3,9 +3,8 @@ layout: default
 title: الفصل ١٣
 description: undefined
 parent: العقيدة و الاعجاز
-nav_order: 45
+nav_order: 44
 has_children: true
 ---
-
 
 # {{ page.description }}
