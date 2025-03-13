@@ -14,40 +14,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الإسلام لا يتعارض مع الطبيعة البشرية بل يتوافق معها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الإسلام يتعارض مع الطبيعة البشرية.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإعجاز العلمي يعني أن القرآن يحتوي على معلومات لم تكن معروفة في زمن النبي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإسلام يتوافق مع الفطرة السليمة للإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن القرآن يحتوي على معلومات علمية غير معروفة في زمن النبي.</p>"
+            "text": "<p style=\"text-align:right\">أن الإسلام يتوافق مع الطبيعة البشرية السليمة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن يتحدث عن حقائق علمية ولكن ليس فقط العلوم الحديثة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإسلام لا يفرض عادات غريبة بل يعزز القيم الفطرية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن القرآن يتحدث عن العلوم الحديثة فقط.</p>"
+            "text": "<p style=\"text-align:right\">أن الإسلام يفرض على الناس عادات غريبة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن لا يشرح الاكتشافات العلمية بالتفصيل بل يشير إليها بشكل عام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإسلام يعترف بالاختلافات الفردية ويوجهها نحو الخير.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن القرآن يشرح كل الاكتشافات العلمية بالتفصيل.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن خالي من الأخطاء العلمية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن القرآن يحتوي على أخطاء علمية.</p>"
+            "text": "<p style=\"text-align:right\">أن الإسلام لا يعترف بالاختلافات الفردية.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بالإعجاز العلمي في القرآن والسنة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما المقصود بأن الإسلام دين الفطرة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المقصود بالإعجاز العلمي في القرآن والسنة؟",
+        "title": "ما المقصود بأن الإسلام دين الفطرة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المقصود بالإعجاز العلمي في القرآن والسنة؟"
+        "extraTitle": "ما المقصود بأن الإسلام دين الفطرة؟"
       },
-      "subContentId": "725573e9-b38f-420e-833e-c4b4fa209c0a"
+      "subContentId": "5f657533-1c74-4955-a316-586f87efbf8a"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">سرعة الصوت أقل بكثير من السرعة المطلقة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه السرعة أقل من سرعة الضوء الفعلية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">سرعة الصوت.</p>"
+            "text": "<p style=\"text-align:right\">100,000 كيلومتر في الثانية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه السرعة أقل من سرعة الضوء الفعلية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">200,000 كيلومتر في الثانية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! السرعة المطلقة في الكون هي سرعة الضوء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! سرعة الضوء هي 300,000 كيلومتر في الثانية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">سرعة الضوء.</p>"
+            "text": "<p style=\"text-align:right\">300,000 كيلومتر في الثانية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">سرعة الرياح ليست السرعة المطلقة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه السرعة أعلى من سرعة الضوء الفعلية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">سرعة الرياح.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">سرعة الجاذبية ليست السرعة المطلقة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سرعة الجاذبية.</p>"
+            "text": "<p style=\"text-align:right\">400,000 كيلومتر في الثانية.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي السرعة المطلقة في الكون حسب النظرية النسبية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي سرعة الضوء وفقًا لنظرية النسبية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي السرعة المطلقة في الكون حسب النظرية النسبية؟",
+        "title": "ما هي سرعة الضوء وفقًا لنظرية النسبية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي السرعة المطلقة في الكون حسب النظرية النسبية؟"
+        "extraTitle": "ما هي سرعة الضوء وفقًا لنظرية النسبية؟"
       },
-      "subContentId": "30b607df-619d-4f2a-b39b-b7738a5986eb"
+      "subContentId": "4e968309-610e-4d37-ae3d-4f61d134a4fd"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآية تشير إلى نسبية الزمن وليس فقط الفرق بين الأرض والسماء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل الصالح معروف لدى الجميع وليس فقط المتدينين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الزمن يختلف بين الأرض والسماء.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآية لا تتحدث عن طول يوم القيامة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن يوم القيامة سيكون طويلاً.</p>"
+            "text": "<p style=\"text-align:right\">أنه معروف فقط لدى المتدينين.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الزمن نسبي ويمكن أن يختلف حسب السرعة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة السليمة تعرف الخير دون حاجة إلى تعليم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الزمن نسبي ويمكن أن يختلف حسب السرعة.</p>"
+            "text": "<p style=\"text-align:right\">أن الفطرة السليمة تعرفه دون حاجة إلى تعليم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآية تتحدث عن نسبية الزمن وليس عن علم الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل الصالح مفهوم بسيط وواضح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الله يعلم كل شيء.</p>"
+            "text": "<p style=\"text-align:right\">أنه يحتاج إلى تفسير معقد لفهمه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل الصالح مفهوم وواضح للعامة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنه غير مفهوم للعامة.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يدل عليه قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يعنيه الحديث عن أن العمل الصالح 'معروف'؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي يدل عليه قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟",
+        "title": "ما الذي يعنيه الحديث عن أن العمل الصالح 'معروف'؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي يدل عليه قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟"
+        "extraTitle": "ما الذي يعنيه الحديث عن أن العمل الصالح 'معروف'؟"
       },
-      "subContentId": "903dce71-d8b4-4c3e-b031-bed24e4d031e"
+      "subContentId": "4b89fd7f-ef63-45d6-86bc-46bdd60619d4"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النبي عليه الصلاة والسلام كان يعلم بكل ما في القرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية لا تتحدث عن سرعة مرور الزمن في السماء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه لم يكن يعلم بها.</p>"
+            "text": "<p style=\"text-align:right\">أن الزمن يمر بسرعة أكبر في السماء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الله أمر النبي بعدم شرحها لحكمة معينة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن المسافة التي يقطعها القمر في ألف سنة تعادل ما يقطعه الضوء في يوم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الله أمره بعدم شرحها.</p>"
+            "text": "<p style=\"text-align:right\">أن المسافة التي يقطعها القمر في ألف سنة تعادل ما يقطعه الضوء في يوم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لم تكن معروفة في ذلك الوقت.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية لا تقارن بين السنة القمرية والشمسية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنها كانت معروفة لدى الناس في ذلك الوقت.</p>"
+            "text": "<p style=\"text-align:right\">أن السنة القمرية أطول من السنة الشمسية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات تحتاج إلى تفسير علمي حديث ولكن هذا ليس السبب الرئيسي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية لا تتحدث عن توقف الزمن في السماء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنها تحتاج إلى تفسير علمي حديث.</p>"
+            "text": "<p style=\"text-align:right\">أن الزمن يتوقف في السماء.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,422 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">لماذا لم يشرح النبي عليه الصلاة والسلام الآيات الكونية في القرآن؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير الآية الكريمة 'وَإِنَّ يَوْماً عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ' في سياق سرعة الضوء؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "لماذا لم يشرح النبي عليه الصلاة والسلام الآيات الكونية في القرآن؟",
+        "title": "كيف يمكن تفسير الآية الكريمة 'وَإِنَّ يَوْماً عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ' في سياق سرعة الضوء؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "لماذا لم يشرح النبي عليه الصلاة والسلام الآيات الكونية في القرآن؟"
+        "extraTitle": "كيف يمكن تفسير الآية الكريمة 'وَإِنَّ يَوْماً عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ' في سياق سرعة الضوء؟"
       },
-      "subContentId": "a19e5ccc-fb8f-4659-9514-d0a545e0615d"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك حكم أخرى.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لتحدي البشر بإثبات صحتها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك حكم أخرى.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لتكون دليلاً على صدق النبي عليه الصلاة والسلام.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك حكم أخرى.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لإثبات أن القرآن من عند الله.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جميع الأسباب المذكورة صحيحة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">جميع ما سبق.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من وجود الآيات الكونية في القرآن؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي الحكمة من وجود الآيات الكونية في القرآن؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي الحكمة من وجود الآيات الكونية في القرآن؟"
-      },
-      "subContentId": "1f94ac1f-1675-4120-b293-2df2eb8f2eb5"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأرض ليست ثابتة بل تدور حول الشمس.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الأرض ستبقى ثابتة في مكانها.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الله يحافظ على توازن الكون.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الله يحافظ على توازن الكون.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأرض لن تتحرك بعيدًا عن الشمس بفضل حفظ الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الأرض ستتحرك بعيدًا عن الشمس.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون لن ينهار بفضل حفظ الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الكون سينهار قريبًا.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يدل عليه قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما الذي يدل عليه قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما الذي يدل عليه قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟"
-      },
-      "subContentId": "3c650756-13a7-4e99-a61a-32f9e2572b45"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن الإعجاز أعمق من ذلك.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الزمن يختلف حسب السرعة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآية لا تتحدث عن طول يوم القيامة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن يوم القيامة سيكون طويلاً.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآية تتحدث عن نسبية الزمن وليس عن علم الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الله يعلم كل شيء.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الزمن نسبي ويمكن أن يختلف حسب السرعة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الزمن نسبي ويمكن أن يختلف حسب السرعة.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الإعجاز في قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الإعجاز في قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الإعجاز في قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟"
-      },
-      "subContentId": "bf2cfb70-864a-4a74-b094-f9a8b47199d9"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجبال لا تتحرك بسرعة كبيرة ولكن مع دوران الأرض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الجبال تتحرك بسرعة كبيرة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأرض تدور حول الشمس ولكن الآية تتحدث عن حركة الجبال.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الأرض تدور حول الشمس.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الجبال تتحرك مع دوران الأرض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الجبال تتحرك مع دوران الأرض.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجبال تتحرك مع دوران الأرض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الجبال ثابتة ولا تتحرك.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يدل عليه قوله تعالى: ﴿وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ﴾؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما الذي يدل عليه قوله تعالى: ﴿وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ﴾؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما الذي يدل عليه قوله تعالى: ﴿وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ﴾؟"
-      },
-      "subContentId": "866cccbf-e6b6-4d74-a644-6096fcda0bee"
+      "subContentId": "4d18e464-d54d-4cbb-b5c4-d1b172850d5d"
     },
     {
       "params": {
@@ -825,37 +421,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الله يحافظ على توازن الكون.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! القرآن ذكر سرعة الضوء قبل اكتشافها بقرون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الله يحافظ على توازن الكون.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن ذكر سرعة الضوء قبل اكتشافها بقرون.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون لن ينهار بفضل حفظ الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن لم يشرح نظرية النسبية بالتفصيل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الكون سينهار قريبًا.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن شرح نظرية النسبية بالتفصيل.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأرض ليست ثابتة بل تدور حول الشمس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن لم يذكر أن الضوء أسرع من الصوت.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الأرض ستبقى ثابتة في مكانها.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن ذكر أن الضوء أسرع من الصوت.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون يتوسع ولكن الآية تتحدث عن حفظ الله للتوازن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن لم يذكر أن الضوء يمكن أن يتحول إلى مادة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن الكون سيتوسع إلى الأبد.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن ذكر أن الضوء يمكن أن يتحول إلى مادة.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الإعجاز في قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الإعجاز العلمي في ذكر سرعة الضوء في القرآن الكريم؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الإعجاز في قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟",
+        "title": "ما هو الإعجاز العلمي في ذكر سرعة الضوء في القرآن الكريم؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الإعجاز في قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟"
+        "extraTitle": "ما هو الإعجاز العلمي في ذكر سرعة الضوء في القرآن الكريم؟"
       },
-      "subContentId": "df76d406-3515-47ea-bcfb-21dc805ebfce"
+      "subContentId": "34df816c-d843-4691-847b-a7242aeaf550"
     },
     {
       "params": {
@@ -923,40 +519,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل الصالح ليس مفروضًا من المجتمع بل من الفطرة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأنه يفرضه المجتمع.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات التي تشير إلى حقائق علمية غير معروفة في زمن النبي تدل على صدقه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العمل الصالح يعكس القيم الإنسانية الأساسية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإظهار الآيات التي تشير إلى حقائق علمية لم تكن معروفة في زمن النبي.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يعكس القيم الإنسانية الأساسية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن خالي من الأخطاء العلمية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل الصالح ليس فقط لتحقيق المصالح الشخصية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإظهار أن القرآن يحتوي على أخطاء علمية.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يضمن تحقيق المصالح الشخصية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النبي لم يكن عالماً في الفيزياء ولكن القرآن يحتوي على إعجاز علمي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل الصالح ليس فقط لإرضاء الآخرين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإظهار أن النبي كان عالماً في الفيزياء.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن يتحدث عن حقائق علمية ولكن ليس فقط العلوم الحديثة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بإظهار أن القرآن يتحدث عن العلوم الحديثة فقط.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يرضي الآخرين فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يشك في صدق النبي عليه الصلاة والسلام، كيف يمكن استخدام الإعجاز العلمي في القرآن لإقناعه؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">لماذا يعتبر العمل الصالح جزءًا من الفطرة السليمة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كان شخص يشك في صدق النبي عليه الصلاة والسلام، كيف يمكن استخدام الإعجاز العلمي في القرآن لإقناعه؟",
+        "title": "لماذا يعتبر العمل الصالح جزءًا من الفطرة السليمة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كان شخص يشك في صدق النبي عليه الصلاة والسلام، كيف يمكن استخدام الإعجاز العلمي في القرآن لإقناعه؟"
+        "extraTitle": "لماذا يعتبر العمل الصالح جزءًا من الفطرة السليمة؟"
       },
-      "subContentId": "538a5ee2-2a3c-4c26-bbb8-ee18b7a9fe94"
+      "subContentId": "d390fff4-9471-4c36-8ce1-338617fcd37b"
     },
     {
       "params": {
@@ -1024,40 +620,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل اليدوي ليس مكروهًا في الإسلام.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن العمل اليدوي مكروه في الإسلام.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل اليدوي ليس أفضل أنواع العبادة بل هو محبوب إذا كان جادًا ومفيدًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن العمل اليدوي هو أفضل أنواع العبادة.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوازن الدقيق في الكون يدل على وجود خالق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العمل الجاد والمفيد محبوب عند الله ورسوله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإظهار أن الكون يحتوي على توازن دقيق يدل على وجود خالق.</p>"
+            "text": "<p style=\"text-align:right\">أن العمل الجاد والمفيد محبوب عند الله ورسوله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الانفجار الكبير لا ينفي وجود خالق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل اليدوي ليس مقتصرًا على الرجال فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإظهار أن الكون نشأ من انفجار كبير.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">توسع الكون لا ينفي وجود خالق.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بإظهار أن الكون يتوسع إلى الأبد.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون لن ينهار بفضل حفظ الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بإظهار أن الكون سينهار قريبًا.</p>"
+            "text": "<p style=\"text-align:right\">أن العمل اليدوي يقتصر على الرجال فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يعتقد أن الكون نشأ بالصدفة، كيف يمكن استخدام الآيات الكونية في القرآن لإقناعه بخلق الله؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لقول النبي صلى الله عليه وسلم 'إن هذه اليد يحبها الله ورسوله' في سياق العمل؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كان شخص يعتقد أن الكون نشأ بالصدفة، كيف يمكن استخدام الآيات الكونية في القرآن لإقناعه بخلق الله؟",
+        "title": "ما هو التفسير الصحيح لقول النبي صلى الله عليه وسلم 'إن هذه اليد يحبها الله ورسوله' في سياق العمل؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كان شخص يعتقد أن الكون نشأ بالصدفة، كيف يمكن استخدام الآيات الكونية في القرآن لإقناعه بخلق الله؟"
+        "extraTitle": "ما هو التفسير الصحيح لقول النبي صلى الله عليه وسلم 'إن هذه اليد يحبها الله ورسوله' في سياق العمل؟"
       },
-      "subContentId": "9c8902fd-8984-47be-b8f9-dc854aab0095"
+      "subContentId": "19ef15ff-120c-47e2-bd37-d14b10f36205"
     },
     {
       "params": {
@@ -1125,40 +721,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأعمال الصالحة لا تتعارض مع الفطرة بل تعبر عنها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الأعمال الصالحة تتعارض مع الفطرة.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات التي تشير إلى حقائق علمية غير معروفة في زمن النبي تدل على أن القرآن من عند الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأعمال الصالحة هي تعبير عن الفطرة السليمة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإظهار الآيات التي تشير إلى حقائق علمية لم تكن معروفة في زمن النبي.</p>"
+            "text": "<p style=\"text-align:right\">أن الأعمال الصالحة هي تعبير عن الفطرة السليمة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن خالي من الأخطاء العلمية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الفطرة لها علاقة وثيقة بالأعمال الصالحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإظهار أن القرآن يحتوي على أخطاء علمية.</p>"
+            "text": "<p style=\"text-align:right\">أن الفطرة لا علاقة لها بالأعمال الصالحة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النبي لم يكن عالماً في الفيزياء ولكن القرآن يحتوي على إعجاز علمي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأعمال الصالحة ليست مفروضة فقط بالقوانين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإظهار أن النبي كان عالماً في الفيزياء.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن يتحدث عن حقائق علمية ولكن ليس فقط العلوم الحديثة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بإظهار أن القرآن يتحدث عن العلوم الحديثة فقط.</p>"
+            "text": "<p style=\"text-align:right\">أن الأعمال الصالحة تفرضها القوانين فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +802,422 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يعتقد أن القرآن ليس من عند الله، كيف يمكن استخدام الإعجاز العلمي لإقناعه؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن أن نربط بين مفهوم 'الفطرة' في الإسلام وبين الأعمال الصالحة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كان شخص يعتقد أن القرآن ليس من عند الله، كيف يمكن استخدام الإعجاز العلمي لإقناعه؟",
+        "title": "كيف يمكن أن نربط بين مفهوم 'الفطرة' في الإسلام وبين الأعمال الصالحة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كان شخص يعتقد أن القرآن ليس من عند الله، كيف يمكن استخدام الإعجاز العلمي لإقناعه؟"
+        "extraTitle": "كيف يمكن أن نربط بين مفهوم 'الفطرة' في الإسلام وبين الأعمال الصالحة؟"
       },
-      "subContentId": "6d0a3f91-2dc3-48d9-af6c-9fcb929c132d"
+      "subContentId": "ff05bdd1-5a0f-4c3c-9273-cb48b5e1d2a3"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية التي تتحدث عن خلق السماوات والأرض لا تشير إلى سرعة الضوء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآية التي تتحدث عن خلق السماوات والأرض.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية التي تقارن يوم عند الله بألف سنة تشير إلى سرعة الضوء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآية التي تقارن يوم عند الله بألف سنة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية التي تتحدث عن دوران الشمس والقمر لا تشير إلى سرعة الضوء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآية التي تتحدث عن دوران الشمس والقمر.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية التي تتحدث عن خلق الإنسان لا تشير إلى سرعة الضوء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآية التي تتحدث عن خلق الإنسان.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل من القرآن على أن سرعة الضوء كانت معروفة قبل اكتشافها العلمي؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الدليل من القرآن على أن سرعة الضوء كانت معروفة قبل اكتشافها العلمي؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الدليل من القرآن على أن سرعة الضوء كانت معروفة قبل اكتشافها العلمي؟"
+      },
+      "subContentId": "7c6f5da3-3a97-4a98-974d-f8d4f444203f"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التجاهل يتعارض مع الفطرة السليمة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تتجاهله لأنك مشغول.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مساعدة الآخرين تعكس الفطرة السليمة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تساعده لأن ذلك يعكس الفطرة السليمة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">طلب المساعدة من شخص آخر ليس بالضرورة انعكاسًا للفطرة السليمة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تطلب من شخص آخر مساعدته.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">مساعدة الآخرين يجب أن تكون بغض النظر عن معرفتك بهم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تساعده فقط إذا كان معروفًا لك.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يحتاج إلى مساعدة في مكان عام، كيف يمكن أن يكون تصرفك انعكاسًا لفطرتك السليمة؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا رأيت شخصًا يحتاج إلى مساعدة في مكان عام، كيف يمكن أن يكون تصرفك انعكاسًا لفطرتك السليمة؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا رأيت شخصًا يحتاج إلى مساعدة في مكان عام، كيف يمكن أن يكون تصرفك انعكاسًا لفطرتك السليمة؟"
+      },
+      "subContentId": "58612f56-f4c8-4f63-90a1-0e75f5c20324"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">السعادة لا تأتي فقط من تحقيق المصالح الشخصية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">بأن السعادة تأتي من تحقيق المصالح الشخصية فقط.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إسعاد الآخرين هو مصدر حقيقي للسعادة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">بأن إسعاد الآخرين هو مصدر حقيقي للسعادة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">السعادة لها علاقة وثيقة بالآخرين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">بأن السعادة لا علاقة لها بالآخرين.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">إسعاد الآخرين لا يسبب التعاسة بل العكس.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">بأن إسعاد الآخرين يسبب التعاسة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن أن تفسر قول النبي صلى الله عليه وسلم 'إذا أردت أن تسعد فأسعد الآخرين' في حياتك اليومية؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "كيف يمكن أن تفسر قول النبي صلى الله عليه وسلم 'إذا أردت أن تسعد فأسعد الآخرين' في حياتك اليومية؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "كيف يمكن أن تفسر قول النبي صلى الله عليه وسلم 'إذا أردت أن تسعد فأسعد الآخرين' في حياتك اليومية؟"
+      },
+      "subContentId": "ce0ca786-d687-4ea2-bd76-ded4798dc430"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الكذب يتعارض مع الفطرة السليمة حتى لو كان لإنقاذ شخص.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تكذب لإنقاذ الشخص من المشكلة.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الصدق يعكس الفطرة السليمة حتى في المواقف الصعبة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تصدق لأن الصدق يعكس الفطرة السليمة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تجنب الموقف ليس بالضرورة انعكاسًا للفطرة السليمة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تتجنب الموقف تمامًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">طلب التصرف من شخص آخر ليس بالضرورة انعكاسًا للفطرة السليمة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تطلب من شخص آخر أن يتصرف بدلاً منك.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا كنت في موقف يتطلب منك الاختيار بين الصدق والكذب لإنقاذ شخص من مشكلة، كيف يمكن أن يكون تصرفك انعكاسًا لفطرتك السليمة؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا كنت في موقف يتطلب منك الاختيار بين الصدق والكذب لإنقاذ شخص من مشكلة، كيف يمكن أن يكون تصرفك انعكاسًا لفطرتك السليمة؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا كنت في موقف يتطلب منك الاختيار بين الصدق والكذب لإنقاذ شخص من مشكلة، كيف يمكن أن يكون تصرفك انعكاسًا لفطرتك السليمة؟"
+      },
+      "subContentId": "2cd902cb-2479-4874-b580-b597475d8637"
     }
   ],
   "disableBackwardsNavigation": false,

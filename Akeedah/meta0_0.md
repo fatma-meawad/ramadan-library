@@ -1,7 +1,7 @@
 ---
 layout: default
 title: تمهيد- أسئلة وجودية وإجاباتها في العقيدة الإسلامية
-description: تمهيد للكتاب
+description:  تمهيد- أسئلة وجودية وإجاباتها في العقيدة الإسلامية
 parent: الفصل ١
 nav_order: 2
 grand_parent: العقيدة و الاعجاز

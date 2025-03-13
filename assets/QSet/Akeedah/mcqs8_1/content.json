@@ -14,40 +14,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">مبدأ السببية ينفي حدوث الأشياء بدون سبب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن كل شيء يحدث بدون سبب.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">السببية لا تقتصر على الأسباب المادية فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن كل شيء يحدث بسبب مادي فقط.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل يقوم على مبادئ السببية والغائية وعدم التناقض.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مبدأ السببية يؤكد أن كل شيء يحدث بسبب يؤدي إلى نتيجة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">السببية، الغائية، عدم التناقض</p>"
+            "text": "<p style=\"text-align:right\">أن كل شيء يحدث بسبب، وهذا السبب يؤدي إلى نتيجة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل لا يقوم على مبدأ التناقض.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يقبل حدوث الأشياء بشكل عشوائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">السببية، الغائية، التناقض</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، التكرار ليس من مبادئ العقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">السببية، الغائية، التكرار</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، التغيير ليس من مبادئ العقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">السببية، الغائية، التغيير</p>"
+            "text": "<p style=\"text-align:right\">أن الأحداث تحدث بشكل عشوائي.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,624 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي المبادئ الثلاثة التي يقوم عليها العقل وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو مبدأ السببية كما ورد في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي المبادئ الثلاثة التي يقوم عليها العقل وفقًا للنص؟",
+        "title": "ما هو مبدأ السببية كما ورد في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي المبادئ الثلاثة التي يقوم عليها العقل وفقًا للنص؟"
+        "extraTitle": "ما هو مبدأ السببية كما ورد في النص؟"
       },
-      "subContentId": "30d9efed-04dd-49b2-b210-1f1a63aacfa5"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، فهم النقل مهمة العقل بعد النقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">فهم النقل</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مهمة العقل قبل النقل هي التأكد من صحة النقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التأكد من صحة النقل</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، تجاهل النقل ليس من مهام العقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تجاهل النقل</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، تعديل النقل ليس من مهام العقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تعديل النقل</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي مهمة العقل قبل النقل؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي مهمة العقل قبل النقل؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي مهمة العقل قبل النقل؟"
-      },
-      "subContentId": "2dd00f7f-9f85-44a4-bf7c-4e2c5e9e350e"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الشهوة ليست فقط رغبة في المعرفة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رغبة الإنسان في المعرفة</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشهوة هي رغبة الإنسان في الكمال والجمال والنوال.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رغبة الإنسان في الكمال والجمال والنوال</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الشهوة لا تعني الرغبة في العزلة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رغبة الإنسان في العزلة</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الشهوة لا تعني الرغبة في الجهل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رغبة الإنسان في الجهل</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الشهوة وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي الشهوة وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي الشهوة وفقًا للنص؟"
-      },
-      "subContentId": "ff95cd3c-8b78-4384-a10c-f0531b9357a0"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل لا يفهم الأشياء بدون سبب.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل يفهم الأشياء بدون سبب</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل لا يفهم الأشياء بلا غاية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل يفهم الأشياء بلا غاية</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل يفهم الأشياء بلا تناقض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل يفهم الأشياء بلا تناقض</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل يفهم الأشياء وفقًا لنظام.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل يفهم الأشياء بلا نظام</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يتطابق العقل مع قوانين الكون وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "كيف يتطابق العقل مع قوانين الكون وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "كيف يتطابق العقل مع قوانين الكون وفقًا للنص؟"
-      },
-      "subContentId": "dd2dd14e-5895-4cc0-a86a-afb550a0c1d5"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل ليس الحكم على النقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل هو الحكم على النقل</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! دور العقل هو التأكد من صحة النقل وفهمه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل هو التأكد من صحة النقل وفهمه</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل لا يتجاهل النقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل هو تجاهل النقل</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل لا يعدل النقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل هو تعديل النقل</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو دور العقل في معرفة الله وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو دور العقل في معرفة الله وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو دور العقل في معرفة الله وفقًا للنص؟"
-      },
-      "subContentId": "25c75ff7-6b25-4219-a702-d769de828e7b"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الفطرة ليست ما يتعلمه الإنسان من المجتمع.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الفطرة هي ما يتعلمه الإنسان من المجتمع</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الفطرة ليست ما يتعلمه الإنسان من المدرسة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الفطرة هي ما يتعلمه الإنسان من المدرسة</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة هي ما فطر الله الناس عليه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الفطرة هي ما فطر الله الناس عليه</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الفطرة ليست ما يتعلمه الإنسان من التجارب.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الفطرة هي ما يتعلمه الإنسان من التجارب</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الفطرة وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي الفطرة وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي الفطرة وفقًا للنص؟"
-      },
-      "subContentId": "a5575151-5728-4031-bbf8-83b14969f8cc"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب السلف فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إثبات الصفات كما وردت دون تأويل أو تشبيه</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب الأشاعرة والمعتزلة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تأويل الصفات بطريقة رمزية تنفي التشبيه</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، وهو رأي بعض الفلاسفة والمتكلمين.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رفض الحديث عن الصفات تمامًا بحجة عدم إدراكها</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هناك عدة مدارس فكرية في تفسير الصفات الإلهية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">جميع ما سبق يعكس اتجاهات مختلفة لعلماء العقيدة</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟"
-      },
-      "subContentId": "ec1e45ef-8c5d-4ebd-8163-6a62edcc332b"
+      "subContentId": "cf67bbe3-21c5-4e80-847d-08b84e736af2"
     },
     {
       "params": {
@@ -724,37 +118,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشهوة هي المحرك الأساسي للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مبدأ الغائية يؤكد أن كل شيء في الكون له هدف وغاية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشهوة هي المحرك الأساسي للإنسان</p>"
+            "text": "<p style=\"text-align:right\">أن كل شيء في الكون له هدف وغاية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الشهوة ليست المقود الأساسي للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون خُلق بحكمة وهدف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشهوة هي المقود الأساسي للإنسان</p>"
+            "text": "<p style=\"text-align:right\">أن الكون خُلق بدون هدف.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الشهوة ليست الطريق الأساسي للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الغاية لا تبرر الوسيلة في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشهوة هي الطريق الأساسي للإنسان</p>"
+            "text": "<p style=\"text-align:right\">أن الغاية تبرر الوسيلة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الشهوة ليست الهدف الأساسي للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الغاية يمكن فهمها من خلال التفكير والتدبر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشهوة هي الهدف الأساسي للإنسان</p>"
+            "text": "<p style=\"text-align:right\">أن الغاية لا يمكن فهمها.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو دور الشهوة في حياة الإنسان وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو مبدأ الغائية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو دور الشهوة في حياة الإنسان وفقًا للنص؟",
+        "title": "ما هو مبدأ الغائية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو دور الشهوة في حياة الإنسان وفقًا للنص؟"
+        "extraTitle": "ما هو مبدأ الغائية؟"
       },
-      "subContentId": "d5da1817-cb40-4cd3-b9c9-269dbdfb3d4b"
+      "subContentId": "cb0cf910-2535-4005-93c8-823f3119eb14"
     },
     {
       "params": {
@@ -825,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، الحرية تشمل الاختيار بين الإيمان والكفر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">مبدأ عدم التناقض ينفي ذلك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحرية هي الاختيار بين الإيمان والكفر</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، الحرية تشمل الاختيار بين الخير والشر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الحرية هي الاختيار بين الخير والشر</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، الحرية تشمل الاختيار بين الصواب والخطأ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الحرية هي الاختيار بين الصواب والخطأ</p>"
+            "text": "<p style=\"text-align:right\">أن الشيء يمكن أن يكون صحيحًا وخاطئًا في نفس الوقت.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحرية تشمل جميع ما سبق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مبدأ عدم التناقض يؤكد أن الشيء لا يمكن أن يكون صحيحًا وخاطئًا في نفس الوقت.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جميع ما سبق</p>"
+            "text": "<p style=\"text-align:right\">أن الشيء لا يمكن أن يكون صحيحًا وخاطئًا في نفس الوقت.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التناقض ليس أساس التفكير بل يعيقه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن التناقض هو أساس التفكير.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التناقض يؤثر سلبًا على التفكير.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن التناقض لا يؤثر على التفكير.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,119 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الحرية وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو مبدأ عدم التناقض؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الحرية وفقًا للنص؟",
+        "title": "ما هو مبدأ عدم التناقض؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الحرية وفقًا للنص؟"
+        "extraTitle": "ما هو مبدأ عدم التناقض؟"
       },
-      "subContentId": "2c0af2f9-4bc8-4249-b9ce-bb44f0e68524"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل ليس الحكم على النقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل هو الحكم على النقل</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل هو التأكد من صحة النقل وفهمه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل هو التأكد من صحة النقل وفهمه</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل لا يتجاهل النقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل هو تجاهل النقل</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، العقل لا يعدل النقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل هو تعديل النقل</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن العقل هو الحكم على النقل. ما هو الرد الصحيح بناءً على النص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يعتقد أن العقل هو الحكم على النقل. ما هو الرد الصحيح بناءً على النص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يعتقد أن العقل هو الحكم على النقل. ما هو الرد الصحيح بناءً على النص؟"
-      },
-      "subContentId": "5efc374a-af51-478b-93b1-f75428754011"
+      "subContentId": "588f0c63-3176-4cbc-9677-09b55927a1e0"
     },
     {
       "params": {
@@ -1027,37 +320,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشهوة هي المحرك الأساسي للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الدماغ أخطر جهاز في الإنسان ويحتاج إلى حماية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشهوة هي المحرك الأساسي للإنسان</p>"
+            "text": "<p style=\"text-align:right\">لأنه أخطر جهاز في الإنسان ويحتاج إلى حماية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الشهوة ليست المقود الأساسي للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الدماغ يحتاج إلى حماية بسبب أهميته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشهوة هي المقود الأساسي للإنسان</p>"
+            "text": "<p style=\"text-align:right\">لأنه لا يحتاج إلى حماية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الشهوة ليست الطريق الأساسي للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الدماغ لا يمكن استبداله بسهولة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشهوة هي الطريق الأساسي للإنسان</p>"
+            "text": "<p style=\"text-align:right\">لأنه يمكن استبداله بسهولة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خطأ، الشهوة ليست الهدف الأساسي للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الدماغ له أهمية كبيرة في جسم الإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشهوة هي الهدف الأساسي للإنسان</p>"
+            "text": "<p style=\"text-align:right\">لأنه لا أهمية له.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن الشهوة هي المقود الأساسي للإنسان. ما هو الرد الصحيح بناءً على النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">لماذا وضع الله الدماغ داخل الجمجمة وفقًا لمبدأ الغائية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يعتقد أن الشهوة هي المقود الأساسي للإنسان. ما هو الرد الصحيح بناءً على النص؟",
+        "title": "لماذا وضع الله الدماغ داخل الجمجمة وفقًا لمبدأ الغائية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يعتقد أن الشهوة هي المقود الأساسي للإنسان. ما هو الرد الصحيح بناءً على النص؟"
+        "extraTitle": "لماذا وضع الله الدماغ داخل الجمجمة وفقًا لمبدأ الغائية؟"
       },
-      "subContentId": "daa35200-1fa2-47c6-b351-9bca3e3bdb41"
+      "subContentId": "555a0580-c947-42ad-a1ed-532f50502424"
     },
     {
       "params": {
@@ -1125,40 +418,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، الحرية تشمل الاختيار بين الإيمان والكفر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الحرية هي الاختيار بين الإيمان والكفر</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، الحرية تشمل الاختيار بين الخير والشر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الحرية هي الاختيار بين الخير والشر</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، الحرية تشمل الاختيار بين الصواب والخطأ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الحرية هي الاختيار بين الصواب والخطأ</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحرية تشمل جميع ما سبق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الكامل هو أن تأخذ بالأسباب وتتوكل على الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جميع ما سبق</p>"
+            "text": "<p style=\"text-align:right\">أن تأخذ بالأسباب وتتوكل على الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتماد على الأسباب فقط دون التوكل على الله غير كافٍ.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن تعتمد على الأسباب فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التوكل على الله فقط دون الأخذ بالأسباب غير كافٍ.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن تتوكل على الله فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الأسباب غير صحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن تتجاهل الأسباب.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +499,725 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن الحرية هي الاختيار بين الإيمان والكفر فقط. ما هو الرد الصحيح بناءً على النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الكامل من الأسباب كما ورد في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يعتقد أن الحرية هي الاختيار بين الإيمان والكفر فقط. ما هو الرد الصحيح بناءً على النص؟",
+        "title": "ما هو الموقف الكامل من الأسباب كما ورد في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يعتقد أن الحرية هي الاختيار بين الإيمان والكفر فقط. ما هو الرد الصحيح بناءً على النص؟"
+        "extraTitle": "ما هو الموقف الكامل من الأسباب كما ورد في النص؟"
       },
-      "subContentId": "60a7e453-a86c-4658-a963-bac80b585ee2"
+      "subContentId": "53b876f0-9b34-4a7d-855c-da0f7f980963"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! السائل بين الدماغ والجمجمة يمتص الصدمات ويحمي الدماغ.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لامتصاص الصدمات وحماية الدماغ.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">السائل لا يوفر الغذاء للدماغ.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لتوفير الغذاء للدماغ.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">السائل لا يزيد حجم الدماغ.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لزيادة حجم الدماغ.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">السائل لا يضعف الدماغ بل يحميه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لإضعاف الدماغ.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو دور السائل بين الدماغ والجمجمة؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو دور السائل بين الدماغ والجمجمة؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو دور السائل بين الدماغ والجمجمة؟"
+      },
+      "subContentId": "672c8135-7e54-4a72-adb8-125371781f92"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الكامل يأخذ بالأسباب ويتوكل على الله، بينما الناقص يعتمد على الأسباب فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الموقف الكامل يأخذ بالأسباب ويتوكل على الله، بينما الناقص يعتمد على الأسباب فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الموقف الكامل لا يعتمد على الله فقط بل يأخذ بالأسباب أيضًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الموقف الكامل يعتمد على الله فقط، بينما الناقص يأخذ بالأسباب.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق واضح بين الموقفين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لا يوجد فرق بين الموقفين.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الموقف الكامل لا يتجاهل الأسباب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الموقف الكامل يتجاهل الأسباب.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين الموقف الكامل والموقف الناقص من الأسباب؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الفرق بين الموقف الكامل والموقف الناقص من الأسباب؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الفرق بين الموقف الكامل والموقف الناقص من الأسباب؟"
+      },
+      "subContentId": "cfbf777e-7e80-4df5-8245-d600e7993425"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحديث يؤكد على الأخذ بالأسباب والحكمة ثم التوكل على الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الله يلوم على التقصير في الأخذ بالأسباب، ويجب على المسلم أن يكون حكيمًا ويتوكل على الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الله يلوم على التقصير في الأخذ بالأسباب وليس على التوكل فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الله يلوم على التوكل فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الكيس هنا يعني الحكمة وليس الغنى المادي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الكيس يعني الغنى المادي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التوكل على الله لا يلغي الحاجة إلى الأخذ بالأسباب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن التوكل على الله يلغي الحاجة إلى الأخذ بالأسباب.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو تفسير الحديث الشريف: 'إِنَّ اللَّهَ يَلُومُ عَلَى الْعَجْزِ، وَلَكِنْ عَلَيْكَ بِالْكَيْسِ، فَإِذَا غَلَبَكَ أَمْرٌ فَقُلْ: حَسْبِيَ اللَّهُ وَنِعْمَ الْوَكِيلُ'؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو تفسير الحديث الشريف: 'إِنَّ اللَّهَ يَلُومُ عَلَى الْعَجْزِ، وَلَكِنْ عَلَيْكَ بِالْكَيْسِ، فَإِذَا غَلَبَكَ أَمْرٌ فَقُلْ: حَسْبِيَ اللَّهُ وَنِعْمَ الْوَكِيلُ'؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو تفسير الحديث الشريف: 'إِنَّ اللَّهَ يَلُومُ عَلَى الْعَجْزِ، وَلَكِنْ عَلَيْكَ بِالْكَيْسِ، فَإِذَا غَلَبَكَ أَمْرٌ فَقُلْ: حَسْبِيَ اللَّهُ وَنِعْمَ الْوَكِيلُ'؟"
+      },
+      "subContentId": "f38714bf-4024-47ea-8ff9-bbc4ce6d1865"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تتحدث عن عظمة الكون ودقة خلقه مما يدل على إعجاز القرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن يتحدث عن عظمة الكون ودقة خلقه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية لا تتحدث عن الغنى المادي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن يتحدث عن الغنى المادي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية تتحدث عن الكون وليس الحياة الدنيا فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن يتحدث عن الحياة الدنيا فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن مليء بالإعجاز العلمي والبلاغي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن لا يحتوي على إعجاز.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الإعجاز في قوله تعالى: 'وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ'؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الإعجاز في قوله تعالى: 'وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ'؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الإعجاز في قوله تعالى: 'وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ'؟"
+      },
+      "subContentId": "2f9044b1-bea8-4f13-99e3-ea51d81f62ce"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقيدة الإسلامية تؤكد على الأخذ بالأسباب ثم التوكل على الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنه يجب عليه الأخذ بالأسباب ثم التوكل على الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التوكل على الله جزء أساسي من العقيدة الإسلامية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنه لا يحتاج إلى التوكل على الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التوكل على الله لا يلغي الحاجة إلى الأخذ بالأسباب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن التوكل على الله يلغي الحاجة إلى الأخذ بالأسباب.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأخذ بالأسباب مهم في الإسلام.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الأخذ بالأسباب غير مهم.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يعتمد على الأسباب فقط دون التوكل على الله، ما هو الموقف الصحيح وفقًا للعقيدة الإسلامية؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا كان شخص يعتمد على الأسباب فقط دون التوكل على الله، ما هو الموقف الصحيح وفقًا للعقيدة الإسلامية؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا كان شخص يعتمد على الأسباب فقط دون التوكل على الله، ما هو الموقف الصحيح وفقًا للعقيدة الإسلامية؟"
+      },
+      "subContentId": "9d74b664-cdac-4df1-9f69-e1dac564364f"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! النص يؤكد على أهمية النشاط الهادف وعدم تضييع الوقت.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يبحث عن نشاط هادف بدلاً من تضييع الوقت.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">اللعب بلا هدف يعتبر تضييعًا للوقت.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يستمر في اللعب لأنه ممتع.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">اللعب بلا هدف يعتبر مشكلة وفقًا للنص.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن اللعب بلا هدف ليس مشكلة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الوقت ذو قيمة كبيرة في الإسلام.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الوقت ليس ذا قيمة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يلعب النرد لساعات طويلة دون هدف، كيف يمكنك نصحه بناءً على النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا رأيت شخصًا يلعب النرد لساعات طويلة دون هدف، كيف يمكنك نصحه بناءً على النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا رأيت شخصًا يلعب النرد لساعات طويلة دون هدف، كيف يمكنك نصحه بناءً على النص؟"
+      },
+      "subContentId": "18d13d40-dd57-46df-b19c-e421e43c74af"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحديث يؤكد على بذل الجهد ثم التوكل على الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن تبذل كل جهدك ثم تقول: حسبي الله ونعم الوكيل.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التوقف عن المحاولة دون بذل الجهد غير صحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن تتوقف عن المحاولة فورًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">لوم الآخرين ليس حلاً للمشكلة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن تلوم الآخرين على الفشل.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الفشل ليس نهاية المطاف بل يجب الاستمرار في المحاولة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن تعتبر الفشل نهاية المطاف.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا واجهت مشكلة في العمل ولم تحلها بعد عدة محاولات، ما هو الموقف الصحيح وفقًا للحديث الشريف؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا واجهت مشكلة في العمل ولم تحلها بعد عدة محاولات، ما هو الموقف الصحيح وفقًا للحديث الشريف؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا واجهت مشكلة في العمل ولم تحلها بعد عدة محاولات، ما هو الموقف الصحيح وفقًا للحديث الشريف؟"
+      },
+      "subContentId": "9323e5cb-b80d-4aa0-81e9-89600aa325db"
     }
   ],
   "disableBackwardsNavigation": false,

@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية جزء من معرفة الله، ولكن هناك أيضًا الآيات التكوينية والقرآنية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القوة النابذة هي نتيجة لتخفيض السرعة، وليست القوة الأساسية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الآيات الكونية فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات التكوينية جزء من معرفة الله، ولكن هناك أيضًا الآيات الكونية والقرآنية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات التكوينية فقط.</p>"
+            "text": "<p style=\"text-align:right\">القوة النابذة</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! معرفة الله تتم من خلال التفكر في الآيات الكونية والتكوينية والقرآنية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! قوة الجاذبية هي التي تحافظ على الأرض في مسارها حول الشمس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الآيات الكونية والتكوينية والقرآنية.</p>"
+            "text": "<p style=\"text-align:right\">قوة الجاذبية</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات القرآنية جزء من معرفة الله، ولكن هناك أيضًا الآيات الكونية والتكوينية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القوة المغناطيسية لا علاقة لها بمسار الأرض حول الشمس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الآيات القرآنية فقط.</p>"
+            "text": "<p style=\"text-align:right\">القوة المغناطيسية</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القوة الكهربائية لا تؤثر على مسار الأرض حول الشمس.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">القوة الكهربائية</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي أنواع الآيات التي يمكن من خلالها معرفة الله حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي القوة التي تمنع الأرض من الانفلات من مسارها حول الشمس؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي أنواع الآيات التي يمكن من خلالها معرفة الله حسب النص؟",
+        "title": "ما هي القوة التي تمنع الأرض من الانفلات من مسارها حول الشمس؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي أنواع الآيات التي يمكن من خلالها معرفة الله حسب النص؟"
+        "extraTitle": "ما هي القوة التي تمنع الأرض من الانفلات من مسارها حول الشمس؟"
       },
-      "subContentId": "f4b8d2d3-2ca8-41eb-9e4d-18c4c482b5ca"
+      "subContentId": "406df076-3964-45f9-b3a5-83be4f5cea6c"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لا تقتصر على الأحداث التاريخية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">درجة الحرارة هذه أعلى بكثير مما يمكن أن تصل إليه الأرض في حالة الانفلات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن الأحداث التاريخية.</p>"
+            "text": "<p style=\"text-align:right\">صفر درجة مئوية</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات الكونية تشمل التفكر في خلق السماوات والأرض.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأرض يمكن أن تصل إلى مئتين وسبعين درجة تحت الصفر إذا انفلتت من الجاذبية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن خلق السماوات والأرض.</p>"
+            "text": "<p style=\"text-align:right\">مئتين وسبعين درجة تحت الصفر</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لا تتعلق بالأحكام الشرعية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">درجة الحرارة هذه أعلى بكثير مما يمكن أن تصل إليه الأرض في حالة الانفلات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن الأحكام الشرعية.</p>"
+            "text": "<p style=\"text-align:right\">مئة درجة مئوية</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لا تقتصر على القصص القرآنية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">درجة الحرارة هذه أعلى مما يمكن أن تصل إليه الأرض في حالة الانفلات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن القصص القرآنية.</p>"
+            "text": "<p style=\"text-align:right\">خمسين درجة تحت الصفر</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما المقصود بالآيات الكونية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي درجة الحرارة التي يمكن أن تصل إليها الأرض إذا انفلتت من الجاذبية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما المقصود بالآيات الكونية؟",
+        "title": "ما هي درجة الحرارة التي يمكن أن تصل إليها الأرض إذا انفلتت من الجاذبية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما المقصود بالآيات الكونية؟"
+        "extraTitle": "ما هي درجة الحرارة التي يمكن أن تصل إليها الأرض إذا انفلتت من الجاذبية؟"
       },
-      "subContentId": "993dc866-147f-4969-8c5e-9d999e2004d5"
+      "subContentId": "88bfbcda-3f89-4ed4-a8d5-cdecd5825e3e"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إثبات وجود الله جزء من الحكمة، ولكن التفكر يؤدي أيضًا إلى تعظيم الله ومحبته والخوف منه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سورة الرعد تتحدث عن رفع السماوات بغير عمد ترونها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لإثبات وجود الله فقط.</p>"
+            "text": "<p style=\"text-align:right\">سورة الرعد</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الآيات الكونية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية في سورة فاطر تشير إلى أن الله يمسك السماوات والأرض أن تزولا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لتعظيم الله ومحبته والخوف منه.</p>"
+            "text": "<p style=\"text-align:right\">سورة فاطر</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية ليس هدفه حل المشكلات اليومية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سورة البقرة لا تحتوي على هذه الآية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لحل المشكلات اليومية.</p>"
+            "text": "<p style=\"text-align:right\">سورة البقرة</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية ليس هدفه تحقيق النجاح المادي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سورة الكهف لا تحتوي على هذه الآية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لتحقيق النجاح المادي.</p>"
+            "text": "<p style=\"text-align:right\">سورة الكهف</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من التفكر في الآيات الكونية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الآية القرآنية التي تشير إلى أن الله يمسك السماوات والأرض أن تزولا؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الحكمة من التفكر في الآيات الكونية؟",
+        "title": "ما هي الآية القرآنية التي تشير إلى أن الله يمسك السماوات والأرض أن تزولا؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الحكمة من التفكر في الآيات الكونية؟"
+        "extraTitle": "ما هي الآية القرآنية التي تشير إلى أن الله يمسك السماوات والأرض أن تزولا؟"
       },
-      "subContentId": "015f106c-ebe9-42f8-ab98-9ef504a929dc"
+      "subContentId": "abe0d0f3-57c8-49bd-9d71-240b3418e554"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن عاقبة المكذبين، وليس عن التفكر في الآيات الكونية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">انخفاض السرعة يؤدي إلى تقليل القوة النابذة، وليس زيادتها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿قُلْ سِيرُوا فِي الْأَرْضِ ثُمَّ انْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ﴾</p>"
+            "text": "<p style=\"text-align:right\">تزيد القوة النابذة</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية تشير إلى أهمية التفكر في خلق السماوات والأرض.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! انخفاض السرعة يؤدي إلى تقليل القوة النابذة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ﴾</p>"
+            "text": "<p style=\"text-align:right\">تقل القوة النابذة</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن عدل الله، وليس عن التفكر في الآيات الكونية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض لا تتوقف عن الدوران بسبب انخفاض السرعة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ﴾</p>"
+            "text": "<p style=\"text-align:right\">تتوقف الأرض عن الدوران</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تحث على تدبر القرآن، وليس التفكر في الآيات الكونية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قوة الجاذبية لا تتأثر بانخفاض سرعة الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا﴾</p>"
+            "text": "<p style=\"text-align:right\">تزيد قوة الجاذبية</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل القرآني على أهمية التفكر في الآيات الكونية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يحدث إذا انخفضت سرعة الأرض بشكل طارئ؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الدليل القرآني على أهمية التفكر في الآيات الكونية؟",
+        "title": "ما الذي يحدث إذا انخفضت سرعة الأرض بشكل طارئ؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الدليل القرآني على أهمية التفكر في الآيات الكونية؟"
+        "extraTitle": "ما الذي يحدث إذا انخفضت سرعة الأرض بشكل طارئ؟"
       },
-      "subContentId": "1dce6d59-fc9e-4e3d-890d-2c9179ff8bae"
+      "subContentId": "507d005c-336c-4ac9-bef9-d4a4a88ff478"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية لا يهدف إلى زيادة الثروة المادية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القوة المطلوبة أكبر بكثير من مليون حبل فولاذي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيادة الثروة المادية.</p>"
+            "text": "<p style=\"text-align:right\">مليون حبل فولاذي</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الآيات الكونية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نحتاج إلى مليون مليون حبل فولاذي لإعادة الأرض إلى الشمس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تعظيم الله ومحبته والخوف منه.</p>"
+            "text": "<p style=\"text-align:right\">مليون مليون حبل فولاذي</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية لا يقتصر على تحقيق السعادة الدنيوية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القوة المطلوبة أكبر بكثير من مئة ألف حبل فولاذي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق السعادة الدنيوية فقط.</p>"
+            "text": "<p style=\"text-align:right\">مئة ألف حبل فولاذي</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية ليس هدفه اكتساب المعرفة العلمية فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القوة المطلوبة أكبر بكثير من عشرة آلاف حبل فولاذي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اكتساب المعرفة العلمية فقط.</p>"
+            "text": "<p style=\"text-align:right\">عشرة آلاف حبل فولاذي</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة التفكر في الآيات الكونية حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي القوة المطلوبة لإعادة الأرض إلى الشمس إذا انفلتت؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي نتيجة التفكر في الآيات الكونية حسب النص؟",
+        "title": "ما هي القوة المطلوبة لإعادة الأرض إلى الشمس إذا انفلتت؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي نتيجة التفكر في الآيات الكونية حسب النص؟"
+        "extraTitle": "ما هي القوة المطلوبة لإعادة الأرض إلى الشمس إذا انفلتت؟"
       },
-      "subContentId": "d0060af7-9630-4a57-aaef-2a9bb03fff47"
+      "subContentId": "0e10fdd6-630c-424f-8d83-e7ee62b9ea54"
     },
     {
       "params": {
@@ -522,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة فهم أفعال الله التكوينية بالتفصيل قد لا تكون ممكنة دائمًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سورة فاطر تتحدث عن إمساك السماوات والأرض أن تزولا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">محاولة فهمها بالتفصيل.</p>"
+            "text": "<p style=\"text-align:right\">سورة فاطر</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بأفعال الله التكوينية دون محاولة فهمها بالكامل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية في سورة الرعد تشير إلى رفع السماوات بغير عمد ترونها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التسليم بها دون محاولة فهمها.</p>"
+            "text": "<p style=\"text-align:right\">سورة الرعد</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رفض أفعال الله التكوينية ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سورة البقرة لا تحتوي على هذه الآية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">رفضها إذا لم تفهم.</p>"
+            "text": "<p style=\"text-align:right\">سورة البقرة</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على أفعال الله التكوينية ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سورة الكهف لا تحتوي على هذه الآية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاعتراض عليها إذا لم تعجبنا.</p>"
+            "text": "<p style=\"text-align:right\">سورة الكهف</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +600,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من أفعال الله التكوينية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الآية القرآنية التي تشير إلى رفع السماوات بغير عمد ترونها؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من أفعال الله التكوينية؟",
+        "title": "ما هي الآية القرآنية التي تشير إلى رفع السماوات بغير عمد ترونها؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من أفعال الله التكوينية؟"
+        "extraTitle": "ما هي الآية القرآنية التي تشير إلى رفع السماوات بغير عمد ترونها؟"
       },
-      "subContentId": "f72b577e-9a83-4746-8924-ad30b078335d"
+      "subContentId": "d4519610-c7a1-4325-b2f1-c08218055b19"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيتان تشيران إلى وجود الجاذبية قبل اكتشافها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تشير إلى وجود الجاذبية قبل اكتشافها</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيتان لا تشيران إلى دوران الأرض حول الشمس.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تشير إلى أن الأرض تدور حول الشمس</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيتان لا تشيران إلى وجود حياة على كواكب أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تشير إلى وجود حياة على كواكب أخرى</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيتان لا تشيران إلى أن الكون له بداية ونهاية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تشير إلى أن الكون له بداية ونهاية</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الإعجاز العلمي في الآيتين الكريمتين من سورة فاطر والرعد؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الإعجاز العلمي في الآيتين الكريمتين من سورة فاطر والرعد؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الإعجاز العلمي في الآيتين الكريمتين من سورة فاطر والرعد؟"
+      },
+      "subContentId": "2e9e26de-1501-4fc6-9c73-081b141b4b57"
     },
     {
       "params": {
@@ -623,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن لا يقتصر على نفي الفعل فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأعمدة غير المرئية هي تفسير غير دقيق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الفعل فقط، بينما نفي الحدث يعني نفي الصفة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن لا يقتصر على نفي الصفة فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الصفة فقط، بينما نفي الحدث يعني نفي الفعل.</p>"
+            "text": "<p style=\"text-align:right\">أن السماوات مرفوعة بأعمدة غير مرئية</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نفي الشأن يعني نفي الفعل مع التأكيد على أنه خلاف الطبيعة، بينما نفي الحدث يعني نفي الفعل فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! السماوات مرفوعة بقوى الجذب غير المرئية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الفعل مع التأكيد على أنه خلاف الطبيعة، بينما نفي الحدث يعني نفي الفعل فقط.</p>"
+            "text": "<p style=\"text-align:right\">أن السماوات مرفوعة بقوى الجذب غير المرئية</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن لا يتعلق بنفي الصفة فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأعمدة المرئية هي تفسير غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الفعل مع التأكيد على أنه خلاف الطبيعة، بينما نفي الحدث يعني نفي الصفة فقط.</p>"
+            "text": "<p style=\"text-align:right\">أن السماوات مرفوعة بأعمدة مرئية</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القوى الكهربائية لا علاقة لها برفع السماوات.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن السماوات مرفوعة بقوى كهربائية</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين نفي الشأن ونفي الحدث في اللغة العربية حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لقول الله تعالى: 'بغير عمد ترونها'؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الفرق بين نفي الشأن ونفي الحدث في اللغة العربية حسب النص؟",
+        "title": "ما هو التفسير الصحيح لقول الله تعالى: 'بغير عمد ترونها'؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الفرق بين نفي الشأن ونفي الحدث في اللغة العربية حسب النص؟"
+        "extraTitle": "ما هو التفسير الصحيح لقول الله تعالى: 'بغير عمد ترونها'؟"
       },
-      "subContentId": "40cb5e9c-006b-4152-a175-2170542d1ac3"
+      "subContentId": "70b37eed-232f-4c63-8920-001acbf7b191"
     },
     {
       "params": {
@@ -724,37 +825,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تصديق القصص دون تفكير ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">دوران الأرض حول الشمس هو جزء من النظام الكوني، وليس الدليل الوحيد على عظمة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تصديقها دون تفكير.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رفض القصص تمامًا ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رفضها تمامًا.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض تدور حول الشمس</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم لله وعدم الانشغال بالقصص التي نسمعها من آخر فصل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إمساك الله للسماوات والأرض أن تزولا هو دليل على عظمته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التسليم لله وعدم الانشغال بها.</p>"
+            "text": "<p style=\"text-align:right\">أن الله يمسك السماوات والأرض أن تزولا</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة فهم القصص بالتفصيل قد لا تكون ممكنة دائمًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">بداية ونهاية الكون هي جزء من الإيمان، وليس الدليل الوحيد على عظمة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">محاولة فهمها بالتفصيل.</p>"
+            "text": "<p style=\"text-align:right\">أن الكون له بداية ونهاية</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">وجود حياة على كواكب أخرى هو فرضية، وليس دليلًا على عظمة الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن هناك حياة على كواكب أخرى</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +903,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من القصص التي نسمعها من آخر فصل حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل على عظمة الله في خلق الكون وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من القصص التي نسمعها من آخر فصل حسب النص؟",
+        "title": "ما هو الدليل على عظمة الله في خلق الكون وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من القصص التي نسمعها من آخر فصل حسب النص؟"
+        "extraTitle": "ما هو الدليل على عظمة الله في خلق الكون وفقًا للنص؟"
       },
-      "subContentId": "86c093b5-2bff-4925-8484-8d56eb74bb0b"
+      "subContentId": "a422cb98-0187-4d3e-96ac-8e832dfa8fc3"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأرض ستتحول إلى قبر جليدي بمئتين وسبعين درجة تحت الصفر.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">ستصبح الأرض قبراً جليدياً</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">درجة حرارة الأرض ستقل بشكل كبير، وليس العكس.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">ستزداد درجة حرارة الأرض</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض لا تتوقف عن الدوران بسبب الانفلات من الجاذبية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">ستتوقف الأرض عن الدوران</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض لن تصبح كوكباً مشتعلاً، بل ستتجمد.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">ستصبح الأرض كوكباً مشتعلاً</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا افترضنا أن الأرض انفلتت من الجاذبية، ما هي النتيجة المباشرة لذلك؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا افترضنا أن الأرض انفلتت من الجاذبية، ما هي النتيجة المباشرة لذلك؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا افترضنا أن الأرض انفلتت من الجاذبية، ما هي النتيجة المباشرة لذلك؟"
+      },
+      "subContentId": "38d9e0b3-9105-4503-870c-f905393e33b0"
     },
     {
       "params": {
@@ -825,37 +1027,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إثبات وجود الله جزء من الحكمة، ولكن هناك أيضًا تعظيم الله ومحبته والخوف منه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك تحديات أخرى.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لإثبات وجود الله فقط.</p>"
+            "text": "<p style=\"text-align:right\">الحاجة إلى مليون مليون حبل فولاذي</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك تحديات أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عدم وجود مساحة كافية على سطح الأرض</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك تحديات أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عدم وجود تقنية كافية لتنفيذ ذلك</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! ذكر الآيات الكونية والتكوينية والقرآنية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جميع التحديات المذكورة صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لتعظيم الله ومحبته والخوف منه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ذكر الآيات الكونية والتكوينية والقرآنية ليس هدفه حل المشكلات اليومية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لحل المشكلات اليومية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ذكر الآيات الكونية والتكوينية والقرآنية ليس هدفه تحقيق النجاح المادي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لتحقيق النجاح المادي.</p>"
+            "text": "<p style=\"text-align:right\">جميع ما سبق</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من ذكر الآيات الكونية والتكوينية والقرآنية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا أراد العلماء إعادة الأرض إلى الشمس بعد انفلاتها، ما هي التحديات التي سيواجهونها؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الحكمة من ذكر الآيات الكونية والتكوينية والقرآنية؟",
+        "title": "إذا أراد العلماء إعادة الأرض إلى الشمس بعد انفلاتها، ما هي التحديات التي سيواجهونها؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الحكمة من ذكر الآيات الكونية والتكوينية والقرآنية؟"
+        "extraTitle": "إذا أراد العلماء إعادة الأرض إلى الشمس بعد انفلاتها، ما هي التحديات التي سيواجهونها؟"
       },
-      "subContentId": "95eed13e-5bb5-4011-8ab0-135a05817320"
+      "subContentId": "448d99c9-4967-4ce7-a282-214af8687580"
     },
     {
       "params": {
@@ -926,37 +1128,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">مساعدة شخص على الهروب من العقاب ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون يعمل بقوانين طبيعية، ولكن الله هو الذي يحافظ عليها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مساعدته على الهروب من العقاب.</p>"
+            "text": "<p style=\"text-align:right\">أن الكون يعمل بقوانين طبيعية فقط</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بحكمة الله وعدله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الله هو الذي يحافظ على النظام الكوني.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
+            "text": "<p style=\"text-align:right\">أن الله هو الذي يحافظ على النظام الكوني</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان لا يستطيع التحكم في الكون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر.</p>"
+            "text": "<p style=\"text-align:right\">أن الإنسان قادر على التحكم في الكون</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي ليس موقفًا صحيحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون له بداية ونهاية، ولن يستمر إلى الأبد.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي.</p>"
+            "text": "<p style=\"text-align:right\">أن الكون سيستمر إلى الأبد</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,220 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يقع في مشكلة بسبب شهادة زور، ما هو الموقف الصحيح حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدرس المستفاد من الآيتين الكريمتين في سورة فاطر والرعد؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا رأيت شخصًا يقع في مشكلة بسبب شهادة زور، ما هو الموقف الصحيح حسب النص؟",
+        "title": "ما هو الدرس المستفاد من الآيتين الكريمتين في سورة فاطر والرعد؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا رأيت شخصًا يقع في مشكلة بسبب شهادة زور، ما هو الموقف الصحيح حسب النص؟"
+        "extraTitle": "ما هو الدرس المستفاد من الآيتين الكريمتين في سورة فاطر والرعد؟"
       },
-      "subContentId": "2529e3a3-29de-4ead-a854-df46e1b2ff7d"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على عدل الله ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الاعتراض على عدل الله.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بحكمة الله وعدله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير القصة ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">محاولة تغيير القصة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رفض القصة تمامًا ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رفض القصة تمامًا.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">إذا سمعت قصة عن شخص عوقب بسبب فعل لم يقم به، ما هو الموقف الصحيح حسب النص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "إذا سمعت قصة عن شخص عوقب بسبب فعل لم يقم به، ما هو الموقف الصحيح حسب النص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "إذا سمعت قصة عن شخص عوقب بسبب فعل لم يقم به، ما هو الموقف الصحيح حسب النص؟"
-      },
-      "subContentId": "97ff419e-6b62-455c-8a7e-651203c5f04b"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">مساعدة شخص على الهروب من العقاب ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">مساعدته على الهروب من العقاب.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بحكمة الله وعدله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي ليس موقفًا صحيحًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يقع في مشكلة بسبب فعل خاطئ، ما هو الموقف الصحيح حسب النص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "إذا رأيت شخصًا يقع في مشكلة بسبب فعل خاطئ، ما هو الموقف الصحيح حسب النص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "إذا رأيت شخصًا يقع في مشكلة بسبب فعل خاطئ، ما هو الموقف الصحيح حسب النص؟"
-      },
-      "subContentId": "9b920bf4-ec27-4733-a563-7aeddf5dc238"
+      "subContentId": "9d46af06-94ac-4239-9f3c-80171a990499"
     }
   ],
   "disableBackwardsNavigation": false,

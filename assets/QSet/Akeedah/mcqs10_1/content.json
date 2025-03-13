@@ -17,37 +17,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! القرآن يشير إلى قوة الجاذبية التي تحفظ السماوات دون أن نراها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الله أودع في الإنسان حاجات أساسية تجعله يتحرك لتحقيقها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قوة الجاذبية</p>"
+            "text": "<p style=\"text-align:right\">حاجته إلى الطعام والشراب والجنس والذكر.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الرياح لا تحفظ السماوات، بل هي ظاهرة جوية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">السفر والترحال قد يكون نتيجة للحاجات الأساسية، لكنه ليس السبب الرئيسي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قوة الرياح</p>"
+            "text": "<p style=\"text-align:right\">رغبته في السفر والترحال.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المغناطيسية تؤثر على المعادن وليس لها علاقة بحفظ السماوات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المعرفة مهمة، لكنها ليست السبب الرئيسي لحركة الإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قوة المغناطيسية</p>"
+            "text": "<p style=\"text-align:right\">بحثه عن المعرفة فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكهرباء هي شكل من أشكال الطاقة وليست القوة التي تحفظ السماوات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان لديه حاجات أساسية تجعله يتحرك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قوة الكهرباء</p>"
+            "text": "<p style=\"text-align:right\">عدم وجود أي حاجات لديه.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,422 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي القوة التي ذكرها القرآن والتي تحفظ السماوات دون أن نراها؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يجعل الإنسان كائنًا متحركًا وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي القوة التي ذكرها القرآن والتي تحفظ السماوات دون أن نراها؟",
+        "title": "ما الذي يجعل الإنسان كائنًا متحركًا وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي القوة التي ذكرها القرآن والتي تحفظ السماوات دون أن نراها؟"
+        "extraTitle": "ما الذي يجعل الإنسان كائنًا متحركًا وفقًا للنص؟"
       },
-      "subContentId": "451a182f-faf1-4321-96c7-c6bcda395304"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">وادي النيل ليس أدنى منطقة في الأرض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">وادي النيل</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! غور فلسطين هي أدنى منطقة في الأرض كما ذكر القرآن.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">غور فلسطين</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">وادي الرمة ليس أدنى منطقة في الأرض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">وادي الرمة</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">وادي حنيفة ليس أدنى منطقة في الأرض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">وادي حنيفة</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي أدنى منطقة في الأرض كما ذكر القرآن؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي أدنى منطقة في الأرض كما ذكر القرآن؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي أدنى منطقة في الأرض كما ذكر القرآن؟"
-      },
-      "subContentId": "489a6d13-8054-4f06-a35c-9252f535d433"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">البويضة ليست التي تحدد نوع الجنين.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">البويضة</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! النطفة هي التي تحدد نوع الجنين وفقًا للقرآن.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">النطفة</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الرحم يوفر البيئة لنمو الجنين ولكنه لا يحدد نوعه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الرحم</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">البيئة تؤثر على نمو الجنين ولكنها لا تحدد نوعه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">البيئة</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يحدد نوع الجنين وفقًا للقرآن؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما الذي يحدد نوع الجنين وفقًا للقرآن؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما الذي يحدد نوع الجنين وفقًا للقرآن؟"
-      },
-      "subContentId": "c7b9cd11-b865-417a-95af-df3d986784b3"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن الآية تشمل أكثر من ذلك.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تشير إلى عودة بخار الماء كمطر.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن الآية تشمل أكثر من ذلك.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تشير إلى عودة البث الكهرطيسي إلى الأرض.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن الآية تشمل أكثر من ذلك.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تشير إلى عودة الكواكب إلى مداراتها.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشمل جميع هذه التفسيرات.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">جميع ما سبق.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير الآية 'وَالسَّمَاءِ ذَاتِ الرَّجْعِ' في ضوء الاكتشافات العلمية الحديثة؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "كيف يمكن تفسير الآية 'وَالسَّمَاءِ ذَاتِ الرَّجْعِ' في ضوء الاكتشافات العلمية الحديثة؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "كيف يمكن تفسير الآية 'وَالسَّمَاءِ ذَاتِ الرَّجْعِ' في ضوء الاكتشافات العلمية الحديثة؟"
-      },
-      "subContentId": "d8cd7204-ab82-4f21-9012-427c3aaad5f9"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انعكاس الضوء يحدث عند سقوط الضوء على سطح لامع.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">انعكاس الضوء</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انكسار الضوء يحدث عند مرور الضوء من وسط إلى آخر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">انكسار الضوء</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! انتثار الضوء هو الذي يسبب وجود ضوء النهار في كل مكان.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">انتثار الضوء</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">امتصاص الضوء يقلل من شدة الضوء ولا يسبب انتشاره.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">امتصاص الضوء</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الظاهرة التي تفسر وجود ضوء النهار في كل مكان على الأرض؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي الظاهرة التي تفسر وجود ضوء النهار في كل مكان على الأرض؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي الظاهرة التي تفسر وجود ضوء النهار في كل مكان على الأرض؟"
-      },
-      "subContentId": "1f3f0c1a-97ec-455c-97ef-eec23fbf1e65"
+      "subContentId": "15e53998-10c9-4020-a773-763a00588529"
     },
     {
       "params": {
@@ -522,37 +118,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! البرزخ هو الذي يمنع اختلاط مياه البحار المختلفة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوحيد هو الإيمان بأن الله واحد لا شريك له.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">البرزخ</p>"
+            "text": "<p style=\"text-align:right\">الإيمان بأن الله واحد لا شريك له.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الملوحة تؤثر على كثافة الماء ولكنها لا تمنع الاختلاط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">عبادة الأولياء والصالحين تعتبر من الشرك في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الملوحة</p>"
+            "text": "<p style=\"text-align:right\">عبادة الأولياء والصالحين.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكثافة تؤثر على طفو الماء ولكنها لا تمنع الاختلاط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإيمان بالله هو الأساس الأول في العقيدة الإسلامية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الكثافة</p>"
+            "text": "<p style=\"text-align:right\">تصديق النبي فقط دون الإيمان بالله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التيارات البحرية تؤثر على حركة الماء ولكنها لا تمنع الاختلاط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإسلام يرفض تعدد الآلهة تمامًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التيارات البحرية</p>"
+            "text": "<p style=\"text-align:right\">الإيمان بوجود آلهة متعددة.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يمنع اختلاط مياه البحار المختلفة وفقًا للقرآن؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما المقصود بتوحيد الألوهية في الإسلام؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي يمنع اختلاط مياه البحار المختلفة وفقًا للقرآن؟",
+        "title": "ما المقصود بتوحيد الألوهية في الإسلام؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي يمنع اختلاط مياه البحار المختلفة وفقًا للقرآن؟"
+        "extraTitle": "ما المقصود بتوحيد الألوهية في الإسلام؟"
       },
-      "subContentId": "cfd5aa52-5d16-46cd-96f0-ff0697337a21"
+      "subContentId": "f4d9bcda-2f80-4ea7-ae93-2a6d676d9e3e"
     },
     {
       "params": {
@@ -623,37 +219,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الماء هو الاستثناء الوحيد في هذا القانون.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الحاجات تجعل الإنسان يتحرك لتحقيقها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الماء</p>"
+            "text": "<p style=\"text-align:right\">الطعام والشراب والجنس والذكر.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهواء يتمدد بالتسخين وينكمش بالتبريد دون استثناء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المال والسلطة قد تكون نتيجة للحاجات الأساسية، لكنها ليست الحاجات الأساسية نفسها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الهواء</p>"
+            "text": "<p style=\"text-align:right\">المال والسلطة فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحديد يتمدد بالتسخين وينكمش بالتبريد دون استثناء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الراحة والنوم مهمان، لكنهما ليسا الحاجات الأساسية التي تجعل الإنسان يتحرك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحديد</p>"
+            "text": "<p style=\"text-align:right\">الراحة والنوم فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الزجاج يتمدد بالتسخين وينكمش بالتبريد دون استثناء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الترفيه واللعب قد يكونان نتيجة للحاجات الأساسية، لكنهما ليسا الحاجات الأساسية نفسها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الزجاج</p>"
+            "text": "<p style=\"text-align:right\">الترفيه واللعب فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الاستثناء الوحيد في قانون التمدد والانكماش بالتسخين والتبريد؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الحاجات الأساسية التي أودعها الله في الإنسان؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الاستثناء الوحيد في قانون التمدد والانكماش بالتسخين والتبريد؟",
+        "title": "ما هي الحاجات الأساسية التي أودعها الله في الإنسان؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الاستثناء الوحيد في قانون التمدد والانكماش بالتسخين والتبريد؟"
+        "extraTitle": "ما هي الحاجات الأساسية التي أودعها الله في الإنسان؟"
       },
-      "subContentId": "d75a6f93-becf-4419-8649-ebb606b9569a"
+      "subContentId": "9bf554b6-3133-4531-bf29-a739c03c3d9c"
     },
     {
       "params": {
@@ -724,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">زيادة الكثافة تحدث عند انخفاض الحجم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الله وحده هو الذي يخلق من لا شيء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيادة الكثافة</p>"
+            "text": "<p style=\"text-align:right\">بأن يصنع أشياء من لا شيء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! انخفاض الكثافة هو الذي يسبب توسع الماء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإنسان يصنع أشياء من كل شيء وعلى مثال سابق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">انخفاض الكثافة</p>"
+            "text": "<p style=\"text-align:right\">بأن يصنع أشياء من كل شيء وعلى مثال سابق.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">زيادة الحجم هي نتيجة انخفاض الكثافة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يحتاج إلى حاجات أساسية لصنع الأشياء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيادة الحجم</p>"
+            "text": "<p style=\"text-align:right\">بأن يصنع أشياء دون أي حاجة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انخفاض الحجم يسبب زيادة الكثافة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يحتاج إلى مثال سابق لصنع الأشياء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">انخفاض الحجم</p>"
+            "text": "<p style=\"text-align:right\">بأن يصنع أشياء دون أي مثال.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الخاصية التي تجعل الماء يتوسع عند التبريد من 4 إلى 0 درجة مئوية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن للإنسان أن يوازن بين صنعته وصنعة الله وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الخاصية التي تجعل الماء يتوسع عند التبريد من 4 إلى 0 درجة مئوية؟",
+        "title": "كيف يمكن للإنسان أن يوازن بين صنعته وصنعة الله وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الخاصية التي تجعل الماء يتوسع عند التبريد من 4 إلى 0 درجة مئوية؟"
+        "extraTitle": "كيف يمكن للإنسان أن يوازن بين صنعته وصنعة الله وفقًا للنص؟"
       },
-      "subContentId": "65c27695-799a-47cf-a2b2-66e12b9044de"
+      "subContentId": "dbd0cab6-8e76-446b-a49e-b7fe1faa40cf"
     },
     {
       "params": {
@@ -825,37 +421,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مضاد التجمد هو الذي يمنع تجمد ماء العين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهدف الرئيسي من خلق الإنسان هو عبادة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مضاد للتجمد</p>"
+            "text": "<p style=\"text-align:right\">ليعبد الله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الملح يستخدم لإذابة الجليد ولكن ليس في ماء العين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">جمع المال قد يكون وسيلة، لكنه ليس الهدف الرئيسي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الملح</p>"
+            "text": "<p style=\"text-align:right\">ليجمع المال.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">السكر ليس له تأثير على منع التجمد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة قد يكون نتيجة، لكنه ليس الهدف الرئيسي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">السكر</p>"
+            "text": "<p style=\"text-align:right\">ليستمتع بالحياة فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الزيت يستخدم للتشحيم وليس لمنع التجمد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون نتيجة، لكنها ليست الهدف الرئيسي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الزيت</p>"
+            "text": "<p style=\"text-align:right\">ليحقق الشهرة.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي المادة التي أودعها الله في ماء العين لمنع تجمده؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف الرئيسي من خلق الإنسان وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي المادة التي أودعها الله في ماء العين لمنع تجمده؟",
+        "title": "ما هو الهدف الرئيسي من خلق الإنسان وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي المادة التي أودعها الله في ماء العين لمنع تجمده؟"
+        "extraTitle": "ما هو الهدف الرئيسي من خلق الإنسان وفقًا للنص؟"
       },
-      "subContentId": "78ec3a4b-129c-490d-8b48-d007241f2921"
+      "subContentId": "06862cae-060f-4b29-8836-34de6cc1b61e"
     },
     {
       "params": {
@@ -926,37 +522,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مضاد التجمد هو الذي يمنع تجمد ماء العين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! معرفة الهدف من وجوده يجعل حركة الإنسان صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مضاد التجمد</p>"
+            "text": "<p style=\"text-align:right\">معرفة الهدف من وجوده.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الملح يستخدم لإذابة الجليد ولكن ليس في ماء العين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">جمع المال قد يكون وسيلة، لكنه ليس ما يجعل الحركة صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الملح</p>"
+            "text": "<p style=\"text-align:right\">جمع المال فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">السكر ليس له تأثير على منع التجمد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة قد يكون نتيجة، لكنه ليس ما يجعل الحركة صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">السكر</p>"
+            "text": "<p style=\"text-align:right\">الاستمتاع بالحياة فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الزيت يستخدم للتشحيم وليس لمنع التجمد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون نتيجة، لكنها ليست ما تجعل الحركة صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الزيت</p>"
+            "text": "<p style=\"text-align:right\">تحقيق الشهرة فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,119 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كنت في منطقة باردة جدًا، ما الذي يمنع تجمد ماء العين؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يجعل حركة الإنسان صحيحة وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كنت في منطقة باردة جدًا، ما الذي يمنع تجمد ماء العين؟",
+        "title": "ما الذي يجعل حركة الإنسان صحيحة وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كنت في منطقة باردة جدًا، ما الذي يمنع تجمد ماء العين؟"
+        "extraTitle": "ما الذي يجعل حركة الإنسان صحيحة وفقًا للنص؟"
       },
-      "subContentId": "e41d6e19-9ae1-42ed-abc2-e08e6eeb9f36"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! قوة الجاذبية هي التي يجب أن تأخذها في الاعتبار.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">قوة الجاذبية</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قوة الرياح تؤثر على المبنى ولكنها ليست الأساسية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">قوة الرياح</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قوة المغناطيسية لا تؤثر على بناء المبنى.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">قوة المغناطيسية</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قوة الكهرباء لا تؤثر على بناء المبنى.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">قوة الكهرباء</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كنت تقوم ببناء مبنى من عشرة طوابق دون دعائم، ما هي القوة التي يجب أن تأخذها في الاعتبار؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "إذا كنت تقوم ببناء مبنى من عشرة طوابق دون دعائم، ما هي القوة التي يجب أن تأخذها في الاعتبار؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "إذا كنت تقوم ببناء مبنى من عشرة طوابق دون دعائم، ما هي القوة التي يجب أن تأخذها في الاعتبار؟"
-      },
-      "subContentId": "4f539ae2-ed04-4dd6-aa8f-dcc48f9f2cd1"
+      "subContentId": "2a0b6ba6-0d30-4c16-8d8a-483341ea6abd"
     },
     {
       "params": {
@@ -1128,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انعكاس الضوء يحدث عند سقوط الضوء على سطح لامع.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب السلف فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">انعكاس الضوء</p>"
+            "text": "<p style=\"text-align:right\">إثبات الصفات كما وردت دون تأويل أو تشبيه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انكسار الضوء يحدث عند مرور الضوء من وسط إلى آخر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب الأشاعرة والمعتزلة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">انكسار الضوء</p>"
+            "text": "<p style=\"text-align:right\">تأويل الصفات بطريقة رمزية تنفي التشبيه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انتثار الضوء يسبب وجود ضوء النهار في كل مكان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، وهو رأي بعض الفلاسفة والمتكلمين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">انتثار الضوء</p>"
+            "text": "<p style=\"text-align:right\">رفض الحديث عن الصفات تمامًا بحجة عدم إدراكها.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عند تجاوز طبقة الهواء، ستواجه غياب الضوء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هناك عدة مدارس فكرية في تفسير الصفات الإلهية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">غياب الضوء</p>"
+            "text": "<p style=\"text-align:right\">جميع ما سبق يعكس اتجاهات مختلفة لعلماء العقيدة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +701,523 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كنت تخطط لرحلة إلى الفضاء، ما هي الظاهرة التي ستواجهها عند تجاوز طبقة الهواء؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كنت تخطط لرحلة إلى الفضاء، ما هي الظاهرة التي ستواجهها عند تجاوز طبقة الهواء؟",
+        "title": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كنت تخطط لرحلة إلى الفضاء، ما هي الظاهرة التي ستواجهها عند تجاوز طبقة الهواء؟"
+        "extraTitle": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟"
       },
-      "subContentId": "5bc8cb83-ca39-497f-a718-29e3534702fd"
+      "subContentId": "31e79e63-8f67-4f86-b2c5-42b40e4d67e0"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشهوات حيادية ويمكن أن تكون وسيلة للارتقاء أو الهبوط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنها حيادية ويمكن أن تكون وسيلة للارتقاء أو الهبوط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهوات ليست شرًا مطلقًا، بل يمكن أن تكون وسيلة للارتقاء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنها شر مطلق ويجب تجنبها تمامًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهوات ليست خيرًا مطلقًا، بل يمكن أن تكون وسيلة للهبوط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنها خير مطلق ويجب اتباعها دائمًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهوات مهمة في حياة الإنسان ويمكن أن تكون وسيلة للارتقاء أو الهبوط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنها غير مهمة في حياة الإنسان.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من الشهوات وفقًا للنص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الموقف الصحيح من الشهوات وفقًا للنص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الموقف الصحيح من الشهوات وفقًا للنص؟"
+      },
+      "subContentId": "fcb94b13-76ba-43a0-9d05-3a776db438a2"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الامتحان والابتلاء يجعلان الإنسان صالحًا أو طالحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">ليكون الإنسان صالحًا أو طالحًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">جمع المال قد يكون نتيجة، لكنه ليس دور الامتحان والابتلاء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">ليجمع الإنسان المال فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة قد يكون نتيجة، لكنه ليس دور الامتحان والابتلاء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">ليستمتع الإنسان بالحياة فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون نتيجة، لكنها ليست دور الامتحان والابتلاء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">ليحقق الإنسان الشهرة فقط.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو دور الامتحان والابتلاء في حياة الإنسان وفقًا للنص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو دور الامتحان والابتلاء في حياة الإنسان وفقًا للنص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو دور الامتحان والابتلاء في حياة الإنسان وفقًا للنص؟"
+      },
+      "subContentId": "d642420b-9865-40fa-bb0b-380a79595d64"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون نتيجة، لكنها ليست الهدف الرئيسي من الحياة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الشهرة هي الهدف الرئيسي من الحياة.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهدف الرئيسي من الحياة هو عبادة الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الهدف الرئيسي من الحياة هو عبادة الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون وسيلة، لكنها ليست الهدف الرئيسي من الحياة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الشهرة قد تكون وسيلة لتحقيق الهدف الرئيسي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون مهمة، لكنها ليست الهدف الرئيسي من الحياة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الشهرة غير مهمة في حياة الإنسان.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شاب يعتقد أن تحقيق الشهرة هو الهدف الرئيسي من الحياة. ما هو الرد الصحيح بناءً على النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شاب يعتقد أن تحقيق الشهرة هو الهدف الرئيسي من الحياة. ما هو الرد الصحيح بناءً على النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شاب يعتقد أن تحقيق الشهرة هو الهدف الرئيسي من الحياة. ما هو الرد الصحيح بناءً على النص؟"
+      },
+      "subContentId": "99bd5fa9-5e6e-4311-a6b4-cd9e68398b15"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأفعال الاختيارية ضرورية لتحقيق الإيمان الكامل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الأفعال الاختيارية ضرورية لتحقيق الإيمان الكامل.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الإيمان الكامل يتطلب الأفعال الاختيارية بالإضافة إلى صدق القلب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الأفعال الاختيارية ليست ضرورية طالما أن القلب صادق.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأفعال الاختيارية مهمة لتحقيق الإيمان الكامل، وليس للشهرة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الأفعال الاختيارية مهمة فقط للشهرة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأفعال الاختيارية مهمة في الإسلام لتحقيق الإيمان الكامل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الأفعال الاختيارية غير مهمة في الإسلام.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">رجل يقول إن الأفعال الاختيارية مثل الصلاة والصيام ليست ضرورية طالما أن القلب صادق في الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "رجل يقول إن الأفعال الاختيارية مثل الصلاة والصيام ليست ضرورية طالما أن القلب صادق في الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "رجل يقول إن الأفعال الاختيارية مثل الصلاة والصيام ليست ضرورية طالما أن القلب صادق في الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟"
+      },
+      "subContentId": "f13f81ba-dae6-4dff-b75d-5668d4c401b3"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التبرك بالأضرحة يعتبر من الشرك في الإسلام.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يجوز التبرك لأنها وسيلة للتقرب إلى الله.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوحيد يقتضي عبادة الله فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يجب عبادة الله وحده دون وسطاء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقيدة الإسلامية تحدد ضوابط العبادة بوضوح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يمكن اعتبار التبرك جزءًا من الثقافة وليس العقيدة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">النصوص الشرعية واضحة في النهي عن التوسل البدعي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لا يوجد حكم شرعي واضح في المسألة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟"
+      },
+      "subContentId": "2789f0b9-a7d1-49c7-afd4-b30b80348326"
     }
   ],
   "disableBackwardsNavigation": false,

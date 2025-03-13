@@ -14,40 +14,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي لا يعني القتال المباشر، بل بناء الأمة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">القتال المباشر ضد الأعداء.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد البنائي يشمل بناء الأمة في جميع المجالات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية تشير إلى التفكر في خلق السماوات والأرض كطريق لمعرفة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بناء وتطوير الأمة الإسلامية في جميع المجالات.</p>"
+            "text": "<p style=\"text-align:right\">﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ﴾</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يتضمن العمل المادي والبناء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن جعل الأرض قراراً، وليس عن التفكر في خلق السماوات والأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الدعوة إلى الله فقط دون أي عمل مادي.</p>"
+            "text": "<p style=\"text-align:right\">﴿أَمَّنْ جَعَلَ الْأَرْضَ قَرَاراً﴾</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يشمل أكثر من الجهاد القتالي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن خلق الإنسان في أحسن تقويم، وليس عن التفكر في خلق السماوات والأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تركيز الجهود على الجهاد القتالي فقط.</p>"
+            "text": "<p style=\"text-align:right\">﴿لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ﴾</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن بناء السماء، وليس عن التفكر في خلق السماوات والأرض.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">﴿وَالسَّمَاءِ وَمَا بَنَاهَا﴾</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ'الجهاد البنائي' وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الآية القرآنية التي تشير إلى التفكر في خلق السماوات والأرض كطريق لمعرفة الله؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المقصود بـ'الجهاد البنائي' وفقًا للنص؟",
+        "title": "ما هي الآية القرآنية التي تشير إلى التفكر في خلق السماوات والأرض كطريق لمعرفة الله؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المقصود بـ'الجهاد البنائي' وفقًا للنص؟"
+        "extraTitle": "ما هي الآية القرآنية التي تشير إلى التفكر في خلق السماوات والأرض كطريق لمعرفة الله؟"
       },
-      "subContentId": "fda05e5e-8128-4692-93ca-b41465155357"
+      "subContentId": "c08ca3fc-cb64-49dc-8646-68cba6cd7bb1"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي يختلف عن تحصين الشباب من الفساد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض يتجاوز المعرفة العلمية إلى معرفة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد القتالي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي يهدف إلى ترسيخ المبادئ وليس تحصين الشباب.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الجهاد العلمي الدعوي.</p>"
+            "text": "<p style=\"text-align:right\">لزيادة المعرفة العلمية فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المناشط الإسلامية تهدف إلى تحصين الشباب من الفساد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في خلق السماوات والأرض هو طريق لمعرفة الله وعظمته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">المناشط الإسلامية لتحصين الشباب.</p>"
+            "text": "<p style=\"text-align:right\">كطريق لمعرفة الله وعظمته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">جهاد النفس يختلف عن تحصين الشباب من الفساد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الغرض ليس إثبات النظريات العلمية بل معرفة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جهاد النفس.</p>"
+            "text": "<p style=\"text-align:right\">لإثبات النظريات العلمية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الهدف الرئيسي هو معرفة الله، وليس تحسين مهارات التفكير النقدي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لتحسين مهارات التفكير النقدي.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي تشمل تحصين الشباب والشابات من الفساد؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الغرض من التفكر في خلق السماوات والأرض وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة التي تشمل تحصين الشباب والشابات من الفساد؟",
+        "title": "ما هو الغرض من التفكر في خلق السماوات والأرض وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة التي تشمل تحصين الشباب والشابات من الفساد؟"
+        "extraTitle": "ما هو الغرض من التفكر في خلق السماوات والأرض وفقًا للنص؟"
       },
-      "subContentId": "7b06d7e3-1b40-4ae6-86b4-72ff498f7d00"
+      "subContentId": "c652b711-7fdd-4cd5-9338-2c91b1e48057"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي لا يتعلق بالقتال.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض تتميز باستقرارها رغم حركتها، وليس بحركتها السريعة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القتال ضد الأعداء.</p>"
+            "text": "<p style=\"text-align:right\">حركتها السريعة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد العلمي الدعوي يهدف إلى ترسيخ الدين والرد على الشبهات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأرض تتميز باستقرارها رغم حركتها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ترسيخ معالم الدين والرد على الشبهات.</p>"
+            "text": "<p style=\"text-align:right\">استقرارها رغم حركتها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">بناء السدود وتطوير الصناعات جزء من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض تتمتع بجاذبية تساهم في استقرارها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بناء السدود وتطوير الصناعات.</p>"
+            "text": "<p style=\"text-align:right\">عدم وجود جاذبية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحصين الشباب من الفساد جزء من المناشط الإسلامية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض ليست صغيرة الحجم مقارنة بالكواكب الأخرى.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحصين الشباب من الفساد.</p>"
+            "text": "<p style=\"text-align:right\">صغر حجمها.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من 'الجهاد العلمي الدعوي' وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يميز الأرض وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الهدف من 'الجهاد العلمي الدعوي' وفقًا للنص؟",
+        "title": "ما الذي يميز الأرض وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الهدف من 'الجهاد العلمي الدعوي' وفقًا للنص؟"
+        "extraTitle": "ما الذي يميز الأرض وفقًا للنص؟"
       },
-      "subContentId": "38a15f99-267d-4201-bc04-ae32fff4c783"
+      "subContentId": "58290765-2fd1-4836-b3ad-5c4e8550cff9"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآية تشمل أكثر من الاستعداد للقتال.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">نظام الجاذبية لا يزيد من سرعة دوران الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاستعداد للقتال فقط.</p>"
+            "text": "<p style=\"text-align:right\">بجعل الأرض تدور بسرعة أكبر.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشمل بناء القوة في جميع المجالات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نظام الجاذبية يعطي الأشياء وزنًا ويساهم في استقرار الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بناء القوة الاقتصادية والعلمية والصناعية.</p>"
+            "text": "<p style=\"text-align:right\">بإعطاء الأشياء وزنًا والحفاظ على استقرارها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يشمل أكثر من الجهاد الدعوي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">نظام الجاذبية لا يؤثر على حجم الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تركيز الجهود على الجهاد الدعوي فقط.</p>"
+            "text": "<p style=\"text-align:right\">بتقليل حجم الأرض.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي جزء من الجهاد الشامل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">نظام الجاذبية لا يلغي الحاجة إلى قنوات التوازن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمال الجهاد القتالي تمامًا.</p>"
+            "text": "<p style=\"text-align:right\">بإزالة الحاجة إلى قنوات التوازن.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير الآية 'وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ' في سياق الجهاد البنائي؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يساهم نظام الجاذبية في استقرار الأرض وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن تفسير الآية 'وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ' في سياق الجهاد البنائي؟",
+        "title": "كيف يساهم نظام الجاذبية في استقرار الأرض وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن تفسير الآية 'وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ' في سياق الجهاد البنائي؟"
+        "extraTitle": "كيف يساهم نظام الجاذبية في استقرار الأرض وفقًا للنص؟"
       },
-      "subContentId": "66e5ae7e-83df-41c8-ab4d-1df88447d306"
+      "subContentId": "e57b7178-6942-4cdd-ab29-bf920bd3db8f"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب اللين والحكمة، وليس الغلظة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قنوات التوازن لا تزيد من وزن الإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب الغلظة، وأخلاق الجهاد تتطلب اللين.</p>"
+            "text": "<p style=\"text-align:right\">زيادة وزن الإنسان.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! أخلاق الدعوة تتطلب اللين والحكمة، وأخلاق الجهاد تتطلب الحزم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! قنوات التوازن تسهل المشي وتحافظ على التوازن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب اللين والحكمة، وأخلاق الجهاد تتطلب الحزم.</p>"
+            "text": "<p style=\"text-align:right\">تسهيل المشي والحفاظ على التوازن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق واضح بين أخلاق الدعوة وأخلاق الجهاد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قنوات التوازن لا تؤثر على حجم الإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لا يوجد فرق بين أخلاق الدعوة وأخلاق الجهاد.</p>"
+            "text": "<p style=\"text-align:right\">تقليل حجم الإنسان.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">أخلاق الدعوة لا تتطلب القتال.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قنوات التوازن لا تلغي الحاجة إلى الجاذبية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب القتال، وأخلاق الجهاد تتطلب الدعوة.</p>"
+            "text": "<p style=\"text-align:right\">إزالة الحاجة إلى الجاذبية.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين أخلاق الدعوة وأخلاق الجهاد وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو دور قنوات التوازن في جسم الإنسان وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الفرق بين أخلاق الدعوة وأخلاق الجهاد وفقًا للنص؟",
+        "title": "ما هو دور قنوات التوازن في جسم الإنسان وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الفرق بين أخلاق الدعوة وأخلاق الجهاد وفقًا للنص؟"
+        "extraTitle": "ما هو دور قنوات التوازن في جسم الإنسان وفقًا للنص؟"
       },
-      "subContentId": "eb40b243-705b-4d68-a932-38de6394f29f"
+      "subContentId": "7c6a767b-bfaa-4d36-8f80-3b68f762cf8f"
     },
     {
       "params": {
@@ -522,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي لا يتعلق بالقتال.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">استقرار الأرض يدل على قوة نظام الجاذبية، وليس ضعفه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القتال ضد الأعداء.</p>"
+            "text": "<p style=\"text-align:right\">ضعف نظام الجاذبية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد النفسي يعني ضبط النفس وتحريرها من الشهوات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! استقرار الأرض رغم حركتها يدل على حكمة الله في الخلق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ضبط النفس وتحريرها من الشهوات.</p>"
+            "text": "<p style=\"text-align:right\">حكمة الله في الخلق.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">بناء السدود وتطوير الصناعات جزء من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">استقرار الأرض يدل على وجود قنوات توازن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بناء السدود وتطوير الصناعات.</p>"
+            "text": "<p style=\"text-align:right\">عدم وجود قنوات توازن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ترسيخ معالم الدين جزء من الجهاد العلمي الدعوي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">استقرار الأرض لا يدل على صغر حجمها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ترسيخ معالم الدين والرد على الشبهات.</p>"
+            "text": "<p style=\"text-align:right\">صغر حجم الأرض.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ'الجهاد النفسي' وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يدل عليه استقرار الأرض رغم حركتها وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المقصود بـ'الجهاد النفسي' وفقًا للنص؟",
+        "title": "ما الذي يدل عليه استقرار الأرض رغم حركتها وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المقصود بـ'الجهاد النفسي' وفقًا للنص؟"
+        "extraTitle": "ما الذي يدل عليه استقرار الأرض رغم حركتها وفقًا للنص؟"
       },
-      "subContentId": "4eb66745-a855-4731-a730-6f26fc0f037c"
+      "subContentId": "d8e97722-33ce-4e07-ae35-0d2ee834005d"
     },
     {
       "params": {
@@ -623,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يشمل أكثر من الجهاد القتالي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض تتحرك بالفعل، وهذا ما يجعل استقرارها معجزة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بالتركيز على الجهاد القتالي فقط.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض لا تتحرك في الواقع.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الجاذبية لا تعمل على إبطاء حركة الأرض، بل تحافظ على استقرار الأشياء عليها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الجاذبية تعمل على إبطاء حركة الأرض.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تطوير التعليم والصناعة والاقتصاد جزء من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نظام الجاذبية يحافظ على استقرار الأشياء على الأرض رغم حركتها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بتطوير التعليم والصناعة والاقتصاد لبناء الأمة.</p>"
+            "text": "<p style=\"text-align:right\">أن نظام الجاذبية يحافظ على استقرار الأشياء على الأرض رغم حركتها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي جزء مهم من الجهاد الشامل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض تتحرك باستمرار، وليس فقط في الليل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإهمال الجهاد العلمي الدعوي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي جزء من الجهاد الشامل، وليس كله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بالتركيز على الجهاد النفسي فقط.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض تتحرك فقط في الليل.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تطبيق مفهوم 'الجهاد البنائي' في العصر الحديث؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لاستقرار الأرض رغم حركتها وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن تطبيق مفهوم 'الجهاد البنائي' في العصر الحديث؟",
+        "title": "ما هو التفسير الصحيح لاستقرار الأرض رغم حركتها وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن تطبيق مفهوم 'الجهاد البنائي' في العصر الحديث؟"
+        "extraTitle": "ما هو التفسير الصحيح لاستقرار الأرض رغم حركتها وفقًا للنص؟"
       },
-      "subContentId": "f74dde6b-f14f-40f5-a1ea-955fb49235a9"
+      "subContentId": "95eea749-a484-4fc4-b3bd-eeb74ca53c06"
     },
     {
       "params": {
@@ -724,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هناك العديد من الشبهات والتحديات الفكرية في العصر الحديث.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قنوات التوازن لا تزيد من وزن الإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عدم وجود شبهات أو تخرصات.</p>"
+            "text": "<p style=\"text-align:right\">أنها تزيد من وزن الإنسان.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">قنوات التوازن تسهل المشي، وليس العكس.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنها تجعل المشي أكثر صعوبة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! انتشار الشبهات والتحديات الفكرية من أكبر التحديات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! قنوات التوازن تسهل المشي وتحافظ على التوازن دون الحاجة إلى أقدام كبيرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">انتشار الشبهات والتحديات الفكرية.</p>"
+            "text": "<p style=\"text-align:right\">أنها تسهل المشي وتحافظ على التوازن دون الحاجة إلى أقدام كبيرة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ترسيخ المبادئ ضروري في كل عصر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قنوات التوازن لا تؤثر على حجم الإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عدم وجود حاجة لترسيخ المبادئ.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي لا يقل أهمية عن الجهاد القتالي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تركيز الجهود على الجهاد القتالي فقط.</p>"
+            "text": "<p style=\"text-align:right\">أنها تقلل من حجم الإنسان.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي التحديات التي يمكن أن تواجه تطبيق 'الجهاد العلمي الدعوي' في العصر الحديث؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل على حكمة الله في خلق قنوات التوازن في جسم الإنسان وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي التحديات التي يمكن أن تواجه تطبيق 'الجهاد العلمي الدعوي' في العصر الحديث؟",
+        "title": "ما هو الدليل على حكمة الله في خلق قنوات التوازن في جسم الإنسان وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي التحديات التي يمكن أن تواجه تطبيق 'الجهاد العلمي الدعوي' في العصر الحديث؟"
+        "extraTitle": "ما هو الدليل على حكمة الله في خلق قنوات التوازن في جسم الإنسان وفقًا للنص؟"
       },
-      "subContentId": "7cbbd9da-7f63-4e2f-8f0e-9c627e466a39"
+      "subContentId": "1645d1a3-5665-47d1-949d-4e929bec0909"
     },
     {
       "params": {
@@ -825,37 +825,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآية لا تشير إلى القتال المباشر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض تتحرك، ولكنها مستقرة بفضل حكمة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بالقتال المباشر ضد الأعداء.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض لا تتحرك.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى ترسيخ مبادئ الدين والرد على الشبهات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأرض مستقرة رغم حركتها بفضل حكمة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بترسيخ مبادئ الدين والرد على الشبهات.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض مستقرة رغم حركتها بفضل حكمة الله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">بناء السدود وتطوير الصناعات جزء من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">حجم الأرض لا علاقة له باستقرارها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ببناء السدود وتطوير الصناعات.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض مستقرة لأنها صغيرة الحجم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحصين الشباب من الفساد جزء من المناشط الإسلامية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض تحتوي على جاذبية تساهم في استقرارها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بتحصين الشباب من الفساد.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض مستقرة لأنها لا تحتوي على جاذبية.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير الآية 'وَجَاهِدْهُمْ بِهِ جِهَاداً كَبِيراً' في سياق الجهاد العلمي الدعوي؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لقول الله تعالى: ﴿أَمَّنْ جَعَلَ الْأَرْضَ قَرَاراً﴾ وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن تفسير الآية 'وَجَاهِدْهُمْ بِهِ جِهَاداً كَبِيراً' في سياق الجهاد العلمي الدعوي؟",
+        "title": "ما هو التفسير الصحيح لقول الله تعالى: ﴿أَمَّنْ جَعَلَ الْأَرْضَ قَرَاراً﴾ وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن تفسير الآية 'وَجَاهِدْهُمْ بِهِ جِهَاداً كَبِيراً' في سياق الجهاد العلمي الدعوي؟"
+        "extraTitle": "ما هو التفسير الصحيح لقول الله تعالى: ﴿أَمَّنْ جَعَلَ الْأَرْضَ قَرَاراً﴾ وفقًا للنص؟"
       },
-      "subContentId": "41ddb478-d2b7-4ba2-876e-e49e33b9260d"
+      "subContentId": "3544f533-dc09-4a13-8f25-91271310dbc7"
     },
     {
       "params": {
@@ -926,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يشمل أكثر من الجهاد القتالي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض تتحرك بالفعل، وهذا الرد غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على الجهاد القتالي فقط.</p>"
+            "text": "<p style=\"text-align:right\">بإخباره أن الأرض لا تتحرك في الواقع.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تطوير التعليم والصناعة والاقتصاد هو الأساس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! شرح نظام الجاذبية وحكمة الله في استقرار الأرض رغم حركتها هو الرد الصحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تطوير التعليم والصناعة والاقتصاد.</p>"
+            "text": "<p style=\"text-align:right\">بشرح كيف أن نظام الجاذبية وحكمة الله يجعلان الأرض مستقرة رغم حركتها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي جزء مهم من الجهاد الشامل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">استقرار الأرض له تفسير علمي وديني، وهذا الرد غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمال الجهاد العلمي الدعوي.</p>"
+            "text": "<p style=\"text-align:right\">بإخباره أن استقرار الأرض ليس له تفسير.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي جزء من الجهاد الشامل، وليس كله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">حجم الأرض لا علاقة له باستقرارها، وهذا الرد غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على الجهاد النفسي فقط.</p>"
+            "text": "<p style=\"text-align:right\">بإخباره أن الأرض مستقرة لأنها صغيرة الحجم.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا أرادت دولة إسلامية مواجهة التحديات الاقتصادية، ما هي الخطوة الأولى التي يجب أن تتخذها وفقًا لمفهوم الجهاد البنائي؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص ما يشك في وجود الله بسبب عدم فهمه لاستقرار الأرض رغم حركتها، كيف يمكنك الرد عليه وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا أرادت دولة إسلامية مواجهة التحديات الاقتصادية، ما هي الخطوة الأولى التي يجب أن تتخذها وفقًا لمفهوم الجهاد البنائي؟",
+        "title": "إذا كان شخص ما يشك في وجود الله بسبب عدم فهمه لاستقرار الأرض رغم حركتها، كيف يمكنك الرد عليه وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا أرادت دولة إسلامية مواجهة التحديات الاقتصادية، ما هي الخطوة الأولى التي يجب أن تتخذها وفقًا لمفهوم الجهاد البنائي؟"
+        "extraTitle": "إذا كان شخص ما يشك في وجود الله بسبب عدم فهمه لاستقرار الأرض رغم حركتها، كيف يمكنك الرد عليه وفقًا للنص؟"
       },
-      "subContentId": "73492fb3-18d7-4980-aac2-a7948e40dff9"
+      "subContentId": "ced4e18a-7d69-4919-8fc7-0d33dbb49d22"
     },
     {
       "params": {
@@ -1027,37 +1027,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الرد بالعنف والغلظة لا يتوافق مع أخلاق الدعوة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">مشاكل التوازن لا تدل على عدم وجود حكمة في الخلق، بل على العكس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الرد بالعنف والغلظة.</p>"
+            "text": "<p style=\"text-align:right\">بإخباره أن مشاكل التوازن دليل على عدم وجود حكمة في الخلق.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! ترسيخ المبادئ والرد بالحكمة هو الأسلوب الأمثل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! شرح دور قنوات التوازن في جسم الإنسان وحكمة الله في خلقها هو الرد الصحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ترسيخ مبادئ الدين والرد على الشبهات بالحكمة.</p>"
+            "text": "<p style=\"text-align:right\">بشرح كيف أن قنوات التوازن في جسم الإنسان هي من حكمة الله، وأن أي خلل فيها يسبب مشاكل.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال الشبهات يؤدي إلى انتشارها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">مشاكل التوازن لها علاقة مباشرة بخلق الإنسان وحكمة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمال الشبهات وعدم الرد عليها.</p>"
+            "text": "<p style=\"text-align:right\">بإخباره أن مشاكل التوازن ليس لها علاقة بالخلق.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي لا يتعلق بالقتال.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">مشاكل التوازن ليست ناتجة عن قلة الإيمان، بل عن خلل في قنوات التوازن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على الجهاد القتالي فقط.</p>"
+            "text": "<p style=\"text-align:right\">بإخباره أن مشاكل التوازن ناتجة عن قلة الإيمان.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">في حالة انتشار الشبهات حول الإسلام في مجتمع ما، ما هي أفضل طريقة للرد وفقًا لمفهوم الجهاد العلمي الدعوي؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص ما يعاني من مشاكل في التوازن، كيف يمكن ربط ذلك بحكمة الله في الخلق وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "في حالة انتشار الشبهات حول الإسلام في مجتمع ما، ما هي أفضل طريقة للرد وفقًا لمفهوم الجهاد العلمي الدعوي؟",
+        "title": "إذا كان شخص ما يعاني من مشاكل في التوازن، كيف يمكن ربط ذلك بحكمة الله في الخلق وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "في حالة انتشار الشبهات حول الإسلام في مجتمع ما، ما هي أفضل طريقة للرد وفقًا لمفهوم الجهاد العلمي الدعوي؟"
+        "extraTitle": "إذا كان شخص ما يعاني من مشاكل في التوازن، كيف يمكن ربط ذلك بحكمة الله في الخلق وفقًا للنص؟"
       },
-      "subContentId": "0283aa91-15ae-4b0f-9239-79d4833e6d27"
+      "subContentId": "89f0028f-2a04-48d4-8bfb-1074883ebe19"
     },
     {
       "params": {
@@ -1128,37 +1128,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي لا يحصن الشباب من الفساد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">حجم الأرض لا علاقة له بوجود الوزن للأشياء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على الجهاد القتالي فقط.</p>"
+            "text": "<p style=\"text-align:right\">بإخباره أن الوزن ناتج عن صغر حجم الأرض.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إنشاء مناشط إسلامية هو الأسلوب الأمثل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الوزن ناتج عن نظام الجاذبية الذي وضعه الله لحكمة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إنشاء مناشط إسلامية ومدارس وجامعات إسلامية.</p>"
+            "text": "<p style=\"text-align:right\">بشرح أن الوزن ناتج عن نظام الجاذبية الذي وضعه الله لحكمة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي جزء مهم من الجهاد الشامل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الوزن له تفسير علمي وديني، وهذا الرد غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمال الجهاد العلمي الدعوي.</p>"
+            "text": "<p style=\"text-align:right\">بإخباره أن الوزن ليس له تفسير.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي جزء من الجهاد الشامل، وليس كله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">حركة الأرض ليست السبب في وجود الوزن للأشياء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على الجهاد النفسي فقط.</p>"
+            "text": "<p style=\"text-align:right\">بإخباره أن الوزن ناتج عن حركة الأرض السريعة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا أرادت دولة إسلامية تحصين شبابها من الفساد، ما هي أفضل طريقة وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص ما يتساءل عن سبب وجود وزن للأشياء على الأرض، كيف يمكنك الرد عليه وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا أرادت دولة إسلامية تحصين شبابها من الفساد، ما هي أفضل طريقة وفقًا للنص؟",
+        "title": "إذا كان شخص ما يتساءل عن سبب وجود وزن للأشياء على الأرض، كيف يمكنك الرد عليه وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا أرادت دولة إسلامية تحصين شبابها من الفساد، ما هي أفضل طريقة وفقًا للنص؟"
+        "extraTitle": "إذا كان شخص ما يتساءل عن سبب وجود وزن للأشياء على الأرض، كيف يمكنك الرد عليه وفقًا للنص؟"
       },
-      "subContentId": "625d83a1-03c7-4c8a-9b37-1a61f590570e"
+      "subContentId": "7c766293-6f1a-400d-8c0b-5db55dd820e2"
     }
   ],
   "disableBackwardsNavigation": false,

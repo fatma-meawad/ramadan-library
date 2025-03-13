@@ -14,40 +14,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يتجاوز بناء المساجد والمدارس ليشمل تطوير البلاد ككل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بناء المساجد والمدارس فقط.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد البنائي يشمل تطوير الصناعات والاكتفاء الذاتي للبلاد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية من سورة الأنبياء تدل على أن الله جعل من الماء كل شيء حي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تطوير الصناعات والاكتفاء الذاتي للبلاد.</p>"
+            "text": "<p style=\"text-align:right\">﴿ وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ أَفَلَا يُؤْمِنُونَ ﴾</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القتال المباشر مع الأعداء هو جزء من الجهاد القتالي، وليس البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية من سورة الجاثية تتحدث عن الإيمان بآيات الله، وليس عن الماء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القتال المباشر مع الأعداء.</p>"
+            "text": "<p style=\"text-align:right\">﴿ فَبِأَيِّ حَدِيثٍ بَعْدَ اللَّهِ وَآيَاتِهِ يُؤْمِنُونَ ﴾</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التبرع بالأموال للفقراء هو عمل خيري، وليس جزءًا من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية من سورة النور تتحدث عن خلق الدواب من الماء، وليس عن جعل الماء كل شيء حي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التبرع بالأموال للفقراء.</p>"
+            "text": "<p style=\"text-align:right\">﴿ وَاللَّهُ خَلَقَ كُلَّ دَابَّةٍ مِنْ مَاءٍ ﴾</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية من سورة هود تتحدث عن خلق السماوات والأرض، وليس عن الماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">﴿ وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ﴾</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'الجهاد البنائي' وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الآية القرآنية التي تدل على أن الله جعل من الماء كل شيء حي؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المقصود بـ 'الجهاد البنائي' وفقًا للنص؟",
+        "title": "ما هي الآية القرآنية التي تدل على أن الله جعل من الماء كل شيء حي؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المقصود بـ 'الجهاد البنائي' وفقًا للنص؟"
+        "extraTitle": "ما هي الآية القرآنية التي تدل على أن الله جعل من الماء كل شيء حي؟"
       },
-      "subContentId": "c95b954e-f0b1-449d-b117-6c23d3c544c1"
+      "subContentId": "19e0a4cf-1ae6-4a56-bc4b-69c9529e454c"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يركز على تطوير البلاد وليس على ترسيخ معالم الدين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية فقط لا يكفي لمعرفة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد البنائي.</p>"
+            "text": "<p style=\"text-align:right\">الآيات الكونية فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات التكوينية فقط لا يكفي لمعرفة الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآيات التكوينية فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات القرآنية فقط لا يكفي لمعرفة الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآيات القرآنية فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد العلمي الدعوي يشمل ترسيخ معالم الدين والرد على الشبهات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب التفكر في الآيات الكونية والتكوينية والقرآنية لمعرفة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد العلمي الدعوي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي يتعلق بالقتال المباشر مع الأعداء.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الجهاد القتالي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي يتعلق بضبط النفس والتحكم في الرغبات.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الجهاد النفسي.</p>"
+            "text": "<p style=\"text-align:right\">الآيات الكونية والتكوينية والقرآنية.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي تشمل ترسيخ معالم الدين والرد على الشبهات؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي أنواع الآيات التي يجب التفكر فيها لمعرفة الله؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة التي تشمل ترسيخ معالم الدين والرد على الشبهات؟",
+        "title": "ما هي أنواع الآيات التي يجب التفكر فيها لمعرفة الله؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة التي تشمل ترسيخ معالم الدين والرد على الشبهات؟"
+        "extraTitle": "ما هي أنواع الآيات التي يجب التفكر فيها لمعرفة الله؟"
       },
-      "subContentId": "67c27a3d-db79-4e73-8e72-dc0285ce2c55"
+      "subContentId": "a9ac5a99-3257-4ba7-b336-f5085c67b27f"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهدف ليس الإفساد بل التحصين ضد الإفساد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تسخين الهواء يؤدي إلى انخفاض ضغطه، وليس زيادته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لإفسادهم.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإكرام ليس الهدف الرئيسي من هذه المناشط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لإكرامهم.</p>"
+            "text": "<p style=\"text-align:right\">يزداد ضغطه.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهدف هو تحصين الشباب والشابات ضد الإفساد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تسخين الهواء يؤدي إلى انخفاض ضغطه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لتحصينهم ضد الإفساد.</p>"
+            "text": "<p style=\"text-align:right\">ينخفض ضغطه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهدف ليس إلهاء الشباب عن الدراسة بل تحصينهم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تسخين الهواء يؤدي إلى تغير في ضغطه، وليس بقائه كما هو.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لإلهائهم عن الدراسة.</p>"
+            "text": "<p style=\"text-align:right\">يظل كما هو.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تسخين الهواء لا يؤدي إلى تحوله إلى سائل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يتحول إلى سائل.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من تحصين الشباب والشابات بمناشط إسلامية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو تأثير تسخين الهواء على ضغطه؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الهدف من تحصين الشباب والشابات بمناشط إسلامية؟",
+        "title": "ما هو تأثير تسخين الهواء على ضغطه؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الهدف من تحصين الشباب والشابات بمناشط إسلامية؟"
+        "extraTitle": "ما هو تأثير تسخين الهواء على ضغطه؟"
       },
-      "subContentId": "9ce5b1a4-4ef0-4ac0-9dc3-54f6f49fb4d2"
+      "subContentId": "53f66fce-0789-4aa6-ab07-0e59b2c3e5aa"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التجهيز للقتال جزء من الجهاد القتالي، وليس البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهواء في الأماكن الحارة أقل كثافة، وليس أكثر كثافة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بالتجهيز للقتال فقط.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر كثافة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تطوير البلاد اقتصادياً وعسكرياً هو جزء من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهواء في الأماكن الحارة أقل كثافة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بتطوير البلاد اقتصادياً وعسكرياً.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أقل كثافة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التبرع بالأموال للفقراء هو عمل خيري، وليس جزءًا من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهواء في الأماكن الحارة أكثر سخونة، وليس أكثر برودة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بالتبرع بالأموال للفقراء.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر برودة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">بناء المساجد جزء من الجهاد البنائي، لكنه لا يقتصر عليه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">رطوبة الهواء لا تؤثر بشكل مباشر على مسافة إقلاع الطائرات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ببناء المساجد فقط.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر رطوبة.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير الآية 'وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ' في سياق الجهاد البنائي؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">لماذا تحتاج الطائرات في الأماكن الحارة إلى مسافة أكبر للإقلاع؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن تفسير الآية 'وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ' في سياق الجهاد البنائي؟",
+        "title": "لماذا تحتاج الطائرات في الأماكن الحارة إلى مسافة أكبر للإقلاع؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن تفسير الآية 'وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ' في سياق الجهاد البنائي؟"
+        "extraTitle": "لماذا تحتاج الطائرات في الأماكن الحارة إلى مسافة أكبر للإقلاع؟"
       },
-      "subContentId": "e02b3a62-42be-4755-a537-1264f8f596ed"
+      "subContentId": "07343fdc-d0b1-4a69-8b09-f0a9000fe531"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب اللين والحكمة، وليس الغلظة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهواء يتحرك من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض، وليس بالضرورة من المناطق الباردة إلى الحارة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب الغلظة، بينما أخلاق الجهاد تتطلب اللين.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء يتحرك دائمًا من المناطق الباردة إلى المناطق الحارة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! أخلاق الدعوة تتطلب اللين والحكمة، بينما أخلاق الجهاد تتطلب الغلظة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهواء يتحرك دائمًا من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب اللين والحكمة، بينما أخلاق الجهاد تتطلب الغلظة.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء يتحرك دائمًا من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق واضح بين أخلاق الدعوة وأخلاق الجهاد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهواء يتحرك من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض، وليس بالضرورة من المناطق الرطبة إلى الجافة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لا يوجد فرق بين أخلاق الدعوة وأخلاق الجهاد.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء يتحرك دائمًا من المناطق الرطبة إلى المناطق الجافة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">أخلاق الدعوة لا تتطلب القتال، بل الحوار واللين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهواء يتحرك من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض، وليس بالضرورة من المناطق المرتفعة إلى المنخفضة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب القتال، بينما أخلاق الجهاد تتطلب الحوار.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء يتحرك دائمًا من المناطق المرتفعة إلى المناطق المنخفضة.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين أخلاق الدعوة وأخلاق الجهاد وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو السبب في انتقال الهواء من الضغط المرتفع إلى الضغط المنخفض؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الفرق بين أخلاق الدعوة وأخلاق الجهاد وفقًا للنص؟",
+        "title": "ما هو السبب في انتقال الهواء من الضغط المرتفع إلى الضغط المنخفض؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الفرق بين أخلاق الدعوة وأخلاق الجهاد وفقًا للنص؟"
+        "extraTitle": "ما هو السبب في انتقال الهواء من الضغط المرتفع إلى الضغط المنخفض؟"
       },
-      "subContentId": "a104f117-ffa3-48b7-a7e6-15c053bd2921"
+      "subContentId": "4f135a1d-0a8d-4042-801d-0e5fdbfa71c2"
     },
     {
       "params": {
@@ -522,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القتال المباشر مع الأعداء هو جزء من الجهاد القتالي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">مبدأ الطفو يفسر قدرة الأجسام على الطفو في السوائل، وليس حركة الهواء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القتال المباشر مع الأعداء.</p>"
+            "text": "<p style=\"text-align:right\">مبدأ الطفو.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">مبدأ برنولي يفسر العلاقة بين سرعة المائع وضغطه، وليس حركة الهواء من الضغط المرتفع إلى المنخفض.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">مبدأ برنولي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">مبدأ التوازن الحراري يفسر انتقال الحرارة بين الأجسام، وليس حركة الهواء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">مبدأ التوازن الحراري.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد النفسي يتعلق بضبط النفس والتحكم في الرغبات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مبدأ انتقال الضغط يفسر حركة الهواء من الضغط المرتفع إلى الضغط المنخفض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ضبط النفس والتحكم في الرغبات.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تطوير الصناعات والاكتفاء الذاتي هو جزء من الجهاد البنائي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تطوير الصناعات والاكتفاء الذاتي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ترسيخ معالم الدين والرد على الشبهات هو جزء من الجهاد العلمي الدعوي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">ترسيخ معالم الدين والرد على الشبهات.</p>"
+            "text": "<p style=\"text-align:right\">مبدأ انتقال الضغط.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +600,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'الجهاد النفسي' وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المبدأ الذي يفسر حركة الهواء من الضغط المرتفع إلى الضغط المنخفض؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المقصود بـ 'الجهاد النفسي' وفقًا للنص؟",
+        "title": "ما هو المبدأ الذي يفسر حركة الهواء من الضغط المرتفع إلى الضغط المنخفض؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المقصود بـ 'الجهاد النفسي' وفقًا للنص؟"
+        "extraTitle": "ما هو المبدأ الذي يفسر حركة الهواء من الضغط المرتفع إلى الضغط المنخفض؟"
       },
-      "subContentId": "76abb369-5204-4865-a3a8-5830588be0fc"
+      "subContentId": "a9b171c9-851c-4d3d-bdad-98976e75601a"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات الكونية هي خلق السماوات والأرض، والآيات التكوينية هي أفعال الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآيات الكونية هي خلق السماوات والأرض، والآيات التكوينية هي أفعال الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية هي خلق السماوات والأرض، وليس كلام الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآيات الكونية هي كلام الله، والآيات التكوينية هي خلق السماوات والأرض.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية هي خلق السماوات والأرض، وليس أفعال الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآيات الكونية هي أفعال الله، والآيات التكوينية هي كلام الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات التكوينية هي أفعال الله، وليس كلام الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآيات الكونية هي خلق السماوات والأرض، والآيات التكوينية هي كلام الله.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين الآيات الكونية والآيات التكوينية؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الفرق بين الآيات الكونية والآيات التكوينية؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الفرق بين الآيات الكونية والآيات التكوينية؟"
+      },
+      "subContentId": "b16db754-9e08-41eb-8a7b-68a4fbb63a32"
     },
     {
       "params": {
@@ -623,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القتال المباشر مع الأعداء هو جزء من الجهاد القتالي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله يهدف إلى زيادة الإيمان بالله ومعرفته، وليس فقط زيادة المعرفة العلمية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بالقتال المباشر مع الأعداء.</p>"
+            "text": "<p style=\"text-align:right\">لزيادة المعرفة العلمية فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تعليم القرآن الكريم وتوضيح معانيه هو جزء من الجهاد العلمي الدعوي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في آيات الله يهدف إلى زيادة الإيمان بالله ومعرفته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بتعليم القرآن الكريم وتوضيح معانيه.</p>"
+            "text": "<p style=\"text-align:right\">لزيادة الإيمان بالله ومعرفته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تطوير الصناعات والاكتفاء الذاتي هو جزء من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله لا يهدف إلى إثبات تفوق الإنسان على الطبيعة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بتطوير الصناعات والاكتفاء الذاتي.</p>"
+            "text": "<p style=\"text-align:right\">لإثبات تفوق الإنسان على الطبيعة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">بناء المساجد والمدارس هو جزء من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله لا يهدف إلى إثبات صحة النظريات العلمية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ببناء المساجد والمدارس.</p>"
+            "text": "<p style=\"text-align:right\">لإثبات صحة النظريات العلمية.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير الآية 'وَجَاهِدْهُمْ بِهِ جِهَاداً كَبِيراً' في سياق الجهاد العلمي الدعوي؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من التفكر في آيات الله الكونية والتكوينية والقرآنية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن تفسير الآية 'وَجَاهِدْهُمْ بِهِ جِهَاداً كَبِيراً' في سياق الجهاد العلمي الدعوي؟",
+        "title": "ما هو الهدف من التفكر في آيات الله الكونية والتكوينية والقرآنية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن تفسير الآية 'وَجَاهِدْهُمْ بِهِ جِهَاداً كَبِيراً' في سياق الجهاد العلمي الدعوي؟"
+        "extraTitle": "ما هو الهدف من التفكر في آيات الله الكونية والتكوينية والقرآنية؟"
       },
-      "subContentId": "da35a181-aca0-4d0c-8591-b3c8c1b6b546"
+      "subContentId": "19bf1b03-b14c-4b74-960b-5d076be6a442"
     },
     {
       "params": {
@@ -721,40 +822,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي يلعب دورًا مهمًا في مواجهة التحديات الخارجية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لا يوجد دور للجهاد النفسي في مواجهة التحديات الخارجية.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد النفسي يعزز القدرة على مواجهة التحديات الخارجية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذا الأثر يدل على أهمية طلب الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد النفسي يعزز القدرة على مواجهة التحديات الخارجية.</p>"
+            "text": "<p style=\"text-align:right\">(( ابن آدم اطلبني تجدني، فإذا وجدتني وجدت كل شيء، وإن فتك فاتك كل شيء، وأنا أحب إليك من كل شيء)).</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي لا يقلل من القدرة على مواجهة التحديات الخارجية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا الأثر يتحدث عن تغيير الحال، وليس عن طلب الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد النفسي يقلل من القدرة على مواجهة التحديات الخارجية.</p>"
+            "text": "<p style=\"text-align:right\">(( إن الله لا يغير ما بقوم حتى يغيروا ما بأنفسهم )).</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي لا يقتصر على التحديات الداخلية فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا الأثر يتحدث عن جزاء العمل الصالح، وليس عن طلب الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد النفسي يقتصر على التحديات الداخلية فقط.</p>"
+            "text": "<p style=\"text-align:right\">(( من عمل صالحاً من ذكر أو أنثى وهو مؤمن فلنحيينه حياة طيبة )).</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا الأثر يتحدث عن النية في العمل، وليس عن طلب الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">(( إنما الأعمال بالنيات )).</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الدور الذي يلعبه الجهاد النفسي في مواجهة التحديات الخارجية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل من الأثر على أهمية طلب الله؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الدور الذي يلعبه الجهاد النفسي في مواجهة التحديات الخارجية؟",
+        "title": "ما هو الدليل من الأثر على أهمية طلب الله؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الدور الذي يلعبه الجهاد النفسي في مواجهة التحديات الخارجية؟"
+        "extraTitle": "ما هو الدليل من الأثر على أهمية طلب الله؟"
       },
-      "subContentId": "5007b68c-9404-4bb3-8f22-748b66b64741"
+      "subContentId": "fc2c889a-6a93-4e29-97b9-16174e40ba36"
     },
     {
       "params": {
@@ -822,40 +923,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام القوة ليس مطلوبًا دائمًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">يجب استخدام القوة دائمًا.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام القوة قد يكون ضروريًا في بعض الحالات.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">يجب تجنب استخدام القوة تمامًا.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب استخدام القوة فقط لمنع الإرهاب.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في خلق السماوات والأرض يقرب الإنسان من معرفة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يجب استخدام القوة فقط لمنع الإرهاب.</p>"
+            "text": "<p style=\"text-align:right\">شجعه على الاستمرار في التفكر لأن ذلك يقربه من معرفة الله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام القوة ليس مقتصرًا على الجهاد القتالي فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض له فوائد عظيمة في زيادة الإيمان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يجب استخدام القوة فقط في الجهاد القتالي.</p>"
+            "text": "<p style=\"text-align:right\">أخبره أن التفكر في خلق السماوات والأرض لا فائدة منه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض ليس مضيعة للوقت بل هو عبادة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أخبره أن التفكر في خلق السماوات والأرض مضيعة للوقت.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض يقوي الإيمان ولا يسبب الشك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أخبره أن التفكر في خلق السماوات والأرض يسبب الشك في وجود الله.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من استخدام القوة في الإسلام وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يتفكر في خلق السماوات والأرض، ما هو أفضل رد يمكن أن تقدمه له؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من استخدام القوة في الإسلام وفقًا للنص؟",
+        "title": "إذا رأيت شخصًا يتفكر في خلق السماوات والأرض، ما هو أفضل رد يمكن أن تقدمه له؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من استخدام القوة في الإسلام وفقًا للنص؟"
+        "extraTitle": "إذا رأيت شخصًا يتفكر في خلق السماوات والأرض، ما هو أفضل رد يمكن أن تقدمه له؟"
       },
-      "subContentId": "1416c131-6a88-48b2-ba9e-a5c4446a393f"
+      "subContentId": "52453a50-9d68-4dae-84c0-03fb74c0e807"
     },
     {
       "params": {
@@ -923,40 +1024,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي يتعلق بالقتال المباشر مع الأعداء.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الجهاد القتالي.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تطوير الصناعات لتحقيق الاكتفاء الذاتي هو جزء من الجهاد البنائي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهواء في الأماكن الحارة أقل كثافة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد البنائي.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أقل كثافة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي يتعلق بترسيخ معالم الدين والرد على الشبهات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهواء في الأماكن الحارة أقل كثافة، وليس أكثر كثافة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد العلمي الدعوي.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر كثافة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي يتعلق بضبط النفس والتحكم في الرغبات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهواء في الأماكن الحارة أكثر سخونة، وليس أكثر برودة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد النفسي.</p>"
+            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر برودة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">رطوبة الهواء لا تؤثر بشكل مباشر على مسافة إقلاع الطائرات.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر رطوبة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا أراد بلد إسلامي تطوير صناعاته لتحقيق الاكتفاء الذاتي، ما هو نوع الجهاد الذي ينطبق على هذا الموقف؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا سألك شخص عن سبب حاجة الطائرات إلى مسافة أكبر للإقلاع في الأماكن الحارة، ما هو أفضل تفسير يمكن أن تقدمه؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا أراد بلد إسلامي تطوير صناعاته لتحقيق الاكتفاء الذاتي، ما هو نوع الجهاد الذي ينطبق على هذا الموقف؟",
+        "title": "إذا سألك شخص عن سبب حاجة الطائرات إلى مسافة أكبر للإقلاع في الأماكن الحارة، ما هو أفضل تفسير يمكن أن تقدمه؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا أراد بلد إسلامي تطوير صناعاته لتحقيق الاكتفاء الذاتي، ما هو نوع الجهاد الذي ينطبق على هذا الموقف؟"
+        "extraTitle": "إذا سألك شخص عن سبب حاجة الطائرات إلى مسافة أكبر للإقلاع في الأماكن الحارة، ما هو أفضل تفسير يمكن أن تقدمه؟"
       },
-      "subContentId": "17555f83-28cf-4f7b-b759-e576296875f3"
+      "subContentId": "3efb2593-8bf2-49c5-8d10-6e102507d8ed"
     },
     {
       "params": {
@@ -1024,40 +1125,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي يتعلق بالقتال المباشر مع الأعداء.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الجهاد القتالي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يتعلق بتطوير البلاد وليس بالرد على الشبهات.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الجهاد البنائي.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد العلمي الدعوي يتعلق بترسيخ معالم الدين والرد على الشبهات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في آيات الله يقرب الإنسان من معرفة الله ويزيد إيمانه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد العلمي الدعوي.</p>"
+            "text": "<p style=\"text-align:right\">أخبره أن التفكر في آيات الله يقربه من معرفة الله ويزيد إيمانه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي يتعلق بضبط النفس والتحكم في الرغبات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله ليس مضيعة للوقت بل هو عبادة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهاد النفسي.</p>"
+            "text": "<p style=\"text-align:right\">أخبره أن التفكر في آيات الله مضيعة للوقت.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله يقوي الإيمان ولا يسبب الشك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أخبره أن التفكر في آيات الله يسبب الشك في وجود الله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله له فوائد عظيمة في زيادة الإيمان.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أخبره أن التفكر في آيات الله لا فائدة منه.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,119 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">في حالة وجود شبهات حول الإسلام، ما هو نوع الجهاد الذي يجب أن يمارسه المسلمون للرد على هذه الشبهات؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يعتقد أن التفكر في آيات الله الكونية والتكوينية والقرآنية لا فائدة منه، ما هو أفضل رد يمكن أن تقدمه له؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "في حالة وجود شبهات حول الإسلام، ما هو نوع الجهاد الذي يجب أن يمارسه المسلمون للرد على هذه الشبهات؟",
+        "title": "إذا رأيت شخصًا يعتقد أن التفكر في آيات الله الكونية والتكوينية والقرآنية لا فائدة منه، ما هو أفضل رد يمكن أن تقدمه له؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "في حالة وجود شبهات حول الإسلام، ما هو نوع الجهاد الذي يجب أن يمارسه المسلمون للرد على هذه الشبهات؟"
+        "extraTitle": "إذا رأيت شخصًا يعتقد أن التفكر في آيات الله الكونية والتكوينية والقرآنية لا فائدة منه، ما هو أفضل رد يمكن أن تقدمه له؟"
       },
-      "subContentId": "a8a0fe50-add7-46b0-af2e-4ef8935eac65"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي يتعلق بالقتال المباشر مع الأعداء.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الجهاد القتالي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يتعلق بتطوير البلاد وليس بتحصين الشباب.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الجهاد البنائي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي يتعلق بترسيخ معالم الدين والرد على الشبهات.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الجهاد العلمي الدعوي.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المناشط الإسلامية لتحصين الشباب هي العبادة المناسبة لهذا الموقف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">المناشط الإسلامية لتحصين الشباب.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">إذا أراد بلد إسلامي تحصين شبابه ضد الإفساد، ما هي العبادة التي يجب أن يمارسها؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "إذا أراد بلد إسلامي تحصين شبابه ضد الإفساد، ما هي العبادة التي يجب أن يمارسها؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "إذا أراد بلد إسلامي تحصين شبابه ضد الإفساد، ما هي العبادة التي يجب أن يمارسها؟"
-      },
-      "subContentId": "33831c97-8d18-4d56-98c3-7c1a805b9762"
+      "subContentId": "ce3d53d9-0ed6-4806-89bb-5c097db2c7c3"
     }
   ],
   "disableBackwardsNavigation": false,

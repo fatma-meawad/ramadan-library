@@ -17,37 +17,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الله أودع في الإنسان حاجات أساسية تجعله يتحرك لتحقيقها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عبادة الهوية تعني أن يعبد كل شخص الله وفقًا لهويته ووظيفته الاجتماعية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">حاجته إلى الطعام والشراب والجنس والذكر.</p>"
+            "text": "<p style=\"text-align:right\">العبادة التي تركز على الهوية الشخصية والوظيفة الاجتماعية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">السفر والترحال قد يكون نتيجة للحاجات الأساسية، لكنه ليس السبب الرئيسي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا غير صحيح، عبادة الهوية تتجاوز الصلاة والصوم لتشمل الوظيفة الاجتماعية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">رغبته في السفر والترحال.</p>"
+            "text": "<p style=\"text-align:right\">العبادة التي تركز على الصلاة والصوم فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المعرفة مهمة، لكنها ليست السبب الرئيسي لحركة الإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الذكر والتسبيح جزء من العبادة لكنها لا تعبر عن مفهوم عبادة الهوية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بحثه عن المعرفة فقط.</p>"
+            "text": "<p style=\"text-align:right\">العبادة التي تركز على الذكر والتسبيح.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان لديه حاجات أساسية تجعله يتحرك.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الحج والعمرة من العبادات المهمة لكنها لا تعبر عن مفهوم عبادة الهوية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عدم وجود أي حاجات لديه.</p>"
+            "text": "<p style=\"text-align:right\">العبادة التي تركز على الحج والعمرة.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,220 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يجعل الإنسان كائنًا متحركًا وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي عبادة الهوية كما وردت في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي يجعل الإنسان كائنًا متحركًا وفقًا للنص؟",
+        "title": "ما هي عبادة الهوية كما وردت في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي يجعل الإنسان كائنًا متحركًا وفقًا للنص؟"
+        "extraTitle": "ما هي عبادة الهوية كما وردت في النص؟"
       },
-      "subContentId": "8fddc529-7334-4d58-97da-1fdfe5dc9ab6"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوحيد هو الإيمان بأن الله واحد لا شريك له.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الإيمان بأن الله واحد لا شريك له.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الأولياء والصالحين تعتبر من الشرك في الإسلام.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عبادة الأولياء والصالحين.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإيمان بالله هو الأساس الأول في العقيدة الإسلامية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تصديق النبي فقط دون الإيمان بالله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإسلام يرفض تعدد الآلهة تمامًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الإيمان بوجود آلهة متعددة.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما المقصود بتوحيد الألوهية في الإسلام؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما المقصود بتوحيد الألوهية في الإسلام؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما المقصود بتوحيد الألوهية في الإسلام؟"
-      },
-      "subContentId": "7b134f77-b00f-47c8-9725-5e8062265671"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الحاجات تجعل الإنسان يتحرك لتحقيقها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الطعام والشراب والجنس والذكر.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المال والسلطة قد تكون نتيجة للحاجات الأساسية، لكنها ليست الحاجات الأساسية نفسها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">المال والسلطة فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الراحة والنوم مهمان، لكنهما ليسا الحاجات الأساسية التي تجعل الإنسان يتحرك.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الراحة والنوم فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الترفيه واللعب قد يكونان نتيجة للحاجات الأساسية، لكنهما ليسا الحاجات الأساسية نفسها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الترفيه واللعب فقط.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الحاجات الأساسية التي أودعها الله في الإنسان؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي الحاجات الأساسية التي أودعها الله في الإنسان؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي الحاجات الأساسية التي أودعها الله في الإنسان؟"
-      },
-      "subContentId": "9d8f06ba-48be-4aeb-b18e-330a59a753fc"
+      "subContentId": "29b101ec-60c1-4bd8-8c40-897039f33758"
     },
     {
       "params": {
@@ -320,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الله وحده هو الذي يخلق من لا شيء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكن رعاية الأب المريض أولوية في هذا الظرف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأن يصنع أشياء من لا شيء.</p>"
+            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإنسان يصنع أشياء من كل شيء وعلى مثال سابق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! رعاية الأب المريض هي العبادة الأولى في هذا الظرف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأن يصنع أشياء من كل شيء وعلى مثال سابق.</p>"
+            "text": "<p style=\"text-align:right\">رعاية الأب المريض.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يحتاج إلى حاجات أساسية لصنع الأشياء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن عبادة لكنها ليست الأولى في حالة وجود أب مريض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأن يصنع أشياء دون أي حاجة.</p>"
+            "text": "<p style=\"text-align:right\">قراءة القرآن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يحتاج إلى مثال سابق لصنع الأشياء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصيام عبادة لكن رعاية الأب المريض تأتي أولًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأن يصنع أشياء دون أي مثال.</p>"
+            "text": "<p style=\"text-align:right\">الصيام.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +196,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن للإنسان أن يوازن بين صنعته وصنعة الله وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه أب مريض؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن للإنسان أن يوازن بين صنعته وصنعة الله وفقًا للنص؟",
+        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه أب مريض؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن للإنسان أن يوازن بين صنعته وصنعة الله وفقًا للنص؟"
+        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه أب مريض؟"
       },
-      "subContentId": "7632b519-1995-4948-b726-b779fc110c64"
+      "subContentId": "53540ce7-8a93-4a68-9329-86ce363aa76c"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">عبادة الوقت تشمل النهار والليل، وليس النهار فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العبادة التي تركز على العمل في النهار فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">عبادة الوقت تشمل النهار والليل، وليس الليل فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العبادة التي تركز على الصلاة في الليل فقط.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عبادة الوقت تعني إعطاء كل وقت حقه من العبادات.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العبادة التي تعطي لكل وقت حقه من العبادات.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الحج جزء من العبادات لكنه لا يعبر عن مفهوم عبادة الوقت.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العبادة التي تركز على الحج فقط.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هي عبادة الوقت كما وردت في النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هي عبادة الوقت كما وردت في النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هي عبادة الوقت كما وردت في النص؟"
+      },
+      "subContentId": "8dae1177-eca6-42ee-924e-7ce8f0244b87"
     },
     {
       "params": {
@@ -421,37 +320,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهدف الرئيسي من خلق الإنسان هو عبادة الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! رعاية الأب المريض هي العبادة الأولى في هذا الظرف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ليعبد الله.</p>"
+            "text": "<p style=\"text-align:right\">تأجيل العبادات الأخرى لصالح رعاية الأب المريض.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">جمع المال قد يكون وسيلة، لكنه ليس الهدف الرئيسي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال رعاية الأب المريض لصالح العبادات الأخرى غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ليجمع المال.</p>"
+            "text": "<p style=\"text-align:right\">إهمال رعاية الأب المريض لصالح العبادات الأخرى.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة قد يكون نتيجة، لكنه ليس الهدف الرئيسي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تأجيل رعاية الأب المريض لصالح العبادات الأخرى غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ليستمتع بالحياة فقط.</p>"
+            "text": "<p style=\"text-align:right\">تأجيل رعاية الأب المريض لصالح العبادات الأخرى.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون نتيجة، لكنها ليست الهدف الرئيسي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال العبادات الأخرى تمامًا لصالح رعاية الأب المريض غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ليحقق الشهرة.</p>"
+            "text": "<p style=\"text-align:right\">إهمال العبادات الأخرى لصالح رعاية الأب المريض.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +398,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف الرئيسي من خلق الإنسان وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح تجاه عبادة الظرف؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الهدف الرئيسي من خلق الإنسان وفقًا للنص؟",
+        "title": "ما هو الموقف الصحيح تجاه عبادة الظرف؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الهدف الرئيسي من خلق الإنسان وفقًا للنص؟"
+        "extraTitle": "ما هو الموقف الصحيح تجاه عبادة الظرف؟"
       },
-      "subContentId": "1b579ea3-c05a-4455-b687-1e5e0bd275c5"
+      "subContentId": "cac2d2a9-948c-4953-95aa-1915284644ea"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال الضيف غير صحيح، إكرام الضيف هو العبادة الأولى في هذا الظرف.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إهمال الضيف والذهاب إلى المسجد.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إكرام الضيف هو العبادة الأولى في هذا الظرف.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إكرام الضيف.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن عبادة لكنها ليست الأولى في حالة وجود ضيف.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">قراءة القرآن.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الصيام عبادة لكن إكرام الضيف يأتي أولًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الصيام.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ضيف؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ضيف؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ضيف؟"
+      },
+      "subContentId": "42c3ae56-6c6b-43a6-8629-90bc87caf117"
     },
     {
       "params": {
@@ -522,37 +522,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! معرفة الهدف من وجوده يجعل حركة الإنسان صحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تهيئة الجو المناسب للدراسة هي العبادة الأولى في هذا الظرف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">معرفة الهدف من وجوده.</p>"
+            "text": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">جمع المال قد يكون وسيلة، لكنه ليس ما يجعل الحركة صحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكن تهيئة الجو المناسب للدراسة أولوية في هذا الظرف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جمع المال فقط.</p>"
+            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة قد يكون نتيجة، لكنه ليس ما يجعل الحركة صحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن عبادة لكنها ليست الأولى في حالة وجود ابن في الامتحان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاستمتاع بالحياة فقط.</p>"
+            "text": "<p style=\"text-align:right\">قراءة القرآن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون نتيجة، لكنها ليست ما تجعل الحركة صحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصيام عبادة لكن تهيئة الجو المناسب للدراسة يأتي أولًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق الشهرة فقط.</p>"
+            "text": "<p style=\"text-align:right\">الصيام.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يجعل حركة الإنسان صحيحة وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان ابنه في الامتحان؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي يجعل حركة الإنسان صحيحة وفقًا للنص؟",
+        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان ابنه في الامتحان؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي يجعل حركة الإنسان صحيحة وفقًا للنص؟"
+        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان ابنه في الامتحان؟"
       },
-      "subContentId": "d1a23d58-f12f-4677-9399-3c32f80ff4f7"
+      "subContentId": "d3df25ff-152f-4e03-af6d-70236e96030a"
     },
     {
       "params": {
@@ -712,7 +712,7 @@
         "changes": [],
         "extraTitle": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟"
       },
-      "subContentId": "566575d1-769f-49fa-be3e-7262a39e6f73"
+      "subContentId": "d71e33e7-221f-455e-bbde-9348a208c1a7"
     },
     {
       "params": {
@@ -724,37 +724,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشهوات حيادية ويمكن أن تكون وسيلة للارتقاء أو الهبوط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إعطاء كل وقت حقه من العبادات هو الموقف الصحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أنها حيادية ويمكن أن تكون وسيلة للارتقاء أو الهبوط.</p>"
+            "text": "<p style=\"text-align:right\">إعطاء كل وقت حقه من العبادات.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهوات ليست شرًا مطلقًا، بل يمكن أن تكون وسيلة للارتقاء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التركيز على العبادات في الليل فقط غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أنها شر مطلق ويجب تجنبها تمامًا.</p>"
+            "text": "<p style=\"text-align:right\">التركيز على العبادات في الليل فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهوات ليست خيرًا مطلقًا، بل يمكن أن تكون وسيلة للهبوط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التركيز على العبادات في النهار فقط غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أنها خير مطلق ويجب اتباعها دائمًا.</p>"
+            "text": "<p style=\"text-align:right\">التركيز على العبادات في النهار فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهوات مهمة في حياة الإنسان ويمكن أن تكون وسيلة للارتقاء أو الهبوط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال العبادات في بعض الأوقات غير صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أنها غير مهمة في حياة الإنسان.</p>"
+            "text": "<p style=\"text-align:right\">إهمال العبادات في بعض الأوقات.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من الشهوات وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح تجاه عبادة الوقت؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من الشهوات وفقًا للنص؟",
+        "title": "ما هو الموقف الصحيح تجاه عبادة الوقت؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من الشهوات وفقًا للنص؟"
+        "extraTitle": "ما هو الموقف الصحيح تجاه عبادة الوقت؟"
       },
-      "subContentId": "e1de7cba-51db-45c5-8ab8-bc44b8c9761e"
+      "subContentId": "268e8fff-b0ca-44b6-96f3-93c6750e3b11"
     },
     {
       "params": {
@@ -825,37 +825,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الامتحان والابتلاء يجعلان الإنسان صالحًا أو طالحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تزويج الابن هو العبادة الأولى في هذا الظرف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ليكون الإنسان صالحًا أو طالحًا.</p>"
+            "text": "<p style=\"text-align:right\">تزويج الابن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">جمع المال قد يكون نتيجة، لكنه ليس دور الامتحان والابتلاء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكن تزويج الابن أولوية في هذا الظرف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ليجمع الإنسان المال فقط.</p>"
+            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة قد يكون نتيجة، لكنه ليس دور الامتحان والابتلاء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن عبادة لكنها ليست الأولى في حالة وجود ابن في ريعان الشباب.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ليستمتع الإنسان بالحياة فقط.</p>"
+            "text": "<p style=\"text-align:right\">قراءة القرآن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون نتيجة، لكنها ليست دور الامتحان والابتلاء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصيام عبادة لكن تزويج الابن يأتي أولًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ليحقق الإنسان الشهرة فقط.</p>"
+            "text": "<p style=\"text-align:right\">الصيام.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو دور الامتحان والابتلاء في حياة الإنسان وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ابن في ريعان الشباب؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو دور الامتحان والابتلاء في حياة الإنسان وفقًا للنص؟",
+        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ابن في ريعان الشباب؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو دور الامتحان والابتلاء في حياة الإنسان وفقًا للنص؟"
+        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ابن في ريعان الشباب؟"
       },
-      "subContentId": "7eec9b9e-2fad-48f0-8638-7a8e320538e3"
+      "subContentId": "849f28ea-7157-4dd3-96b6-c4d3aca78e45"
     },
     {
       "params": {
@@ -926,209 +926,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون نتيجة، لكنها ليست الهدف الرئيسي من الحياة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الشهرة هي الهدف الرئيسي من الحياة.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهدف الرئيسي من الحياة هو عبادة الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الهدف الرئيسي من الحياة هو عبادة الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون وسيلة، لكنها ليست الهدف الرئيسي من الحياة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الشهرة قد تكون وسيلة لتحقيق الهدف الرئيسي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة قد تكون مهمة، لكنها ليست الهدف الرئيسي من الحياة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الشهرة غير مهمة في حياة الإنسان.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شاب يعتقد أن تحقيق الشهرة هو الهدف الرئيسي من الحياة. ما هو الرد الصحيح بناءً على النص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شاب يعتقد أن تحقيق الشهرة هو الهدف الرئيسي من الحياة. ما هو الرد الصحيح بناءً على النص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شاب يعتقد أن تحقيق الشهرة هو الهدف الرئيسي من الحياة. ما هو الرد الصحيح بناءً على النص؟"
-      },
-      "subContentId": "595c6688-bb0a-4a18-b132-6bd323e244a8"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأفعال الاختيارية ضرورية لتحقيق الإيمان الكامل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الأفعال الاختيارية ضرورية لتحقيق الإيمان الكامل.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإيمان الكامل يتطلب الأفعال الاختيارية بالإضافة إلى صدق القلب.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الأفعال الاختيارية ليست ضرورية طالما أن القلب صادق.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأفعال الاختيارية مهمة لتحقيق الإيمان الكامل، وليس للشهرة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الأفعال الاختيارية مهمة فقط للشهرة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأفعال الاختيارية مهمة في الإسلام لتحقيق الإيمان الكامل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الأفعال الاختيارية غير مهمة في الإسلام.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">رجل يقول إن الأفعال الاختيارية مثل الصلاة والصيام ليست ضرورية طالما أن القلب صادق في الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "رجل يقول إن الأفعال الاختيارية مثل الصلاة والصيام ليست ضرورية طالما أن القلب صادق في الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "رجل يقول إن الأفعال الاختيارية مثل الصلاة والصيام ليست ضرورية طالما أن القلب صادق في الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟"
-      },
-      "subContentId": "3fdba8d2-b7f2-43b7-bd43-41439ebb5d0a"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التبرك بالأضرحة يعتبر من الشرك في الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">. العبادة يجب أن تكون لله وحده بلا وسطاء.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">يجوز التبرك لأنها وسيلة للتقرب إلى الله.</p>"
@@ -1146,7 +944,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العقيدة الإسلامية تحدد ضوابط العبادة بوضوح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">. العقيدة الإسلامية تحدد ضوابط العبادة بوضوح.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">يمكن اعتبار التبرك جزءًا من الثقافة وليس العقيدة.</p>"
@@ -1155,7 +953,7 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النصوص الشرعية واضحة في النهي عن التوسل البدعي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\"> النصوص الشرعية واضحة في النهي عن التوسل البدعي.</p>",
               "notChosenFeedback": ""
             },
             "text": "<p style=\"text-align:right\">لا يوجد حكم شرعي واضح في المسألة.</p>"
@@ -1217,7 +1015,209 @@
         "changes": [],
         "extraTitle": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟"
       },
-      "subContentId": "26a3575b-d480-4fd8-b98d-3f3103a5d2c0"
+      "subContentId": "c6e6b5e9-e10b-4dad-b1d4-e69311317533"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تأجيل الزواج حتى يملك بيتًا قد يؤدي إلى مشاكل اجتماعية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تأجيل الزواج حتى يملك بيتًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الزواج دون الاهتمام بامتلاك بيت قد يؤدي إلى مشاكل مالية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الزواج دون الاهتمام بامتلاك بيت.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! طلب المساعدة من الأهل والأصدقاء لتأمين بيت هو الموقف الصحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">طلب المساعدة من الأهل والأصدقاء لتأمين بيت.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال الزواج والتركيز على العمل غير صحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إهمال الزواج والتركيز على العمل.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شاب يريد أن يتزوج لكنه لا يملك بيتًا. ما هو الموقف الصحيح بناءً على عبادة العصر؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شاب يريد أن يتزوج لكنه لا يملك بيتًا. ما هو الموقف الصحيح بناءً على عبادة العصر؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شاب يريد أن يتزوج لكنه لا يملك بيتًا. ما هو الموقف الصحيح بناءً على عبادة العصر؟"
+      },
+      "subContentId": "2abc8b7d-3c83-4b2e-a091-58689578aecc"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل في النهار مهم لكنه لا يلغي أهمية العبادة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العمل في النهار أهم من العبادة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادة في الليل مهمة لكنها لا تلغي أهمية العمل في النهار.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العبادة في الليل أهم من العمل في النهار.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إعطاء كل وقت حقه من العمل والعبادة هو الموقف الصحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إعطاء كل وقت حقه من العمل والعبادة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال العمل والتركيز على العبادة غير صحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إهمال العمل والتركيز على العبادة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">أحد الأشخاص يعتقد أن العمل في النهار أهم من العبادة. ما هو الرد الصحيح بناءً على عبادة الوقت؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "أحد الأشخاص يعتقد أن العمل في النهار أهم من العبادة. ما هو الرد الصحيح بناءً على عبادة الوقت؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "أحد الأشخاص يعتقد أن العمل في النهار أهم من العبادة. ما هو الرد الصحيح بناءً على عبادة الوقت؟"
+      },
+      "subContentId": "976616cb-54c8-424b-9b23-cb8a2f035650"
     }
   ],
   "disableBackwardsNavigation": false,

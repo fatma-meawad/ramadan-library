@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع هو القلق والجزع، وليس عدم الاهتمام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادة الشعائرية تشمل أكثر من الصلاة والصيام، مثل الحج والزكاة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشخص الذي لا يهتم بأي شيء.</p>"
+            "text": "<p style=\"text-align:right\">العبادة الشعائرية هي الصلاة والصيام فقط، بينما التعاملية تشمل الزكاة والحج.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع هو الذي يقلق ويجزع عند مواجهة الشر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الشعائرية تتعلق بالشعائر الدينية، بينما التعاملية تشمل الأخلاق والمعاملات اليومية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشخص الذي يقلق ويجزع عند مواجهة الشر.</p>"
+            "text": "<p style=\"text-align:right\">العبادة الشعائرية هي الأعمال التي تتعلق بالشعائر الدينية، بينما التعاملية تشمل الأخلاق والمعاملات اليومية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتعلق بالقلق عند الشر، وليس الفرح عند الخير.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق واضح بين النوعين من العبادة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشخص الذي يفرح عند مواجهة الخير.</p>"
+            "text": "<p style=\"text-align:right\">لا يوجد فرق، كلاهما نفس الشيء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان بطبيعته يتأثر بالأحداث، خاصة الشر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادة التعاملية تشمل المعاملات مع الناس، لكنها أيضًا لله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشخص الذي لا يتأثر بأي حدث.</p>"
+            "text": "<p style=\"text-align:right\">العبادة الشعائرية هي لله فقط، بينما التعاملية للناس.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما معنى الهلوع كما ورد في القرآن؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق الأساسي بين العبادة الشعائرية والعبادة التعاملية في الإسلام؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما معنى الهلوع كما ورد في القرآن؟",
+        "title": "ما هو الفرق الأساسي بين العبادة الشعائرية والعبادة التعاملية في الإسلام؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما معنى الهلوع كما ورد في القرآن؟"
+        "extraTitle": "ما هو الفرق الأساسي بين العبادة الشعائرية والعبادة التعاملية في الإسلام؟"
       },
-      "subContentId": "d9c397be-5c4a-4320-8ff3-cd66c44548ad"
+      "subContentId": "97881b47-2606-4023-b491-166b7a7713f8"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان خُلق ضعيفًا، وليس قويًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادة الشعائرية تشمل الصلاة والصيام والحج والزكاة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإنسان خُلق قويًا.</p>"
+            "text": "<p style=\"text-align:right\">العبادة الشعائرية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإنسان خُلق هلوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة التعاملية تشمل الأخلاق والمعاملات اليومية مثل الصدق وأداء الأمانة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإنسان خُلق هلوعًا.</p>"
+            "text": "<p style=\"text-align:right\">العبادة التعاملية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يتأثر بالخير والشر، وليس غير مبالٍ.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادة المالية تشمل الزكاة والصدقات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإنسان خُلق غير مبالٍ.</p>"
+            "text": "<p style=\"text-align:right\">العبادة المالية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يتأثر بالخير والشر، خاصة الشر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادة الروحية تشمل الذكر والتسبيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإنسان خُلق لا يتأثر بالخير أو الشر.</p>"
+            "text": "<p style=\"text-align:right\">العبادة الروحية.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي إحدى خصائص النفس البشرية كما ذكرت في القرآن؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي تشمل الصدق في الحديث وأداء الأمانة وحسن الجوار؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي إحدى خصائص النفس البشرية كما ذكرت في القرآن؟",
+        "title": "ما هي العبادة التي تشمل الصدق في الحديث وأداء الأمانة وحسن الجوار؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي إحدى خصائص النفس البشرية كما ذكرت في القرآن؟"
+        "extraTitle": "ما هي العبادة التي تشمل الصدق في الحديث وأداء الأمانة وحسن الجوار؟"
       },
-      "subContentId": "c69fede1-7832-48c3-95b9-ef239defa729"
+      "subContentId": "33a93db4-d4f3-4cd5-8b2f-bc42885f1ba0"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الشعائرية مثل الصلاة والصيام لا تقبل إذا كانت العبادة التعاملية غير صحيحة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العبادة الشعائرية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادة التعاملية هي التي يجب أن تكون صحيحة حتى تقبل العبادة الشعائرية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العبادة التعاملية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادة المالية تشمل الزكاة والصدقات.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العبادة المالية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادة الروحية تشمل الذكر والتسبيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العبادة الروحية.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي لا تقبل إذا كانت العبادة التعاملية غير صحيحة؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هي العبادة التي لا تقبل إذا كانت العبادة التعاملية غير صحيحة؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هي العبادة التي لا تقبل إذا كانت العبادة التعاملية غير صحيحة؟"
+      },
+      "subContentId": "e073d18d-7c73-43dd-b9a2-4f7c0ecc1a6c"
     },
     {
       "params": {
@@ -219,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عندما يمسه الشر يكون جزوعًا، وليس منوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكسل وعدم العمل من الآثار السلبية للتنعم، لكن السبب الرئيسي هو نسيان الهدف الحقيقي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يمسه الشر.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يؤدي إلى الكسل وعدم العمل.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عندما يمسه الخير يكون منوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التنعم المفرط يجعل الإنسان ينسى هدفه الحقيقي وهو إرضاء الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يمسه الخير.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يجعل الإنسان ينسى هدفه الحقيقي وهو إرضاء الله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الحزن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأمراض الجسدية قد تكون نتيجة للتنعم، لكنها ليست السبب الرئيسي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون في حالة حزن.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يسبب الأمراض الجسدية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الفرح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">زيادة الثروة المادية ليست سبباً لذم التنعم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون في حالة فرح.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يزيد من الثروة المادية.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">لماذا يعتبر التنعم المفرط في الدنيا مذموماً في الإسلام؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟",
+        "title": "لماذا يعتبر التنعم المفرط في الدنيا مذموماً في الإسلام؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟"
+        "extraTitle": "لماذا يعتبر التنعم المفرط في الدنيا مذموماً في الإسلام؟"
       },
-      "subContentId": "5f6600cb-4bfb-46ca-aff4-5b4017a4c2fd"
+      "subContentId": "fde7195f-e2cc-4a31-9420-fc11ce28b837"
     },
     {
       "params": {
@@ -320,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اتباع الشهوات يؤدي إلى الهلاك، وليس الرقي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الابتعاد التام عن الدنيا ليس الموقف الصحيح، بل الاعتدال.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اتباع شهواته ورغباته.</p>"
+            "text": "<p style=\"text-align:right\">الابتعاد التام عن الدنيا وملذاتها.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التنعم بملذات الدنيا دون حدود مذموم في الإسلام.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التنعم بملذات الدنيا دون حدود.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! اختيار الآخرة على الدنيا يرقى بالإنسان عند الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو أخذ ما يكفي من الدنيا دون جعلها هدفاً وحيداً.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اختيار الآخرة على الدنيا.</p>"
+            "text": "<p style=\"text-align:right\">أخذ ما يكفي من الدنيا دون جعلها هدفاً وحيداً.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستغناء عن الله يؤدي إلى الطغيان، وليس الرقي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">جمع الثروة المادية بأي طريقة غير مقبول في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاستغناء عن الله بقوته.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات هي وسيلة للتقرب إلى الله والرقي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عدم الاهتمام بالعبادات.</p>"
+            "text": "<p style=\"text-align:right\">جمع الثروة المادية بأي طريقة.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +499,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو السبب الذي يجعل الإنسان يرقى عند الله وفقًا للنصوص القرآنية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من الدنيا وفقاً للنصوص الإسلامية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو السبب الذي يجعل الإنسان يرقى عند الله وفقًا للنصوص القرآنية؟",
+        "title": "ما هو الموقف الصحيح من الدنيا وفقاً للنصوص الإسلامية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو السبب الذي يجعل الإنسان يرقى عند الله وفقًا للنصوص القرآنية؟"
+        "extraTitle": "ما هو الموقف الصحيح من الدنيا وفقاً للنصوص الإسلامية؟"
       },
-      "subContentId": "d3a3d204-a149-4066-bd1a-701e296afa45"
+      "subContentId": "5b83b11f-d049-4bdc-917a-da49e03e1578"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحديث ينهى عن التنعم المفرط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">(( إِيَّاكَ وَالتَّنَعُّمَ، فَإِنَّ عِبَادَ اللَّهِ لَيْسُوا بِالْمُتَنَعِّمِينَ )).</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا الحديث يتحدث عن القناعة وليس التنعم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">(( مَنْ أَصْبَحَ مِنْكُمْ آمِنًا فِي سِرْبِهِ، مُعَافًى فِي جَسَدِهِ، عِنْدَهُ قُوتُ يَوْمِهِ، فَكَأَنَّمَا حِيزَتْ لَهُ الدُّنْيَا )).</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا الحديث يتحدث عن الذين يأتون بحسنات ولكنها تذهب هباءً.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">(( لَأَعْلَمَنَّ أَقْوَامًا مِنْ أُمَّتِي يَأْتُونَ يَوْمَ الْقِيَامَةِ بِحَسَنَاتٍ أَمْثَالِ جِبَالِ تِهَامَةَ بِيضًا، فَيَجْعَلُهَا اللَّهُ عَزَّ وَجَلَّ هَبَاءً مَنْثُورًا )).</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا الحديث يتحدث عن مغفرة الذنوب للشهيد.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">(( يُغْفَرُ لِلشَّهِيدِ كُلُّ ذَنْبٍ إِلَّا الدَّيْنَ )).</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل من الحديث على أن التنعم المفرط مذموم؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الدليل من الحديث على أن التنعم المفرط مذموم؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الدليل من الحديث على أن التنعم المفرط مذموم؟"
+      },
+      "subContentId": "f88a3f70-82e0-4f24-b42d-9d1487c821c5"
     },
     {
       "params": {
@@ -421,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اختيار الآخرة يعاكس العجلة، وليس العجلة نفسها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النية شرط في العبادات، لكنه ليس الخلاف الأساسي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يختار الآخرة على الدنيا.</p>"
+            "text": "<p style=\"text-align:right\">هل تشترط النية في العبادات الشعائرية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العجلة هي الرغبة في الأشياء القريبة والسريعة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الخلاف الأساسي هو حول قبول العبادات الشعائرية بدون العبادات التعاملية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يريد أشياء قريبة وسريعة.</p>"
+            "text": "<p style=\"text-align:right\">هل تقبل العبادات الشعائرية بدون العبادات التعاملية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصبر على المصائب هو عكس العجلة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">أوقات العبادات محددة، لكنه ليس الخلاف الأساسي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون صبورًا على المصائب.</p>"
+            "text": "<p style=\"text-align:right\">هل يجب أن تكون العبادات الشعائرية في أوقات محددة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجنب الشهوات يتطلب صبرًا، وليس عجلة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">مكان أداء العبادات ليس الخلاف الأساسي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يتجنب الشهوات.</p>"
+            "text": "<p style=\"text-align:right\">هل يمكن أداء العبادات الشعائرية في أي مكان.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين العلماء حول قبول العبادات الشعائرية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟",
+        "title": "ما هو الخلاف الأساسي بين العلماء حول قبول العبادات الشعائرية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟"
+        "extraTitle": "ما هو الخلاف الأساسي بين العلماء حول قبول العبادات الشعائرية؟"
       },
-      "subContentId": "18d226b4-02a3-46d4-b795-6ba101fef05d"
+      "subContentId": "255a2a00-3c16-479d-958d-d7d93a5c4615"
     },
     {
       "params": {
@@ -522,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستغناء عن الله يؤدي إلى الطغيان، وليس الضعف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الذنوب التي بين العبد والناس لا تغفر بدون أداء أو مسامحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يستغني بقوته عن الله.</p>"
+            "text": "<p style=\"text-align:right\">يغفرها الله بدون أداء أو مسامحة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الافتقار إلى الله في الضعف يجعل الإنسان سعيدًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الذنوب التي بين العبد والناس لا تغفر إلا بالأداء أو المسامحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يفتقر إلى الله في ضعفه.</p>"
+            "text": "<p style=\"text-align:right\">لا تغفر إلا بالأداء أو المسامحة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوة دون الاعتماد على الله تؤدي إلى الشقاء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصلاة والصيام لا تغفر الذنوب التي بين العبد والناس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون قويًا ولا يحتاج إلى أحد.</p>"
+            "text": "<p style=\"text-align:right\">يغفرها الله بالصلاة والصيام فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الغنى دون الاعتماد على الله يؤدي إلى الطغيان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الحج لا يغفر الذنوب التي بين العبد والناس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون غنيًا ولا يحتاج إلى الله.</p>"
+            "text": "<p style=\"text-align:right\">يغفرها الله بالحج فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +802,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه ضعيفًا؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من الذنوب التي بين العبد والناس؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه ضعيفًا؟",
+        "title": "ما هو الموقف الصحيح من الذنوب التي بين العبد والناس؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه ضعيفًا؟"
+        "extraTitle": "ما هو الموقف الصحيح من الذنوب التي بين العبد والناس؟"
       },
-      "subContentId": "580cf1da-d58f-4311-8164-7850cbb8a02d"
+      "subContentId": "685f88d6-90e1-467f-be6a-4b893e4aface"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الإنفاق لا يقبل من الفاسقين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">﴿قُلْ أَنْفِقُوا طَوْعاً أَوْ كَرْهاً لَنْ يُتَقَبَّلَ مِنْكُمْ إِنَّكُمْ كُنْتُمْ قَوْماً فَاسِقِينَ (53)﴾.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن دخول الجنة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">﴿وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّفَهَا لَهُمْ (6)﴾.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن مغفرة الذنوب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">﴿لِيَغْفِرَ لَكُمْ مِنْ ذُنُوبِكُمْ (10)﴾.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن تقبل الله لأعمال المتقين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">﴿إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ (27)﴾.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل من القرآن على أن العبادات الشعائرية لا تقبل بدون العبادات التعاملية؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الدليل من القرآن على أن العبادات الشعائرية لا تقبل بدون العبادات التعاملية؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الدليل من القرآن على أن العبادات الشعائرية لا تقبل بدون العبادات التعاملية؟"
+      },
+      "subContentId": "9e4bb6c3-35e6-4a35-8327-4321af2298f7"
     },
     {
       "params": {
@@ -623,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صفة الهلوع يمكن أن تكون مفيدة إذا وجهت بشكل صحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادات الشعائرية لا تقبل إذا كانت العبادات التعاملية غير صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">صفة سلبية فقط ولا فائدة منها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صفة الهلوع ليست إيجابية بذاتها، ولكن يمكن توجيهها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">صفة إيجابية تساعد الإنسان على التطور.</p>"
+            "text": "<p style=\"text-align:right\">عباداته مقبولة لأنه يؤديها بانتظام.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! صفة الهلوع حيادية ويمكن أن تستخدم للخير أو الشر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادات الشعائرية لا تقبل إذا كانت العبادات التعاملية غير صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">صفة حيادية يمكن أن تستخدم للخير أو الشر.</p>"
+            "text": "<p style=\"text-align:right\">عباداته غير مقبولة لأن العبادات التعاملية غير صحيحة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صفة الهلوع قد تدفع الإنسان إلى التوبة إذا وجهت بشكل صحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التوبة شرط لقبول العبادات، لكن العبادات التعاملية يجب أن تكون صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">صفة تمنع الإنسان من التوبة.</p>"
+            "text": "<p style=\"text-align:right\">عباداته مقبولة إذا كان يتوب عن الكذب والخداع.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الصدقة لا تغني عن صحة العبادات التعاملية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عباداته مقبولة إذا كان يتصدق بجزء من ماله.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لصفة 'الهلوع' في النفس البشرية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يؤدي جميع العبادات الشعائرية بانتظام، لكنه يتعامل مع الناس بالكذب والخداع. ما هو الحكم على عباداته؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو التفسير الصحيح لصفة 'الهلوع' في النفس البشرية؟",
+        "title": "شخص يؤدي جميع العبادات الشعائرية بانتظام، لكنه يتعامل مع الناس بالكذب والخداع. ما هو الحكم على عباداته؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو التفسير الصحيح لصفة 'الهلوع' في النفس البشرية؟"
+        "extraTitle": "شخص يؤدي جميع العبادات الشعائرية بانتظام، لكنه يتعامل مع الناس بالكذب والخداع. ما هو الحكم على عباداته؟"
       },
-      "subContentId": "058c7f72-3cad-45f1-9307-fe2821503e65"
+      "subContentId": "638bf956-9148-4850-96e6-cc586e87bc38"
     },
     {
       "params": {
@@ -724,37 +1027,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عندما يمسه الشر يكون جزوعًا، وليس منوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادات الشعائرية لا تقبل إذا كانت العبادات التعاملية غير صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يمسه الشر.</p>"
+            "text": "<p style=\"text-align:right\">عباداته مقبولة لأنه يؤديها بانتظام.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عندما يمسه الخير يكون منوعًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادات الشعائرية لا تقبل إذا كانت العبادات التعاملية غير صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يمسه الخير.</p>"
+            "text": "<p style=\"text-align:right\">عباداته غير مقبولة لأنه يتعامل بالربا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الحزن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التوبة شرط لقبول العبادات، لكن العبادات التعاملية يجب أن تكون صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون في حالة حزن.</p>"
+            "text": "<p style=\"text-align:right\">عباداته مقبولة إذا كان يتوب عن التعامل بالربا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الفرح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصدقة لا تغني عن صحة العبادات التعاملية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون في حالة فرح.</p>"
+            "text": "<p style=\"text-align:right\">عباداته مقبولة إذا كان يتصدق بجزء من ماله.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعمل في وظيفة يتعامل فيها بالربا، لكنه يؤدي الصلاة والصيام بانتظام. ما هو الحكم على عباداته؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟",
+        "title": "شخص يعمل في وظيفة يتعامل فيها بالربا، لكنه يؤدي الصلاة والصيام بانتظام. ما هو الحكم على عباداته؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟"
+        "extraTitle": "شخص يعمل في وظيفة يتعامل فيها بالربا، لكنه يؤدي الصلاة والصيام بانتظام. ما هو الحكم على عباداته؟"
       },
-      "subContentId": "60dd1070-4a61-4d79-b77b-c177b33ad618"
+      "subContentId": "d674edfe-13d9-435d-b9f4-3d08aa27ed71"
     },
     {
       "params": {
@@ -825,37 +1128,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اختيار الآخرة يعاكس العجلة، وليس العجلة نفسها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادات الشعائرية لا تقبل إذا كانت العبادات التعاملية غير صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يختار الآخرة على الدنيا.</p>"
+            "text": "<p style=\"text-align:right\">عباداته مقبولة لأنه يؤديها بانتظام.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العجلة هي الرغبة في الأشياء القريبة والسريعة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادات الشعائرية لا تقبل إذا كانت العبادات التعاملية غير صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يريد أشياء قريبة وسريعة.</p>"
+            "text": "<p style=\"text-align:right\">عباداته غير مقبولة لأنه يظلم الناس.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصبر على المصائب هو عكس العجلة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التوبة شرط لقبول العبادات، لكن العبادات التعاملية يجب أن تكون صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يكون صبورًا على المصائب.</p>"
+            "text": "<p style=\"text-align:right\">عباداته مقبولة إذا كان يتوب عن الظلم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجنب الشهوات يتطلب صبرًا، وليس عجلة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصدقة لا تغني عن صحة العبادات التعاملية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عندما يتجنب الشهوات.</p>"
+            "text": "<p style=\"text-align:right\">عباداته مقبولة إذا كان يتصدق بجزء من ماله.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,321 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يؤدي جميع العبادات الشعائرية بانتظام، لكنه يظلم الناس في معاملاته. ما هو الحكم على عباداته؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟",
+        "title": "شخص يؤدي جميع العبادات الشعائرية بانتظام، لكنه يظلم الناس في معاملاته. ما هو الحكم على عباداته؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟"
+        "extraTitle": "شخص يؤدي جميع العبادات الشعائرية بانتظام، لكنه يظلم الناس في معاملاته. ما هو الحكم على عباداته؟"
       },
-      "subContentId": "da9b7dd8-5459-46bc-9d6e-eb49e5d3d411"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتسبب في القلق والجزع، وليس الهدوء.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح أكثر هدوءًا واستسلامًا للمصير.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع يقلق ويجزع عند مواجهة الشر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيقلق ويجزع بشدة على حياته ومستقبله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التخطيط لحياة بعد الموت يتطلب هدوءًا، وليس هلعًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيبدأ في التخطيط لحياته بعد الموت.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يجعل الإنسان يتأثر بالأحداث، وليس غير مبالٍ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح غير مبالٍ بما يحدث حوله.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من مرض خطير وأخبره الطبيب بأنه لن يعيش أكثر من أربعة أشهر. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يعاني من مرض خطير وأخبره الطبيب بأنه لن يعيش أكثر من أربعة أشهر. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يعاني من مرض خطير وأخبره الطبيب بأنه لن يعيش أكثر من أربعة أشهر. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟"
-      },
-      "subContentId": "f898ed0c-2620-44c1-981d-81df8717e237"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتسبب في القلق على الرزق، وليس الكرم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح أكثر كرمًا وإنفاقًا.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع يقلق ويجزع على رزقه ومستقبله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيقلق ويجزع على رزقه ومستقبله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يجعل الإنسان يتأثر بالأحداث، وليس غير مبالٍ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح غير مبالٍ بأي شيء.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التخطيط لحياة بعد الموت يتطلب هدوءًا، وليس هلعًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيبدأ في التخطيط لحياته بعد الموت.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟"
-      },
-      "subContentId": "7b0ad5cd-76fc-4585-b420-95cf225e0647"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتسبب في القلق على الرزق، وليس الكرم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح أكثر كرمًا وإنفاقًا.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع يقلق ويجزع على رزقه ومستقبله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيقلق ويجزع على رزقه ومستقبله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يجعل الإنسان يتأثر بالأحداث، وليس غير مبالٍ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيصبح غير مبالٍ بأي شيء.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التخطيط لحياة بعد الموت يتطلب هدوءًا، وليس هلعًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سيبدأ في التخطيط لحياته بعد الموت.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟"
-      },
-      "subContentId": "07e899bb-5ff8-4f92-985f-f74a1d20ab78"
+      "subContentId": "e1f75545-eb01-4399-b3a4-d9edc95e2f32"
     }
   ],
   "disableBackwardsNavigation": false,
@@ -1268,5 +1268,6 @@
     },
     "width": 52,
     "height": 52
-  }
+  },
+  "headline": "الفطرة -٣- التصور الصحيح عن الدين يؤدي إلى سلوك صحيح"
 }

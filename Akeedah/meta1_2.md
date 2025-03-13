@@ -1,7 +1,7 @@
 ---
 layout: default
 title: أهمية طلب العلم الشرعي وفهم الأحكام الدينية
-description: تمهيد - علة وجود الإنسان - ١ متى تصح حركة الإنسان؟
+description:  أهمية طلب العلم الشرعي وفهم الأحكام الدينية
 parent: الفصل ٢
 nav_order: 6
 grand_parent: العقيدة و الاعجاز
@@ -13,7 +13,7 @@ keys:
 ## ‏أهمية طلب العلم الشرعي وفهم الأحكام الدينية
 ***
 ## الأسئلة 
-{% include h5pcontainer.html id="1" path="../assets/QSet" path2="../assets/QSet/Akeedah/mcqs1_2" %}
+{% include h5pcontainer.html id="3" path="../assets/QSet" path2="../assets/QSet/Akeedah/mcqs1_2" %}
 ## الملخص
 ***
 - ‏✔ هناك علم أساسي يجب تعلمه بالضرورة، يتضمن أركان الإيمان والإسلام والأحكام الفقهية المتعلقة بالحياة الشخصية والمهنية. 

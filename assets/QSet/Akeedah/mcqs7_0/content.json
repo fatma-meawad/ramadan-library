@@ -14,40 +14,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">السعادة الدنيوية ليست الهدف الأساسي، بل هي نتيجة للعبادة الصحيحة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لتحقيق السعادة الدنيوية فقط.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهدف الأساسي لوجود الإنسان هو عبادة الله وحده.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل في الإسلام هو قوة إدراكية تمكن الإنسان من فهم الكون وعبادة الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لعبادة الله وحده.</p>"
+            "text": "<p style=\"text-align:right\">قوة إدراكية تمكن الإنسان من فهم الكون.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">جمع المال ليس الهدف الأساسي، بل هو وسيلة لتحقيق العبادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل ليس مجرد عضو، بل هو أداة لفهم الحقائق الإيمانية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لجمع المال والثروات.</p>"
+            "text": "<p style=\"text-align:right\">مجرد عضو في الجسم البشري.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة والنجاح ليستا الهدف الأساسي، بل هما نتائج ثانوية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل ليس مخصصًا للشهوات فقط، بل له دور أكبر في الإدراك والتفكير.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لتحقيق الشهرة والنجاح.</p>"
+            "text": "<p style=\"text-align:right\">أداة للشهوات فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل مرتبط ارتباطًا وثيقًا بالإيمان، فهو أداة لفهم الدين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">شيء غير مرتبط بالإيمان.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العلة الأساسية لوجود الإنسان في الأرض وفقًا للآية الكريمة: ﴿ وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ ﴾؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو العقل وفقًا للنصوص الإسلامية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العلة الأساسية لوجود الإنسان في الأرض وفقًا للآية الكريمة: ﴿ وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ ﴾؟",
+        "title": "ما هو العقل وفقًا للنصوص الإسلامية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العلة الأساسية لوجود الإنسان في الأرض وفقًا للآية الكريمة: ﴿ وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ ﴾؟"
+        "extraTitle": "ما هو العقل وفقًا للنصوص الإسلامية؟"
       },
-      "subContentId": "50ac3b67-18bc-4472-a687-c9268d8f008d"
+      "subContentId": "5dafab07-4114-430d-b617-fffbba74622b"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الشعائرية تشمل الصلاة والصيام والحج.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية تدعو الإنسان لاستخدام عقله في التفكير.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تشمل الصلاة والصيام والحج.</p>"
+            "text": "<p style=\"text-align:right\">﴿أَفَلَا يَعْقِلُونَ﴾ (سورة يس).</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا وصف للعبادة التعاملية، وليس الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن عدم استجابة الموتى، وليس عن العقل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تشمل التعامل مع الناس بالصدق والأمانة.</p>"
+            "text": "<p style=\"text-align:right\">﴿وَمَا أَنْتَ بِمُسْمِعٍ مَنْ فِي الْقُبُورِ﴾ (سورة فاطر).</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنفاق المال في سبيل الله هو جزء من العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن نداء أهل النار، وليس عن العقل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تشمل إنفاق المال في سبيل الله.</p>"
+            "text": "<p style=\"text-align:right\">﴿وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ﴾ (سورة الزخرف).</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تعليم الناس الخير هو جزء من العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تصف الذين لا يستخدمون عقولهم، لكنها ليست دعوة لاستخدام العقل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تشمل تعليم الناس الخير.</p>"
+            "text": "<p style=\"text-align:right\">﴿إِنْ هُمْ إِلَّا كَالْأَنْعَامِ﴾ (سورة الفرقان).</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة الشعائرية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي إحدى الآيات التي تدل على أهمية العقل في القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة الشعائرية؟",
+        "title": "ما هي إحدى الآيات التي تدل على أهمية العقل في القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة الشعائرية؟"
+        "extraTitle": "ما هي إحدى الآيات التي تدل على أهمية العقل في القرآن؟"
       },
-      "subContentId": "4dec432d-eb46-443a-adc1-a63064ccb935"
+      "subContentId": "7e0fdadd-2ff2-4e00-a71c-36409e7c9e17"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا وصف للعبادة الشعائرية، وليس التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الطعام والشراب حاجات الجسم، وليس العقل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تشمل الصلاة والصيام والحج.</p>"
+            "text": "<p style=\"text-align:right\">الطعام والشراب.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة التعاملية تشمل التعامل مع الناس بالصدق والأمانة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل يحتاج إلى العلم والمعرفة ليعمل بشكل صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تشمل التعامل مع الناس بالصدق والأمانة.</p>"
+            "text": "<p style=\"text-align:right\">العلم والمعرفة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنفاق المال في سبيل الله هو جزء من العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الترفيه واللعب ليسا من حاجات العقل الأساسية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تشمل إنفاق المال في سبيل الله.</p>"
+            "text": "<p style=\"text-align:right\">الترفيه واللعب.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تعليم الناس الخير هو جزء من العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النوم والراحة حاجات الجسم، وليس العقل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تشمل تعليم الناس الخير.</p>"
+            "text": "<p style=\"text-align:right\">النوم والراحة.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,119 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التعاملية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي إحدى حاجات العقل الأساسية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة التعاملية؟",
+        "title": "ما هي إحدى حاجات العقل الأساسية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة التعاملية؟"
+        "extraTitle": "ما هي إحدى حاجات العقل الأساسية؟"
       },
-      "subContentId": "628abccc-486a-4ca9-af73-fed21493af86"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة في الإسلام أوسع من أن تقتصر على الشعائر فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة تقتصر على الصلاة والصيام والحج.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة تشمل كل حركة وسكنة في حياة الإنسان.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة تشمل كل حركة وسكنة في حياة الإنسان.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنفاق المال في سبيل الله هو جزء من العبادة، وليس كلها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة تقتصر على إنفاق المال في سبيل الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تعليم الناس الخير هو جزء من العبادة، وليس كلها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة تقتصر على تعليم الناس الخير.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المفهوم الواسع للعبادة في الإسلام؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو المفهوم الواسع للعبادة في الإسلام؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو المفهوم الواسع للعبادة في الإسلام؟"
-      },
-      "subContentId": "5163e354-97e4-4929-9128-643bcfb1074e"
+      "subContentId": "926e186a-0594-471d-b074-4a897a93d5ad"
     },
     {
       "params": {
@@ -421,37 +320,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الشعائرية لا تقبل إلا إذا صحت العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل يفهم الأشياء من خلال مبدأ السببية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن تكون العبادة الشعائرية مصحوبة بالعبادة التعاملية.</p>"
+            "text": "<p style=\"text-align:right\">مبدأ السببية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنفاق المال ليس شرطًا لقبول العبادة الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يعتمد على العشوائية في فهم الأشياء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن تكون العبادة الشعائرية مصحوبة بإنفاق المال.</p>"
+            "text": "<p style=\"text-align:right\">مبدأ العشوائية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تعليم الناس الخير ليس شرطًا لقبول العبادة الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التكرار ليس مبدأ أساسيًا لفهم الأشياء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن تكون العبادة الشعائرية مصحوبة بتعليم الناس الخير.</p>"
+            "text": "<p style=\"text-align:right\">مبدأ التكرار.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة والنجاح ليستا شرطًا لقبول العبادة الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصدفة ليست مبدأ يعتمد عليه العقل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أن تكون العبادة الشعائرية مصحوبة بالشهرة والنجاح.</p>"
+            "text": "<p style=\"text-align:right\">مبدأ الصدفة.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الشرط الأساسي لقبول العبادة الشعائرية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المبدأ الأول الذي يعتمد عليه العقل في فهم الأشياء؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الشرط الأساسي لقبول العبادة الشعائرية؟",
+        "title": "ما هو المبدأ الأول الذي يعتمد عليه العقل في فهم الأشياء؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الشرط الأساسي لقبول العبادة الشعائرية؟"
+        "extraTitle": "ما هو المبدأ الأول الذي يعتمد عليه العقل في فهم الأشياء؟"
       },
-      "subContentId": "65d8d6e7-20b7-4723-b4ab-59c7ac214d73"
+      "subContentId": "0f3917ae-318a-45a3-8ac8-28dc7a648dba"
     },
     {
       "params": {
@@ -522,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة والصيام هي عبادات شعائرية مشتركة بين جميع المسلمين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال العقل لا يؤدي إلى ارتفاع مستوى الإنسانية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصلاة والصيام.</p>"
+            "text": "<p style=\"text-align:right\">ارتفاع مستوى الإنسانية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الأولى للغني هي إنفاق المال في سبيل الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إهمال العقل يؤدي إلى الهبوط إلى مستوى البهيمية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إنفاق المال في سبيل الله.</p>"
+            "text": "<p style=\"text-align:right\">الهبوط إلى مستوى البهيمية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تعليم الناس الخير هو عبادة العالم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال العقل لا يزيد الإيمان بالله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تعليم الناس الخير.</p>"
+            "text": "<p style=\"text-align:right\">زيادة الإيمان بالله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خدمة الزوج والأولاد هي عبادة المرأة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إهمال العقل لا يحقق السعادة الدائمة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">خدمة الزوج والأولاد.</p>"
+            "text": "<p style=\"text-align:right\">تحقيق السعادة الدائمة.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة الأولى للغني وفقًا للنصوص الشرعية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي إحدى نتائج إهمال تلبية حاجات العقل؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة الأولى للغني وفقًا للنصوص الشرعية؟",
+        "title": "ما هي إحدى نتائج إهمال تلبية حاجات العقل؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة الأولى للغني وفقًا للنصوص الشرعية؟"
+        "extraTitle": "ما هي إحدى نتائج إهمال تلبية حاجات العقل؟"
       },
-      "subContentId": "a6f11663-a25a-4acd-b121-10c1487556b2"
+      "subContentId": "218d361e-6b52-49e4-9188-5f2a5e71b088"
     },
     {
       "params": {
@@ -623,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا ليس الخلاف الأساسي، بل هو جزء من المفهوم الواسع للعبادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يستطيع فهم الغيبيات المطلقة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الخلاف حول ما إذا كانت العبادة تشمل كل حركة وسكنة.</p>"
+            "text": "<p style=\"text-align:right\">فهم الغيبيات المطلقة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الخلاف الأساسي هو ما إذا كانت العبادة تقتصر على الشعائر فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل يفهم الأشياء المادية وآثارها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الخلاف حول ما إذا كانت العبادة تقتصر على الشعائر فقط.</p>"
+            "text": "<p style=\"text-align:right\">فهم الأشياء المادية وآثارها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنفاق المال هو جزء من العبادة، وليس محور الخلاف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يستطيع إثبات وجود الملائكة بشكل مادي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الخلاف حول ما إذا كانت العبادة تشمل إنفاق المال.</p>"
+            "text": "<p style=\"text-align:right\">إثبات وجود الملائكة بشكل مادي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تعليم الناس الخير هو جزء من العبادة، وليس محور الخلاف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يستطيع رؤية الجن بالحواس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الخلاف حول ما إذا كانت العبادة تشمل تعليم الناس الخير.</p>"
+            "text": "<p style=\"text-align:right\">رؤية الجن بالحواس.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,119 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين المسلمين حول مفهوم العبادة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي إحدى المهام المحدودة للعقل؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الخلاف الأساسي بين المسلمين حول مفهوم العبادة؟",
+        "title": "ما هي إحدى المهام المحدودة للعقل؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الخلاف الأساسي بين المسلمين حول مفهوم العبادة؟"
+        "extraTitle": "ما هي إحدى المهام المحدودة للعقل؟"
       },
-      "subContentId": "16d0fe29-5341-4063-93a4-f6d8109dbc35"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة التعاملية أفضل من العبادة الشعائرية في هذا السياق.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن العبادة التعاملية أفضل من العبادة الشعائرية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا التفسير يتعارض مع نص الحديث.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن العبادة الشعائرية أفضل من العبادة التعاملية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحديث يفضل العبادة التعاملية على الشعائرية في هذا السياق.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن العبادة التعاملية والشعائرية متساويتان في الأجر.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة التعاملية لها قيمة كبيرة حتى بدون العبادة الشعائرية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن العبادة التعاملية لا قيمة لها بدون العبادة الشعائرية.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لقول النبي صلى الله عليه وسلم: (( لأن أمشي مع أخ في حاجةٍ خير لي من أن أعتكف في مسجدي هذا ))?</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو التفسير الصحيح لقول النبي صلى الله عليه وسلم: (( لأن أمشي مع أخ في حاجةٍ خير لي من أن أعتكف في مسجدي هذا ))?",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو التفسير الصحيح لقول النبي صلى الله عليه وسلم: (( لأن أمشي مع أخ في حاجةٍ خير لي من أن أعتكف في مسجدي هذا ))?"
-      },
-      "subContentId": "931e1cba-41e9-4d1c-9624-dcc4237f2ab4"
+      "subContentId": "b826b4f6-2cf2-40bd-8c7c-f159aa36e293"
     },
     {
       "params": {
@@ -825,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، هذه الآية تدل على أهمية إنفاق المال في سبيل الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل يعتمد على مبدأ السببية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿ وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنْسَ نَصِيبَكَ مِنَ الدُّنْيَا ﴾</p>"
+            "text": "<p style=\"text-align:right\">مبدأ السببية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، هذه الآية تدل على أهمية التخلص من الشح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل يعتمد على مبدأ الغائية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿ وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَئِكَ هُمُ الْمُفْلِحُونَ ﴾</p>"
+            "text": "<p style=\"text-align:right\">مبدأ الغائية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، هذه الآية تدل على أهمية الإنفاق في سبيل الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل يعتمد على مبدأ عدم التناقض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿ وَأَنْفِقُوا فِي سَبِيلِ اللَّهِ وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ ﴾</p>"
+            "text": "<p style=\"text-align:right\">مبدأ عدم التناقض.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جميع الآيات السابقة تدل على أن إنفاق المال في سبيل الله هو عبادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل يرفض مبدأ العشوائية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جميع ما سبق.</p>"
+            "text": "<p style=\"text-align:right\">مبدأ العشوائية.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +701,220 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل الشرعي على أن إنفاق المال في سبيل الله هو عبادة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المبدأ الذي يرفضه العقل تمامًا؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الدليل الشرعي على أن إنفاق المال في سبيل الله هو عبادة؟",
+        "title": "ما هو المبدأ الذي يرفضه العقل تمامًا؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الدليل الشرعي على أن إنفاق المال في سبيل الله هو عبادة؟"
+        "extraTitle": "ما هو المبدأ الذي يرفضه العقل تمامًا؟"
       },
-      "subContentId": "25f9f71c-8c04-4415-a03a-977a39fa8a97"
+      "subContentId": "5b5c5644-eba0-4632-b72d-e3113043ca90"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل يعمل في دائرة المحسوسات.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">دائرة المحسوسات.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">دائرة الإخباريات تعتمد على الخبر الصادق، وليس العقل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">دائرة الإخباريات.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الغيبيات المطلقة ليست من دائرة عمل العقل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">دائرة الغيبيات المطلقة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الصدفة ليست من دوائر عمل العقل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">دائرة الصدفة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هي إحدى الدوائر التي يعمل فيها العقل؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هي إحدى الدوائر التي يعمل فيها العقل؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هي إحدى الدوائر التي يعمل فيها العقل؟"
+      },
+      "subContentId": "75f56bff-f7e8-4f50-a6ed-85c4d198ef81"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل يستخدم الحواس الخمس لفهم الأشياء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الحواس الخمس.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الخيال ليس أداة أساسية لفهم الأشياء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الخيال.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الصدفة ليست أداة يستخدمها العقل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الصدفة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الغيبيات ليست أداة يستخدمها العقل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الغيبيات.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هي إحدى الأدوات التي يستخدمها العقل في فهم الأشياء؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هي إحدى الأدوات التي يستخدمها العقل في فهم الأشياء؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هي إحدى الأدوات التي يستخدمها العقل في فهم الأشياء؟"
+      },
+      "subContentId": "3e21538d-f062-44b0-8402-244b881f3f5e"
     },
     {
       "params": {
@@ -926,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة الشعائرية وحدها لا تكفي بدون العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الملائكة لا تُرى بالحواس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عبادته صحيحة لأنها تشمل الشعائر الأساسية.</p>"
+            "text": "<p style=\"text-align:right\">الملائكة يمكن رؤيتها بالحواس.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يستطيع فهم الغيبيات، لكن الإيمان بها يعتمد على الخبر الصادق.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل لا يستطيع فهم الغيبيات المطلقة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة لا تكتمل بدون التعامل مع الناس بالصدق والأمانة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإيمان بالملائكة يعتمد على الخبر الصادق من القرآن والسنة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عبادته ناقصة لأنها تفتقد إلى العبادة التعاملية.</p>"
+            "text": "<p style=\"text-align:right\">الإيمان بالملائكة يعتمد على الخبر الصادق.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنفاق المال في سبيل الله لا يعوض عن نقص العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الملائكة ليست موجودة في الخيال فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عبادته مقبولة لأنها تشمل إنفاق المال في سبيل الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تعليم الناس الخير لا يعوض عن نقص العبادة التعاملية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عبادته مقبولة لأنها تشمل تعليم الناس الخير.</p>"
+            "text": "<p style=\"text-align:right\">الملائكة موجودة في الخيال فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن العبادة تقتصر على الصلاة والصيام والحج، ويتجاهل التعامل مع الناس بالصدق والأمانة. ما هو الرد الصحيح بناءً على مفهوم العبادة في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يقول إنه لا يؤمن بالملائكة لأنه لم يرها بعينه. كيف ترد عليه بناءً على مبادئ العقل؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يعتقد أن العبادة تقتصر على الصلاة والصيام والحج، ويتجاهل التعامل مع الناس بالصدق والأمانة. ما هو الرد الصحيح بناءً على مفهوم العبادة في الإسلام؟",
+        "title": "شخص يقول إنه لا يؤمن بالملائكة لأنه لم يرها بعينه. كيف ترد عليه بناءً على مبادئ العقل؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يعتقد أن العبادة تقتصر على الصلاة والصيام والحج، ويتجاهل التعامل مع الناس بالصدق والأمانة. ما هو الرد الصحيح بناءً على مفهوم العبادة في الإسلام؟"
+        "extraTitle": "شخص يقول إنه لا يؤمن بالملائكة لأنه لم يرها بعينه. كيف ترد عليه بناءً على مبادئ العقل؟"
       },
-      "subContentId": "8087c219-9f4d-4683-b1c5-48abef4dc754"
+      "subContentId": "aeacfd3a-9989-46b7-86e3-17961a3e8060"
     },
     {
       "params": {
@@ -1027,37 +1027,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة الشعائرية وحدها لا تكفي بدون العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصدفة لا يمكن أن تكون سببًا لخلق الكون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تصرفها صحيح لأنها تؤدي العبادة الشعائرية.</p>"
+            "text": "<p style=\"text-align:right\">الصدفة هي السبب الوحيد لخلق الكون.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون لم يُخلق بلا سبب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الكون خُلق بلا سبب.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة لا تكتمل بدون رعاية الزوج والأولاد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون خُلق بسبب مسبب الأسباب، وهو الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تصرفها ناقص لأنها تهمل العبادة التعاملية.</p>"
+            "text": "<p style=\"text-align:right\">الكون خُلق بسبب مسبب الأسباب، وهو الله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنفاق المال في سبيل الله لا يعوض عن نقص العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">قوانين الطبيعة ليست سببًا لخلق الكون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تصرفها صحيح لأنها تنفق المال في سبيل الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تعليم الناس الخير لا يعوض عن نقص العبادة التعاملية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تصرفها صحيح لأنها تعلم الناس الخير.</p>"
+            "text": "<p style=\"text-align:right\">الكون خُلق بسبب قوانين الطبيعة فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">امرأة تصلي قيام الليل وتخشع في صلاتها، ولكنها تهمل رعاية زوجها وأولادها. ما هو الحكم الشرعي لتصرفها؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن الكون خُلق بالصدفة. كيف ترد عليه بناءً على مبدأ السببية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "امرأة تصلي قيام الليل وتخشع في صلاتها، ولكنها تهمل رعاية زوجها وأولادها. ما هو الحكم الشرعي لتصرفها؟",
+        "title": "شخص يعتقد أن الكون خُلق بالصدفة. كيف ترد عليه بناءً على مبدأ السببية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "امرأة تصلي قيام الليل وتخشع في صلاتها، ولكنها تهمل رعاية زوجها وأولادها. ما هو الحكم الشرعي لتصرفها؟"
+        "extraTitle": "شخص يعتقد أن الكون خُلق بالصدفة. كيف ترد عليه بناءً على مبدأ السببية؟"
       },
-      "subContentId": "e0c7f646-d48c-4131-ba0c-9cdefc8226ae"
+      "subContentId": "97188939-1d8e-41ce-9945-1a656d0cc970"
     },
     {
       "params": {
@@ -1128,37 +1128,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنفاق المال في سبيل الله لا يعوض عن نقص العبادة الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإيمان بالله لا يكفي دون تلبية حاجات العقل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تصرفه صحيح لأنه ينفق المال في سبيل الله.</p>"
+            "text": "<p style=\"text-align:right\">الإيمان بالله يكفي دون الحاجة إلى العلم.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة لا تكتمل بدون أداء الشعائر الأساسية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العلم ضروري لتلبية حاجات العقل وإثبات الإنسانية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تصرفه ناقص لأنه يتجاهل العبادة الشعائرية.</p>"
+            "text": "<p style=\"text-align:right\">العلم ضروري لتلبية حاجات العقل وإثبات الإنسانية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تعليم الناس الخير لا يعوض عن نقص العبادة الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العلم مرتبط بالإيمان ويساعد في فهمه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تصرفه صحيح لأنه يعلم الناس الخير.</p>"
+            "text": "<p style=\"text-align:right\">العلم ليس له علاقة بالإيمان.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رعاية الزوجة والأولاد لا تعوض عن نقص العبادة الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العلم ليس مخصصًا للعلماء فقط، بل هو ضرورة للجميع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تصرفه صحيح لأنه يرعى زوجته وأولاده.</p>"
+            "text": "<p style=\"text-align:right\">العلم مخصص للعلماء فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">رجل غني ينفق ماله في سبيل الله، ولكنه يتجاهل الصلاة والصيام. ما هو الحكم الشرعي لتصرفه؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يقول إنه لا يحتاج إلى العلم لأنه يؤمن بالله. كيف ترد عليه بناءً على أهمية العقل؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "رجل غني ينفق ماله في سبيل الله، ولكنه يتجاهل الصلاة والصيام. ما هو الحكم الشرعي لتصرفه؟",
+        "title": "شخص يقول إنه لا يحتاج إلى العلم لأنه يؤمن بالله. كيف ترد عليه بناءً على أهمية العقل؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "رجل غني ينفق ماله في سبيل الله، ولكنه يتجاهل الصلاة والصيام. ما هو الحكم الشرعي لتصرفه؟"
+        "extraTitle": "شخص يقول إنه لا يحتاج إلى العلم لأنه يؤمن بالله. كيف ترد عليه بناءً على أهمية العقل؟"
       },
-      "subContentId": "77743466-a985-4570-a587-1f93028ced99"
+      "subContentId": "9b5019b2-a87a-4ea1-9041-5ea34c15342b"
     }
   ],
   "disableBackwardsNavigation": false,

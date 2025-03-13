@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات التعاملية تشمل التعامل مع الناس خارج المسجد أيضًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية جزء من معرفة الله، ولكن هناك أيضًا الآيات التكوينية والقرآنية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات التي تؤدى في المسجد فقط.</p>"
+            "text": "<p style=\"text-align:right\">الآيات الكونية فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات التكوينية جزء من معرفة الله، ولكن هناك أيضًا الآيات الكونية والقرآنية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الآيات التكوينية فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادات التعاملية تشمل التعامل مع الناس بصدق وأمانة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! معرفة الله تتم من خلال التفكر في الآيات الكونية والتكوينية والقرآنية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات التي تتعلق بالتعامل مع الناس بصدق وأمانة.</p>"
+            "text": "<p style=\"text-align:right\">الآيات الكونية والتكوينية والقرآنية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">جميع العبادات تحتاج إلى نية، بما في ذلك التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات القرآنية جزء من معرفة الله، ولكن هناك أيضًا الآيات الكونية والتكوينية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات التي لا تحتاج إلى نية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات التعاملية يمكن أن تكون في أي وقت وليس أوقات محددة فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادات التي تؤدى في أوقات محددة فقط.</p>"
+            "text": "<p style=\"text-align:right\">الآيات القرآنية فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادات التعاملية في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي أنواع الآيات التي يمكن من خلالها معرفة الله حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادات التعاملية في الإسلام؟",
+        "title": "ما هي أنواع الآيات التي يمكن من خلالها معرفة الله حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادات التعاملية في الإسلام؟"
+        "extraTitle": "ما هي أنواع الآيات التي يمكن من خلالها معرفة الله حسب النص؟"
       },
-      "subContentId": "4632cf51-f0c6-46da-a879-ddb160181eda"
+      "subContentId": "154e1137-7c41-4e80-9d90-95ce2c229a62"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صلاة الفرد في المسجد تعتبر من العبادات الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لا تقتصر على الأحداث التاريخية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">صلاة الفرد في المسجد.</p>"
+            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن الأحداث التاريخية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مساعدة الفرد لأخيه في قضاء حاجته تعكس أهمية العبادات التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات الكونية تشمل التفكر في خلق السماوات والأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مساعدة الفرد لأخيه في قضاء حاجته.</p>"
+            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن خلق السماوات والأرض.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن في المنزل تعتبر من العبادات الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لا تتعلق بالأحكام الشرعية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن في المنزل.</p>"
+            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن الأحكام الشرعية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام في شهر رمضان يعتبر من العبادات الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لا تقتصر على القصص القرآنية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصيام في شهر رمضان.</p>"
+            "text": "<p style=\"text-align:right\">الآيات التي تتحدث عن القصص القرآنية.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يعكس أهمية العبادات التعاملية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما المقصود بالآيات الكونية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يعكس أهمية العبادات التعاملية؟",
+        "title": "ما المقصود بالآيات الكونية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يعكس أهمية العبادات التعاملية؟"
+        "extraTitle": "ما المقصود بالآيات الكونية؟"
       },
-      "subContentId": "cd530f67-c4a4-463a-ac86-5d6b4190d34b"
+      "subContentId": "e7dc4d50-f624-49fd-b13b-3a184fc8f315"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال العبادات التعاملية لا يؤدي إلى زيادة الإيمان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">إثبات وجود الله جزء من الحكمة، ولكن التفكر يؤدي أيضًا إلى تعظيم الله ومحبته والخوف منه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيادة الإيمان.</p>"
+            "text": "<p style=\"text-align:right\">لإثبات وجود الله فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إهمال العبادات التعاملية يؤدي إلى عدم قبول العبادات الشعائرية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الآيات الكونية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عدم قبول العبادات الشعائرية.</p>"
+            "text": "<p style=\"text-align:right\">لتعظيم الله ومحبته والخوف منه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال العبادات التعاملية لا علاقة له بزيادة الثروة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية ليس هدفه حل المشكلات اليومية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيادة الثروة.</p>"
+            "text": "<p style=\"text-align:right\">لحل المشكلات اليومية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال العبادات التعاملية لا علاقة له بتحسين الصحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية ليس هدفه تحقيق النجاح المادي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحسين الصحة.</p>"
+            "text": "<p style=\"text-align:right\">لتحقيق النجاح المادي.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة إهمال العبادات التعاملية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من التفكر في الآيات الكونية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي نتيجة إهمال العبادات التعاملية؟",
+        "title": "ما هي الحكمة من التفكر في الآيات الكونية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي نتيجة إهمال العبادات التعاملية؟"
+        "extraTitle": "ما هي الحكمة من التفكر في الآيات الكونية؟"
       },
-      "subContentId": "6bdd0078-f3e5-4e63-828c-f7a137d5a9c9"
+      "subContentId": "44d8e605-3f6b-42a4-9a69-ab555878c590"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات الشعائرية يمكن أن تؤدى خارج المسجد أيضًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن عاقبة المكذبين، وليس عن التفكر في الآيات الكونية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات الشعائرية تؤدى في المسجد فقط، بينما التعاملية تؤدى في المنزل.</p>"
+            "text": "<p style=\"text-align:right\">﴿قُلْ سِيرُوا فِي الْأَرْضِ ثُمَّ انْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ﴾</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادات الشعائرية تتعلق بالعلاقة مع الله، بينما التعاملية تتعلق بالعلاقة مع الناس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية تشير إلى أهمية التفكر في خلق السماوات والأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات الشعائرية تتعلق بالعلاقة مع الله، بينما التعاملية تتعلق بالعلاقة مع الناس.</p>"
+            "text": "<p style=\"text-align:right\">﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ﴾</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات الشعائرية والتعاملية يمكن أن تؤدى في أي وقت.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تتحدث عن عدل الله، وليس عن التفكر في الآيات الكونية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات الشعائرية تؤدى في أوقات محددة، بينما التعاملية تؤدى في أي وقت.</p>"
+            "text": "<p style=\"text-align:right\">﴿فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ﴾</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق واضح بين العبادات الشعائرية والتعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية تحث على تدبر القرآن، وليس التفكر في الآيات الكونية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لا يوجد فرق بينهما.</p>"
+            "text": "<p style=\"text-align:right\">﴿أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا﴾</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين العبادات الشعائرية والعبادات التعاملية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل القرآني على أهمية التفكر في الآيات الكونية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الفرق بين العبادات الشعائرية والعبادات التعاملية؟",
+        "title": "ما هو الدليل القرآني على أهمية التفكر في الآيات الكونية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الفرق بين العبادات الشعائرية والعبادات التعاملية؟"
+        "extraTitle": "ما هو الدليل القرآني على أهمية التفكر في الآيات الكونية؟"
       },
-      "subContentId": "fa968bb3-3f97-4893-9c2b-5229cf563d95"
+      "subContentId": "42aaa8ba-5859-4a1c-aa24-b52900d1ea1a"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ترك الصلاة ليس من التوازن الصحيح بين العبادات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية لا يهدف إلى زيادة الثروة المادية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ترك الصلاة لمساعدة شخص محتاج.</p>"
+            "text": "<p style=\"text-align:right\">زيادة الثروة المادية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! أداء الصلاة في وقتها ثم مساعدة شخص محتاج يعكس التوازن الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الآيات الكونية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أداء الصلاة في وقتها ثم مساعدة شخص محتاج.</p>"
+            "text": "<p style=\"text-align:right\">تعظيم الله ومحبته والخوف منه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال مساعدة الآخرين ليس من التوازن الصحيح بين العبادات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية لا يقتصر على تحقيق السعادة الدنيوية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمال مساعدة الآخرين للتركيز على الصلاة.</p>"
+            "text": "<p style=\"text-align:right\">تحقيق السعادة الدنيوية فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التركيز فقط على العبادات الشعائرية ليس من التوازن الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية ليس هدفه اكتساب المعرفة العلمية فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز فقط على العبادات الشعائرية.</p>"
+            "text": "<p style=\"text-align:right\">اكتساب المعرفة العلمية فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,422 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يعكس التوازن بين العبادات الشعائرية والتعاملية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة التفكر في الآيات الكونية حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الذي يعكس التوازن بين العبادات الشعائرية والتعاملية؟",
+        "title": "ما هي نتيجة التفكر في الآيات الكونية حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الذي يعكس التوازن بين العبادات الشعائرية والتعاملية؟"
+        "extraTitle": "ما هي نتيجة التفكر في الآيات الكونية حسب النص؟"
       },
-      "subContentId": "309b40ed-f1ce-47d4-9123-b00729b78fe0"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إعادة المال الزائد يعكس أهمية الأمانة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إعادة المال الزائد الذي تم استلامه بالخطأ.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إخفاء المال ليس من الأمانة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إخفاء المال الذي تم العثور عليه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام المال العام لأغراض شخصية ليس من الأمانة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">استخدام المال العام لأغراض شخصية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عدم الاهتمام بمال الآخرين ليس من الأمانة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عدم الاهتمام بمال الآخرين.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يعكس أهمية الأمانة في العبادات التعاملية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الموقف الذي يعكس أهمية الأمانة في العبادات التعاملية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الموقف الذي يعكس أهمية الأمانة في العبادات التعاملية؟"
-      },
-      "subContentId": "71d72edc-6105-42ea-8b6f-3179cb55b6b9"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! قضاء الدين جلب الراحة للشخص.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الشخص شعر بالراحة بعد قضاء الدين.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">البرد هنا ليس بردًا حقيقيًا بل راحة معنوية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الشخص شعر بالبرد بعد الموت.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة عليه لم تكن سبب الراحة بل قضاء الدين.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الشخص شعر بالراحة بعد الصلاة عليه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">البرد هنا ليس بردًا حقيقيًا بل راحة معنوية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أن الشخص شعر بالبرد بعد قضاء الدين.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لقول النبي صلى الله عليه وسلم: 'الآن بردت عليه جلده'؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو التفسير الصحيح لقول النبي صلى الله عليه وسلم: 'الآن بردت عليه جلده'؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو التفسير الصحيح لقول النبي صلى الله عليه وسلم: 'الآن بردت عليه جلده'؟"
-      },
-      "subContentId": "efb3d678-e318-4d07-b3c6-77e760077767"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! القاضي الذي يحكم بالعدل يعكس أهمية العدل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">القاضي الذي يحكم بالعدل بين الناس.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تفضيل الأقارب ليس من العدل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الشخص الذي يفضل أقاربه في المعاملات.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجاهل حقوق الآخرين ليس من العدل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الشخص الذي يتجاهل حقوق الآخرين.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تفضيل النفس على الآخرين ليس من العدل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الشخص الذي يفضل نفسه على الآخرين.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يعكس أهمية العدل في العبادات التعاملية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الموقف الذي يعكس أهمية العدل في العبادات التعاملية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الموقف الذي يعكس أهمية العدل في العبادات التعاملية؟"
-      },
-      "subContentId": "8da2b058-6c79-43c9-9cab-5c13776aeb6a"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مساعدة الفقراء والمحتاجين يعكس أهمية الرحمة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">مساعدة الفقراء والمحتاجين.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال حاجات الآخرين ليس من الرحمة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إهمال حاجات الآخرين.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التعامل بقسوة مع الآخرين ليس من الرحمة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التعامل بقسوة مع الآخرين.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التركيز فقط على العبادات الشعائرية ليس من الرحمة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التركيز فقط على العبادات الشعائرية.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يعكس أهمية الرحمة في العبادات التعاملية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الموقف الذي يعكس أهمية الرحمة في العبادات التعاملية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الموقف الذي يعكس أهمية الرحمة في العبادات التعاملية؟"
-      },
-      "subContentId": "36e91818-45ca-4d0e-b76e-451e67f76208"
+      "subContentId": "5bdac832-906c-40b7-a489-e6d34935e350"
     },
     {
       "params": {
@@ -926,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجاهل طلب الجار ليس من الأخلاق الإسلامية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">محاولة فهم أفعال الله التكوينية بالتفصيل قد لا تكون ممكنة دائمًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تجاهل طلب الجار والذهاب للصلاة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">أداء الصلاة في المنزل ليس الأفضل إذا كان بإمكانك الذهاب للمسجد.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">مساعدة الجار ثم أداء الصلاة في المنزل.</p>"
+            "text": "<p style=\"text-align:right\">محاولة فهمها بالتفصيل.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مساعدة الجار ثم الذهاب للصلاة في المسجد يعكس التوازن الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بأفعال الله التكوينية دون محاولة فهمها بالكامل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مساعدة الجار ثم الذهاب للصلاة في المسجد.</p>"
+            "text": "<p style=\"text-align:right\">التسليم بها دون محاولة فهمها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إخبار الجار بالانتظار قد لا يكون مناسبًا إذا كانت المساعدة عاجلة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">رفض أفعال الله التكوينية ليس موقفًا صحيحًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إخبار الجار بالانتظار حتى تنتهي من الصلاة.</p>"
+            "text": "<p style=\"text-align:right\">رفضها إذا لم تفهم.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على أفعال الله التكوينية ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتراض عليها إذا لم تعجبنا.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كان لديك جار محتاج وطلب منك مساعدة مالية، وأنت في نفس الوقت لديك موعد لأداء صلاة الجماعة، ما هو التصرف الصحيح؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من أفعال الله التكوينية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كان لديك جار محتاج وطلب منك مساعدة مالية، وأنت في نفس الوقت لديك موعد لأداء صلاة الجماعة، ما هو التصرف الصحيح؟",
+        "title": "ما هو الموقف الصحيح من أفعال الله التكوينية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كان لديك جار محتاج وطلب منك مساعدة مالية، وأنت في نفس الوقت لديك موعد لأداء صلاة الجماعة، ما هو التصرف الصحيح؟"
+        "extraTitle": "ما هو الموقف الصحيح من أفعال الله التكوينية؟"
       },
-      "subContentId": "81e1c070-b81f-418f-89df-7726fb6ea351"
+      "subContentId": "51eee3cf-40eb-4b83-b6b8-e802a4f42c2a"
     },
     {
       "params": {
@@ -1027,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكذب ليس من أخلاق المؤمن حتى في المواقف الصعبة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن لا يقتصر على نفي الفعل فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الكذب لإنقاذ الشخص.</p>"
+            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الفعل فقط، بينما نفي الحدث يعني نفي الصفة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن لا يقتصر على نفي الصفة فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الصفة فقط، بينما نفي الحدث يعني نفي الفعل.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الصدق هو الأساس حتى في المواقف الصعبة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نفي الشأن يعني نفي الفعل مع التأكيد على أنه خلاف الطبيعة، بينما نفي الحدث يعني نفي الفعل فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصدق حتى لو أدى ذلك إلى مشكلة للشخص.</p>"
+            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الفعل مع التأكيد على أنه خلاف الطبيعة، بينما نفي الحدث يعني نفي الفعل فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجنب الموقف ليس حلًا دائمًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">نفي الشأن لا يتعلق بنفي الصفة فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تجنب الموقف وعدم الرد.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">طلب المشورة جيد ولكن الصدق هو الأساس.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">طلب المشورة من شخص آخر.</p>"
+            "text": "<p style=\"text-align:right\">نفي الشأن يعني نفي الفعل مع التأكيد على أنه خلاف الطبيعة، بينما نفي الحدث يعني نفي الصفة فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كنت في موقف يتطلب منك الكذب لإنقاذ شخص من مشكلة، ما هو التصرف الصحيح؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين نفي الشأن ونفي الحدث في اللغة العربية حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كنت في موقف يتطلب منك الكذب لإنقاذ شخص من مشكلة، ما هو التصرف الصحيح؟",
+        "title": "ما هو الفرق بين نفي الشأن ونفي الحدث في اللغة العربية حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كنت في موقف يتطلب منك الكذب لإنقاذ شخص من مشكلة، ما هو التصرف الصحيح؟"
+        "extraTitle": "ما هو الفرق بين نفي الشأن ونفي الحدث في اللغة العربية حسب النص؟"
       },
-      "subContentId": "e5cd7161-ff9d-4e1f-914b-d31a595a5005"
+      "subContentId": "9c01b77b-83f9-42af-9420-4dd160505e66"
     },
     {
       "params": {
@@ -1128,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">مساعدة الشخص المحتاج قد تكون أكثر إلحاحًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تصديق القصص دون تفكير ليس موقفًا صحيحًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أداء صلاة النافلة ثم مساعدة الشخص.</p>"
+            "text": "<p style=\"text-align:right\">تصديقها دون تفكير.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">رفض القصص تمامًا ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">رفضها تمامًا.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مساعدة الشخص المحتاج أولوية ثم أداء الصلاة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم لله وعدم الانشغال بالقصص التي نسمعها من آخر فصل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مساعدة الشخص ثم أداء صلاة النافلة.</p>"
+            "text": "<p style=\"text-align:right\">التسليم لله وعدم الانشغال بها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الشخص ليس من الأخلاق الإسلامية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">محاولة فهم القصص بالتفصيل قد لا تكون ممكنة دائمًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تجاهل الشخص والتركيز على الصلاة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">طلب المساعدة من شخص آخر ليس دائمًا ممكنًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">طلب من شخص آخر مساعدة الشخص.</p>"
+            "text": "<p style=\"text-align:right\">محاولة فهمها بالتفصيل.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +802,422 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كنت في موقف يتطلب منك الاختيار بين أداء صلاة النافلة أو مساعدة شخص محتاج، ما هو التصرف الصحيح؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من القصص التي نسمعها من آخر فصل حسب النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كنت في موقف يتطلب منك الاختيار بين أداء صلاة النافلة أو مساعدة شخص محتاج، ما هو التصرف الصحيح؟",
+        "title": "ما هو الموقف الصحيح من القصص التي نسمعها من آخر فصل حسب النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كنت في موقف يتطلب منك الاختيار بين أداء صلاة النافلة أو مساعدة شخص محتاج، ما هو التصرف الصحيح؟"
+        "extraTitle": "ما هو الموقف الصحيح من القصص التي نسمعها من آخر فصل حسب النص؟"
       },
-      "subContentId": "91189969-f0d9-4af6-abf9-bea01f62e030"
+      "subContentId": "4a982702-ba23-4339-9903-d37bac0a4799"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">إثبات وجود الله جزء من الحكمة، ولكن هناك أيضًا تعظيم الله ومحبته والخوف منه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لإثبات وجود الله فقط.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! ذكر الآيات الكونية والتكوينية والقرآنية يؤدي إلى تعظيم الله ومحبته والخوف منه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لتعظيم الله ومحبته والخوف منه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">ذكر الآيات الكونية والتكوينية والقرآنية ليس هدفه حل المشكلات اليومية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لحل المشكلات اليومية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">ذكر الآيات الكونية والتكوينية والقرآنية ليس هدفه تحقيق النجاح المادي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لتحقيق النجاح المادي.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من ذكر الآيات الكونية والتكوينية والقرآنية؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هي الحكمة من ذكر الآيات الكونية والتكوينية والقرآنية؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هي الحكمة من ذكر الآيات الكونية والتكوينية والقرآنية؟"
+      },
+      "subContentId": "6c972470-439c-4ab7-aac8-11e54dd3e4be"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">مساعدة شخص على الهروب من العقاب ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">مساعدته على الهروب من العقاب.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بحكمة الله وعدله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يقع في مشكلة بسبب شهادة زور، ما هو الموقف الصحيح حسب النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا رأيت شخصًا يقع في مشكلة بسبب شهادة زور، ما هو الموقف الصحيح حسب النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا رأيت شخصًا يقع في مشكلة بسبب شهادة زور، ما هو الموقف الصحيح حسب النص؟"
+      },
+      "subContentId": "0e65f9fd-95f1-47c2-ae41-61fb20a2a1c2"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على عدل الله ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتراض على عدل الله.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بحكمة الله وعدله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير القصة ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">محاولة تغيير القصة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">رفض القصة تمامًا ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">رفض القصة تمامًا.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا سمعت قصة عن شخص عوقب بسبب فعل لم يقم به، ما هو الموقف الصحيح حسب النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا سمعت قصة عن شخص عوقب بسبب فعل لم يقم به، ما هو الموقف الصحيح حسب النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا سمعت قصة عن شخص عوقب بسبب فعل لم يقم به، ما هو الموقف الصحيح حسب النص؟"
+      },
+      "subContentId": "836ffdcf-1133-43a8-930f-88cb028e8be7"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">مساعدة شخص على الهروب من العقاب ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">مساعدته على الهروب من العقاب.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح هو التسليم بحكمة الله وعدله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التسليم بحكمة الله وعدله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاعتراض على القضاء والقدر.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي ليس موقفًا صحيحًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">محاولة تغيير الحكم الشرعي.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يقع في مشكلة بسبب فعل خاطئ، ما هو الموقف الصحيح حسب النص؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا رأيت شخصًا يقع في مشكلة بسبب فعل خاطئ، ما هو الموقف الصحيح حسب النص؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا رأيت شخصًا يقع في مشكلة بسبب فعل خاطئ، ما هو الموقف الصحيح حسب النص؟"
+      },
+      "subContentId": "dc8ba343-c1cd-40d8-8389-675739c15fc8"
     }
   ],
   "disableBackwardsNavigation": false,

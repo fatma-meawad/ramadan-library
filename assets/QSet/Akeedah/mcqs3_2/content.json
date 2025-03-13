@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة ليست مجرد عادات وتقاليد، بل هي أعمق من ذلك.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يتجاوز بناء المساجد والمدارس ليشمل تطوير البلاد ككل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مجموعة من العادات والتقاليد الاجتماعية.</p>"
+            "text": "<p style=\"text-align:right\">بناء المساجد والمدارس فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة هي البرمجة الأصلية للإنسان على الخير والحق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد البنائي يشمل تطوير الصناعات والاكتفاء الذاتي للبلاد.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">البرمجة الأصلية للإنسان على الخير والحق.</p>"
+            "text": "<p style=\"text-align:right\">تطوير الصناعات والاكتفاء الذاتي للبلاد.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات جزء من الدين، لكنها ليست تعريفًا للفطرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القتال المباشر مع الأعداء هو جزء من الجهاد القتالي، وليس البنائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات التي يؤديها المسلمون.</p>"
+            "text": "<p style=\"text-align:right\">القتال المباشر مع الأعداء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القوانين الاجتماعية قد تتعارض مع الفطرة أحيانًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التبرع بالأموال للفقراء هو عمل خيري، وليس جزءًا من الجهاد البنائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القوانين التي تحكم المجتمع.</p>"
+            "text": "<p style=\"text-align:right\">التبرع بالأموال للفقراء.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الفطرة في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'الجهاد البنائي' وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الفطرة في الإسلام؟",
+        "title": "ما هو المقصود بـ 'الجهاد البنائي' وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الفطرة في الإسلام؟"
+        "extraTitle": "ما هو المقصود بـ 'الجهاد البنائي' وفقًا للنص؟"
       },
-      "subContentId": "8ecfddcc-fff9-444e-9c65-9bd4ad3b5d4d"
+      "subContentId": "feb9a8a7-7804-4d10-b431-e078fdaf6197"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خديجة كانت داعمة للنبي ولم تتهمه بالكذب.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يركز على تطوير البلاد وليس على ترسيخ معالم الدين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قالت: 'أنت كاذب'.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد البنائي.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! قالت خديجة: 'والله لا يخزيك الله أبداً'.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد العلمي الدعوي يشمل ترسيخ معالم الدين والرد على الشبهات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قالت: 'والله لا يخزيك الله أبداً'.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد العلمي الدعوي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">لم تتهم خديجة النبي بالسحر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي يتعلق بالقتال المباشر مع الأعداء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قالت: 'هذا سحر'.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد القتالي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">خديجة كانت أول من آمن بالنبي ولم تتهمه بالجنون.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي يتعلق بضبط النفس والتحكم في الرغبات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قالت: 'أنت مجنون'.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد النفسي.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ماذا قالت خديجة رضي الله عنها للنبي صلى الله عليه وسلم عندما جاءه الوحي؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي تشمل ترسيخ معالم الدين والرد على الشبهات؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ماذا قالت خديجة رضي الله عنها للنبي صلى الله عليه وسلم عندما جاءه الوحي؟",
+        "title": "ما هي العبادة التي تشمل ترسيخ معالم الدين والرد على الشبهات؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ماذا قالت خديجة رضي الله عنها للنبي صلى الله عليه وسلم عندما جاءه الوحي؟"
+        "extraTitle": "ما هي العبادة التي تشمل ترسيخ معالم الدين والرد على الشبهات؟"
       },
-      "subContentId": "f6807267-36d2-4076-b344-d02f9033fba5"
+      "subContentId": "bf6796ee-1960-48e8-b793-f88fea5ed3b8"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات جزء من الدين، لكنها ليست جوهره.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهدف ليس الإفساد بل التحصين ضد الإفساد.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات فقط.</p>"
+            "text": "<p style=\"text-align:right\">لإفسادهم.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الإكرام ليس الهدف الرئيسي من هذه المناشط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لإكرامهم.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جوهر الدين في الإسلام هو الأخلاق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهدف هو تحصين الشباب والشابات ضد الإفساد.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الأخلاق.</p>"
+            "text": "<p style=\"text-align:right\">لتحصينهم ضد الإفساد.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">السياسة جزء من حياة المسلم، لكنها ليست جوهر الدين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهدف ليس إلهاء الشباب عن الدراسة بل تحصينهم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">السياسة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاقتصاد مهم، لكنه ليس جوهر الدين.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الاقتصاد.</p>"
+            "text": "<p style=\"text-align:right\">لإلهائهم عن الدراسة.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو جوهر الدين في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من تحصين الشباب والشابات بمناشط إسلامية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو جوهر الدين في الإسلام؟",
+        "title": "ما هو الهدف من تحصين الشباب والشابات بمناشط إسلامية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو جوهر الدين في الإسلام؟"
+        "extraTitle": "ما هو الهدف من تحصين الشباب والشابات بمناشط إسلامية؟"
       },
-      "subContentId": "a7be9b20-67fc-47eb-94a1-59faf5a6a7da"
+      "subContentId": "4facc143-b3e9-47c7-8fb9-17044f000b31"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العمل الصالح قد لا يرضي المجتمع دائمًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التجهيز للقتال جزء من الجهاد القتالي، وليس البنائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يرضي المجتمع.</p>"
+            "text": "<p style=\"text-align:right\">بالتجهيز للقتال فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العمل الصالح يتوافق مع البرمجة الأصلية للإنسان على الخير.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تطوير البلاد اقتصادياً وعسكرياً هو جزء من الجهاد البنائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يتوافق مع البرمجة الأصلية للإنسان على الخير.</p>"
+            "text": "<p style=\"text-align:right\">بتطوير البلاد اقتصادياً وعسكرياً.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النجاح المادي ليس الهدف الأساسي من العمل الصالح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التبرع بالأموال للفقراء هو عمل خيري، وليس جزءًا من الجهاد البنائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يضمن النجاح المادي.</p>"
+            "text": "<p style=\"text-align:right\">بالتبرع بالأموال للفقراء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رضا السلطات ليس معيارًا للعمل الصالح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">بناء المساجد جزء من الجهاد البنائي، لكنه لا يقتصر عليه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يرضي السلطات.</p>"
+            "text": "<p style=\"text-align:right\">ببناء المساجد فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">لماذا يعتبر العمل الصالح وفق الفطرة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير الآية 'وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ' في سياق الجهاد البنائي؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "لماذا يعتبر العمل الصالح وفق الفطرة؟",
+        "title": "كيف يمكن تفسير الآية 'وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ' في سياق الجهاد البنائي؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "لماذا يعتبر العمل الصالح وفق الفطرة؟"
+        "extraTitle": "كيف يمكن تفسير الآية 'وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ' في سياق الجهاد البنائي؟"
       },
-      "subContentId": "f744f16b-f0c1-4ca9-8686-1a478a236d1a"
+      "subContentId": "223fc5f5-f084-4a9c-8f91-fd0e158e7288"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات وحدها لا تكفي دون الأخلاق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب اللين والحكمة، وليس الغلظة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات كافية وحدها.</p>"
+            "text": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب الغلظة، بينما أخلاق الجهاد تتطلب اللين.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأخلاق هي جوهر الدين والعبادات تكملها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! أخلاق الدعوة تتطلب اللين والحكمة، بينما أخلاق الجهاد تتطلب الغلظة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الأخلاق هي جوهر الدين والعبادات تكملها.</p>"
+            "text": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب اللين والحكمة، بينما أخلاق الجهاد تتطلب الغلظة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأخلاق أساسية في الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق واضح بين أخلاق الدعوة وأخلاق الجهاد.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الأخلاق غير مهمة في الإسلام.</p>"
+            "text": "<p style=\"text-align:right\">لا يوجد فرق بين أخلاق الدعوة وأخلاق الجهاد.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات والأخلاق مرتبطتان في الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">أخلاق الدعوة لا تتطلب القتال، بل الحوار واللين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات والأخلاق منفصلتان.</p>"
+            "text": "<p style=\"text-align:right\">أخلاق الدعوة تتطلب القتال، بينما أخلاق الجهاد تتطلب الحوار.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الرد الإسلامي على من يعتقد أن العبادات كافية دون الأخلاق؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين أخلاق الدعوة وأخلاق الجهاد وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الرد الإسلامي على من يعتقد أن العبادات كافية دون الأخلاق؟",
+        "title": "ما هو الفرق بين أخلاق الدعوة وأخلاق الجهاد وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الرد الإسلامي على من يعتقد أن العبادات كافية دون الأخلاق؟"
+        "extraTitle": "ما هو الفرق بين أخلاق الدعوة وأخلاق الجهاد وفقًا للنص؟"
       },
-      "subContentId": "5e4046df-bbd3-4753-a7af-d163b818c96b"
+      "subContentId": "2b381af2-0af4-47b4-b6d0-4e7b8212d3bb"
     },
     {
       "params": {
@@ -522,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة أساسية في الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القتال المباشر مع الأعداء هو جزء من الجهاد القتالي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الفطرة غير مهمة في الإسلام.</p>"
+            "text": "<p style=\"text-align:right\">القتال المباشر مع الأعداء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة هي الأساس الذي بني عليه الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد النفسي يتعلق بضبط النفس والتحكم في الرغبات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الفطرة هي الأساس الذي بني عليه الإسلام.</p>"
+            "text": "<p style=\"text-align:right\">ضبط النفس والتحكم في الرغبات.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة لا تتعارض مع الإسلام بل تتوافق معه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تطوير الصناعات والاكتفاء الذاتي هو جزء من الجهاد البنائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الفطرة تتعارض مع الإسلام.</p>"
+            "text": "<p style=\"text-align:right\">تطوير الصناعات والاكتفاء الذاتي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفطرة أعمق من أن تكون مرتبطة بالثقافة فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">ترسيخ معالم الدين والرد على الشبهات هو جزء من الجهاد العلمي الدعوي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الفطرة مرتبطة بالثقافة فقط.</p>"
+            "text": "<p style=\"text-align:right\">ترسيخ معالم الدين والرد على الشبهات.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الإسلامي من الفطرة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'الجهاد النفسي' وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الإسلامي من الفطرة؟",
+        "title": "ما هو المقصود بـ 'الجهاد النفسي' وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الإسلامي من الفطرة؟"
+        "extraTitle": "ما هو المقصود بـ 'الجهاد النفسي' وفقًا للنص؟"
       },
-      "subContentId": "50326fbf-1e4e-466e-b131-21677f1fa345"
+      "subContentId": "183b323c-bef0-4c54-b182-9f461dfccf81"
     },
     {
       "params": {
@@ -623,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الغش مرفوض في الإسلام في جميع الحالات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القتال المباشر مع الأعداء هو جزء من الجهاد القتالي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الغش مقبول في بعض الحالات.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الغش لا يخرج المسلم من الملة ولكنه يتعارض مع الأخلاق.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الغش يخرج المسلم من الملة.</p>"
+            "text": "<p style=\"text-align:right\">بالقتال المباشر مع الأعداء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الغش يتعارض مع جوهر الإسلام وهو الأخلاق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تعليم القرآن الكريم وتوضيح معانيه هو جزء من الجهاد العلمي الدعوي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الغش يتعارض مع جوهر الإسلام وهو الأخلاق.</p>"
+            "text": "<p style=\"text-align:right\">بتعليم القرآن الكريم وتوضيح معانيه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الغش مرفوض في الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تطوير الصناعات والاكتفاء الذاتي هو جزء من الجهاد البنائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الغش غير مهم في الإسلام.</p>"
+            "text": "<p style=\"text-align:right\">بتطوير الصناعات والاكتفاء الذاتي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">بناء المساجد والمدارس هو جزء من الجهاد البنائي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">ببناء المساجد والمدارس.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير قول النبي صلى الله عليه وسلم: 'ليس منا من غش'؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير الآية 'وَجَاهِدْهُمْ بِهِ جِهَاداً كَبِيراً' في سياق الجهاد العلمي الدعوي؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن تفسير قول النبي صلى الله عليه وسلم: 'ليس منا من غش'؟",
+        "title": "كيف يمكن تفسير الآية 'وَجَاهِدْهُمْ بِهِ جِهَاداً كَبِيراً' في سياق الجهاد العلمي الدعوي؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن تفسير قول النبي صلى الله عليه وسلم: 'ليس منا من غش'؟"
+        "extraTitle": "كيف يمكن تفسير الآية 'وَجَاهِدْهُمْ بِهِ جِهَاداً كَبِيراً' في سياق الجهاد العلمي الدعوي؟"
       },
-      "subContentId": "b13720bb-772e-4dfd-9e51-d45f421be7d7"
+      "subContentId": "a43c59f0-80c1-4160-9a7b-51ba4af68826"
     },
     {
       "params": {
@@ -724,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الفقر قد يسبب الحزن لكنه ليس سبب الكآبة وفقًا للنص.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي يلعب دورًا مهمًا في مواجهة التحديات الخارجية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الفقر.</p>"
+            "text": "<p style=\"text-align:right\">لا يوجد دور للجهاد النفسي في مواجهة التحديات الخارجية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المعاصي هي سبب الكآبة وفقًا للنص.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد النفسي يعزز القدرة على مواجهة التحديات الخارجية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">المعاصي.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد النفسي يعزز القدرة على مواجهة التحديات الخارجية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المرض قد يسبب الحزن لكنه ليس سبب الكآبة وفقًا للنص.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي لا يقلل من القدرة على مواجهة التحديات الخارجية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">المرض.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد النفسي يقلل من القدرة على مواجهة التحديات الخارجية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العمل الشاق قد يسبب التعب لكنه ليس سبب الكآبة وفقًا للنص.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي لا يقتصر على التحديات الداخلية فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العمل الشاق.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد النفسي يقتصر على التحديات الداخلية فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو سبب الكآبة وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدور الذي يلعبه الجهاد النفسي في مواجهة التحديات الخارجية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو سبب الكآبة وفقًا للنص؟",
+        "title": "ما هو الدور الذي يلعبه الجهاد النفسي في مواجهة التحديات الخارجية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو سبب الكآبة وفقًا للنص؟"
+        "extraTitle": "ما هو الدور الذي يلعبه الجهاد النفسي في مواجهة التحديات الخارجية؟"
       },
-      "subContentId": "87a10f94-e222-4be9-8eb3-185d8d3e338c"
+      "subContentId": "5683cdb3-d6ce-4d15-b907-dc879a85d82d"
     },
     {
       "params": {
@@ -825,37 +825,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التبرك بالأضرحة مرفوض في الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">استخدام القوة ليس مطلوبًا دائمًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يجوز التبرك بالأضرحة.</p>"
+            "text": "<p style=\"text-align:right\">يجب استخدام القوة دائمًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">استخدام القوة قد يكون ضروريًا في بعض الحالات.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يجب تجنب استخدام القوة تمامًا.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التبرك بالأضرحة يعتبر شركًا في الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب استخدام القوة فقط لمنع الإرهاب.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التبرك بالأضرحة شرك.</p>"
+            "text": "<p style=\"text-align:right\">يجب استخدام القوة فقط لمنع الإرهاب.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التبرك بالأضرحة ليس جزءًا من الثقافة الإسلامية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">استخدام القوة ليس مقتصرًا على الجهاد القتالي فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التبرك بالأضرحة جزء من الثقافة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التبرك بالأضرحة مرفوض في الإسلام.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التبرك بالأضرحة غير مهم.</p>"
+            "text": "<p style=\"text-align:right\">يجب استخدام القوة فقط في الجهاد القتالي.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الإسلامي من التبرك بالأضرحة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من استخدام القوة في الإسلام وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الإسلامي من التبرك بالأضرحة؟",
+        "title": "ما هو الموقف الصحيح من استخدام القوة في الإسلام وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الإسلامي من التبرك بالأضرحة؟"
+        "extraTitle": "ما هو الموقف الصحيح من استخدام القوة في الإسلام وفقًا للنص؟"
       },
-      "subContentId": "e0a6e368-a569-4b7f-9181-11dd56a1b6d3"
+      "subContentId": "59ec3446-2975-4656-bfff-d23e32f87673"
     },
     {
       "params": {
@@ -926,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المال ليس سبب السعادة الحقيقية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي يتعلق بالقتال المباشر مع الأعداء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يكسب الكثير من المال.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد القتالي.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! السعادة تأتي من توافق العمل مع الفطرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تطوير الصناعات لتحقيق الاكتفاء الذاتي هو جزء من الجهاد البنائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن عمله يتوافق مع فطرته.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد البنائي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العمل الشاق قد يكون مصدر سعادة إذا توافق مع الفطرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي يتعلق بترسيخ معالم الدين والرد على الشبهات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يتجنب العمل الشاق.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد العلمي الدعوي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاهتمام بالضغوط ليس سبب السعادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي يتعلق بضبط النفس والتحكم في الرغبات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه لا يهتم بالضغوط.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد النفسي.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعمل في وظيفة يتعرض فيها للكثير من الضغوط، ولكنه يشعر بالسعادة بسبب عمله. ما هو التفسير الصحيح لهذا الشعور؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا أراد بلد إسلامي تطوير صناعاته لتحقيق الاكتفاء الذاتي، ما هو نوع الجهاد الذي ينطبق على هذا الموقف؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يعمل في وظيفة يتعرض فيها للكثير من الضغوط، ولكنه يشعر بالسعادة بسبب عمله. ما هو التفسير الصحيح لهذا الشعور؟",
+        "title": "إذا أراد بلد إسلامي تطوير صناعاته لتحقيق الاكتفاء الذاتي، ما هو نوع الجهاد الذي ينطبق على هذا الموقف؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يعمل في وظيفة يتعرض فيها للكثير من الضغوط، ولكنه يشعر بالسعادة بسبب عمله. ما هو التفسير الصحيح لهذا الشعور؟"
+        "extraTitle": "إذا أراد بلد إسلامي تطوير صناعاته لتحقيق الاكتفاء الذاتي، ما هو نوع الجهاد الذي ينطبق على هذا الموقف؟"
       },
-      "subContentId": "d02dc933-d03f-448c-8882-bb98a236aa60"
+      "subContentId": "9d111574-6346-4f9d-b20c-96523cc9b462"
     },
     {
       "params": {
@@ -1027,37 +1027,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الخوف من العقوبة ليس سببًا كافيًا للتصرف الأخلاقي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي يتعلق بالقتال المباشر مع الأعداء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يخشى العقوبة القانونية.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد القتالي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الرغبة في المكافأة ليست سببًا للتصرف الأخلاقي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يتعلق بتطوير البلاد وليس بالرد على الشبهات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يريد الحصول على مكافأة.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد البنائي.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصرف وفق الفطرة هو السبب الحقيقي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الجهاد العلمي الدعوي يتعلق بترسيخ معالم الدين والرد على الشبهات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يتصرف وفق فطرته.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد العلمي الدعوي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عدم الحاجة للمال ليس سببًا للتصرف الأخلاقي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد النفسي يتعلق بضبط النفس والتحكم في الرغبات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه لا يحتاج المال.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد النفسي.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص وجد محفظة تحتوي على مبلغ كبير من المال، فقرر البحث عن صاحبها وإعادتها. ما هو التفسير الصحيح لتصرفه؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">في حالة وجود شبهات حول الإسلام، ما هو نوع الجهاد الذي يجب أن يمارسه المسلمون للرد على هذه الشبهات؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص وجد محفظة تحتوي على مبلغ كبير من المال، فقرر البحث عن صاحبها وإعادتها. ما هو التفسير الصحيح لتصرفه؟",
+        "title": "في حالة وجود شبهات حول الإسلام، ما هو نوع الجهاد الذي يجب أن يمارسه المسلمون للرد على هذه الشبهات؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص وجد محفظة تحتوي على مبلغ كبير من المال، فقرر البحث عن صاحبها وإعادتها. ما هو التفسير الصحيح لتصرفه؟"
+        "extraTitle": "في حالة وجود شبهات حول الإسلام، ما هو نوع الجهاد الذي يجب أن يمارسه المسلمون للرد على هذه الشبهات؟"
       },
-      "subContentId": "acdd8ba0-64e9-474f-ae6d-b81686b549ec"
+      "subContentId": "9a7b0686-0143-4c0f-9d40-557624a00a1e"
     },
     {
       "params": {
@@ -1128,37 +1128,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الخوف من الاكتشاف ليس سبب الكآبة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد القتالي يتعلق بالقتال المباشر مع الأعداء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه خائف من اكتشاف أمره.</p>"
+            "text": "<p style=\"text-align:right\">الجهاد القتالي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد البنائي يتعلق بتطوير البلاد وليس بتحصين الشباب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الجهاد البنائي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الجهاد العلمي الدعوي يتعلق بترسيخ معالم الدين والرد على الشبهات.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الجهاد العلمي الدعوي.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشعور بالذنب وفق الفطرة هو سبب الكآبة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المناشط الإسلامية لتحصين الشباب هي العبادة المناسبة لهذا الموقف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه يشعر بالذنب وفق فطرته.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكآبة هنا مرتبطة بالمعصية وليس بمرض نفسي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لأنه يعاني من مرض نفسي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عدم الاهتمام بالمعصية لا يسبب الكآبة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لأنه لا يهتم بالمعصية.</p>"
+            "text": "<p style=\"text-align:right\">المناشط الإسلامية لتحصين الشباب.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من الكآبة بعد ارتكاب معصية، ما هو التفسير الصحيح لهذا الشعور؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا أراد بلد إسلامي تحصين شبابه ضد الإفساد، ما هي العبادة التي يجب أن يمارسها؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يعاني من الكآبة بعد ارتكاب معصية، ما هو التفسير الصحيح لهذا الشعور؟",
+        "title": "إذا أراد بلد إسلامي تحصين شبابه ضد الإفساد، ما هي العبادة التي يجب أن يمارسها؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يعاني من الكآبة بعد ارتكاب معصية، ما هو التفسير الصحيح لهذا الشعور؟"
+        "extraTitle": "إذا أراد بلد إسلامي تحصين شبابه ضد الإفساد، ما هي العبادة التي يجب أن يمارسها؟"
       },
-      "subContentId": "fc54ab89-3414-4d2f-8dd4-d6a2ad305b4b"
+      "subContentId": "6e7f18a2-eef0-41d7-b0a0-2b1cc5234827"
     }
   ],
   "disableBackwardsNavigation": false,

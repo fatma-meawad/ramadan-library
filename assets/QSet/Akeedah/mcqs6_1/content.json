@@ -17,37 +17,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عبادة الهوية تعني أن يعبد كل شخص الله وفقًا لهويته ووظيفته الاجتماعية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! القرآن يشير إلى قوة الجاذبية التي تحفظ السماوات دون أن نراها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تركز على الهوية الشخصية والوظيفة الاجتماعية.</p>"
+            "text": "<p style=\"text-align:right\">قوة الجاذبية</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا غير صحيح، عبادة الهوية تتجاوز الصلاة والصوم لتشمل الوظيفة الاجتماعية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الرياح لا تحفظ السماوات، بل هي ظاهرة جوية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تركز على الصلاة والصوم فقط.</p>"
+            "text": "<p style=\"text-align:right\">قوة الرياح</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الذكر والتسبيح جزء من العبادة لكنها لا تعبر عن مفهوم عبادة الهوية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المغناطيسية تؤثر على المعادن وليس لها علاقة بحفظ السماوات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تركز على الذكر والتسبيح.</p>"
+            "text": "<p style=\"text-align:right\">قوة المغناطيسية</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحج والعمرة من العبادات المهمة لكنها لا تعبر عن مفهوم عبادة الهوية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكهرباء هي شكل من أشكال الطاقة وليست القوة التي تحفظ السماوات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تركز على الحج والعمرة.</p>"
+            "text": "<p style=\"text-align:right\">قوة الكهرباء</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي عبادة الهوية كما وردت في النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي القوة التي ذكرها القرآن والتي تحفظ السماوات دون أن نراها؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي عبادة الهوية كما وردت في النص؟",
+        "title": "ما هي القوة التي ذكرها القرآن والتي تحفظ السماوات دون أن نراها؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي عبادة الهوية كما وردت في النص؟"
+        "extraTitle": "ما هي القوة التي ذكرها القرآن والتي تحفظ السماوات دون أن نراها؟"
       },
-      "subContentId": "8945cb82-25d3-4335-967f-e84a28b9e681"
+      "subContentId": "dfed234e-5f5b-467e-852f-30ec6fed870b"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكن رعاية الأب المريض أولوية في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">وادي النيل ليس أدنى منطقة في الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
+            "text": "<p style=\"text-align:right\">وادي النيل</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! رعاية الأب المريض هي العبادة الأولى في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! غور فلسطين هي أدنى منطقة في الأرض كما ذكر القرآن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">رعاية الأب المريض.</p>"
+            "text": "<p style=\"text-align:right\">غور فلسطين</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن عبادة لكنها ليست الأولى في حالة وجود أب مريض.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">وادي الرمة ليس أدنى منطقة في الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن.</p>"
+            "text": "<p style=\"text-align:right\">وادي الرمة</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام عبادة لكن رعاية الأب المريض تأتي أولًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">وادي حنيفة ليس أدنى منطقة في الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصيام.</p>"
+            "text": "<p style=\"text-align:right\">وادي حنيفة</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه أب مريض؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي أدنى منطقة في الأرض كما ذكر القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه أب مريض؟",
+        "title": "ما هي أدنى منطقة في الأرض كما ذكر القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه أب مريض؟"
+        "extraTitle": "ما هي أدنى منطقة في الأرض كما ذكر القرآن؟"
       },
-      "subContentId": "fe70733c-65f1-4b75-b627-dfa082efe2a2"
+      "subContentId": "fd7552f8-6714-460b-9e84-988f26123b1c"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الوقت تشمل النهار والليل، وليس النهار فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">البويضة ليست التي تحدد نوع الجنين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تركز على العمل في النهار فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الوقت تشمل النهار والليل، وليس الليل فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة التي تركز على الصلاة في الليل فقط.</p>"
+            "text": "<p style=\"text-align:right\">البويضة</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عبادة الوقت تعني إعطاء كل وقت حقه من العبادات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! النطفة هي التي تحدد نوع الجنين وفقًا للقرآن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تعطي لكل وقت حقه من العبادات.</p>"
+            "text": "<p style=\"text-align:right\">النطفة</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحج جزء من العبادات لكنه لا يعبر عن مفهوم عبادة الوقت.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الرحم يوفر البيئة لنمو الجنين ولكنه لا يحدد نوعه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تركز على الحج فقط.</p>"
+            "text": "<p style=\"text-align:right\">الرحم</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">البيئة تؤثر على نمو الجنين ولكنها لا تحدد نوعه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">البيئة</p>"
           }
         ],
         "overallFeedback": [
@@ -297,119 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي عبادة الوقت كما وردت في النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يحدد نوع الجنين وفقًا للقرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي عبادة الوقت كما وردت في النص؟",
+        "title": "ما الذي يحدد نوع الجنين وفقًا للقرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي عبادة الوقت كما وردت في النص؟"
+        "extraTitle": "ما الذي يحدد نوع الجنين وفقًا للقرآن؟"
       },
-      "subContentId": "da163288-16f0-43a7-8b3d-98ab2a55e880"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! رعاية الأب المريض هي العبادة الأولى في هذا الظرف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تأجيل العبادات الأخرى لصالح رعاية الأب المريض.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال رعاية الأب المريض لصالح العبادات الأخرى غير صحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إهمال رعاية الأب المريض لصالح العبادات الأخرى.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تأجيل رعاية الأب المريض لصالح العبادات الأخرى غير صحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تأجيل رعاية الأب المريض لصالح العبادات الأخرى.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال العبادات الأخرى تمامًا لصالح رعاية الأب المريض غير صحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إهمال العبادات الأخرى لصالح رعاية الأب المريض.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح تجاه عبادة الظرف؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الموقف الصحيح تجاه عبادة الظرف؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح تجاه عبادة الظرف؟"
-      },
-      "subContentId": "296f7911-22af-4e70-ad2e-3f9b4e1e64b8"
+      "subContentId": "e3310152-7022-4efb-8c03-8fe8992c1e50"
     },
     {
       "params": {
@@ -421,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال الضيف غير صحيح، إكرام الضيف هو العبادة الأولى في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن الآية تشمل أكثر من ذلك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمال الضيف والذهاب إلى المسجد.</p>"
+            "text": "<p style=\"text-align:right\">تشير إلى عودة بخار الماء كمطر.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن الآية تشمل أكثر من ذلك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تشير إلى عودة البث الكهرطيسي إلى الأرض.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن الآية تشمل أكثر من ذلك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تشير إلى عودة الكواكب إلى مداراتها.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إكرام الضيف هو العبادة الأولى في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشمل جميع هذه التفسيرات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إكرام الضيف.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن عبادة لكنها ليست الأولى في حالة وجود ضيف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">قراءة القرآن.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام عبادة لكن إكرام الضيف يأتي أولًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصيام.</p>"
+            "text": "<p style=\"text-align:right\">جميع ما سبق.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,119 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ضيف؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير الآية 'وَالسَّمَاءِ ذَاتِ الرَّجْعِ' في ضوء الاكتشافات العلمية الحديثة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ضيف؟",
+        "title": "كيف يمكن تفسير الآية 'وَالسَّمَاءِ ذَاتِ الرَّجْعِ' في ضوء الاكتشافات العلمية الحديثة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ضيف؟"
+        "extraTitle": "كيف يمكن تفسير الآية 'وَالسَّمَاءِ ذَاتِ الرَّجْعِ' في ضوء الاكتشافات العلمية الحديثة؟"
       },
-      "subContentId": "a6032436-d4da-48ba-87a0-99dc1d533952"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تهيئة الجو المناسب للدراسة هي العبادة الأولى في هذا الظرف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكن تهيئة الجو المناسب للدراسة أولوية في هذا الظرف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن عبادة لكنها ليست الأولى في حالة وجود ابن في الامتحان.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">قراءة القرآن.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام عبادة لكن تهيئة الجو المناسب للدراسة يأتي أولًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصيام.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان ابنه في الامتحان؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان ابنه في الامتحان؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان ابنه في الامتحان؟"
-      },
-      "subContentId": "3d66a40c-10bf-4710-b610-1dc11ec2a45d"
+      "subContentId": "bf1736ae-9dbd-4944-a169-03e2361d5947"
     },
     {
       "params": {
@@ -623,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب السلف فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">انعكاس الضوء يحدث عند سقوط الضوء على سطح لامع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إثبات الصفات كما وردت دون تأويل أو تشبيه.</p>"
+            "text": "<p style=\"text-align:right\">انعكاس الضوء</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب الأشاعرة والمعتزلة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">انكسار الضوء يحدث عند مرور الضوء من وسط إلى آخر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تأويل الصفات بطريقة رمزية تنفي التشبيه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، وهو رأي بعض الفلاسفة والمتكلمين.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رفض الحديث عن الصفات تمامًا بحجة عدم إدراكها.</p>"
+            "text": "<p style=\"text-align:right\">انكسار الضوء</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هناك عدة مدارس فكرية في تفسير الصفات الإلهية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! انتثار الضوء هو الذي يسبب وجود ضوء النهار في كل مكان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جميع ما سبق يعكس اتجاهات مختلفة لعلماء العقيدة.</p>"
+            "text": "<p style=\"text-align:right\">انتثار الضوء</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">امتصاص الضوء يقلل من شدة الضوء ولا يسبب انتشاره.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">امتصاص الضوء</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الظاهرة التي تفسر وجود ضوء النهار في كل مكان على الأرض؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟",
+        "title": "ما هي الظاهرة التي تفسر وجود ضوء النهار في كل مكان على الأرض؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟"
+        "extraTitle": "ما هي الظاهرة التي تفسر وجود ضوء النهار في كل مكان على الأرض؟"
       },
-      "subContentId": "ff3af860-959e-48ba-a302-1f4b651449d8"
+      "subContentId": "87bc8ee5-640f-45e9-bd33-b5c4c8d69099"
     },
     {
       "params": {
@@ -724,37 +522,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إعطاء كل وقت حقه من العبادات هو الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! البرزخ هو الذي يمنع اختلاط مياه البحار المختلفة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إعطاء كل وقت حقه من العبادات.</p>"
+            "text": "<p style=\"text-align:right\">البرزخ</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التركيز على العبادات في الليل فقط غير صحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الملوحة تؤثر على كثافة الماء ولكنها لا تمنع الاختلاط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على العبادات في الليل فقط.</p>"
+            "text": "<p style=\"text-align:right\">الملوحة</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التركيز على العبادات في النهار فقط غير صحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكثافة تؤثر على طفو الماء ولكنها لا تمنع الاختلاط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على العبادات في النهار فقط.</p>"
+            "text": "<p style=\"text-align:right\">الكثافة</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال العبادات في بعض الأوقات غير صحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التيارات البحرية تؤثر على حركة الماء ولكنها لا تمنع الاختلاط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمال العبادات في بعض الأوقات.</p>"
+            "text": "<p style=\"text-align:right\">التيارات البحرية</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح تجاه عبادة الوقت؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يمنع اختلاط مياه البحار المختلفة وفقًا للقرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح تجاه عبادة الوقت؟",
+        "title": "ما الذي يمنع اختلاط مياه البحار المختلفة وفقًا للقرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح تجاه عبادة الوقت؟"
+        "extraTitle": "ما الذي يمنع اختلاط مياه البحار المختلفة وفقًا للقرآن؟"
       },
-      "subContentId": "f8d79997-8de2-44fb-8545-94bf9805a87c"
+      "subContentId": "a921c124-ef6e-46db-9eb8-edbaeb3d7676"
     },
     {
       "params": {
@@ -825,37 +623,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تزويج الابن هو العبادة الأولى في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الماء هو الاستثناء الوحيد في هذا القانون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تزويج الابن.</p>"
+            "text": "<p style=\"text-align:right\">الماء</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكن تزويج الابن أولوية في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهواء يتمدد بالتسخين وينكمش بالتبريد دون استثناء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
+            "text": "<p style=\"text-align:right\">الهواء</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن عبادة لكنها ليست الأولى في حالة وجود ابن في ريعان الشباب.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الحديد يتمدد بالتسخين وينكمش بالتبريد دون استثناء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن.</p>"
+            "text": "<p style=\"text-align:right\">الحديد</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام عبادة لكن تزويج الابن يأتي أولًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الزجاج يتمدد بالتسخين وينكمش بالتبريد دون استثناء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصيام.</p>"
+            "text": "<p style=\"text-align:right\">الزجاج</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ابن في ريعان الشباب؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الاستثناء الوحيد في قانون التمدد والانكماش بالتسخين والتبريد؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ابن في ريعان الشباب؟",
+        "title": "ما هو الاستثناء الوحيد في قانون التمدد والانكماش بالتسخين والتبريد؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ابن في ريعان الشباب؟"
+        "extraTitle": "ما هو الاستثناء الوحيد في قانون التمدد والانكماش بالتسخين والتبريد؟"
       },
-      "subContentId": "28c4956b-630c-4f93-83dc-37d444667739"
+      "subContentId": "4af592b8-3d94-481b-bac1-013738ff6dfb"
     },
     {
       "params": {
@@ -926,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">. العبادة يجب أن تكون لله وحده بلا وسطاء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">زيادة الكثافة تحدث عند انخفاض الحجم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يجوز التبرك لأنها وسيلة للتقرب إلى الله.</p>"
+            "text": "<p style=\"text-align:right\">زيادة الكثافة</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوحيد يقتضي عبادة الله فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! انخفاض الكثافة هو الذي يسبب توسع الماء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يجب عبادة الله وحده دون وسطاء.</p>"
+            "text": "<p style=\"text-align:right\">انخفاض الكثافة</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">. العقيدة الإسلامية تحدد ضوابط العبادة بوضوح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">زيادة الحجم هي نتيجة انخفاض الكثافة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يمكن اعتبار التبرك جزءًا من الثقافة وليس العقيدة.</p>"
+            "text": "<p style=\"text-align:right\">زيادة الحجم</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\"> النصوص الشرعية واضحة في النهي عن التوسل البدعي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">انخفاض الحجم يسبب زيادة الكثافة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لا يوجد حكم شرعي واضح في المسألة.</p>"
+            "text": "<p style=\"text-align:right\">انخفاض الحجم</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +802,321 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الخاصية التي تجعل الماء يتوسع عند التبريد من 4 إلى 0 درجة مئوية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟",
+        "title": "ما هي الخاصية التي تجعل الماء يتوسع عند التبريد من 4 إلى 0 درجة مئوية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟"
+        "extraTitle": "ما هي الخاصية التي تجعل الماء يتوسع عند التبريد من 4 إلى 0 درجة مئوية؟"
       },
-      "subContentId": "f19776f7-5de7-40f9-af6d-afdd97418606"
+      "subContentId": "a049d67e-bc9d-45ce-bd8b-624a3c5ef281"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مضاد التجمد هو الذي يمنع تجمد ماء العين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">مضاد للتجمد</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الملح يستخدم لإذابة الجليد ولكن ليس في ماء العين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الملح</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">السكر ليس له تأثير على منع التجمد.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">السكر</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الزيت يستخدم للتشحيم وليس لمنع التجمد.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الزيت</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هي المادة التي أودعها الله في ماء العين لمنع تجمده؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هي المادة التي أودعها الله في ماء العين لمنع تجمده؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هي المادة التي أودعها الله في ماء العين لمنع تجمده؟"
+      },
+      "subContentId": "1451b66e-6dca-44a5-b6ab-36720d020307"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مضاد التجمد هو الذي يمنع تجمد ماء العين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">مضاد التجمد</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الملح يستخدم لإذابة الجليد ولكن ليس في ماء العين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الملح</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">السكر ليس له تأثير على منع التجمد.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">السكر</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الزيت يستخدم للتشحيم وليس لمنع التجمد.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الزيت</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا كنت في منطقة باردة جدًا، ما الذي يمنع تجمد ماء العين؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا كنت في منطقة باردة جدًا، ما الذي يمنع تجمد ماء العين؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا كنت في منطقة باردة جدًا، ما الذي يمنع تجمد ماء العين؟"
+      },
+      "subContentId": "cd9eeeb8-7c7a-4e85-88e8-278c25f01b6f"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! قوة الجاذبية هي التي يجب أن تأخذها في الاعتبار.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">قوة الجاذبية</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">قوة الرياح تؤثر على المبنى ولكنها ليست الأساسية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">قوة الرياح</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">قوة المغناطيسية لا تؤثر على بناء المبنى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">قوة المغناطيسية</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">قوة الكهرباء لا تؤثر على بناء المبنى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">قوة الكهرباء</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا كنت تقوم ببناء مبنى من عشرة طوابق دون دعائم، ما هي القوة التي يجب أن تأخذها في الاعتبار؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا كنت تقوم ببناء مبنى من عشرة طوابق دون دعائم، ما هي القوة التي يجب أن تأخذها في الاعتبار؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا كنت تقوم ببناء مبنى من عشرة طوابق دون دعائم، ما هي القوة التي يجب أن تأخذها في الاعتبار؟"
+      },
+      "subContentId": "e78fe9f1-aca2-4fbf-b785-f798a3e1e7ed"
     },
     {
       "params": {
@@ -1027,37 +1128,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تأجيل الزواج حتى يملك بيتًا قد يؤدي إلى مشاكل اجتماعية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">انعكاس الضوء يحدث عند سقوط الضوء على سطح لامع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تأجيل الزواج حتى يملك بيتًا.</p>"
+            "text": "<p style=\"text-align:right\">انعكاس الضوء</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الزواج دون الاهتمام بامتلاك بيت قد يؤدي إلى مشاكل مالية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">انكسار الضوء يحدث عند مرور الضوء من وسط إلى آخر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الزواج دون الاهتمام بامتلاك بيت.</p>"
+            "text": "<p style=\"text-align:right\">انكسار الضوء</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">انتثار الضوء يسبب وجود ضوء النهار في كل مكان.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">انتثار الضوء</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! طلب المساعدة من الأهل والأصدقاء لتأمين بيت هو الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عند تجاوز طبقة الهواء، ستواجه غياب الضوء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">طلب المساعدة من الأهل والأصدقاء لتأمين بيت.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال الزواج والتركيز على العمل غير صحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إهمال الزواج والتركيز على العمل.</p>"
+            "text": "<p style=\"text-align:right\">غياب الضوء</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,119 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شاب يريد أن يتزوج لكنه لا يملك بيتًا. ما هو الموقف الصحيح بناءً على عبادة العصر؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا كنت تخطط لرحلة إلى الفضاء، ما هي الظاهرة التي ستواجهها عند تجاوز طبقة الهواء؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شاب يريد أن يتزوج لكنه لا يملك بيتًا. ما هو الموقف الصحيح بناءً على عبادة العصر؟",
+        "title": "إذا كنت تخطط لرحلة إلى الفضاء، ما هي الظاهرة التي ستواجهها عند تجاوز طبقة الهواء؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شاب يريد أن يتزوج لكنه لا يملك بيتًا. ما هو الموقف الصحيح بناءً على عبادة العصر؟"
+        "extraTitle": "إذا كنت تخطط لرحلة إلى الفضاء، ما هي الظاهرة التي ستواجهها عند تجاوز طبقة الهواء؟"
       },
-      "subContentId": "afb95628-cecc-48bb-b643-13bdfc825b46"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العمل في النهار مهم لكنه لا يلغي أهمية العبادة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العمل في النهار أهم من العبادة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة في الليل مهمة لكنها لا تلغي أهمية العمل في النهار.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة في الليل أهم من العمل في النهار.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إعطاء كل وقت حقه من العمل والعبادة هو الموقف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إعطاء كل وقت حقه من العمل والعبادة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال العمل والتركيز على العبادة غير صحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إهمال العمل والتركيز على العبادة.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">أحد الأشخاص يعتقد أن العمل في النهار أهم من العبادة. ما هو الرد الصحيح بناءً على عبادة الوقت؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "أحد الأشخاص يعتقد أن العمل في النهار أهم من العبادة. ما هو الرد الصحيح بناءً على عبادة الوقت؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "أحد الأشخاص يعتقد أن العمل في النهار أهم من العبادة. ما هو الرد الصحيح بناءً على عبادة الوقت؟"
-      },
-      "subContentId": "c205a3b4-518c-47fe-8eb6-48343dd8c302"
+      "subContentId": "9c37b0a9-6a36-448f-94d9-f4e9adc0dfc8"
     }
   ],
   "disableBackwardsNavigation": false,

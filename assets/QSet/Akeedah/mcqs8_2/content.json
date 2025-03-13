@@ -14,40 +14,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">النجوم لا تسقط بل تظهر في السماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الأماكن التي تسقط فيها النجوم.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التكليف يعني أن الإنسان مكلف بأوامر الله ونواهيه باختياره.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المقصود هو الأماكن التي تظهر فيها النجوم في السماء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الالتزام بأوامر الله ونواهيه باختيار الإنسان.</p>"
+            "text": "<p style=\"text-align:right\">الأماكن التي تظهر فيها النجوم في السماء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإيمان بالقدر لا يلغي التكليف بالعمل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النجوم لا تختفي بل تظهر في السماء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإيمان بالقدر فقط دون العمل.</p>"
+            "text": "<p style=\"text-align:right\">الأماكن التي تختفي فيها النجوم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان مسير في بعض الأمور ومخير في التكليف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النجوم تظهر في السماء ولا تتحرك بشكل عشوائي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاعتقاد بأن الإنسان مسير في كل أفعاله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التكليف يشمل العبادات والأخلاق معًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التركيز على العبادات دون الأخلاق.</p>"
+            "text": "<p style=\"text-align:right\">الأماكن التي تتحرك فيها النجوم.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,220 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بالتكليف في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'مَوَاقِعِ النُّجُومِ' في الآية الكريمة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المقصود بالتكليف في الإسلام؟",
+        "title": "ما هو المقصود بـ 'مَوَاقِعِ النُّجُومِ' في الآية الكريمة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المقصود بالتكليف في الإسلام؟"
+        "extraTitle": "ما هو المقصود بـ 'مَوَاقِعِ النُّجُومِ' في الآية الكريمة؟"
       },
-      "subContentId": "3590f271-8822-4abe-af51-5832beace552"
+      "subContentId": "9b059cc2-7049-4092-a2c5-ae8ec757502c"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المقصود بالْمُطَهَّرُونَ هم الملائكة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الملائكة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأنبياء مطهرون ولكن المقصود هنا الملائكة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الأنبياء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الصالحون مطهرون ولكن المقصود هنا الملائكة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الصالحون.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">جميع المؤمنين مطهرون ولكن المقصود هنا الملائكة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">جميع المؤمنين.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'الْمُطَهَّرُونَ' في الآية الكريمة؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو المقصود بـ 'الْمُطَهَّرُونَ' في الآية الكريمة؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو المقصود بـ 'الْمُطَهَّرُونَ' في الآية الكريمة؟"
+      },
+      "subContentId": "921a3dcf-13cd-4ba8-929d-f89873d68b22"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المقصود هو كتاب محفوظ في السماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">كتاب محفوظ في السماء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الكتاب ليس مكتوبًا على الأرض بل محفوظ في السماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">كتاب مكتوب على الأرض.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الكتاب ليس مخفيًا بل محفوظ في السماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">كتاب مخفي عن الناس.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الكتاب ليس مفتوحًا للجميع بل محفوظ في السماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">كتاب مفتوح للجميع.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'كِتَابٍ مَكْنُونٍ' في الآية الكريمة؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو المقصود بـ 'كِتَابٍ مَكْنُونٍ' في الآية الكريمة؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو المقصود بـ 'كِتَابٍ مَكْنُونٍ' في الآية الكريمة؟"
+      },
+      "subContentId": "36c49227-a44b-4edd-8437-e3cc0851b07c"
     },
     {
       "params": {
@@ -118,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القدرة المالية ليست من مقومات التكليف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النجوم عظيمة ولكن القسم لإظهار عظمة القرآن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القدرة المالية.</p>"
+            "text": "<p style=\"text-align:right\">لإظهار عظمة النجوم.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل أحد مقومات التكليف الأساسية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! القسم لإظهار عظمة القرآن الكريم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العقل.</p>"
+            "text": "<p style=\"text-align:right\">لإظهار عظمة القرآن الكريم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الموقع الجغرافي لا يؤثر في التكليف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون عظيم ولكن القسم لإظهار عظمة القرآن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الموقع الجغرافي.</p>"
+            "text": "<p style=\"text-align:right\">لإظهار عظمة الكون.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اللغة ليست من مقومات التكليف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الله عظيم ولكن القسم لإظهار عظمة القرآن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اللغة.</p>"
+            "text": "<p style=\"text-align:right\">لإظهار عظمة الله تعالى.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو أحد مقومات التكليف التي ذكرت في النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">لماذا أقسم الله تعالى بـ 'مَوَاقِعِ النُّجُومِ'؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو أحد مقومات التكليف التي ذكرت في النص؟",
+        "title": "لماذا أقسم الله تعالى بـ 'مَوَاقِعِ النُّجُومِ'؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو أحد مقومات التكليف التي ذكرت في النص؟"
+        "extraTitle": "لماذا أقسم الله تعالى بـ 'مَوَاقِعِ النُّجُومِ'؟"
       },
-      "subContentId": "d568ef47-6790-4e43-95e8-ce2d2f27148f"
+      "subContentId": "0873ef66-f1f1-4ab4-82ac-73afd7e7a40e"
     },
     {
       "params": {
@@ -219,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشرع لا يلغي العقل بل يضبطه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك أدلة أخرى.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشرع يلغي دور العقل.</p>"
+            "text": "<p style=\"text-align:right\">أنه محفوظ في كتاب مكنون.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك أدلة أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنه لا يمسه إلا المطهرون.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك أدلة أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أنه قرآن كريم.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشرع هو الضابط الذي يحدد الحسن والقبيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جميع ما سبق يدل على عظمة القرآن الكريم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشرع هو الضابط الذي يحدد الحسن والقبيح.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشرع لا يعتمد على العرف بل على النصوص الشرعية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الشرع يعتمد على العرف فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشرع أساسي في التكليف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الشرع غير ضروري في التكليف.</p>"
+            "text": "<p style=\"text-align:right\">جميع ما سبق.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +499,220 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو دور الشرع في التكليف؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل على عظمة القرآن الكريم من الآيات؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو دور الشرع في التكليف؟",
+        "title": "ما هو الدليل على عظمة القرآن الكريم من الآيات؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو دور الشرع في التكليف؟"
+        "extraTitle": "ما هو الدليل على عظمة القرآن الكريم من الآيات؟"
       },
-      "subContentId": "51beb330-de80-4d68-a81c-86f36db2deae"
+      "subContentId": "d7faa68a-ad5e-45d1-a25c-4336c365dc13"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المقصود أن القرآن لا يمسه إلا الملائكة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن لا يمسه إلا الملائكة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأنبياء مطهرون ولكن المقصود هنا الملائكة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن لا يمسه إلا الأنبياء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الصالحون مطهرون ولكن المقصود هنا الملائكة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن لا يمسه إلا الصالحون.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">المؤمنون مطهرون ولكن المقصود هنا الملائكة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن لا يمسه إلا المؤمنون.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ'؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو المقصود بـ 'لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ'؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو المقصود بـ 'لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ'؟"
+      },
+      "subContentId": "4d8f0bbc-46b6-4437-bcb3-dbd33bba6bfd"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الْمُطَهَّرُونَ هم الملائكة والْمُتَطَهِّرُونَ هم المؤمنون.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الْمُطَهَّرُونَ هم الملائكة والْمُتَطَهِّرُونَ هم المؤمنون.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأنبياء والصالحون مطهرون ولكن المقصود هنا الملائكة والمؤمنون.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الْمُطَهَّرُونَ هم الأنبياء والْمُتَطَهِّرُونَ هم الصالحون.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الصالحون والمؤمنون مطهرون ولكن المقصود هنا الملائكة والمؤمنون.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الْمُطَهَّرُونَ هم الصالحون والْمُتَطَهِّرُونَ هم المؤمنون.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق بينهما.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لا فرق بينهما.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين 'الْمُطَهَّرُونَ' و 'الْمُتَطَهِّرُونَ'؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الفرق بين 'الْمُطَهَّرُونَ' و 'الْمُتَطَهِّرُونَ'؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الفرق بين 'الْمُطَهَّرُونَ' و 'الْمُتَطَهِّرُونَ'؟"
+      },
+      "subContentId": "3940d6f6-4b16-4050-96eb-2216031175b8"
     },
     {
       "params": {
@@ -320,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاختيار يعني أن الإنسان مخير وليس مسيرًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك معاني أخرى.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاختيار يعني أن الإنسان مسير في كل أفعاله.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن عظيم الشأن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإجبار يلغي الثواب والعقاب.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك معاني أخرى.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإجبار يلغي الثواب والعقاب.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن محفوظ من التحريف.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك معاني أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن معجز في بلاغته.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الاختيار يعني أن الإنسان مخير في التكليف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جميع ما سبق يدل على عظمة القرآن الكريم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاختيار يعني أن الإنسان مخير في التكليف.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإجبار يلغي المسؤولية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الإجبار يعزز مسؤولية الإنسان.</p>"
+            "text": "<p style=\"text-align:right\">جميع ما سبق.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين الاختيار والإجبار في التكليف؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'إِنَّهُ لَقُرْآنٌ كَرِيمٌ'؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الفرق بين الاختيار والإجبار في التكليف؟",
+        "title": "ما هو المقصود بـ 'إِنَّهُ لَقُرْآنٌ كَرِيمٌ'؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الفرق بين الاختيار والإجبار في التكليف؟"
+        "extraTitle": "ما هو المقصود بـ 'إِنَّهُ لَقُرْآنٌ كَرِيمٌ'؟"
       },
-      "subContentId": "6da3a42f-311f-4772-8d94-eab95e9596c2"
+      "subContentId": "2e7d1053-a28f-4cd2-b257-8772c7146e9a"
     },
     {
       "params": {
@@ -421,37 +825,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القدر لا يلغي المسؤولية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك معاني أخرى.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القدر يلغي مسؤولية الإنسان عن أفعاله.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن محفوظ في اللوح المحفوظ.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك معاني أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن محفوظ في السماء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك معاني أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن محفوظ من التحريف.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! القدر لا يخرج الإنسان من الاختيار إلى الإجبار.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جميع ما سبق يدل على أن القرآن محفوظ في كتاب مكنون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القدر لا يخرج الإنسان من الاختيار إلى الإجبار.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القدر لا ينفي الإرادة الإنسانية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">القدر يعني أن الإنسان لا يملك إرادة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القدر لا يبرر المعاصي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">القدر يبرر ارتكاب المعاصي.</p>"
+            "text": "<p style=\"text-align:right\">جميع ما سبق.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح تجاه القدر؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بـ 'فِي كِتَابٍ مَكْنُونٍ'؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح تجاه القدر؟",
+        "title": "ما هو المقصود بـ 'فِي كِتَابٍ مَكْنُونٍ'؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح تجاه القدر؟"
+        "extraTitle": "ما هو المقصود بـ 'فِي كِتَابٍ مَكْنُونٍ'؟"
       },
-      "subContentId": "38e398cf-7dc7-4cac-9052-ab6a010e82cc"
+      "subContentId": "275a5e9d-284f-427c-863a-447d18aff1ab"
     },
     {
       "params": {
@@ -522,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يلغي الحاجة إلى الشرع.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك حكم شرعي واضح في المسألة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العقل يلغي الحاجة إلى الشرع.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العقل ليس الضابط الوحيد.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل هو الضابط الوحيد للأفعال.</p>"
+            "text": "<p style=\"text-align:right\">التجاهل لأنه لا يوجد حكم شرعي واضح.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل قد يضل ويحتاج إلى ضابط وهو الشرع.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب التنبيه على الشخص بأن القرآن لا يمسه إلا المطهرون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العقل قد يضل ويحتاج إلى ضابط وهو الشرع.</p>"
+            "text": "<p style=\"text-align:right\">التنبيه على الشخص بأن القرآن لا يمسه إلا المطهرون.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العقل مرتبط بالتكليف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصمت ليس الحل الصحيح في هذه الحالة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العقل غير مرتبط بالتكليف.</p>"
+            "text": "<p style=\"text-align:right\">الصمت لأن الشخص قد يكون جاهلًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستمرار في القراءة دون تنبيه ليس الحل الصحيح.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الاستمرار في القراءة دون تنبيه.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو دور العقل في التكليف؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يمس القرآن بدون وضوء، ما هو التصرف الصحيح؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو دور العقل في التكليف؟",
+        "title": "إذا رأيت شخصًا يمس القرآن بدون وضوء، ما هو التصرف الصحيح؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو دور العقل في التكليف؟"
+        "extraTitle": "إذا رأيت شخصًا يمس القرآن بدون وضوء، ما هو التصرف الصحيح؟"
       },
-      "subContentId": "c5806aaf-5ba6-42aa-b3dd-d2a6ef15542f"
+      "subContentId": "d68eb1d3-a4b6-407e-b97b-1b109f6f3fe4"
     },
     {
       "params": {
@@ -623,37 +1027,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا تبرير خاطئ للمعصية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التجاهل ليس الحل الصحيح في هذه الحالة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هو تبرير صحيح للمعصية.</p>"
+            "text": "<p style=\"text-align:right\">التجاهل لأن الشخص قد يكون جاهلًا.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذا افتراء على الله وإلغاء للاختيار.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب التنبيه على الشخص بأن القرآن كريم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هو افتراء على الله وإلغاء للاختيار.</p>"
+            "text": "<p style=\"text-align:right\">التنبيه على الشخص بأن القرآن كريم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القدر لا يلغي المسؤولية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصمت ليس الحل الصحيح في هذه الحالة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هو اعتراف بالقدر دون مسؤولية.</p>"
+            "text": "<p style=\"text-align:right\">الصمت لأن الشخص قد يكون مخطئًا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإيمان بالقدر لا يبرر المعصية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستمرار في الحديث دون تنبيه ليس الحل الصحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هو موقف صحيح لأنه يعكس الإيمان بالقدر.</p>"
+            "text": "<p style=\"text-align:right\">الاستمرار في الحديث دون تنبيه.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من قول: 'الله قدر علي ذلك' عند ارتكاب المعصية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا سمعت شخصًا يقول إن القرآن ليس كريمًا، ما هو الرد الصحيح؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من قول: 'الله قدر علي ذلك' عند ارتكاب المعصية؟",
+        "title": "إذا سمعت شخصًا يقول إن القرآن ليس كريمًا، ما هو الرد الصحيح؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من قول: 'الله قدر علي ذلك' عند ارتكاب المعصية؟"
+        "extraTitle": "إذا سمعت شخصًا يقول إن القرآن ليس كريمًا، ما هو الرد الصحيح؟"
       },
-      "subContentId": "cb5ce761-dcdb-45a9-a029-33d3a837f665"
+      "subContentId": "4a655d54-072f-4943-b5c9-b158809f9aee"
     },
     {
       "params": {
@@ -724,37 +1128,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العقل قد يضل ولا يكون ضابطًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك حكم شرعي واضح في المسألة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحسن ما حسنه العقل، والقبيح ما قبحه العقل.</p>"
+            "text": "<p style=\"text-align:right\">التجاهل لأنه لا يوجد حكم شرعي واضح.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحسن ما حسنه الشرع، والقبيح ما قبحه الشرع.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب التنبيه على الشخص بأن القرآن لا يمسه إلا المطهرون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحسن ما حسنه الشرع، والقبيح ما قبحه الشرع.</p>"
+            "text": "<p style=\"text-align:right\">التنبيه على الشخص بأن القرآن لا يمسه إلا المطهرون.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العرف ليس معيارًا ثابتًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصمت ليس الحل الصحيح في هذه الحالة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحسن ما حسنه العرف، والقبيح ما قبحه العرف.</p>"
+            "text": "<p style=\"text-align:right\">الصمت لأن الشخص قد يكون جاهلًا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحسن والقبيح ثابتان في الشرع.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستمرار في القراءة دون تنبيه ليس الحل الصحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الحسن والقبيح يتغيران حسب الزمان والمكان.</p>"
+            "text": "<p style=\"text-align:right\">الاستمرار في القراءة دون تنبيه.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,422 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين 'الحسن' و'القبيح' وفقًا للشرع؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يقرأ القرآن بدون وضوء، ما هو التصرف الصحيح؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الفرق بين 'الحسن' و'القبيح' وفقًا للشرع؟",
+        "title": "إذا رأيت شخصًا يقرأ القرآن بدون وضوء، ما هو التصرف الصحيح؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الفرق بين 'الحسن' و'القبيح' وفقًا للشرع؟"
+        "extraTitle": "إذا رأيت شخصًا يقرأ القرآن بدون وضوء، ما هو التصرف الصحيح؟"
       },
-      "subContentId": "e81b7c3c-9e06-4c35-87e2-08201a856d02"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفلت الأخلاقي مرفوض في الشرع.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفلت الأخلاقي مقبول لأنه منتشر.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفلت الأخلاقي لا يغير من تقييم الشرع.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفلت الأخلاقي لا يغير من تقييم الشرع.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التطور لا يبرر التفلت الأخلاقي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفلت الأخلاقي يعكس تطور المجتمع.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشرع يرفض التفلت الأخلاقي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفلت الأخلاقي ضرورة في العصر الحديث.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من التفلت الأخلاقي في العصر الحديث؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الموقف الصحيح من التفلت الأخلاقي في العصر الحديث؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من التفلت الأخلاقي في العصر الحديث؟"
-      },
-      "subContentId": "a4a36f99-e74c-4798-aec2-ddbf339e0a61"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انتشار المعاصي لا يبرر ارتكابها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">انتشار المعاصي يبرر ارتكابها.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المعاصي تبقى محرمة حتى لو انتشرت.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">المعاصي تبقى محرمة حتى لو انتشرت.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">المجتمع لا يحدد الحلال والحرام.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">المجتمع يحدد الحلال والحرام.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الضرورة لا تبرر المعاصي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">المعاصي تصبح مقبولة إذا كانت ضرورة.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن انتشار المعاصي في المجتمع يبرر له ارتكابها. ما هو الرد الصحيح بناءً على الشرع؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يعتقد أن انتشار المعاصي في المجتمع يبرر له ارتكابها. ما هو الرد الصحيح بناءً على الشرع؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يعتقد أن انتشار المعاصي في المجتمع يبرر له ارتكابها. ما هو الرد الصحيح بناءً على الشرع؟"
-      },
-      "subContentId": "0a43dd26-b942-46fb-ba46-daa0bb89a901"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنسان مسير في بعض الأمور ومخير في التكليف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">هذا صحيح لأن الإنسان مسير.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذا يلغي التكليف والثواب والعقاب.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">هذا خطأ لأنه يلغي التكليف والثواب والعقاب.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإيمان بالقدر لا يلغي الاختيار.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">هذا يعكس الإيمان بالقدر.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التوكل على الله لا يلغي المسؤولية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">هذا موقف صحيح لأنه يعكس التوكل على الله.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يقول: 'أنا مسير في كل أفعالي، فلا ثواب ولا عقاب'. ما هو الرد الصحيح؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يقول: 'أنا مسير في كل أفعالي، فلا ثواب ولا عقاب'. ما هو الرد الصحيح؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يقول: 'أنا مسير في كل أفعالي، فلا ثواب ولا عقاب'. ما هو الرد الصحيح؟"
-      },
-      "subContentId": "3bb2a93b-e2e2-471a-a93d-d9057be01698"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العقل قد يضل ولا يكون ضابطًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل كافٍ لتحديد الحسن والقبيح.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل قد يضل ويحتاج إلى ضابط وهو الشرع.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل قد يضل ويحتاج إلى ضابط وهو الشرع.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشرع ضروري حتى مع سلامة العقل.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الشرع غير ضروري إذا كان العقل سليمًا.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العقل والشرع متكاملان وليسا متعارضين.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العقل والشرع متعارضان دائمًا.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن العقل هو الضابط الوحيد للأفعال دون الحاجة إلى الشرع. ما هو الرد الصحيح؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "شخص يعتقد أن العقل هو الضابط الوحيد للأفعال دون الحاجة إلى الشرع. ما هو الرد الصحيح؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "شخص يعتقد أن العقل هو الضابط الوحيد للأفعال دون الحاجة إلى الشرع. ما هو الرد الصحيح؟"
-      },
-      "subContentId": "dd634bc3-467e-4c46-babd-58e2bcbabbc0"
+      "subContentId": "fee156fe-c3d4-4c3d-9115-ed10f9d79366"
     }
   ],
   "disableBackwardsNavigation": false,

@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التعريف في الإسلام ليس مقتصرًا على الثقافات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع هو القلق والجزع، وليس عدم الاهتمام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التعرف على الثقافات المختلفة.</p>"
+            "text": "<p style=\"text-align:right\">الشخص الذي لا يهتم بأي شيء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التعريف في الإسلام يعني التعرف على الله من خلال آياته الكونية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع هو الذي يقلق ويجزع عند مواجهة الشر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التعرف على الله من خلال آياته الكونية.</p>"
+            "text": "<p style=\"text-align:right\">الشخص الذي يقلق ويجزع عند مواجهة الشر.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التعريف في الإسلام يتجاوز العلوم الحديثة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتعلق بالقلق عند الشر، وليس الفرح عند الخير.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التعرف على العلوم الحديثة.</p>"
+            "text": "<p style=\"text-align:right\">الشخص الذي يفرح عند مواجهة الخير.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التعريف في الإسلام ليس مقتصرًا على التاريخ.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان بطبيعته يتأثر بالأحداث، خاصة الشر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التعرف على التاريخ الإسلامي.</p>"
+            "text": "<p style=\"text-align:right\">الشخص الذي لا يتأثر بأي حدث.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المعنى الأساسي لكلمة 'التعريف' في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما معنى الهلوع كما ورد في القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المعنى الأساسي لكلمة 'التعريف' في الإسلام؟",
+        "title": "ما معنى الهلوع كما ورد في القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المعنى الأساسي لكلمة 'التعريف' في الإسلام؟"
+        "extraTitle": "ما معنى الهلوع كما ورد في القرآن؟"
       },
-      "subContentId": "85df134c-63e4-4b27-91dc-4c28c018128f"
+      "subContentId": "6ecceb23-1b5e-464f-8b30-e5f5e7182598"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة الدنيا ليس الوظيفة الكبرى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان خُلق ضعيفًا، وليس قويًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاستمتاع بالحياة الدنيا.</p>"
+            "text": "<p style=\"text-align:right\">الإنسان خُلق قويًا.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الوظيفة الكبرى هي التعرف على الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإنسان خُلق هلوعًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التعرف على الله.</p>"
+            "text": "<p style=\"text-align:right\">الإنسان خُلق هلوعًا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الثروة المادية ليس الهدف الأسمى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يتأثر بالخير والشر، وليس غير مبالٍ.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق الثروة المادية.</p>"
+            "text": "<p style=\"text-align:right\">الإنسان خُلق غير مبالٍ.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفوق العلمي ليس الوظيفة الكبرى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان يتأثر بالخير والشر، خاصة الشر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفوق العلمي.</p>"
+            "text": "<p style=\"text-align:right\">الإنسان خُلق لا يتأثر بالخير أو الشر.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الوظيفة الكبرى للكون وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي إحدى خصائص النفس البشرية كما ذكرت في القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الوظيفة الكبرى للكون وفقًا للنص؟",
+        "title": "ما هي إحدى خصائص النفس البشرية كما ذكرت في القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الوظيفة الكبرى للكون وفقًا للنص؟"
+        "extraTitle": "ما هي إحدى خصائص النفس البشرية كما ذكرت في القرآن؟"
       },
-      "subContentId": "52704cff-9928-4226-b791-ea9edddf2a70"
+      "subContentId": "94f44de1-9c74-4140-8ca2-bd7cf4e70987"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الثروة ليس الهدف الأكبر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">عندما يمسه الشر يكون جزوعًا، وليس منوعًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق الثروة.</p>"
+            "text": "<p style=\"text-align:right\">عندما يمسه الشر.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهدف الأكبر هو الإيمان بالله وشكره.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عندما يمسه الخير يكون منوعًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الإيمان بالله وشكره.</p>"
+            "text": "<p style=\"text-align:right\">عندما يمسه الخير.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الشهرة ليس الهدف الأسمى.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الحزن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق الشهرة.</p>"
+            "text": "<p style=\"text-align:right\">عندما يكون في حالة حزن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفوق الأكاديمي ليس الهدف الأكبر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الفرح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفوق الأكاديمي.</p>"
+            "text": "<p style=\"text-align:right\">عندما يكون في حالة فرح.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,119 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف الأكبر من وجود الإنسان وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الهدف الأكبر من وجود الإنسان وفقًا للنص؟",
+        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الهدف الأكبر من وجود الإنسان وفقًا للنص؟"
+        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟"
       },
-      "subContentId": "78d7b0d7-b740-4177-a368-673ca7d4c531"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في نعم الله وشكره عليها هو الطريق لخرق النعمة إلى المنعم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بالتفكر في نعم الله وشكره عليها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفوق في العمل وحده لا يكفي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بالتفوق في العمل.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تحقيق الثروة المادية ليس الطريق.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بتحقيق الثروة المادية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بالحياة دون التفكير لا يخرق النعمة إلى المنعم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بالاستمتاع بالحياة دون التفكير.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن للإنسان أن يخرق النعمة إلى المنعم؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "كيف يمكن للإنسان أن يخرق النعمة إلى المنعم؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "كيف يمكن للإنسان أن يخرق النعمة إلى المنعم؟"
-      },
-      "subContentId": "2f80e4e3-56bb-485b-87cf-76111ec015af"
+      "subContentId": "6d329bd8-b949-419d-ab81-00479ef51831"
     },
     {
       "params": {
@@ -421,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بها دون التفكير في المنعم ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">اتباع الشهوات يؤدي إلى الهلاك، وليس الرقي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاستمتاع بها دون التفكير في المنعم.</p>"
+            "text": "<p style=\"text-align:right\">اتباع شهواته ورغباته.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر فيها وشكر الله عليها هو الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! اختيار الآخرة على الدنيا يرقى بالإنسان عند الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر فيها وشكر الله عليها.</p>"
+            "text": "<p style=\"text-align:right\">اختيار الآخرة على الدنيا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستغناء عن الله يؤدي إلى الطغيان، وليس الرقي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين.</p>"
+            "text": "<p style=\"text-align:right\">الاستغناء عن الله بقوته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمالها والبحث عن المزيد ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادات هي وسيلة للتقرب إلى الله والرقي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمالها والبحث عن المزيد.</p>"
+            "text": "<p style=\"text-align:right\">عدم الاهتمام بالعبادات.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من نعم الله وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو السبب الذي يجعل الإنسان يرقى عند الله وفقًا للنصوص القرآنية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من نعم الله وفقًا للنص؟",
+        "title": "ما هو السبب الذي يجعل الإنسان يرقى عند الله وفقًا للنصوص القرآنية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من نعم الله وفقًا للنص؟"
+        "extraTitle": "ما هو السبب الذي يجعل الإنسان يرقى عند الله وفقًا للنصوص القرآنية؟"
       },
-      "subContentId": "28c59883-5c14-4c38-9203-06ac1f701210"
+      "subContentId": "5909ab87-3b76-4c16-977d-701300a6f98d"
     },
     {
       "params": {
@@ -522,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض لا يهدف لزيادة الثروة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">اختيار الآخرة يعاكس العجلة، وليس العجلة نفسها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيادة الثروة المادية.</p>"
+            "text": "<p style=\"text-align:right\">عندما يختار الآخرة على الدنيا.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في خلق السماوات والأرض يزيد الإيمان بالله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العجلة هي الرغبة في الأشياء القريبة والسريعة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيادة الإيمان بالله.</p>"
+            "text": "<p style=\"text-align:right\">عندما يريد أشياء قريبة وسريعة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض لا يهدف لتحقيق الشهرة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الصبر على المصائب هو عكس العجلة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تحقيق الشهرة.</p>"
+            "text": "<p style=\"text-align:right\">عندما يكون صبورًا على المصائب.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض لا يهدف للتفوق الأكاديمي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تجنب الشهوات يتطلب صبرًا، وليس عجلة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفوق الأكاديمي.</p>"
+            "text": "<p style=\"text-align:right\">عندما يتجنب الشهوات.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,220 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو دور التفكر في خلق السماوات والأرض؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو دور التفكر في خلق السماوات والأرض؟",
+        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو دور التفكر في خلق السماوات والأرض؟"
+        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟"
       },
-      "subContentId": "35d8abc7-2a0b-494f-8882-a73e50ead619"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكونية هي خلق الله، والتكوينية هي أفعاله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكونية هي خلق الله، والتكوينية هي أفعاله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكونية هي خلق الله، وليست أفعاله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكونية هي أفعال الله، والتكوينية هي خلق الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكونية هي خلق الله، وليست كلامه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكونية هي كلام الله، والتكوينية هي خلق الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التكوينية هي أفعال الله، وليست كلامه.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكونية هي خلق الله، والتكوينية هي كلام الله.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين آيات الله الكونية والتكوينية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الفرق بين آيات الله الكونية والتكوينية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الفرق بين آيات الله الكونية والتكوينية؟"
-      },
-      "subContentId": "1013a46e-c17a-4b7f-838b-f22b1a0fbb46"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الترتيب الصحيح هو التفكر في آياته الكونية، ثم تدبر آياته القرآنية، ثم النظر في آياته التكوينية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفكر في آياته الكونية، ثم تدبر آياته القرآنية، ثم النظر في آياته التكوينية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الترتيب الصحيح يبدأ بالتفكر في آياته الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفكر في آياته التكوينية، ثم تدبر آياته القرآنية، ثم النظر في آياته الكونية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الترتيب الصحيح يبدأ بالتفكر في آياته الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تدبر آياته القرآنية، ثم التفكر في آياته الكونية، ثم النظر في آياته التكوينية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الترتيب الصحيح يبدأ بالتفكر في آياته الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">النظر في آياته التكوينية، ثم التفكر في آياته الكونية، ثم تدبر آياته القرآنية.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الترتيب الصحيح لمعرفة الله وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الترتيب الصحيح لمعرفة الله وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الترتيب الصحيح لمعرفة الله وفقًا للنص؟"
-      },
-      "subContentId": "59728041-82ba-4cd7-852b-b8da23b059e5"
+      "subContentId": "68d044c5-72ae-4861-83a1-9ddc4a8460ea"
     },
     {
       "params": {
@@ -825,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر فيها مباشرة دون تريث ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستغناء عن الله يؤدي إلى الطغيان، وليس الضعف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر فيها مباشرة دون تريث.</p>"
+            "text": "<p style=\"text-align:right\">عندما يستغني بقوته عن الله.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تأجيل النظر فيها إلى المرحلة الثالثة هو الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الافتقار إلى الله في الضعف يجعل الإنسان سعيدًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تأجيل النظر فيها إلى المرحلة الثالثة.</p>"
+            "text": "<p style=\"text-align:right\">عندما يفتقر إلى الله في ضعفه.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمالها والتركيز على الآيات الكونية فقط ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القوة دون الاعتماد على الله تؤدي إلى الشقاء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمالها والتركيز على الآيات الكونية فقط.</p>"
+            "text": "<p style=\"text-align:right\">عندما يكون قويًا ولا يحتاج إلى أحد.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الغنى دون الاعتماد على الله يؤدي إلى الطغيان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين.</p>"
+            "text": "<p style=\"text-align:right\">عندما يكون غنيًا ولا يحتاج إلى الله.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,119 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من آيات الله التكوينية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه ضعيفًا؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من آيات الله التكوينية؟",
+        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه ضعيفًا؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من آيات الله التكوينية؟"
+        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه ضعيفًا؟"
       },
-      "subContentId": "fa47cfe0-5fa8-46ab-8b6b-c5d98163ec37"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر فيها وشكر الله عليها هو التصرف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفكر فيها وشكر الله عليها.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين ليس التصرف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التفاخر بها أمام الآخرين.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمالها والبحث عن المزيد ليس التصرف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إهمالها والبحث عن المزيد.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستمتاع بها دون التفكير في المنعم ليس التصرف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الاستمتاع بها دون التفكير في المنعم.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">إذا رأى شخص نعمة كبيرة في حياته، فما هو التصرف الصحيح وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "إذا رأى شخص نعمة كبيرة في حياته، فما هو التصرف الصحيح وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "إذا رأى شخص نعمة كبيرة في حياته، فما هو التصرف الصحيح وفقًا للنص؟"
-      },
-      "subContentId": "7e816627-03b4-4c5a-a9d4-d5e197981d91"
+      "subContentId": "5908e27c-cb5f-4b24-b12f-fa81799561e3"
     },
     {
       "params": {
@@ -1027,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الاستسلام واليأس ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صفة الهلوع يمكن أن تكون مفيدة إذا وجهت بشكل صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الاستسلام واليأس.</p>"
+            "text": "<p style=\"text-align:right\">صفة سلبية فقط ولا فائدة منها.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صفة الهلوع ليست إيجابية بذاتها، ولكن يمكن توجيهها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">صفة إيجابية تساعد الإنسان على التطور.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في حكمة الله وشكره هو الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! صفة الهلوع حيادية ويمكن أن تستخدم للخير أو الشر.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر في حكمة الله وشكره.</p>"
+            "text": "<p style=\"text-align:right\">صفة حيادية يمكن أن تستخدم للخير أو الشر.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اللوم على الآخرين ليس الموقف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صفة الهلوع قد تدفع الإنسان إلى التوبة إذا وجهت بشكل صحيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اللوم على الآخرين.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال المصيبة والاستمرار في الحياة ليس الموقف الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">إهمال المصيبة والاستمرار في الحياة.</p>"
+            "text": "<p style=\"text-align:right\">صفة تمنع الإنسان من التوبة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا تعرض شخص لمصيبة، فما هو الموقف الصحيح وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو التفسير الصحيح لصفة 'الهلوع' في النفس البشرية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا تعرض شخص لمصيبة، فما هو الموقف الصحيح وفقًا للنص؟",
+        "title": "ما هو التفسير الصحيح لصفة 'الهلوع' في النفس البشرية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا تعرض شخص لمصيبة، فما هو الموقف الصحيح وفقًا للنص؟"
+        "extraTitle": "ما هو التفسير الصحيح لصفة 'الهلوع' في النفس البشرية؟"
       },
-      "subContentId": "762f574e-c1d0-4f11-a53b-dfa9ff21702a"
+      "subContentId": "40ac8d19-9d82-416b-9a59-94b97e59e9fd"
     },
     {
       "params": {
@@ -1125,40 +721,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">عندما يمسه الشر يكون جزوعًا، وليس منوعًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عندما يمسه الشر.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! استخدام الآيات الكونية هو الطريق الأقوى للدعوة إلى الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عندما يمسه الخير يكون منوعًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">استخدام الآيات الكونية.</p>"
+            "text": "<p style=\"text-align:right\">عندما يمسه الخير.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام القوة والإكراه ليس الطريق الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الحزن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">استخدام القوة والإكراه.</p>"
+            "text": "<p style=\"text-align:right\">عندما يكون في حالة حزن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام الثروة المادية ليس الطريق الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المنوع هو عندما يمسه الخير، وليس الفرح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">استخدام الثروة المادية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">استخدام الشهرة والسلطة ليس الطريق الصحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">استخدام الشهرة والسلطة.</p>"
+            "text": "<p style=\"text-align:right\">عندما يكون في حالة فرح.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +802,422 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا أراد شخص أن يدعو إلى الله، فما هو الطريق الأقوى وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا أراد شخص أن يدعو إلى الله، فما هو الطريق الأقوى وفقًا للنص؟",
+        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا أراد شخص أن يدعو إلى الله، فما هو الطريق الأقوى وفقًا للنص؟"
+        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه منوعًا؟"
       },
-      "subContentId": "8679ffa6-d040-4bd0-a492-c9d593a3cb2b"
+      "subContentId": "2da46907-4e66-4f48-8cb2-ce2be06958f3"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">اختيار الآخرة يعاكس العجلة، وليس العجلة نفسها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عندما يختار الآخرة على الدنيا.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العجلة هي الرغبة في الأشياء القريبة والسريعة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عندما يريد أشياء قريبة وسريعة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الصبر على المصائب هو عكس العجلة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عندما يكون صبورًا على المصائب.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تجنب الشهوات يتطلب صبرًا، وليس عجلة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عندما يتجنب الشهوات.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الموقف الذي يصفه القرآن بأن الإنسان يكون فيه عجولاً؟"
+      },
+      "subContentId": "aa98c5f0-749e-4b42-b685-2459bfc36a39"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتسبب في القلق والجزع، وليس الهدوء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيصبح أكثر هدوءًا واستسلامًا للمصير.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع يقلق ويجزع عند مواجهة الشر.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيقلق ويجزع بشدة على حياته ومستقبله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التخطيط لحياة بعد الموت يتطلب هدوءًا، وليس هلعًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيبدأ في التخطيط لحياته بعد الموت.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يجعل الإنسان يتأثر بالأحداث، وليس غير مبالٍ.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيصبح غير مبالٍ بما يحدث حوله.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من مرض خطير وأخبره الطبيب بأنه لن يعيش أكثر من أربعة أشهر. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يعاني من مرض خطير وأخبره الطبيب بأنه لن يعيش أكثر من أربعة أشهر. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يعاني من مرض خطير وأخبره الطبيب بأنه لن يعيش أكثر من أربعة أشهر. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟"
+      },
+      "subContentId": "a913fa5f-b8fa-4d6d-aa13-dffe008ff513"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتسبب في القلق على الرزق، وليس الكرم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيصبح أكثر كرمًا وإنفاقًا.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع يقلق ويجزع على رزقه ومستقبله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيقلق ويجزع على رزقه ومستقبله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يجعل الإنسان يتأثر بالأحداث، وليس غير مبالٍ.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيصبح غير مبالٍ بأي شيء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التخطيط لحياة بعد الموت يتطلب هدوءًا، وليس هلعًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيبدأ في التخطيط لحياته بعد الموت.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟"
+      },
+      "subContentId": "cb39eeb9-b46d-4f9e-afed-ff65878b010c"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يتسبب في القلق على الرزق، وليس الكرم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيصبح أكثر كرمًا وإنفاقًا.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهلوع يقلق ويجزع على رزقه ومستقبله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيقلق ويجزع على رزقه ومستقبله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الهَلَع يجعل الإنسان يتأثر بالأحداث، وليس غير مبالٍ.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيصبح غير مبالٍ بأي شيء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التخطيط لحياة بعد الموت يتطلب هدوءًا، وليس هلعًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">سيبدأ في التخطيط لحياته بعد الموت.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يعاني من ضائقة مالية شديدة. كيف يمكن تفسير رد فعله وفقًا لصفة الهلوع؟"
+      },
+      "subContentId": "945c7cef-7c33-4538-8939-ef02fdf7459f"
     }
   ],
   "disableBackwardsNavigation": false,

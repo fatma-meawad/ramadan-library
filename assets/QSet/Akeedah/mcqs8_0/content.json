@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن الكريم هو كلام الله وليس المقوم الأول للتكليف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأمانة ليست محدودة بالمال والثروة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القرآن الكريم</p>"
+            "text": "<p style=\"text-align:right\">الأمانة هي المال والثروة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">عبادة الله جزء من الأمانة ولكنها ليست كلها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الأمانة هي عبادة الله وحده.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون هو المقوم الأول الذي يدل على وجود الله ووحدانيته.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأمانة هي تحمل مسؤولية الخلافة في الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الكون</p>"
+            "text": "<p style=\"text-align:right\">الأمانة هي تحمل مسؤولية الخلافة في الأرض.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العقل هو أداة لفهم المقومات وليس المقوم الأول.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العلم والمعرفة جزء من الأمانة ولكنها ليست كلها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العقل</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشرع هو طريق العبادة وليس المقوم الأول للتكليف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الشرع</p>"
+            "text": "<p style=\"text-align:right\">الأمانة هي العلم والمعرفة.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المقوم الأول من مقومات التكليف الذي يدل على وجود الله ووحدانيته؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الأمانة التي عرضها الله على السماوات والأرض والجبال؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المقوم الأول من مقومات التكليف الذي يدل على وجود الله ووحدانيته؟",
+        "title": "ما هي الأمانة التي عرضها الله على السماوات والأرض والجبال؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المقوم الأول من مقومات التكليف الذي يدل على وجود الله ووحدانيته؟"
+        "extraTitle": "ما هي الأمانة التي عرضها الله على السماوات والأرض والجبال؟"
       },
-      "subContentId": "c82f7a74-4a0a-4aa8-8b47-00793a65fd9c"
+      "subContentId": "bb716dd7-a66b-40e2-9228-2422564c4d8b"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة هي عبادة شعائرية وليست السبيل الوحيد إلى الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تزكية النفس لا تعني جمع المال.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصلاة</p>"
+            "text": "<p style=\"text-align:right\">تزكية النفس تعني جمع المال.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في آيات الله الكونية والتكوينية والقرآنية هو السبيل إلى الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تزكية النفس تعني معرفة الله وطاعته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر</p>"
+            "text": "<p style=\"text-align:right\">تزكية النفس تعني معرفة الله وطاعته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصدقة هي عبادة تعاملية وليست السبيل الوحيد إلى الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">السفر حول العالم ليس له علاقة بتزكية النفس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصدقة</p>"
+            "text": "<p style=\"text-align:right\">تزكية النفس تعني السفر حول العالم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام هو عبادة شعائرية وليست السبيل الوحيد إلى الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهرة ليست جزءًا من تزكية النفس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصيام</p>"
+            "text": "<p style=\"text-align:right\">تزكية النفس تعني الحصول على الشهرة.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,119 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي تعتبر السبيل إلى الله وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو معنى تزكية النفس وفقًا للقرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة التي تعتبر السبيل إلى الله وفقًا للنص؟",
+        "title": "ما هو معنى تزكية النفس وفقًا للقرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة التي تعتبر السبيل إلى الله وفقًا للنص؟"
+        "extraTitle": "ما هو معنى تزكية النفس وفقًا للقرآن؟"
       },
-      "subContentId": "86d85d0c-1633-4f9f-90f4-45adbf7a8fa9"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون يدل على وجود الله ووحدانيته.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">وجود الله ووحدانيته</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإسلام يرفض تعدد الآلهة تمامًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تعدد الآلهة</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون يدل على وجود خالق وليس العكس.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عدم وجود خالق</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون منظم بدقة ولا مكان للصدفة في الخلق.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصدفة في الخلق</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يدل عليه الكون وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما الذي يدل عليه الكون وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما الذي يدل عليه الكون وفقًا للنص؟"
-      },
-      "subContentId": "b5a48777-e392-41c4-9b21-431e2b539bf9"
+      "subContentId": "038dd562-d5d0-468f-a498-cc76e0736124"
     },
     {
       "params": {
@@ -320,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">زيادة الشهوات تجعل الإنسان دون الحيوان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التقسيم ليس مبنيًا على الثروة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بزيادة الشهوات</p>"
+            "text": "<p style=\"text-align:right\">الأغنياء والفقراء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التقسيم ليس مبنيًا على الإيمان فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">المؤمنون والكفار.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تسخير العقل على الشهوات يجعل الإنسان فوق الملائكة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الزمرتان هما الذين أعطوا واتقوا والذين بخلوا واستكبروا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بتسخير العقل على الشهوات</p>"
+            "text": "<p style=\"text-align:right\">الذين أعطوا واتقوا والذين بخلوا واستكبروا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عدم استخدام العقل يقلل من مكانة الإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التقسيم ليس مبنيًا على العلم.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بعدم استخدام العقل</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عدم الإيمان بالله يبعد الإنسان عن رضوان الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بعدم الإيمان بالله</p>"
+            "text": "<p style=\"text-align:right\">العلماء والجهلاء.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن أن يصبح الإنسان فوق الملائكة وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الزمرتان اللتان يقسم الناس إليهما وفقًا للقرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن أن يصبح الإنسان فوق الملائكة وفقًا للنص؟",
+        "title": "ما هي الزمرتان اللتان يقسم الناس إليهما وفقًا للقرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن أن يصبح الإنسان فوق الملائكة وفقًا للنص؟"
+        "extraTitle": "ما هي الزمرتان اللتان يقسم الناس إليهما وفقًا للقرآن؟"
       },
-      "subContentId": "c95345c1-6fac-4eed-8b7c-e5db5b11f307"
+      "subContentId": "6739f3b5-7dd3-4659-afde-9f7df9a1f195"
     },
     {
       "params": {
@@ -421,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الماء له أهمية كبيرة في استمرار الحياة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القدرة على الفهم ليست السبب.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لا أهمية له</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الماء يمنع تجمد البحار وليس سببًا في تجمدها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">سبب في تجمد البحار</p>"
+            "text": "<p style=\"text-align:right\">لأنها لم تكن قادرة على فهم الأمانة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الماء هو سبب في استمرار الحياة على الأرض.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! السماوات والأرض والجبال أشفقت من عواقب حمل الأمانة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">سبب في استمرار الحياة على الأرض</p>"
+            "text": "<p style=\"text-align:right\">لأنها أشفقت من عواقب حمل الأمانة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الماء يساهم في تكوين الأمطار وليس انعدامها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاهتمام ليس السبب.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">سبب في انعدام الأمطار</p>"
+            "text": "<p style=\"text-align:right\">لأنها لم تكن مهتمة بالأمانة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التأهيل ليس السبب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأنها لم تكن مؤهلة لحمل الأمانة.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو دور الماء في الكون وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">لماذا رفضت السماوات والأرض والجبال حمل الأمانة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو دور الماء في الكون وفقًا للنص؟",
+        "title": "لماذا رفضت السماوات والأرض والجبال حمل الأمانة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو دور الماء في الكون وفقًا للنص؟"
+        "extraTitle": "لماذا رفضت السماوات والأرض والجبال حمل الأمانة؟"
       },
-      "subContentId": "9898b5ba-2f1e-43ed-bfde-8552798d1308"
+      "subContentId": "279064d6-4031-4155-9f3f-51c16c07578f"
     },
     {
       "params": {
@@ -522,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن يدعو إلى العلم وليس الجهل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المؤمن لا يعتمد على الأخذ فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الجهل بالكون</p>"
+            "text": "<p style=\"text-align:right\">المؤمن يعتمد على الأخذ فقط.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">غير المؤمن لا يعتمد على العطاء فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">غير المؤمن يعتمد على العطاء فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! القرآن يدعو إلى التفكر في خلق السماوات والأرض.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المؤمن يبني حياته على العطاء، وغير المؤمن على الأخذ.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض</p>"
+            "text": "<p style=\"text-align:right\">المؤمن يبني حياته على العطاء، وغير المؤمن على الأخذ.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال الكون يخالف تعاليم القرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق واضح بين المؤمن وغير المؤمن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إهمال الكون</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن يحث على الاهتمام بالآيات الكونية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عدم الاهتمام بالآيات الكونية</p>"
+            "text": "<p style=\"text-align:right\">لا يوجد فرق بين المؤمن وغير المؤمن.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يدعونا إليه القرآن من خلال آيات الكون؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين المؤمن وغير المؤمن في التعامل مع الحياة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي يدعونا إليه القرآن من خلال آيات الكون؟",
+        "title": "ما هو الفرق بين المؤمن وغير المؤمن في التعامل مع الحياة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي يدعونا إليه القرآن من خلال آيات الكون؟"
+        "extraTitle": "ما هو الفرق بين المؤمن وغير المؤمن في التعامل مع الحياة؟"
       },
-      "subContentId": "c1b482fd-2e03-4614-a1dd-5da84bfdebb9"
+      "subContentId": "adb15dee-6461-4111-9e81-9baaf5b7624d"
     },
     {
       "params": {
@@ -623,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، هذا رأي السلف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الثروة والمال ليست نتيجة تزكية النفس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إثبات الصفات كما وردت دون تأويل</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، هذا رأي الأشاعرة والمعتزلة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تأويل الصفات بطريقة رمزية</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، هذا رأي بعض الفلاسفة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رفض الحديث عن الصفات تمامًا</p>"
+            "text": "<p style=\"text-align:right\">الثروة والمال.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هناك عدة مدارس فكرية في تفسير الصفات الإلهية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! نتيجة تزكية النفس هي الجنة عرضها السماوات والأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جميع ما سبق</p>"
+            "text": "<p style=\"text-align:right\">الجنة عرضها السماوات والأرض.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشهرة والسلطة ليست نتيجة تزكية النفس.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الشهرة والسلطة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الراحة والاسترخاء ليست نتيجة تزكية النفس.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الراحة والاسترخاء.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي نتيجة تزكية النفس في الدنيا والآخرة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟",
+        "title": "ما هي نتيجة تزكية النفس في الدنيا والآخرة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟"
+        "extraTitle": "ما هي نتيجة تزكية النفس في الدنيا والآخرة؟"
       },
-      "subContentId": "173a99a4-f55d-4dc0-abab-d242b8de9df1"
+      "subContentId": "f995e63e-b16f-4a96-9341-0cddd57251cb"
     },
     {
       "params": {
@@ -724,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الكون جزء من الموقف الصحيح وليس كله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل ليس الحكم المطلق على الدين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر في الكون فقط</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النظر في التكوين جزء من الموقف الصحيح وليس كله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">النظر في التكوين فقط</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التدبر في القرآن جزء من الموقف الصحيح وليس كله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التدبر في القرآن فقط</p>"
+            "text": "<p style=\"text-align:right\">العقل هو الحكم المطلق على الدين.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف الصحيح يشمل التفكر في الكون، والنظر في التكوين، والتدبر في القرآن.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل هو أداة لفهم الوحي والتأكد من صحته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر في الكون، والنظر في التكوين، والتدبر في القرآن</p>"
+            "text": "<p style=\"text-align:right\">العقل هو أداة لفهم الوحي والتأكد من صحته.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل له دور مهم في الدين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل لا دور له في الدين.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل ليس بديلاً عن الوحي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل هو بديل عن الوحي.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من الآيات الكونية والتكوينية والقرآنية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو دور العقل في الإسلام؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح من الآيات الكونية والتكوينية والقرآنية؟",
+        "title": "ما هو دور العقل في الإسلام؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح من الآيات الكونية والتكوينية والقرآنية؟"
+        "extraTitle": "ما هو دور العقل في الإسلام؟"
       },
-      "subContentId": "1d6483f9-16a2-4ca9-bdf1-b1d8221d8767"
+      "subContentId": "2b71bb70-4edb-4d39-95f4-47846afd6473"
     },
     {
       "params": {
@@ -825,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اختلاف الناس لا يلغي ثبات الكون.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل والوحي لا يتعارضان دائمًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اختلاف الناس في تفسيره</p>"
+            "text": "<p style=\"text-align:right\">العقل والوحي يتعارضان دائمًا.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! اتفاق الجميع على عظمة خالقه يجعل الكون ثابتًا.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل والوحي يتكاملان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">اتفاق الجميع على عظمة خالقه</p>"
+            "text": "<p style=\"text-align:right\">العقل والوحي يتكاملان.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون مليء بالدلائل على وجود الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يلغي الوحي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عدم وجود دلائل على وجود الله</p>"
+            "text": "<p style=\"text-align:right\">العقل يلغي الوحي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القرآن مليء بالآيات الكونية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الوحي لا يلغي العقل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عدم وجود آيات كونية في القرآن</p>"
+            "text": "<p style=\"text-align:right\">الوحي يلغي العقل.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,119 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يجعل الكون ثابتًا لا يختلف عليه اثنان؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي العلاقة بين العقل والوحي؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي يجعل الكون ثابتًا لا يختلف عليه اثنان؟",
+        "title": "ما هي العلاقة بين العقل والوحي؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي يجعل الكون ثابتًا لا يختلف عليه اثنان؟"
+        "extraTitle": "ما هي العلاقة بين العقل والوحي؟"
       },
-      "subContentId": "f07acabc-321d-4653-ba07-d170adacff48"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون منظم بدقة ولا يمكن أن يكون قد نشأ بالصدفة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكون منظم بدقة ولا يمكن أن يكون قد نشأ بالصدفة</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصدفة لا تفسر دقة ونظام الكون.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصدفة ممكنة في خلق الكون</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هناك أدلة كثيرة على وجود خالق للكون.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لا يوجد دليل على وجود خالق للكون</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الكون مليء بالدلائل على وجود الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الكون لا يدل على وجود الله</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يعتقد أن الكون نشأ بالصدفة، كيف ترد عليه بناءً على النص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "إذا كان شخص يعتقد أن الكون نشأ بالصدفة، كيف ترد عليه بناءً على النص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "إذا كان شخص يعتقد أن الكون نشأ بالصدفة، كيف ترد عليه بناءً على النص؟"
-      },
-      "subContentId": "934ebeae-121a-43d2-a75a-ae49e77a96b9"
+      "subContentId": "461cad9b-6629-4dc2-bc8b-d1ff775bb7cc"
     },
     {
       "params": {
@@ -1027,37 +825,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشر ليس دليلًا على عدم وجود الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل ليس غير محدود.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشر دليل على عدم وجود الله</p>"
+            "text": "<p style=\"text-align:right\">العقل غير محدود ويمكنه فهم كل شيء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشر اختبار من الله للإنسان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل محدود ولا يمكنه فهم كل شيء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشر اختبار من الله للإنسان</p>"
+            "text": "<p style=\"text-align:right\">العقل محدود ولا يمكنه فهم كل شيء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشر له علاقة بالإيمان بالله كاختبار.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل يستطيع فهم بعض الأشياء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشر لا علاقة له بالإيمان بالله</p>"
+            "text": "<p style=\"text-align:right\">العقل لا يستطيع فهم أي شيء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشر لا يدل على ضعف الله بل على حكمته.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل يستطيع فهم أكثر من الوحي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الشر دليل على ضعف الله</p>"
+            "text": "<p style=\"text-align:right\">العقل يستطيع فهم الوحي فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يشك في وجود الله بسبب وجود الشر في العالم، كيف ترد عليه وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي حدود العقل في الإسلام؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يشك في وجود الله بسبب وجود الشر في العالم، كيف ترد عليه وفقًا للنص؟",
+        "title": "ما هي حدود العقل في الإسلام؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يشك في وجود الله بسبب وجود الشر في العالم، كيف ترد عليه وفقًا للنص؟"
+        "extraTitle": "ما هي حدود العقل في الإسلام؟"
       },
-      "subContentId": "4d61989c-ec8d-4a15-b99f-fcf95913d525"
+      "subContentId": "ae39b586-d49d-4f61-80b9-85e7ed3a9e03"
     },
     {
       "params": {
@@ -1128,37 +926,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الكون له فوائد عظيمة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل ليس الحكم المطلق على الدين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر في الكون ليس له فائدة</p>"
+            "text": "<p style=\"text-align:right\">العقل هو الحكم المطلق على الدين.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الكون هو السبيل إلى الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل أداة لفهم الوحي والتأكد من صحته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر في الكون هو السبيل إلى الله</p>"
+            "text": "<p style=\"text-align:right\">العقل أداة لفهم الوحي والتأكد من صحته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الكون مطلوب من الجميع وليس العلماء فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل له دور مهم في الدين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر في الكون مخصص للعلماء فقط</p>"
+            "text": "<p style=\"text-align:right\">العقل لا دور له في الدين.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الكون يقرب إلى الله ولا يبعد عنه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يلغي الحاجة للوحي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التفكر في الكون يبعد عن الله</p>"
+            "text": "<p style=\"text-align:right\">العقل يلغي الحاجة للوحي.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +1004,220 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يقول إن التفكر في الكون مضيعة للوقت، كيف ترد عليه وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن العقل هو الحكم المطلق على الدين، كيف ترد عليه وفقًا للعقيدة الإسلامية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يقول إن التفكر في الكون مضيعة للوقت، كيف ترد عليه وفقًا للنص؟",
+        "title": "شخص يعتقد أن العقل هو الحكم المطلق على الدين، كيف ترد عليه وفقًا للعقيدة الإسلامية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يقول إن التفكر في الكون مضيعة للوقت، كيف ترد عليه وفقًا للنص؟"
+        "extraTitle": "شخص يعتقد أن العقل هو الحكم المطلق على الدين، كيف ترد عليه وفقًا للعقيدة الإسلامية؟"
       },
-      "subContentId": "a2e944e6-dab1-4acb-a205-b5dadb680967"
+      "subContentId": "662810b3-947c-4484-a147-0f4673fb7321"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل ليس قادرًا على فهم كل شيء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل يستطيع فهم كل شيء.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل محدود ولا يستطيع فهم كل شيء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل محدود ولا يستطيع فهم كل شيء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل يستطيع فهم بعض الأشياء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل لا يستطيع فهم أي شيء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل يستطيع فهم أكثر من الوحي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل يستطيع فهم الوحي فقط.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يقول إنه يمكنه فهم كل شيء بالعقل دون الحاجة للوحي، كيف ترد عليه؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يقول إنه يمكنه فهم كل شيء بالعقل دون الحاجة للوحي، كيف ترد عليه؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يقول إنه يمكنه فهم كل شيء بالعقل دون الحاجة للوحي، كيف ترد عليه؟"
+      },
+      "subContentId": "95b17198-f6f2-4db1-9d85-90a29cfacd32"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الوحي لا يلغي دور العقل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الوحي يلغي دور العقل.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الوحي والعقل يتكاملان.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الوحي والعقل يتكاملان.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يلغي دور الوحي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل يلغي دور الوحي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الوحي له علاقة وثيقة بالعقل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الوحي لا علاقة له بالعقل.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن الوحي يلغي دور العقل، كيف ترد عليه؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يعتقد أن الوحي يلغي دور العقل، كيف ترد عليه؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يعتقد أن الوحي يلغي دور العقل، كيف ترد عليه؟"
+      },
+      "subContentId": "dd6f611f-6bb8-4e53-b8ce-29f02cacf6d9"
     }
   ],
   "disableBackwardsNavigation": false,

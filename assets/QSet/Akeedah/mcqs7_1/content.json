@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الهوية لا تعتمد على الظروف بل على هوية الشخص.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل وحده لا يكفي لفهم كل شيء، خاصة الأمور الغيبية التي تحتاج إلى وحي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تعتمد على الظروف المحيطة بالشخص.</p>"
+            "text": "<p style=\"text-align:right\">العقل هو المصدر الوحيد للمعرفة دون الحاجة إلى الوحي.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عبادة الهوية هي التي تتناسب مع هوية الشخص ووضعه في الحياة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل في الإسلام يستخدم لفهم وتطبيق الوحي في الحياة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تتناسب مع هوية الشخص ووضعه في الحياة.</p>"
+            "text": "<p style=\"text-align:right\">العقل يستخدم لفهم الوحي وتطبيقه في الحياة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا يصف عبادة الوقت وليس الهوية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل له قيمة كبيرة في الإسلام كأداة لفهم الوحي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تتم في أوقات محددة مثل الصلوات الخمس.</p>"
+            "text": "<p style=\"text-align:right\">العقل لا قيمة له في الإسلام.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الهوية تركز على الشخص ووضعه وليس فقط على المبادئ.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل في الإسلام يستخدم في كل جوانب الحياة، بما في ذلك الروحية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة التي تركز على المبادئ دون النظر إلى الأشخاص.</p>"
+            "text": "<p style=\"text-align:right\">العقل يستخدم فقط في الأمور المادية دون الروحية.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,321 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي عبادة الهوية كما وردت في النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الدور الأساسي للعقل وفقًا للنصوص الإسلامية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي عبادة الهوية كما وردت في النص؟",
+        "title": "ما هو الدور الأساسي للعقل وفقًا للنصوص الإسلامية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي عبادة الهوية كما وردت في النص؟"
+        "extraTitle": "ما هو الدور الأساسي للعقل وفقًا للنصوص الإسلامية؟"
       },
-      "subContentId": "f0491a93-fe47-4160-adff-85acf396262e"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رعاية الأب المريض مقدمة على الذهاب إلى المسجد في هذه الحالة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! رعاية الأب المريض هي العبادة الأولى في هذا الظرف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رعاية الأب المريض.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رعاية الأب المريض لها الأولوية في هذا الظرف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">قراءة القرآن في المنزل.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رعاية الأب المريض مقدمة على الصيام التطوعي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصيام تطوعًا.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه أب مريض؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه أب مريض؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه أب مريض؟"
-      },
-      "subContentId": "744ec36d-6a7c-48cc-9877-9cee7524a680"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الوقت لها أوقات محددة مثل صلاة الفجر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة التي تتم في أي وقت دون تحديد.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عبادة الوقت هي التي تتناسب مع الوقت المحدد لها مثل صلاة الفجر.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة التي تتناسب مع الوقت المحدد لها مثل صلاة الفجر.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الوقت لا تعتمد على الظروف بل على الوقت المحدد.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة التي تعتمد على الظروف المحيطة بالشخص.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الوقت تركز على الوقت المحدد وليس فقط على المبادئ.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">العبادة التي تركز على المبادئ دون النظر إلى الوقت.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي عبادة الوقت كما وردت في النص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي عبادة الوقت كما وردت في النص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي عبادة الوقت كما وردت في النص؟"
-      },
-      "subContentId": "eb4a53c5-dc96-44d3-848f-03bd639b71e0"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الظرف مقدمة ولا يجب تأجيلها.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">يجب تأجيل عبادة الظرف لصالح العبادات الأخرى.</p>"
-          },
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عبادة الظرف مقدمة على أي عبادة أخرى عدا الفرائض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عبادة الظرف مقدمة على أي عبادة أخرى عدا الفرائض.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الظرف لها أهمية كبيرة في ظروف معينة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عبادة الظرف لا أهمية لها مقارنة بالعبادات الأخرى.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة الظرف لها الأولوية في ظروفها الخاصة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">يجب التوفيق بين عبادة الظرف والعبادات الأخرى بالتساوي.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح تجاه عبادة الظرف وفقًا للنص؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الموقف الصحيح تجاه عبادة الظرف وفقًا للنص؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح تجاه عبادة الظرف وفقًا للنص؟"
-      },
-      "subContentId": "75ddc573-60e6-4b84-a079-50f3b4112cbf"
+      "subContentId": "2533a896-76a9-48e8-9f85-d5abe63d6c3f"
     },
     {
       "params": {
@@ -421,37 +118,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إكرام الضيف هو العبادة الأولى في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل التبريري يستخدم لتبرير الأخطاء والانحرافات بدلاً من تصحيحها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إكرام الضيف.</p>"
+            "text": "<p style=\"text-align:right\">العقل الذي يستخدم لتبرير الأخطاء والانحرافات.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إكرام الضيف مقدمة على الذهاب إلى المسجد في هذه الحالة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا وصف للعقل الصريح الذي يقود إلى الحقيقة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
+            "text": "<p style=\"text-align:right\">العقل الذي يقود إلى الحقيقة والفلاح.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إكرام الضيف له الأولوية في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل التبريري يمكن أن يستخدم في أي مجال، بما في ذلك الديني.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن في المنزل.</p>"
+            "text": "<p style=\"text-align:right\">العقل الذي لا يستخدم في الأمور الدينية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إكرام الضيف مقدمة على الصيام التطوعي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل التبريري يعتمد على التبريرات الشخصية وليس فقط على الوحي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصيام تطوعًا.</p>"
+            "text": "<p style=\"text-align:right\">العقل الذي يعتمد فقط على الوحي.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,119 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ضيف؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما المقصود بالعقل التبريري؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ضيف؟",
+        "title": "ما المقصود بالعقل التبريري؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ضيف؟"
+        "extraTitle": "ما المقصود بالعقل التبريري؟"
       },
-      "subContentId": "b42287cb-384c-4b8f-b1a7-10b5492b48ce"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تهيئة الجو المناسب للدراسة هو العبادة الأولى في هذا الظرف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة مقدمة على الذهاب إلى المسجد في هذه الحالة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة له الأولوية في هذا الظرف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">قراءة القرآن في المنزل.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة مقدمة على الصيام التطوعي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصيام تطوعًا.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان ابنه في الامتحان؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان ابنه في الامتحان؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان ابنه في الامتحان؟"
-      },
-      "subContentId": "3c060f19-8296-402f-a966-72aeb0630956"
+      "subContentId": "d8dce009-5671-4e49-9819-5dc407cdc374"
     },
     {
       "params": {
@@ -623,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب السلف فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في ذات الله محرم لأنه قد يؤدي إلى الهلاك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إثبات الصفات كما وردت دون تأويل أو تشبيه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب الأشاعرة والمعتزلة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تأويل الصفات بطريقة رمزية تنفي التشبيه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، وهو رأي بعض الفلاسفة والمتكلمين.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">رفض الحديث عن الصفات تمامًا بحجة عدم إدراكها.</p>"
+            "text": "<p style=\"text-align:right\">يجب التفكر في ذات الله لفهمها بشكل كامل.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هناك عدة مدارس فكرية في تفسير الصفات الإلهية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في ذات الله محرم لأنه قد يؤدي إلى الهلاك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">جميع ما سبق يعكس اتجاهات مختلفة لعلماء العقيدة.</p>"
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله محرم لأنه قد يؤدي إلى الهلاك.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في ذات الله محرم لجميع الناس، وليس فقط للعلماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله مسموح به فقط للعلماء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في ذات الله له تأثير كبير على الإيمان وقد يؤدي إلى الهلاك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله ليس له أي تأثير على الإيمان.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الإسلامي من التفكر في ذات الله؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟",
+        "title": "ما هو الموقف الإسلامي من التفكر في ذات الله؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟"
+        "extraTitle": "ما هو الموقف الإسلامي من التفكر في ذات الله؟"
       },
-      "subContentId": "b7c905e7-f389-4c25-b6ac-7d56f8f774cd"
+      "subContentId": "f18f14c2-c5b7-47fb-9e88-7884c0025389"
     },
     {
       "params": {
@@ -724,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة العصر تتطلب أكثر من العبادات الفردية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">استخدام العقل في الأمور المادية ليس سببًا للهلاك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على العبادات الفردية فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة العصر تتطلب أكثر من العبادات الجماعية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">التركيز على العبادات الجماعية فقط.</p>"
+            "text": "<p style=\"text-align:right\">عندما يستخدم في الأمور المادية فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عبادة العصر تتطلب التركيز على العبادات التي تتناسب مع متطلبات العصر.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! عندما يستخدم العقل لخلاف ما خلق له، مثل تبرير الأخطاء، يمكن أن يكون سببًا في الهلاك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على العبادات التي تتناسب مع متطلبات العصر.</p>"
+            "text": "<p style=\"text-align:right\">عندما يستخدم لخلاف ما خلق له، مثل تبرير الأخطاء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عبادة العصر تتطلب أكثر من العبادات الروحية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتماد على الوحي دون استخدام العقل ليس سببًا للهلاك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التركيز على العبادات الروحية فقط.</p>"
+            "text": "<p style=\"text-align:right\">عندما يعتمد فقط على الوحي دون استخدام العقل.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في مخلوقات الله ليس سببًا للهلاك بل هو محمود.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">عندما يستخدم في التفكر في مخلوقات الله.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح تجاه عبادة العصر وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن أن يكون العقل سببًا في هلاك صاحبه؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الموقف الصحيح تجاه عبادة العصر وفقًا للنص؟",
+        "title": "كيف يمكن أن يكون العقل سببًا في هلاك صاحبه؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الموقف الصحيح تجاه عبادة العصر وفقًا للنص؟"
+        "extraTitle": "كيف يمكن أن يكون العقل سببًا في هلاك صاحبه؟"
       },
-      "subContentId": "5589c2c7-5674-47d6-a59a-b0b3bf1f7b0a"
+      "subContentId": "8707bc10-3aad-4fdd-931b-1f38abd2a171"
     },
     {
       "params": {
@@ -825,37 +421,37 @@
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تزويج الابن هو العبادة الأولى في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل الصريح يقود إلى الحقيقة، والعقل التبريري يستخدم لتبرير الأخطاء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تزويج الابن.</p>"
+            "text": "<p style=\"text-align:right\">العقل الصريح يقود إلى الحقيقة، والعقل التبريري يستخدم لتبرير الأخطاء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تزويج الابن مقدمة على الذهاب إلى المسجد في هذه الحالة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل الصريح يمكن استخدامه في جميع جوانب الحياة، وليس فقط الدينية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
+            "text": "<p style=\"text-align:right\">العقل الصريح يستخدم في الأمور الدينية فقط، والعقل التبريري في الأمور المادية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تزويج الابن له الأولوية في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل الصريح يعتمد على كل من العقل والوحي، وليس الوحي فقط.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن في المنزل.</p>"
+            "text": "<p style=\"text-align:right\">العقل الصريح يعتمد على الوحي فقط، والعقل التبريري يعتمد على العقل فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تزويج الابن مقدمة على الصيام التطوعي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق كبير بين العقل الصريح والعقل التبريري.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصيام تطوعًا.</p>"
+            "text": "<p style=\"text-align:right\">لا يوجد فرق بين العقل الصريح والعقل التبريري.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ابن في ريعان الشباب؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين العقل الصريح والعقل التبريري؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ابن في ريعان الشباب؟",
+        "title": "ما هو الفرق بين العقل الصريح والعقل التبريري؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة التي يجب أن يقدمها الشخص إذا كان لديه ابن في ريعان الشباب؟"
+        "extraTitle": "ما هو الفرق بين العقل الصريح والعقل التبريري؟"
       },
-      "subContentId": "11982f99-a08a-4bea-b533-854f29d1a9fd"
+      "subContentId": "e042d787-b540-44b5-9b6e-58d7782fd37a"
     },
     {
       "params": {
@@ -926,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">. العبادة يجب أن تكون لله وحده بلا وسطاء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل وحده لا يكفي لفهم الأمور الغيبية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يجوز التبرك لأنها وسيلة للتقرب إلى الله.</p>"
+            "text": "<p style=\"text-align:right\">يجب استخدام العقل فقط في الأمور الغيبية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل يمكن استخدامه في الأمور الغيبية مع الاعتماد على الوحي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يجب عدم استخدام العقل في الأمور الغيبية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوحيد يقتضي عبادة الله فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب استخدام العقل في الأمور الغيبية مع الاعتماد على الوحي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يجب عبادة الله وحده دون وسطاء.</p>"
+            "text": "<p style=\"text-align:right\">يجب استخدام العقل في الأمور الغيبية مع الاعتماد على الوحي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">. العقيدة الإسلامية تحدد ضوابط العبادة بوضوح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاعتماد على العقل وحده في الأمور الغيبية قد يؤدي إلى الضلال.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يمكن اعتبار التبرك جزءًا من الثقافة وليس العقيدة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\"> النصوص الشرعية واضحة في النهي عن التوسل البدعي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لا يوجد حكم شرعي واضح في المسألة.</p>"
+            "text": "<p style=\"text-align:right\">يجب استخدام العقل في الأمور الغيبية دون الاعتماد على الوحي.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الإسلامي من استخدام العقل في الأمور الغيبية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟",
+        "title": "ما هو الموقف الإسلامي من استخدام العقل في الأمور الغيبية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟"
+        "extraTitle": "ما هو الموقف الإسلامي من استخدام العقل في الأمور الغيبية؟"
       },
-      "subContentId": "e23b3a6f-cf74-4374-b9f6-0881eaba9898"
+      "subContentId": "4689a36c-e5f7-4903-8f1b-e72bbdfade0f"
     },
     {
       "params": {
@@ -1027,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة مقدمة على إكرام الضيف في هذه الحالة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن لم يخلق قبل الإنسان، بل جاء تعليمه قبل خلق الإنسان تقديماً رتبياً.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إكرام الضيف.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن خلق قبل الإنسان.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تهيئة الجو المناسب للدراسة هو العبادة الأولى في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تعليم القرآن جاء قبل خلق الإنسان تقديماً رتبياً لا زمنياً.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة.</p>"
+            "text": "<p style=\"text-align:right\">أن تعليم القرآن جاء قبل خلق الإنسان تقديماً رتبياً لا زمنياً.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة مقدمة على الذهاب إلى المسجد في هذه الحالة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تعليم القرآن جاء قبل خلق الإنسان تقديماً رتبياً، وليس زمنياً.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
+            "text": "<p style=\"text-align:right\">أن الإنسان خلق قبل القرآن.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تهيئة الجو المناسب للدراسة مقدمة على الصيام التطوعي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تعليم القرآن جاء قبل خلق الإنسان تقديماً رتبياً، وليس في نفس الوقت.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصيام تطوعًا.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن والإنسان خلقا في نفس الوقت.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص لديه ابن في الامتحان وضيف في المنزل في نفس الوقت. ما هي العبادة التي يجب أن يقدمها وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو تفسير الآية: ﴿الرَّحْمَنُ (1) عَلَّمَ الْقُرْآنَ (2) خَلَقَ الْإِنْسَانَ (3) عَلَّمَهُ الْبَيَانَ (4)﴾؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص لديه ابن في الامتحان وضيف في المنزل في نفس الوقت. ما هي العبادة التي يجب أن يقدمها وفقًا للنص؟",
+        "title": "ما هو تفسير الآية: ﴿الرَّحْمَنُ (1) عَلَّمَ الْقُرْآنَ (2) خَلَقَ الْإِنْسَانَ (3) عَلَّمَهُ الْبَيَانَ (4)﴾؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص لديه ابن في الامتحان وضيف في المنزل في نفس الوقت. ما هي العبادة التي يجب أن يقدمها وفقًا للنص؟"
+        "extraTitle": "ما هو تفسير الآية: ﴿الرَّحْمَنُ (1) عَلَّمَ الْقُرْآنَ (2) خَلَقَ الْإِنْسَانَ (3) عَلَّمَهُ الْبَيَانَ (4)﴾؟"
       },
-      "subContentId": "3b8466ee-3ca0-49ba-9cde-4eff448983ce"
+      "subContentId": "97bbce05-d77d-4f7e-91a6-c15dde3d5ead"
     },
     {
       "params": {
@@ -1125,40 +721,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في مخلوقات الله محمود وليس محرم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في مخلوقات الله محرم لأنه قد يؤدي إلى الهلاك.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! رعاية الأب المريض هو العبادة الأولى في هذا الظرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في مخلوقات الله محمود لأنه يقوي الإيمان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">رعاية الأب المريض.</p>"
+            "text": "<p style=\"text-align:right\">التفكر في مخلوقات الله محمود لأنه يقوي الإيمان.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رعاية الأب المريض مقدمة على تزويج الابن في هذه الحالة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في مخلوقات الله محمود لجميع الناس، وليس فقط للعلماء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تزويج الابن.</p>"
+            "text": "<p style=\"text-align:right\">التفكر في مخلوقات الله مسموح به فقط للعلماء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رعاية الأب المريض مقدمة على الذهاب إلى المسجد في هذه الحالة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في مخلوقات الله له تأثير كبير على الإيمان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رعاية الأب المريض مقدمة على الصيام التطوعي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصيام تطوعًا.</p>"
+            "text": "<p style=\"text-align:right\">التفكر في مخلوقات الله ليس له أي تأثير على الإيمان.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +802,422 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص لديه ابن في ريعان الشباب وأب مريض في نفس الوقت. ما هي العبادة التي يجب أن يقدمها وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الإسلامي من التفكر في مخلوقات الله؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص لديه ابن في ريعان الشباب وأب مريض في نفس الوقت. ما هي العبادة التي يجب أن يقدمها وفقًا للنص؟",
+        "title": "ما هو الموقف الإسلامي من التفكر في مخلوقات الله؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص لديه ابن في ريعان الشباب وأب مريض في نفس الوقت. ما هي العبادة التي يجب أن يقدمها وفقًا للنص؟"
+        "extraTitle": "ما هو الموقف الإسلامي من التفكر في مخلوقات الله؟"
       },
-      "subContentId": "2a9bea74-9d43-4e3e-9b8f-394fbfcf6ab7"
+      "subContentId": "02405bec-f6ac-4463-8ed1-fc4494fc2932"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في ذات الله محرم لأنه قد يؤدي إلى الهلاك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يجب التفكر في ذات الله لفهمها بشكل كامل.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في ذات الله محرم لأنه قد يؤدي إلى الهلاك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله محرم لأنه قد يؤدي إلى الهلاك.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في ذات الله محرم لجميع الناس، وليس فقط للعلماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله مسموح به فقط للعلماء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في ذات الله له تأثير كبير على الإيمان وقد يؤدي إلى الهلاك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله ليس له أي تأثير على الإيمان.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الإسلامي من التفكر في ذات الله؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الموقف الإسلامي من التفكر في ذات الله؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الموقف الإسلامي من التفكر في ذات الله؟"
+      },
+      "subContentId": "ae14d8d9-de50-4047-a5a2-ce1fab5a89b0"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل وحده لا يكفي لفهم كل شيء، خاصة الأمور الغيبية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل وحده يكفي لفهم كل شيء، بما في ذلك الأمور الغيبية.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل يحتاج إلى الوحي لفهم الأمور الغيبية وتوجيهه في الأمور المادية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل يحتاج إلى الوحي لفهم الأمور الغيبية وتوجيهه في الأمور المادية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل والوحي مكملان لبعضهما البعض وليسا منفصلين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الوحي لا علاقة له بالعقل، وكل منهما يعمل بشكل منفصل.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل والوحي ليسا متعارضين، بل مكملان لبعضهما البعض.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل والوحي متعارضان ولا يمكن الجمع بينهما.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن العقل هو المصدر الوحيد للمعرفة ولا يحتاج إلى الوحي. كيف ترد عليه وفقًا للعقيدة الإسلامية؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يعتقد أن العقل هو المصدر الوحيد للمعرفة ولا يحتاج إلى الوحي. كيف ترد عليه وفقًا للعقيدة الإسلامية؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يعتقد أن العقل هو المصدر الوحيد للمعرفة ولا يحتاج إلى الوحي. كيف ترد عليه وفقًا للعقيدة الإسلامية؟"
+      },
+      "subContentId": "d79934b0-8643-4ce9-b84c-54e98a99a1c2"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">استخدام العقل لتبرير الأخطاء والانحرافات مرفوض في الإسلام.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">هذا السلوك مقبول لأنه يعبر عن حرية التفكير.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! استخدام العقل لتبرير الأخطاء والانحرافات يعتبر استخدامًا خاطئًا للعقل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">هذا السلوك مرفوض لأنه يعتبر استخدامًا خاطئًا للعقل.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">استخدام العقل لتبرير الأخطاء والانحرافات مرفوض لجميع الناس، وليس فقط للعلماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">هذا السلوك مقبول فقط إذا كان الشخص عالمًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">استخدام العقل لتبرير الأخطاء والانحرافات له تأثير سلبي على الإيمان.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">هذا السلوك ليس له أي تأثير على الإيمان.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يستخدم عقله لتبرير أخطائه وانحرافاته. ما هو الموقف الإسلامي من هذا السلوك؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يستخدم عقله لتبرير أخطائه وانحرافاته. ما هو الموقف الإسلامي من هذا السلوك؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يستخدم عقله لتبرير أخطائه وانحرافاته. ما هو الموقف الإسلامي من هذا السلوك؟"
+      },
+      "subContentId": "12829876-9d13-4b4f-89c6-0fa5a43cea0a"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في ذات الله محرم لأنه قد يؤدي إلى الهلاك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله محمود لأنه يقوي الإيمان.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في ذات الله محرم لأنه قد يؤدي إلى الهلاك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله محرم لأنه قد يؤدي إلى الهلاك.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في ذات الله محرم لجميع الناس، وليس فقط للعلماء.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله مسموح به فقط للعلماء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في ذات الله له تأثير كبير على الإيمان وقد يؤدي إلى الهلاك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفكر في ذات الله ليس له أي تأثير على الإيمان.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن التفكر في ذات الله يقوي الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يعتقد أن التفكر في ذات الله يقوي الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يعتقد أن التفكر في ذات الله يقوي الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟"
+      },
+      "subContentId": "a49d3b83-c04c-4702-aefb-4224acb2d4a4"
     }
   ],
   "disableBackwardsNavigation": false,

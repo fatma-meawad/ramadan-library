@@ -14,40 +14,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الفطرة ليست مجرد عادات وتقاليد، بل هي أعمق من ذلك.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">مجموعة من العادات والتقاليد الاجتماعية.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذه الآية من سورة الأنبياء تدل على أن الله جعل من الماء كل شيء حي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة هي البرمجة الأصلية للإنسان على الخير والحق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿ وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ أَفَلَا يُؤْمِنُونَ ﴾</p>"
+            "text": "<p style=\"text-align:right\">البرمجة الأصلية للإنسان على الخير والحق.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية من سورة الجاثية تتحدث عن الإيمان بآيات الله، وليس عن الماء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادات جزء من الدين، لكنها ليست تعريفًا للفطرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿ فَبِأَيِّ حَدِيثٍ بَعْدَ اللَّهِ وَآيَاتِهِ يُؤْمِنُونَ ﴾</p>"
+            "text": "<p style=\"text-align:right\">العبادات التي يؤديها المسلمون.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية من سورة النور تتحدث عن خلق الدواب من الماء، وليس عن جعل الماء كل شيء حي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القوانين الاجتماعية قد تتعارض مع الفطرة أحيانًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">﴿ وَاللَّهُ خَلَقَ كُلَّ دَابَّةٍ مِنْ مَاءٍ ﴾</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذه الآية من سورة هود تتحدث عن خلق السماوات والأرض، وليس عن الماء.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">﴿ وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ﴾</p>"
+            "text": "<p style=\"text-align:right\">القوانين التي تحكم المجتمع.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الآية القرآنية التي تدل على أن الله جعل من الماء كل شيء حي؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الفطرة في الإسلام؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الآية القرآنية التي تدل على أن الله جعل من الماء كل شيء حي؟",
+        "title": "ما هي الفطرة في الإسلام؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الآية القرآنية التي تدل على أن الله جعل من الماء كل شيء حي؟"
+        "extraTitle": "ما هي الفطرة في الإسلام؟"
       },
-      "subContentId": "8bac78b8-dbdc-4d9c-b6a0-4d1fc07c6456"
+      "subContentId": "f9ff2eba-7490-4903-bff9-014e94e7cd6e"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات الكونية فقط لا يكفي لمعرفة الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">خديجة كانت داعمة للنبي ولم تتهمه بالكذب.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الآيات الكونية فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات التكوينية فقط لا يكفي لمعرفة الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات التكوينية فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الآيات القرآنية فقط لا يكفي لمعرفة الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات القرآنية فقط.</p>"
+            "text": "<p style=\"text-align:right\">قالت: 'أنت كاذب'.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يجب التفكر في الآيات الكونية والتكوينية والقرآنية لمعرفة الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! قالت خديجة: 'والله لا يخزيك الله أبداً'.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الآيات الكونية والتكوينية والقرآنية.</p>"
+            "text": "<p style=\"text-align:right\">قالت: 'والله لا يخزيك الله أبداً'.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">لم تتهم خديجة النبي بالسحر.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">قالت: 'هذا سحر'.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">خديجة كانت أول من آمن بالنبي ولم تتهمه بالجنون.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">قالت: 'أنت مجنون'.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي أنواع الآيات التي يجب التفكر فيها لمعرفة الله؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ماذا قالت خديجة رضي الله عنها للنبي صلى الله عليه وسلم عندما جاءه الوحي؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي أنواع الآيات التي يجب التفكر فيها لمعرفة الله؟",
+        "title": "ماذا قالت خديجة رضي الله عنها للنبي صلى الله عليه وسلم عندما جاءه الوحي؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي أنواع الآيات التي يجب التفكر فيها لمعرفة الله؟"
+        "extraTitle": "ماذا قالت خديجة رضي الله عنها للنبي صلى الله عليه وسلم عندما جاءه الوحي؟"
       },
-      "subContentId": "a9728c29-5bee-4d56-90c0-df524eed7577"
+      "subContentId": "c1f9dbfa-a22a-447d-bad1-d6a6fa85ea91"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تسخين الهواء يؤدي إلى انخفاض ضغطه، وليس زيادته.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادات جزء من الدين، لكنها ليست جوهره.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يزداد ضغطه.</p>"
+            "text": "<p style=\"text-align:right\">العبادات فقط.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تسخين الهواء يؤدي إلى انخفاض ضغطه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جوهر الدين في الإسلام هو الأخلاق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">ينخفض ضغطه.</p>"
+            "text": "<p style=\"text-align:right\">الأخلاق.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تسخين الهواء يؤدي إلى تغير في ضغطه، وليس بقائه كما هو.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">السياسة جزء من حياة المسلم، لكنها ليست جوهر الدين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يظل كما هو.</p>"
+            "text": "<p style=\"text-align:right\">السياسة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تسخين الهواء لا يؤدي إلى تحوله إلى سائل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاقتصاد مهم، لكنه ليس جوهر الدين.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يتحول إلى سائل.</p>"
+            "text": "<p style=\"text-align:right\">الاقتصاد.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو تأثير تسخين الهواء على ضغطه؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو جوهر الدين في الإسلام؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو تأثير تسخين الهواء على ضغطه؟",
+        "title": "ما هو جوهر الدين في الإسلام؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو تأثير تسخين الهواء على ضغطه؟"
+        "extraTitle": "ما هو جوهر الدين في الإسلام؟"
       },
-      "subContentId": "3f61c7c0-1ec6-4f55-9f7a-2e9d849ec6b7"
+      "subContentId": "e3c22234-5fa8-458d-9e5f-293cfa8e6d7d"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهواء في الأماكن الحارة أقل كثافة، وليس أكثر كثافة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل الصالح قد لا يرضي المجتمع دائمًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر كثافة.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يرضي المجتمع.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهواء في الأماكن الحارة أقل كثافة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العمل الصالح يتوافق مع البرمجة الأصلية للإنسان على الخير.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أقل كثافة.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يتوافق مع البرمجة الأصلية للإنسان على الخير.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهواء في الأماكن الحارة أكثر سخونة، وليس أكثر برودة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النجاح المادي ليس الهدف الأساسي من العمل الصالح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر برودة.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يضمن النجاح المادي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رطوبة الهواء لا تؤثر بشكل مباشر على مسافة إقلاع الطائرات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">رضا السلطات ليس معيارًا للعمل الصالح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر رطوبة.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يرضي السلطات.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">لماذا تحتاج الطائرات في الأماكن الحارة إلى مسافة أكبر للإقلاع؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">لماذا يعتبر العمل الصالح وفق الفطرة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "لماذا تحتاج الطائرات في الأماكن الحارة إلى مسافة أكبر للإقلاع؟",
+        "title": "لماذا يعتبر العمل الصالح وفق الفطرة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "لماذا تحتاج الطائرات في الأماكن الحارة إلى مسافة أكبر للإقلاع؟"
+        "extraTitle": "لماذا يعتبر العمل الصالح وفق الفطرة؟"
       },
-      "subContentId": "8bebde1b-9e49-4010-b8f1-d89fb1fd2ec8"
+      "subContentId": "3801d64f-e3a2-495e-95f6-978cfa738b8b"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهواء يتحرك من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض، وليس بالضرورة من المناطق الباردة إلى الحارة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادات وحدها لا تكفي دون الأخلاق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء يتحرك دائمًا من المناطق الباردة إلى المناطق الحارة.</p>"
+            "text": "<p style=\"text-align:right\">العبادات كافية وحدها.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهواء يتحرك دائمًا من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الأخلاق هي جوهر الدين والعبادات تكملها.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء يتحرك دائمًا من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض.</p>"
+            "text": "<p style=\"text-align:right\">الأخلاق هي جوهر الدين والعبادات تكملها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهواء يتحرك من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض، وليس بالضرورة من المناطق الرطبة إلى الجافة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأخلاق أساسية في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء يتحرك دائمًا من المناطق الرطبة إلى المناطق الجافة.</p>"
+            "text": "<p style=\"text-align:right\">الأخلاق غير مهمة في الإسلام.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهواء يتحرك من المناطق ذات الضغط المرتفع إلى المناطق ذات الضغط المنخفض، وليس بالضرورة من المناطق المرتفعة إلى المنخفضة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العبادات والأخلاق مرتبطتان في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء يتحرك دائمًا من المناطق المرتفعة إلى المناطق المنخفضة.</p>"
+            "text": "<p style=\"text-align:right\">العبادات والأخلاق منفصلتان.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو السبب في انتقال الهواء من الضغط المرتفع إلى الضغط المنخفض؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الرد الإسلامي على من يعتقد أن العبادات كافية دون الأخلاق؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو السبب في انتقال الهواء من الضغط المرتفع إلى الضغط المنخفض؟",
+        "title": "ما هو الرد الإسلامي على من يعتقد أن العبادات كافية دون الأخلاق؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو السبب في انتقال الهواء من الضغط المرتفع إلى الضغط المنخفض؟"
+        "extraTitle": "ما هو الرد الإسلامي على من يعتقد أن العبادات كافية دون الأخلاق؟"
       },
-      "subContentId": "325f4c68-b610-44d7-87bf-9d674c92b1f8"
+      "subContentId": "9e119fe0-af83-4d13-8172-76cf8507f988"
     },
     {
       "params": {
@@ -522,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">مبدأ الطفو يفسر قدرة الأجسام على الطفو في السوائل، وليس حركة الهواء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الفطرة أساسية في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مبدأ الطفو.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">مبدأ برنولي يفسر العلاقة بين سرعة المائع وضغطه، وليس حركة الهواء من الضغط المرتفع إلى المنخفض.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">مبدأ برنولي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">مبدأ التوازن الحراري يفسر انتقال الحرارة بين الأجسام، وليس حركة الهواء.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">مبدأ التوازن الحراري.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة غير مهمة في الإسلام.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! مبدأ انتقال الضغط يفسر حركة الهواء من الضغط المرتفع إلى الضغط المنخفض.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الفطرة هي الأساس الذي بني عليه الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">مبدأ انتقال الضغط.</p>"
+            "text": "<p style=\"text-align:right\">الفطرة هي الأساس الذي بني عليه الإسلام.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الفطرة لا تتعارض مع الإسلام بل تتوافق معه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الفطرة تتعارض مع الإسلام.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الفطرة أعمق من أن تكون مرتبطة بالثقافة فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الفطرة مرتبطة بالثقافة فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,119 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المبدأ الذي يفسر حركة الهواء من الضغط المرتفع إلى الضغط المنخفض؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الإسلامي من الفطرة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المبدأ الذي يفسر حركة الهواء من الضغط المرتفع إلى الضغط المنخفض؟",
+        "title": "ما هو الموقف الإسلامي من الفطرة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المبدأ الذي يفسر حركة الهواء من الضغط المرتفع إلى الضغط المنخفض؟"
+        "extraTitle": "ما هو الموقف الإسلامي من الفطرة؟"
       },
-      "subContentId": "15322569-93d9-4763-8ccc-94dd2ed1c0a7"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات الكونية هي خلق السماوات والأرض، والآيات التكوينية هي أفعال الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات الكونية هي خلق السماوات والأرض، والآيات التكوينية هي أفعال الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية هي خلق السماوات والأرض، وليس كلام الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات الكونية هي كلام الله، والآيات التكوينية هي خلق السماوات والأرض.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية هي خلق السماوات والأرض، وليس أفعال الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات الكونية هي أفعال الله، والآيات التكوينية هي كلام الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الآيات التكوينية هي أفعال الله، وليس كلام الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الآيات الكونية هي خلق السماوات والأرض، والآيات التكوينية هي كلام الله.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين الآيات الكونية والآيات التكوينية؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الفرق بين الآيات الكونية والآيات التكوينية؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الفرق بين الآيات الكونية والآيات التكوينية؟"
-      },
-      "subContentId": "5825fe2b-ca07-4470-8db0-1f6fb8b36042"
+      "subContentId": "7ca2c113-d550-4cfb-840b-863e5eec6d94"
     },
     {
       "params": {
@@ -724,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله يهدف إلى زيادة الإيمان بالله ومعرفته، وليس فقط زيادة المعرفة العلمية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الغش مرفوض في الإسلام في جميع الحالات.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لزيادة المعرفة العلمية فقط.</p>"
+            "text": "<p style=\"text-align:right\">الغش مقبول في بعض الحالات.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الغش لا يخرج المسلم من الملة ولكنه يتعارض مع الأخلاق.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الغش يخرج المسلم من الملة.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في آيات الله يهدف إلى زيادة الإيمان بالله ومعرفته.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الغش يتعارض مع جوهر الإسلام وهو الأخلاق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لزيادة الإيمان بالله ومعرفته.</p>"
+            "text": "<p style=\"text-align:right\">الغش يتعارض مع جوهر الإسلام وهو الأخلاق.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله لا يهدف إلى إثبات تفوق الإنسان على الطبيعة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الغش مرفوض في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لإثبات تفوق الإنسان على الطبيعة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله لا يهدف إلى إثبات صحة النظريات العلمية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لإثبات صحة النظريات العلمية.</p>"
+            "text": "<p style=\"text-align:right\">الغش غير مهم في الإسلام.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من التفكر في آيات الله الكونية والتكوينية والقرآنية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن تفسير قول النبي صلى الله عليه وسلم: 'ليس منا من غش'؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الهدف من التفكر في آيات الله الكونية والتكوينية والقرآنية؟",
+        "title": "كيف يمكن تفسير قول النبي صلى الله عليه وسلم: 'ليس منا من غش'؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الهدف من التفكر في آيات الله الكونية والتكوينية والقرآنية؟"
+        "extraTitle": "كيف يمكن تفسير قول النبي صلى الله عليه وسلم: 'ليس منا من غش'؟"
       },
-      "subContentId": "1a1455c6-b24d-4c64-8cc6-f3addf1e2045"
+      "subContentId": "60f994c3-01b1-48c4-9cc6-f1b14e64cd71"
     },
     {
       "params": {
@@ -822,40 +721,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الفقر قد يسبب الحزن لكنه ليس سبب الكآبة وفقًا للنص.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الفقر.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذا الأثر يدل على أهمية طلب الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المعاصي هي سبب الكآبة وفقًا للنص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">(( ابن آدم اطلبني تجدني، فإذا وجدتني وجدت كل شيء، وإن فتك فاتك كل شيء، وأنا أحب إليك من كل شيء)).</p>"
+            "text": "<p style=\"text-align:right\">المعاصي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا الأثر يتحدث عن تغيير الحال، وليس عن طلب الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المرض قد يسبب الحزن لكنه ليس سبب الكآبة وفقًا للنص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">(( إن الله لا يغير ما بقوم حتى يغيروا ما بأنفسهم )).</p>"
+            "text": "<p style=\"text-align:right\">المرض.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا الأثر يتحدث عن جزاء العمل الصالح، وليس عن طلب الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل الشاق قد يسبب التعب لكنه ليس سبب الكآبة وفقًا للنص.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">(( من عمل صالحاً من ذكر أو أنثى وهو مؤمن فلنحيينه حياة طيبة )).</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هذا الأثر يتحدث عن النية في العمل، وليس عن طلب الله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">(( إنما الأعمال بالنيات )).</p>"
+            "text": "<p style=\"text-align:right\">العمل الشاق.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل من الأثر على أهمية طلب الله؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو سبب الكآبة وفقًا للنص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الدليل من الأثر على أهمية طلب الله؟",
+        "title": "ما هو سبب الكآبة وفقًا للنص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الدليل من الأثر على أهمية طلب الله؟"
+        "extraTitle": "ما هو سبب الكآبة وفقًا للنص؟"
       },
-      "subContentId": "7ef64dbd-3d5e-464f-874c-f79f28ef7967"
+      "subContentId": "258653f5-a70b-4077-a78f-a87db1ca657b"
     },
     {
       "params": {
@@ -923,40 +822,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التبرك بالأضرحة مرفوض في الإسلام.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">يجوز التبرك بالأضرحة.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في خلق السماوات والأرض يقرب الإنسان من معرفة الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التبرك بالأضرحة يعتبر شركًا في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">شجعه على الاستمرار في التفكر لأن ذلك يقربه من معرفة الله.</p>"
+            "text": "<p style=\"text-align:right\">التبرك بالأضرحة شرك.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض له فوائد عظيمة في زيادة الإيمان.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التبرك بالأضرحة ليس جزءًا من الثقافة الإسلامية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخبره أن التفكر في خلق السماوات والأرض لا فائدة منه.</p>"
+            "text": "<p style=\"text-align:right\">التبرك بالأضرحة جزء من الثقافة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض ليس مضيعة للوقت بل هو عبادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التبرك بالأضرحة مرفوض في الإسلام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخبره أن التفكر في خلق السماوات والأرض مضيعة للوقت.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في خلق السماوات والأرض يقوي الإيمان ولا يسبب الشك.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أخبره أن التفكر في خلق السماوات والأرض يسبب الشك في وجود الله.</p>"
+            "text": "<p style=\"text-align:right\">التبرك بالأضرحة غير مهم.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يتفكر في خلق السماوات والأرض، ما هو أفضل رد يمكن أن تقدمه له؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الإسلامي من التبرك بالأضرحة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا رأيت شخصًا يتفكر في خلق السماوات والأرض، ما هو أفضل رد يمكن أن تقدمه له؟",
+        "title": "ما هو الموقف الإسلامي من التبرك بالأضرحة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا رأيت شخصًا يتفكر في خلق السماوات والأرض، ما هو أفضل رد يمكن أن تقدمه له؟"
+        "extraTitle": "ما هو الموقف الإسلامي من التبرك بالأضرحة؟"
       },
-      "subContentId": "a1d9119c-9acd-40a4-adbf-b63d78b4373b"
+      "subContentId": "271a8307-913b-462d-85d6-2cb60d878c93"
     },
     {
       "params": {
@@ -1024,40 +923,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">المال ليس سبب السعادة الحقيقية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأنه يكسب الكثير من المال.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الهواء في الأماكن الحارة أقل كثافة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! السعادة تأتي من توافق العمل مع الفطرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أقل كثافة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>"
+            "text": "<p style=\"text-align:right\">لأن عمله يتوافق مع فطرته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهواء في الأماكن الحارة أقل كثافة، وليس أكثر كثافة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العمل الشاق قد يكون مصدر سعادة إذا توافق مع الفطرة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر كثافة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يتجنب العمل الشاق.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الهواء في الأماكن الحارة أكثر سخونة، وليس أكثر برودة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاهتمام بالضغوط ليس سبب السعادة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر برودة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رطوبة الهواء لا تؤثر بشكل مباشر على مسافة إقلاع الطائرات.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لأن الهواء في الأماكن الحارة أكثر رطوبة مما يجعل الطائرات تحتاج إلى مسافة أكبر للإقلاع.</p>"
+            "text": "<p style=\"text-align:right\">لأنه لا يهتم بالضغوط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا سألك شخص عن سبب حاجة الطائرات إلى مسافة أكبر للإقلاع في الأماكن الحارة، ما هو أفضل تفسير يمكن أن تقدمه؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعمل في وظيفة يتعرض فيها للكثير من الضغوط، ولكنه يشعر بالسعادة بسبب عمله. ما هو التفسير الصحيح لهذا الشعور؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا سألك شخص عن سبب حاجة الطائرات إلى مسافة أكبر للإقلاع في الأماكن الحارة، ما هو أفضل تفسير يمكن أن تقدمه؟",
+        "title": "شخص يعمل في وظيفة يتعرض فيها للكثير من الضغوط، ولكنه يشعر بالسعادة بسبب عمله. ما هو التفسير الصحيح لهذا الشعور؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا سألك شخص عن سبب حاجة الطائرات إلى مسافة أكبر للإقلاع في الأماكن الحارة، ما هو أفضل تفسير يمكن أن تقدمه؟"
+        "extraTitle": "شخص يعمل في وظيفة يتعرض فيها للكثير من الضغوط، ولكنه يشعر بالسعادة بسبب عمله. ما هو التفسير الصحيح لهذا الشعور؟"
       },
-      "subContentId": "b7d92882-dad1-4529-bab3-bca24f7c7d0f"
+      "subContentId": "b9842d58-1e53-47ae-985f-b9852e63e70d"
     },
     {
       "params": {
@@ -1125,40 +1024,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الخوف من العقوبة ليس سببًا كافيًا للتصرف الأخلاقي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأنه يخشى العقوبة القانونية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الرغبة في المكافأة ليست سببًا للتصرف الأخلاقي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأنه يريد الحصول على مكافأة.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في آيات الله يقرب الإنسان من معرفة الله ويزيد إيمانه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التصرف وفق الفطرة هو السبب الحقيقي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخبره أن التفكر في آيات الله يقربه من معرفة الله ويزيد إيمانه.</p>"
+            "text": "<p style=\"text-align:right\">لأنه يتصرف وفق فطرته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله ليس مضيعة للوقت بل هو عبادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">عدم الحاجة للمال ليس سببًا للتصرف الأخلاقي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">أخبره أن التفكر في آيات الله مضيعة للوقت.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله يقوي الإيمان ولا يسبب الشك.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أخبره أن التفكر في آيات الله يسبب الشك في وجود الله.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التفكر في آيات الله له فوائد عظيمة في زيادة الإيمان.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">أخبره أن التفكر في آيات الله لا فائدة منه.</p>"
+            "text": "<p style=\"text-align:right\">لأنه لا يحتاج المال.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +1105,119 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا رأيت شخصًا يعتقد أن التفكر في آيات الله الكونية والتكوينية والقرآنية لا فائدة منه، ما هو أفضل رد يمكن أن تقدمه له؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص وجد محفظة تحتوي على مبلغ كبير من المال، فقرر البحث عن صاحبها وإعادتها. ما هو التفسير الصحيح لتصرفه؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا رأيت شخصًا يعتقد أن التفكر في آيات الله الكونية والتكوينية والقرآنية لا فائدة منه، ما هو أفضل رد يمكن أن تقدمه له؟",
+        "title": "شخص وجد محفظة تحتوي على مبلغ كبير من المال، فقرر البحث عن صاحبها وإعادتها. ما هو التفسير الصحيح لتصرفه؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا رأيت شخصًا يعتقد أن التفكر في آيات الله الكونية والتكوينية والقرآنية لا فائدة منه، ما هو أفضل رد يمكن أن تقدمه له؟"
+        "extraTitle": "شخص وجد محفظة تحتوي على مبلغ كبير من المال، فقرر البحث عن صاحبها وإعادتها. ما هو التفسير الصحيح لتصرفه؟"
       },
-      "subContentId": "8bce00dd-51aa-4f8b-834d-fc5358a7844c"
+      "subContentId": "d8d98971-fc57-4d04-9a65-8aa2269f5547"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الخوف من الاكتشاف ليس سبب الكآبة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأنه خائف من اكتشاف أمره.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشعور بالذنب وفق الفطرة هو سبب الكآبة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأنه يشعر بالذنب وفق فطرته.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الكآبة هنا مرتبطة بالمعصية وليس بمرض نفسي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأنه يعاني من مرض نفسي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">عدم الاهتمام بالمعصية لا يسبب الكآبة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لأنه لا يهتم بالمعصية.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعاني من الكآبة بعد ارتكاب معصية، ما هو التفسير الصحيح لهذا الشعور؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يعاني من الكآبة بعد ارتكاب معصية، ما هو التفسير الصحيح لهذا الشعور؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يعاني من الكآبة بعد ارتكاب معصية، ما هو التفسير الصحيح لهذا الشعور؟"
+      },
+      "subContentId": "4704d1dc-2a63-4f42-8d3b-32d419b6fb13"
     }
   ],
   "disableBackwardsNavigation": false,

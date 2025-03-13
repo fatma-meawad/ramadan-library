@@ -17,37 +17,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة في الإسلام تشمل أكثر من الصلاة والصيام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التسخير ليس فقط للخدمة بل أيضًا للتعريف بالله وتكريم الإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">القيام بالصلاة والصيام فقط.</p>"
+            "text": "<p style=\"text-align:right\">أن الكون خلق لخدمة الإنسان فقط دون أي غرض آخر.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة تشمل إطاعة الله في كل جانب من جوانب الحياة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون مسخر للإنسان تسخير تعريف بالله وتكريم للإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إطاعة الله في جميع جوانب الحياة.</p>"
+            "text": "<p style=\"text-align:right\">أن الكون مسخر للإنسان تسخير تعريف وتكريم.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التبرك بالأضرحة ليس من العبادة في الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستغلال المطلق يتعارض مع مفهوم التسخير التعريفي والتكريمي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيارة الأضرحة والتبرك بها.</p>"
+            "text": "<p style=\"text-align:right\">أن الكون موجود للإنسان لاستغلاله كما يشاء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأخلاق جزء لا يتجزأ من العبادة في الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون ليس عائقًا بل هو وسيلة للتعرف على الله وتكريم الإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الالتزام بالشعائر الدينية دون الأخلاق.</p>"
+            "text": "<p style=\"text-align:right\">أن الكون خلق ليكون عائقًا أمام الإنسان.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو المعنى الأساسي للعبادة في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بتسخير الكون للإنسان؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو المعنى الأساسي للعبادة في الإسلام؟",
+        "title": "ما هو المقصود بتسخير الكون للإنسان؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو المعنى الأساسي للعبادة في الإسلام؟"
+        "extraTitle": "ما هو المقصود بتسخير الكون للإنسان؟"
       },
-      "subContentId": "9fe37823-ead2-4079-8bd3-c7d995687dd1"
+      "subContentId": "0395a3a9-e918-42a3-ba04-cf1589b554a6"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة في الإسلام لا تقتصر على الشعائر الدينية فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن الكريم هو المصدر الرئيسي للعقيدة ولكن الكون هو الثابت الأول.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأنها تقتصر على الشعائر الدينية فقط.</p>"
+            "text": "<p style=\"text-align:right\">القرآن الكريم.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة تشمل كل عمل يقوم به المسلم ابتغاء مرضاة الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الكون هو الثابت الأول في العقيدة الإسلامية لأنه يدل على وجود الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأنها تشمل كل عمل يقوم به المسلم ابتغاء مرضاة الله.</p>"
+            "text": "<p style=\"text-align:right\">الكون.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة في الإسلام ليست مقتصرة على المسجد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأنبياء هم رسل الله ولكن الكون هو الثابت الأول.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأنها ممارسة الطقوس الدينية في المسجد فقط.</p>"
+            "text": "<p style=\"text-align:right\">الأنبياء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة في الإسلام تشمل كل وقت وليس أوقات محددة فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأخلاق جزء من العقيدة ولكن الكون هو الثابت الأول.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأنها العبادات التي يؤديها المسلم في أوقات محددة.</p>"
+            "text": "<p style=\"text-align:right\">الأخلاق.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يمكن أن نفهم العبادة بشكل موسع في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الثابت الأول في العقيدة الإسلامية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يمكن أن نفهم العبادة بشكل موسع في الإسلام؟",
+        "title": "ما هو الثابت الأول في العقيدة الإسلامية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يمكن أن نفهم العبادة بشكل موسع في الإسلام؟"
+        "extraTitle": "ما هو الثابت الأول في العقيدة الإسلامية؟"
       },
-      "subContentId": "9595fff3-7e39-428a-9eb4-1c6993d8b7fe"
+      "subContentId": "8dd67ba9-d592-45cf-ad69-fc8896202b14"
     },
     {
       "params": {
@@ -216,40 +216,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر ليس لإثبات تفوق الإنسان بل لإثبات وجود الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لإثبات تفوق الإنسان على المخلوقات الأخرى.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الشعائرية تشمل الصلاة والصيام، والعبادة السلوكية تشمل الأخلاق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في خلق السماوات والأرض يؤدي إلى إثبات وجود الله ووحدانيته.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة الشعائرية هي الصلاة والصيام، والعبادة السلوكية هي الأخلاق.</p>"
+            "text": "<p style=\"text-align:right\">لإثبات وجود الله ووحدانيته.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة في الإسلام ليست مقتصرة على مكان معين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النظريات العلمية مهمة ولكن التفكر في الكون يهدف إلى إثبات وجود الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة الشعائرية هي التي تؤدى في المسجد، والعبادة السلوكية هي التي تؤدى في البيت.</p>"
+            "text": "<p style=\"text-align:right\">لإثبات صحة النظريات العلمية فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة في الإسلام تشمل كل وقت وليس أوقات محددة فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التفكر في الكون يؤكد وجود الحياة بعد الموت وليس نفيه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادة الشعائرية هي التي تؤدى في أوقات محددة، والعبادة السلوكية هي التي تؤدى في كل وقت.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">هناك فرق بين العبادة الشعائرية والعبادة السلوكية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لا يوجد فرق بين العبادة الشعائرية والعبادة السلوكية.</p>"
+            "text": "<p style=\"text-align:right\">لإثبات عدم وجود حياة بعد الموت.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين العبادة الشعائرية والعبادة السلوكية في الإسلام؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من التفكر في خلق السماوات والأرض؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الفرق بين العبادة الشعائرية والعبادة السلوكية في الإسلام؟",
+        "title": "ما هو الهدف من التفكر في خلق السماوات والأرض؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الفرق بين العبادة الشعائرية والعبادة السلوكية في الإسلام؟"
+        "extraTitle": "ما هو الهدف من التفكر في خلق السماوات والأرض؟"
       },
-      "subContentId": "be1f00cb-44a9-4502-992b-62dd00302072"
+      "subContentId": "345d48c3-c906-415f-8591-f0206a0ae8d3"
     },
     {
       "params": {
@@ -317,40 +317,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفوق على المخلوقات ليس رد فعلًا للتسخير التعريفي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يشعر بالتفوق على المخلوقات الأخرى.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! أداء العمل بإخلاص وصدق ابتغاء مرضاة الله يجعل العمل عبادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التسخير التعريفي يهدف إلى إيمان الإنسان بالله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأن يؤدي عمله بإخلاص وصدق ابتغاء مرضاة الله.</p>"
+            "text": "<p style=\"text-align:right\">أن يؤمن بالله.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الذهاب إلى المسجد للصلاة مهم، ولكن لا يجعل العمل عبادة بحد ذاته.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستغلال الشخصي يتعارض مع مفهوم التسخير التعريفي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأن يذهب إلى المسجد للصلاة فقط.</p>"
+            "text": "<p style=\"text-align:right\">أن يستغل الكون لتحقيق مكاسب شخصية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التبرع للفقراء عمل صالح، ولكن لا يجعل العمل عبادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الكون يتناقض مع الهدف من تسخيره للإنسان.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بأن يتبرع بجزء من راتبه للفقراء.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن عمل صالح، ولكن لا يجعل العمل عبادة بحد ذاته.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بأن يقرأ القرآن أثناء العمل.</p>"
+            "text": "<p style=\"text-align:right\">أن يتجاهل وجود الكون.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,826 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعمل في وظيفة يتعامل فيها مع الجمهور، كيف يمكن أن يجعل عمله عبادة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو رد فعل الإنسان تجاه تسخير الكون له تسخير تعريف؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يعمل في وظيفة يتعامل فيها مع الجمهور، كيف يمكن أن يجعل عمله عبادة؟",
+        "title": "ما هو رد فعل الإنسان تجاه تسخير الكون له تسخير تعريف؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يعمل في وظيفة يتعامل فيها مع الجمهور، كيف يمكن أن يجعل عمله عبادة؟"
+        "extraTitle": "ما هو رد فعل الإنسان تجاه تسخير الكون له تسخير تعريف؟"
       },
-      "subContentId": "5aa2d50e-4564-431a-8f4a-817138c1dc23"
+      "subContentId": "e050dccc-76e0-4e51-82b8-78342f7b875e"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الآيات يتناقض مع الهدف من قراءة القرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يتجاهل الآيات.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">البحث عن تفسيرات مختلفة ليس الموقف المطلوب عند قراءة آيات الأمر.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يبحث عن تفسيرات مختلفة للآيات.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو الامتثال بما ورد في آيات الأمر.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يأتمر بما ورد في الآيات.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن ينتقد الآيات.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات الأمر في القرآن؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات الأمر في القرآن؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات الأمر في القرآن؟"
+      },
+      "subContentId": "f806efc0-36a4-46cf-ad26-92065c9c24b4"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الآيات يتناقض مع الهدف من قراءة القرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يتجاهل الآيات.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو الانتهاء عما نهى الله عنه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن ينتهي عما نهى الله عنه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">البحث عن مبررات يتناقض مع الهدف من النهي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يبحث عن مبررات للاستمرار في النهي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن ينتقد الآيات.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات النهي في القرآن؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات النهي في القرآن؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات النهي في القرآن؟"
+      },
+      "subContentId": "d9d95d76-282f-4ab0-9a13-6e14b9ea7d01"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب السلف فقط.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">إثبات الصفات كما وردت دون تأويل أو تشبيه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، لكنه يعكس مذهب الأشاعرة والمعتزلة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">تأويل الصفات بطريقة رمزية تنفي التشبيه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، وهو رأي بعض الفلاسفة والمتكلمين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">رفض الحديث عن الصفات تمامًا بحجة عدم إدراكها.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هناك عدة مدارس فكرية في تفسير الصفات الإلهية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">جميع ما سبق يعكس اتجاهات مختلفة لعلماء العقيدة.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين العلماء حول تفسير صفات الله؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الخلاف الأساسي بين العلماء حول تفسير صفات الله؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الخلاف الأساسي بين العلماء حول تفسير صفات الله؟"
+      },
+      "subContentId": "687243d6-84d0-42b5-8f60-6efdb2ad40f9"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفوق على المخلوقات ليس الهدف من التسخير التكريمي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يشعر الإنسان بالتفوق على المخلوقات الأخرى.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التسخير التكريمي يهدف إلى شكر الإنسان لله على النعم.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يشكر الإنسان الله على النعم التي أنعم بها عليه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستغلال الشخصي يتعارض مع مفهوم التسخير التكريمي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يستغل الإنسان الكون لتحقيق مكاسب شخصية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الكون يتناقض مع الهدف من تسخيره للإنسان.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يتجاهل الإنسان وجود الكون.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الهدف من تسخير الكون للإنسان تسخير تكريم؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الهدف من تسخير الكون للإنسان تسخير تكريم؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الهدف من تسخير الكون للإنسان تسخير تكريم؟"
+      },
+      "subContentId": "45a0d452-7279-45d2-a4d1-a8fc38ec717e"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">تجاهل الآيات يتناقض مع الهدف من قراءة القرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يتجاهل الآيات.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو السعي إلى الجنة وتجنب النار.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يسعى إلى الجنة ويتقي النار.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">البحث عن تفسيرات مختلفة ليس الموقف المطلوب عند قراءة هذه الآيات.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يبحث عن تفسيرات مختلفة للآيات.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن ينتقد الآيات.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات وصف الجنة والنار؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات وصف الجنة والنار؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "ما هو الموقف الذي ينبغي أن يقفه الإنسان عند قراءة آيات وصف الجنة والنار؟"
+      },
+      "subContentId": "acd40515-a614-407b-b8fd-a48df5bd8366"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التجاهل يتناقض مع الهدف من وجود الآيات الكونية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يتجاهلها ويعتبرها ظواهر طبيعية فقط.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفكر في الآيات الكونية يؤدي إلى معرفة الله وشكره.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يتفكر فيها ليعرف الله ويشكره على نعمه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الاستغلال الشخصي يتعارض مع الهدف من الآيات الكونية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يستغلها لتحقيق مكاسب شخصية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الانتقاد والاعتبار بالخرافات يتناقض مع الإيمان بالله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن ينتقدها ويعتبرها مجرد خرافات.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا رأى شخص آيات كونية عظيمة مثل الشمس والقمر والنجوم، ما هو الموقف الذي ينبغي أن يقفه؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا رأى شخص آيات كونية عظيمة مثل الشمس والقمر والنجوم، ما هو الموقف الذي ينبغي أن يقفه؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا رأى شخص آيات كونية عظيمة مثل الشمس والقمر والنجوم، ما هو الموقف الذي ينبغي أن يقفه؟"
+      },
+      "subContentId": "facd97a1-70f9-4a3d-90ac-a4c856670906"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التجاهل يتناقض مع الهدف من قراءة القرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يتجاهل الآية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">البحث عن تفسيرات مختلفة ليس الموقف المطلوب عند قراءة آيات الأمر.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يبحث عن تفسيرات مختلفة للآية.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو الامتثال بما ورد في آيات الأمر.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يأتمر بما ورد في الآية.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن ينتقد الآية.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا قرأ شخص آية في القرآن تأمره بفعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا قرأ شخص آية في القرآن تأمره بفعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا قرأ شخص آية في القرآن تأمره بفعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟"
+      },
+      "subContentId": "9112f709-baf1-446d-86d4-5a98153ecc3d"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التجاهل يتناقض مع الهدف من قراءة القرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يتجاهل الآية.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموقف المطلوب هو الانتهاء عما نهى الله عنه.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن ينتهي عما نهى الله عنه.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">البحث عن مبررات يتناقض مع الهدف من النهي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يبحث عن مبررات للاستمرار في النهي.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">انتقاد الآيات يتناقض مع الإيمان بالقرآن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن ينتقد الآية.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">إذا قرأ شخص آية في القرآن تنهى عن فعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "إذا قرأ شخص آية في القرآن تنهى عن فعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "إذا قرأ شخص آية في القرآن تنهى عن فعل شيء، ما هو الموقف الذي ينبغي أن يقفه؟"
+      },
+      "subContentId": "a0b2d941-8455-4e2e-9984-a7d74216425e"
     }
   ],
   "disableBackwardsNavigation": false,

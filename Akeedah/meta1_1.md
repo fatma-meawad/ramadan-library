@@ -1,7 +1,7 @@
 ---
 layout: default
 title: الاستقامة والقرب من الله وتربية الأولاد
-description: تمهيد - علة وجود الإنسان - ١ متى تصح حركة الإنسان؟
+description:  الاستقامة والقرب من الله وتربية الأولاد
 parent: الفصل ٢
 nav_order: 5
 grand_parent: العقيدة و الاعجاز
@@ -13,7 +13,7 @@ keys:
 ## ‏الاستقامة والقرب من الله وتربية الأولاد
 ***
 ## الأسئلة 
-{% include h5pcontainer.html id="1" path="../assets/QSet" path2="../assets/QSet/Akeedah/mcqs1_1" %}
+{% include h5pcontainer.html id="2" path="../assets/QSet" path2="../assets/QSet/Akeedah/mcqs1_1" %}
 ## الملخص
 ***
 - ‏✔ الاستقامة تعني اتباع تعليمات الصانع (الله) بتجنب المحرمات مثل الكذب والغيبة وأكل المال الحرام. 

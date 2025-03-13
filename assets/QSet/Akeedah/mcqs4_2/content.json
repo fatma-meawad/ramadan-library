@@ -14,40 +14,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">القدرة على الإقناع مهمة ولكنها ليست الأساس.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">القدرة على الإقناع.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوحيد هو أساس صحة التصور.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التكليف يعني أن الإنسان مكلف بأوامر الله ونواهيه باختياره.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التوحيد.</p>"
+            "text": "<p style=\"text-align:right\">الالتزام بأوامر الله ونواهيه باختيار الإنسان.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الذكاء والحكمة مهمان ولكن ليسا الأساس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإيمان بالقدر لا يلغي التكليف بالعمل.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الذكاء والحكمة.</p>"
+            "text": "<p style=\"text-align:right\">الإيمان بالقدر فقط دون العمل.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الخبرة العملية مفيدة ولكنها ليست الأساس.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان مسير في بعض الأمور ومخير في التكليف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الخبرة العملية.</p>"
+            "text": "<p style=\"text-align:right\">الاعتقاد بأن الإنسان مسير في كل أفعاله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التكليف يشمل العبادات والأخلاق معًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التركيز على العبادات دون الأخلاق.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الأساس الذي تقوم عليه صحة التصور وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بالتكليف في الإسلام؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الأساس الذي تقوم عليه صحة التصور وفقًا للنص؟",
+        "title": "ما هو المقصود بالتكليف في الإسلام؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الأساس الذي تقوم عليه صحة التصور وفقًا للنص؟"
+        "extraTitle": "ما هو المقصود بالتكليف في الإسلام؟"
       },
-      "subContentId": "97ce3de8-359b-48d7-b6df-5fb5800707e6"
+      "subContentId": "515d4e9f-ec35-4646-8f85-7baad5b10273"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">لم يكن الخوف من النبي هو السبب.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القدرة المالية ليست من مقومات التكليف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">خوفه من النبي.</p>"
+            "text": "<p style=\"text-align:right\">القدرة المالية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! تصوره الصحيح بأن الله يعلم كل شيء جعله يقر بالتقصير.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل أحد مقومات التكليف الأساسية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تصوره الصحيح بأن الله يعلم كل شيء.</p>"
+            "text": "<p style=\"text-align:right\">العقل.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">لم يكن الهدف إثبات الذكاء.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الموقع الجغرافي لا يؤثر في التكليف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">رغبته في إثبات ذكائه.</p>"
+            "text": "<p style=\"text-align:right\">الموقع الجغرافي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">كان لديه القدرة على تقديم عذر مقنع ولكنه اختار الصدق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">اللغة ليست من مقومات التكليف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">عدم وجود عذر مقنع.</p>"
+            "text": "<p style=\"text-align:right\">اللغة.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي جعل سيدنا كعب بن مالك يقر بالتقصير دون تقديم عذر؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو أحد مقومات التكليف التي ذكرت في النص؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي جعل سيدنا كعب بن مالك يقر بالتقصير دون تقديم عذر؟",
+        "title": "ما هو أحد مقومات التكليف التي ذكرت في النص؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي جعل سيدنا كعب بن مالك يقر بالتقصير دون تقديم عذر؟"
+        "extraTitle": "ما هو أحد مقومات التكليف التي ذكرت في النص؟"
       },
-      "subContentId": "eff5ceb7-3d6b-46c6-8787-fde251e25f6a"
+      "subContentId": "0d7bee60-9078-4383-a706-798bad75c34d"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ليس الهدف تسهيل عملية الطهي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الشرع لا يلغي العقل بل يضبطه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تسهيل عملية الطهي.</p>"
+            "text": "<p style=\"text-align:right\">الشرع يلغي دور العقل.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحكمة هي إخراج الدم كله من الذبيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الشرع هو الضابط الذي يحدد الحسن والقبيح.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إخراج الدم كله من الذبيحة.</p>"
+            "text": "<p style=\"text-align:right\">الشرع هو الضابط الذي يحدد الحسن والقبيح.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ليس الهدف تقليل التكلفة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الشرع لا يعتمد على العرف بل على النصوص الشرعية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تقليل تكلفة الذبح.</p>"
+            "text": "<p style=\"text-align:right\">الشرع يعتمد على العرف فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ليس الهدف تلبية رغبات المستهلكين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الشرع أساسي في التكليف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تلبية رغبات المستهلكين.</p>"
+            "text": "<p style=\"text-align:right\">الشرع غير ضروري في التكليف.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من تذكية الذبيحة وفقًا للنص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو دور الشرع في التكليف؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي الحكمة من تذكية الذبيحة وفقًا للنص؟",
+        "title": "ما هو دور الشرع في التكليف؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي الحكمة من تذكية الذبيحة وفقًا للنص؟"
+        "extraTitle": "ما هو دور الشرع في التكليف؟"
       },
-      "subContentId": "741cd7b4-b8b6-4db0-bfe0-2400f80ab810"
+      "subContentId": "7326d98a-5b76-4f5c-8faa-84fbce24af93"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">كان لديه القدرة على تقديم عذر مقنع.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الاختيار يعني أن الإنسان مخير وليس مسيرًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه لم يكن لديه عذر مقنع.</p>"
+            "text": "<p style=\"text-align:right\">الاختيار يعني أن الإنسان مسير في كل أفعاله.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإجبار يلغي الثواب والعقاب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الإجبار يلغي الثواب والعقاب.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! أدرك أن الله يعلم حقيقة الأمر فاختار الصدق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الاختيار يعني أن الإنسان مخير في التكليف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه أدرك أن الله يعلم حقيقة الأمر.</p>"
+            "text": "<p style=\"text-align:right\">الاختيار يعني أن الإنسان مخير في التكليف.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">لم يكن الهدف اختبار صدق النبي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإجبار يلغي المسؤولية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنه أراد اختبار صدق النبي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">لم يكن الخوف من رد فعل الصحابة هو السبب.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لأنه كان يخشى رد فعل الصحابة.</p>"
+            "text": "<p style=\"text-align:right\">الإجبار يعزز مسؤولية الإنسان.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">لماذا رفض سيدنا كعب بن مالك استخدام قدرته على الإقناع لتقديم عذر؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين الاختيار والإجبار في التكليف؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "لماذا رفض سيدنا كعب بن مالك استخدام قدرته على الإقناع لتقديم عذر؟",
+        "title": "ما هو الفرق بين الاختيار والإجبار في التكليف؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "لماذا رفض سيدنا كعب بن مالك استخدام قدرته على الإقناع لتقديم عذر؟"
+        "extraTitle": "ما هو الفرق بين الاختيار والإجبار في التكليف؟"
       },
-      "subContentId": "62fd897a-fc76-4a5b-a29d-4f0b3b5e68e3"
+      "subContentId": "cfb03205-5134-428e-bf6b-321febaab116"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قطع الرأس كليًا لا يؤدي إلى خروج الدم كله بسرعة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القدر لا يلغي المسؤولية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يخرج الدم كله بسرعة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ليس الهدف تقليل جودة اللحم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">يقلل من جودة اللحم.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الموت السريع ليس النتيجة المباشرة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">يؤدي إلى موت سريع للذبيحة.</p>"
+            "text": "<p style=\"text-align:right\">القدر يلغي مسؤولية الإنسان عن أفعاله.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! يؤدي إلى خروج ربع الدم فقط.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! القدر لا يخرج الإنسان من الاختيار إلى الإجبار.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">يؤدي إلى خروج ربع الدم فقط.</p>"
+            "text": "<p style=\"text-align:right\">القدر لا يخرج الإنسان من الاختيار إلى الإجبار.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القدر لا ينفي الإرادة الإنسانية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">القدر يعني أن الإنسان لا يملك إرادة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القدر لا يبرر المعاصي.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">القدر يبرر ارتكاب المعاصي.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,220 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما الذي يحدث إذا تم قطع رأس الذبيحة كليًا أثناء الذبح؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح تجاه القدر؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما الذي يحدث إذا تم قطع رأس الذبيحة كليًا أثناء الذبح؟",
+        "title": "ما هو الموقف الصحيح تجاه القدر؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما الذي يحدث إذا تم قطع رأس الذبيحة كليًا أثناء الذبح؟"
+        "extraTitle": "ما هو الموقف الصحيح تجاه القدر؟"
       },
-      "subContentId": "ff2a3039-ba82-400c-91a4-c01543acb2e4"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! زيادة نبض القلب إلى مئة وثمانين نبضة تسمح بخروج الدم كله.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">زيادة نبض القلب إلى مئة وثمانين نبضة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">توقف القلب عن النبض لا يساعد في خروج الدم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">توقف القلب عن النبض.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">انخفاض نبض القلب لا يساعد في خروج الدم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">انخفاض نبض القلب إلى أربعين نبضة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عدم التغيير في نبض القلب لا يساعد في خروج الدم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عدم وجود أي تغيير في نبض القلب.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي الآلية التي تسمح بخروج الدم كله من الذبيحة عند قطع الأوداج فقط؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هي الآلية التي تسمح بخروج الدم كله من الذبيحة عند قطع الأوداج فقط؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هي الآلية التي تسمح بخروج الدم كله من الذبيحة عند قطع الأوداج فقط؟"
-      },
-      "subContentId": "3c0103ce-0907-418f-a13a-ef7f3af09605"
-    },
-    {
-      "params": {
-        "media": {
-          "disableImageZooming": false
-        },
-        "answers": [
-          {
-            "correct": true,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوافق مع الاكتشافات العلمية الحديثة يدل على نبوته.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لأنه يتوافق مع الاكتشافات العلمية الحديثة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ليس الهدف تقليل التكلفة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لأنه يقلل من تكلفة الذبح.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ليس الهدف تسهيل عملية الطهي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لأنه يسهل عملية الطهي.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ليس الهدف زيادة وزن اللحم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">لأنه يزيد من وزن اللحم.</p>"
-          }
-        ],
-        "overallFeedback": [
-          {
-            "from": 0,
-            "to": 100
-          }
-        ],
-        "behaviour": {
-          "enableRetry": true,
-          "enableSolutionsButton": true,
-          "enableCheckButton": true,
-          "type": "single",
-          "singlePoint": true,
-          "randomAnswers": true,
-          "showSolutionsRequiresInput": true,
-          "confirmCheckDialog": false,
-          "confirmRetryDialog": false,
-          "autoCheck": true,
-          "passPercentage": 100,
-          "showScorePoints": true
-        },
-        "UI": {
-          "checkAnswerButton": "Check",
-          "submitAnswerButton": "Submit",
-          "showSolutionButton": "Show solution",
-          "tryAgainButton": "Retry",
-          "tipsLabel": "Show tip",
-          "scoreBarLabel": "You got :num out of :total points",
-          "tipAvailable": "Tip available",
-          "feedbackAvailable": "Feedback available",
-          "readFeedback": "Read feedback",
-          "wrongAnswer": "Wrong answer",
-          "correctAnswer": "Correct answer"
-        },
-        "confirmCheck": {
-          "header": "Finish?",
-          "body": "Are you sure you wish to finish?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Finish"
-        },
-        "confirmRetry": {
-          "header": "Retry?",
-          "body": "Are you sure you wish to retry?",
-          "cancelLabel": "Cancel",
-          "confirmLabel": "Confirm"
-        },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الدليل على أن توجيه النبي بقطع الأوداج فقط دون قطع الرأس يعتبر من دلائل نبوته؟</p><p> </p>"
-      },
-      "library": "H5P.MultiChoice 1.16",
-      "metadata": {
-        "contentType": "Multiple Choice",
-        "license": "U",
-        "title": "ما هو الدليل على أن توجيه النبي بقطع الأوداج فقط دون قطع الرأس يعتبر من دلائل نبوته؟",
-        "authors": [],
-        "changes": [],
-        "extraTitle": "ما هو الدليل على أن توجيه النبي بقطع الأوداج فقط دون قطع الرأس يعتبر من دلائل نبوته؟"
-      },
-      "subContentId": "0eae50d0-ad0a-421d-8ad9-41c05f7768b5"
+      "subContentId": "1c7a5a64-b0e4-4932-884b-fb30beeefbee"
     },
     {
       "params": {
@@ -724,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الذكاء مهم ولكن ليس هذا ما يعكسه التصرف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل لا يلغي الحاجة إلى الشرع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإظهاره أن الذكاء وحده لا يكفي.</p>"
+            "text": "<p style=\"text-align:right\">العقل يلغي الحاجة إلى الشرع.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل ليس الضابط الوحيد.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل هو الضابط الوحيد للأفعال.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إدراكه أن الله يعلم كل شيء ويحاسب عليه يعكس مفهوم التوحيد.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل قد يضل ويحتاج إلى ضابط وهو الشرع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإدراكه أن الله يعلم كل شيء ويحاسب عليه.</p>"
+            "text": "<p style=\"text-align:right\">العقل قد يضل ويحتاج إلى ضابط وهو الشرع.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">لم يكن الهدف إثبات أن النبي يمكن خداعه.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل مرتبط بالتكليف.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بإثباته أن النبي يمكن خداعه.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">لم يكن الهدف إظهار أن الصحابة يمكن أن يخطئوا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">بإظهاره أن الصحابة يمكن أن يخطئوا.</p>"
+            "text": "<p style=\"text-align:right\">العقل غير مرتبط بالتكليف.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">كيف يعكس تصرف سيدنا كعب بن مالك مفهوم التوحيد؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو دور العقل في التكليف؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "كيف يعكس تصرف سيدنا كعب بن مالك مفهوم التوحيد؟",
+        "title": "ما هو دور العقل في التكليف؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "كيف يعكس تصرف سيدنا كعب بن مالك مفهوم التوحيد؟"
+        "extraTitle": "ما هو دور العقل في التكليف؟"
       },
-      "subContentId": "0582a46f-134f-467f-b718-36c549459e84"
+      "subContentId": "48be5d03-1add-4c08-a628-a3efad6af3a4"
     },
     {
       "params": {
@@ -825,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عدم التذكية الصحيحة لا تزيد جودة اللحم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">هذا تبرير خاطئ للمعصية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيادة جودة اللحم.</p>"
+            "text": "<p style=\"text-align:right\">هو تبرير صحيح للمعصية.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! بقاء الدم في الذبيحة يجعلها زرقاء مكتنزة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذا افتراء على الله وإلغاء للاختيار.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">بقاء الدم في الذبيحة مما يجعلها زرقاء مكتنزة.</p>"
+            "text": "<p style=\"text-align:right\">هو افتراء على الله وإلغاء للاختيار.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ليس الهدف تقليل التكلفة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القدر لا يلغي المسؤولية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تقليل تكلفة الذبح.</p>"
+            "text": "<p style=\"text-align:right\">هو اعتراف بالقدر دون مسؤولية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">ليس الهدف تسهيل عملية الطهي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الإيمان بالقدر لا يبرر المعصية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تسهيل عملية الطهي.</p>"
+            "text": "<p style=\"text-align:right\">هو موقف صحيح لأنه يعكس الإيمان بالقدر.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي النتيجة المترتبة على عدم تذكية الذبيحة بشكل صحيح؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من قول: 'الله قدر علي ذلك' عند ارتكاب المعصية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي النتيجة المترتبة على عدم تذكية الذبيحة بشكل صحيح؟",
+        "title": "ما هو الموقف الصحيح من قول: 'الله قدر علي ذلك' عند ارتكاب المعصية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي النتيجة المترتبة على عدم تذكية الذبيحة بشكل صحيح؟"
+        "extraTitle": "ما هو الموقف الصحيح من قول: 'الله قدر علي ذلك' عند ارتكاب المعصية؟"
       },
-      "subContentId": "5598b32b-3be8-4f00-91de-c4d6b857db37"
+      "subContentId": "2ba667ac-ac7c-4dee-b6da-1647b158422d"
     },
     {
       "params": {
@@ -923,40 +721,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل قد يضل ولا يكون ضابطًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الحسن ما حسنه العقل، والقبيح ما قبحه العقل.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموافقة على زيادة السعر لضمان التذكية الصحيحة هو التصرف الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الحسن ما حسنه الشرع، والقبيح ما قبحه الشرع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الموافقة على زيادة السعر لضمان التذكية الصحيحة.</p>"
+            "text": "<p style=\"text-align:right\">الحسن ما حسنه الشرع، والقبيح ما قبحه الشرع.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رفض زيادة السعر قد يؤدي إلى عدم التذكية الصحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">العرف ليس معيارًا ثابتًا.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">رفض زيادة السعر والذبح بالطريقة المتاحة.</p>"
+            "text": "<p style=\"text-align:right\">الحسن ما حسنه العرف، والقبيح ما قبحه العرف.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال التذكية الصحيحة غير مقبول.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الحسن والقبيح ثابتان في الشرع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الذبح بالطريقة المتاحة دون الاهتمام بالتذكية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الذهاب إلى بلد آخر قد لا يكون عمليًا.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الذهاب إلى بلد آخر للذبح.</p>"
+            "text": "<p style=\"text-align:right\">الحسن والقبيح يتغيران حسب الزمان والمكان.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كنت في بلد لا يتبع الطريقة الإسلامية في الذبح وطلبوا زيادة السعر مقابل الذبح على الطريقة الإسلامية، ما هو التصرف الصحيح بناءً على النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الفرق بين 'الحسن' و'القبيح' وفقًا للشرع؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كنت في بلد لا يتبع الطريقة الإسلامية في الذبح وطلبوا زيادة السعر مقابل الذبح على الطريقة الإسلامية، ما هو التصرف الصحيح بناءً على النص؟",
+        "title": "ما هو الفرق بين 'الحسن' و'القبيح' وفقًا للشرع؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كنت في بلد لا يتبع الطريقة الإسلامية في الذبح وطلبوا زيادة السعر مقابل الذبح على الطريقة الإسلامية، ما هو التصرف الصحيح بناءً على النص؟"
+        "extraTitle": "ما هو الفرق بين 'الحسن' و'القبيح' وفقًا للشرع؟"
       },
-      "subContentId": "036b2ddb-37db-4fe0-8a65-86c3ea20d120"
+      "subContentId": "847163c8-ab12-4438-9d45-87e2f4a80031"
     },
     {
       "params": {
@@ -1024,40 +822,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التفلت الأخلاقي مرفوض في الشرع.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">التفلت الأخلاقي مقبول لأنه منتشر.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التأكيد على أن الله يعلم كل شيء وسيحاسبه هو الرد الصحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التفلت الأخلاقي لا يغير من تقييم الشرع.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التأكيد على أن الله يعلم كل شيء وسيحاسبه.</p>"
+            "text": "<p style=\"text-align:right\">التفلت الأخلاقي لا يغير من تقييم الشرع.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تشجيعه على الخداع غير صحيح.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">التطور لا يبرر التفلت الأخلاقي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تشجيعه على استخدام ذكائه لتحقيق أهدافه.</p>"
+            "text": "<p style=\"text-align:right\">التفلت الأخلاقي يعكس تطور المجتمع.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الخداع ليس جزءًا من الحياة الصحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الشرع يرفض التفلت الأخلاقي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إخباره أن الخداع جزء من الحياة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال معتقداته غير صحيح.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">عدم الاهتمام بمعتقداته.</p>"
+            "text": "<p style=\"text-align:right\">التفلت الأخلاقي ضرورة في العصر الحديث.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أنه يمكنه خداع الآخرين بذكائه وقوة إقناعه دون أن يعلم الله، ما هو الرد الصحيح بناءً على النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الموقف الصحيح من التفلت الأخلاقي في العصر الحديث؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يعتقد أنه يمكنه خداع الآخرين بذكائه وقوة إقناعه دون أن يعلم الله، ما هو الرد الصحيح بناءً على النص؟",
+        "title": "ما هو الموقف الصحيح من التفلت الأخلاقي في العصر الحديث؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يعتقد أنه يمكنه خداع الآخرين بذكائه وقوة إقناعه دون أن يعلم الله، ما هو الرد الصحيح بناءً على النص؟"
+        "extraTitle": "ما هو الموقف الصحيح من التفلت الأخلاقي في العصر الحديث؟"
       },
-      "subContentId": "cdf16382-c7b2-4d19-a8a0-06dd84ab05c1"
+      "subContentId": "82f3ea73-f5a1-4907-b2d9-4e50f03ecc0d"
     },
     {
       "params": {
@@ -1125,40 +923,40 @@
         },
         "answers": [
           {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">انتشار المعاصي لا يبرر ارتكابها.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">انتشار المعاصي يبرر ارتكابها.</p>"
+          },
+          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الموافقة على زيادة السعر لضمان التذكية الصحيحة هو التصرف الأمثل.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! المعاصي تبقى محرمة حتى لو انتشرت.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الموافقة على زيادة السعر لضمان التذكية الصحيحة.</p>"
+            "text": "<p style=\"text-align:right\">المعاصي تبقى محرمة حتى لو انتشرت.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">رفض زيادة السعر قد يؤدي إلى عدم التذكية الصحيحة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">المجتمع لا يحدد الحلال والحرام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">رفض زيادة السعر والبحث عن مورد آخر.</p>"
+            "text": "<p style=\"text-align:right\">المجتمع يحدد الحلال والحرام.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إهمال التذكية الصحيحة غير مقبول.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الضرورة لا تبرر المعاصي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الذبح بالطريقة المتاحة دون الاهتمام بالتذكية.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">تقليل الكمية ليس حلًا للمشكلة.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تقليل كمية اللحم المشتراة.</p>"
+            "text": "<p style=\"text-align:right\">المعاصي تصبح مقبولة إذا كانت ضرورة.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +1004,220 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">إذا كنت مسؤولًا عن شراء لحوم لدولة إسلامية وواجهت زيادة في السعر بسبب الذبح على الطريقة الإسلامية، ما هو التصرف الأمثل؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن انتشار المعاصي في المجتمع يبرر له ارتكابها. ما هو الرد الصحيح بناءً على الشرع؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "إذا كنت مسؤولًا عن شراء لحوم لدولة إسلامية وواجهت زيادة في السعر بسبب الذبح على الطريقة الإسلامية، ما هو التصرف الأمثل؟",
+        "title": "شخص يعتقد أن انتشار المعاصي في المجتمع يبرر له ارتكابها. ما هو الرد الصحيح بناءً على الشرع؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "إذا كنت مسؤولًا عن شراء لحوم لدولة إسلامية وواجهت زيادة في السعر بسبب الذبح على الطريقة الإسلامية، ما هو التصرف الأمثل؟"
+        "extraTitle": "شخص يعتقد أن انتشار المعاصي في المجتمع يبرر له ارتكابها. ما هو الرد الصحيح بناءً على الشرع؟"
       },
-      "subContentId": "aac1d156-8569-437d-9f7c-6d0c8a92b92a"
+      "subContentId": "b1c6c1b5-b4b9-46e2-958e-a2f51f12e724"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الإنسان مسير في بعض الأمور ومخير في التكليف.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">هذا صحيح لأن الإنسان مسير.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! هذا يلغي التكليف والثواب والعقاب.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">هذا خطأ لأنه يلغي التكليف والثواب والعقاب.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الإيمان بالقدر لا يلغي الاختيار.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">هذا يعكس الإيمان بالقدر.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">التوكل على الله لا يلغي المسؤولية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">هذا موقف صحيح لأنه يعكس التوكل على الله.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يقول: 'أنا مسير في كل أفعالي، فلا ثواب ولا عقاب'. ما هو الرد الصحيح؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يقول: 'أنا مسير في كل أفعالي، فلا ثواب ولا عقاب'. ما هو الرد الصحيح؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يقول: 'أنا مسير في كل أفعالي، فلا ثواب ولا عقاب'. ما هو الرد الصحيح؟"
+      },
+      "subContentId": "f776fe8c-6e63-4665-ac51-cc743cb9fdab"
+    },
+    {
+      "params": {
+        "media": {
+          "disableImageZooming": false
+        },
+        "answers": [
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل قد يضل ولا يكون ضابطًا.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل كافٍ لتحديد الحسن والقبيح.</p>"
+          },
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العقل قد يضل ويحتاج إلى ضابط وهو الشرع.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل قد يضل ويحتاج إلى ضابط وهو الشرع.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الشرع ضروري حتى مع سلامة العقل.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">الشرع غير ضروري إذا كان العقل سليمًا.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">العقل والشرع متكاملان وليسا متعارضين.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">العقل والشرع متعارضان دائمًا.</p>"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": true,
+          "passPercentage": 100,
+          "showScorePoints": true
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "submitAnswerButton": "Submit",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer"
+        },
+        "confirmCheck": {
+          "header": "Finish?",
+          "body": "Are you sure you wish to finish?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry?",
+          "body": "Are you sure you wish to retry?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن العقل هو الضابط الوحيد للأفعال دون الحاجة إلى الشرع. ما هو الرد الصحيح؟</p><p> </p>"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "شخص يعتقد أن العقل هو الضابط الوحيد للأفعال دون الحاجة إلى الشرع. ما هو الرد الصحيح؟",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "شخص يعتقد أن العقل هو الضابط الوحيد للأفعال دون الحاجة إلى الشرع. ما هو الرد الصحيح؟"
+      },
+      "subContentId": "bd931d13-2ccc-46fb-8287-363ee0753f6c"
     }
   ],
   "disableBackwardsNavigation": false,

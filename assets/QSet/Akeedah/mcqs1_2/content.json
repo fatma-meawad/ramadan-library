@@ -106,7 +106,7 @@
         "changes": [],
         "extraTitle": "ما هي أركان الإيمان التي يجب على المسلم معرفتها؟"
       },
-      "subContentId": "7519bdef-1087-4b09-9200-1d48ff936175"
+      "subContentId": "3d8afa1e-a48d-43f4-b151-e4be8c9fd07f"
     },
     {
       "params": {
@@ -207,7 +207,7 @@
         "changes": [],
         "extraTitle": "ما هي أركان الإسلام الخمسة؟"
       },
-      "subContentId": "20b0191a-0747-4b46-8fad-cb0c93c2bb72"
+      "subContentId": "9b458345-b447-44b6-a1fd-a864fe2d7fea"
     },
     {
       "params": {
@@ -308,7 +308,7 @@
         "changes": [],
         "extraTitle": "ما هو الهدف من خلق الله للموت والحياة كما ذكر في سورة الملك؟"
       },
-      "subContentId": "587f77d3-1267-40f0-9639-ace41a402ad2"
+      "subContentId": "0289a8aa-ab98-41eb-80d0-6a6795a38587"
     },
     {
       "params": {
@@ -409,7 +409,7 @@
         "changes": [],
         "extraTitle": "لماذا يعتبر طلب العلم الشرعي واجبًا على كل مسلم؟"
       },
-      "subContentId": "ad03ab66-2045-4b98-ad03-225ef0df29ae"
+      "subContentId": "7807452c-3ed7-4057-bc6c-90e2a31838e1"
     },
     {
       "params": {
@@ -510,7 +510,7 @@
         "changes": [],
         "extraTitle": "ما هو الموقف الصحيح من الأحكام الشرعية المتعلقة بالحرف والمهن؟"
       },
-      "subContentId": "758f10e1-3df8-4832-aa9f-9e16ab32e6c7"
+      "subContentId": "f98b0ae3-36f1-493e-b82f-0dc282fd8836"
     },
     {
       "params": {
@@ -611,7 +611,7 @@
         "changes": [],
         "extraTitle": "ما هو تفسير قوله تعالى: 'وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا'؟"
       },
-      "subContentId": "237eff1d-1df4-46d4-82e3-a11f4f898ea0"
+      "subContentId": "29b116c7-c3b3-4f81-bedf-83951261c618"
     },
     {
       "params": {
@@ -712,7 +712,7 @@
         "changes": [],
         "extraTitle": "ما هو الفرق بين التألق التزييني والتألق التحذيري في مثال المركبة؟"
       },
-      "subContentId": "ee510d74-1c10-4ea1-bddd-31474485c397"
+      "subContentId": "bc93c78c-9dfe-4d8d-beb3-2c404ccd19f2"
     },
     {
       "params": {
@@ -813,7 +813,7 @@
         "changes": [],
         "extraTitle": "ما هو تفسير قوله تعالى: 'إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ'؟"
       },
-      "subContentId": "85f2dcc8-243c-41a1-a8ac-90da33b7839a"
+      "subContentId": "bc758ef2-0fbe-4219-a48a-c4b8e576540a"
     },
     {
       "params": {
@@ -914,7 +914,7 @@
         "changes": [],
         "extraTitle": "ما هي البطولة الحقيقية في عصر التواصل الإعلامي؟"
       },
-      "subContentId": "2b1ec67b-a561-48ab-a44d-d32c7d43361b"
+      "subContentId": "9f40838b-8ca9-4541-957b-aa6008ded7aa"
     },
     {
       "params": {
@@ -1015,7 +1015,7 @@
         "changes": [],
         "extraTitle": "إذا كنت تاجرًا ولم تتعلم أحكام البيع والشراء في الإسلام، ما هو الخطر الذي قد تواجهه؟"
       },
-      "subContentId": "d851953a-2e88-428f-ba34-d22cf7e10062"
+      "subContentId": "4c380c2f-1988-43c3-b806-c34fd1d5dfb9"
     },
     {
       "params": {
@@ -1116,7 +1116,7 @@
         "changes": [],
         "extraTitle": "إذا كنت طبيبًا ولم تتعلم أحكام الجعالة في الإسلام، ما هو الخطر الذي قد تواجهه؟"
       },
-      "subContentId": "686065a1-1829-440b-b01c-993224471e97"
+      "subContentId": "ce046696-e19c-431d-8b1a-8ff0cbf13428"
     },
     {
       "params": {
@@ -1217,7 +1217,7 @@
         "changes": [],
         "extraTitle": "إذا كنت محاميًا ولم تتعلم الأحكام الشرعية المتعلقة بمهنتك، ما هو الخطر الذي قد تواجهه؟"
       },
-      "subContentId": "f317ddba-6290-44c4-92c3-92630a21af50"
+      "subContentId": "e68f2778-70cf-465c-ae8d-03c0c53eeb75"
     }
   ],
   "disableBackwardsNavigation": false,
@@ -1268,5 +1268,6 @@
     },
     "width": 52,
     "height": 52
-  }
+  },
+  "headline": "الفطرة -١- الفطرة وخصائص النفس"
 }

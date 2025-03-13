@@ -14,40 +14,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">التكاثر والعمران من أهداف الحياة لكنها ليست العلة الأساسية.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">للتكاثر والعمران.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية القرآنية توضح أن العلة من خلق الجن والإنس هي عبادة الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإعجاز العلمي يعني أن القرآن يحتوي على معلومات لم تكن معروفة في زمن النبي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لعبادة الله وحده.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن يحتوي على معلومات علمية غير معروفة في زمن النبي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">السعادة الدنيوية مهمة ولكنها ليست العلة الأساسية للخلق.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن يتحدث عن حقائق علمية ولكن ليس فقط العلوم الحديثة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لتحقيق السعادة الدنيوية.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن يتحدث عن العلوم الحديثة فقط.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">اختبار قوة الإنسان جزء من الحياة لكنه ليس العلة الأساسية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن لا يشرح الاكتشافات العلمية بالتفصيل بل يشير إليها بشكل عام.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لاختبار قوة الإنسان.</p>"
+            "text": "<p style=\"text-align:right\">أن القرآن يشرح كل الاكتشافات العلمية بالتفصيل.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن خالي من الأخطاء العلمية.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن القرآن يحتوي على أخطاء علمية.</p>"
           }
         ],
         "overallFeedback": [
@@ -95,18 +95,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العلة من خلق الجن والإنس حسب الآية القرآنية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو المقصود بالإعجاز العلمي في القرآن والسنة؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العلة من خلق الجن والإنس حسب الآية القرآنية؟",
+        "title": "ما هو المقصود بالإعجاز العلمي في القرآن والسنة؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العلة من خلق الجن والإنس حسب الآية القرآنية؟"
+        "extraTitle": "ما هو المقصود بالإعجاز العلمي في القرآن والسنة؟"
       },
-      "subContentId": "42347f04-3073-415f-94da-08d6e830e16c"
+      "subContentId": "1eccdf29-a06f-4425-88a1-8b7a501aecea"
     },
     {
       "params": {
@@ -118,37 +118,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادات الشعائرية جزء من العبادة لكنها ليست التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سرعة الصوت أقل بكثير من السرعة المطلقة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">العبادات الشعائرية مثل الصلاة والصيام.</p>"
+            "text": "<p style=\"text-align:right\">سرعة الصوت.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة التعاملية تشمل التعامل مع الآخرين بأخلاق الإسلام.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! السرعة المطلقة في الكون هي سرعة الضوء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">التعامل مع الآخرين بأخلاق الإسلام في كل شؤون الحياة.</p>"
+            "text": "<p style=\"text-align:right\">سرعة الضوء.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">زيارة الأماكن المقدسة ليست جزءًا من العبادة التعاملية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سرعة الرياح ليست السرعة المطلقة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">زيارة الأماكن المقدسة والتبرك بها.</p>"
+            "text": "<p style=\"text-align:right\">سرعة الرياح.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن مهمة لكنها لا تغني عن تطبيق الأخلاق الإسلامية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">سرعة الجاذبية ليست السرعة المطلقة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن فقط دون تطبيق.</p>"
+            "text": "<p style=\"text-align:right\">سرعة الجاذبية.</p>"
           }
         ],
         "overallFeedback": [
@@ -196,18 +196,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما المقصود بالعبادة التعاملية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي السرعة المطلقة في الكون حسب النظرية النسبية؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما المقصود بالعبادة التعاملية؟",
+        "title": "ما هي السرعة المطلقة في الكون حسب النظرية النسبية؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما المقصود بالعبادة التعاملية؟"
+        "extraTitle": "ما هي السرعة المطلقة في الكون حسب النظرية النسبية؟"
       },
-      "subContentId": "f79e5e3b-5fde-4358-82bc-4f62738d4432"
+      "subContentId": "c6a5a349-dc68-43e0-9b59-f8a22a269391"
     },
     {
       "params": {
@@ -219,37 +219,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكنها ليست العبادة الأولى للغني.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية تشير إلى نسبية الزمن وليس فقط الفرق بين الأرض والسماء.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصلاة في المسجد.</p>"
+            "text": "<p style=\"text-align:right\">أن الزمن يختلف بين الأرض والسماء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية لا تتحدث عن طول يوم القيامة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يوم القيامة سيكون طويلاً.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الأولى للغني هي إنفاق المال في سبيل الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الزمن نسبي ويمكن أن يختلف حسب السرعة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إنفاق المال في سبيل الله.</p>"
+            "text": "<p style=\"text-align:right\">أن الزمن نسبي ويمكن أن يختلف حسب السرعة.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن مهمة لكنها ليست العبادة الأولى للغني.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية تتحدث عن نسبية الزمن وليس عن علم الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن يومياً.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام واجب لكنه ليس العبادة الأولى للغني.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصيام في شهر رمضان.</p>"
+            "text": "<p style=\"text-align:right\">أن الله يعلم كل شيء.</p>"
           }
         ],
         "overallFeedback": [
@@ -297,18 +297,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة الأولى للغني حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يدل عليه قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة الأولى للغني حسب النص؟",
+        "title": "ما الذي يدل عليه قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة الأولى للغني حسب النص؟"
+        "extraTitle": "ما الذي يدل عليه قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟"
       },
-      "subContentId": "ce3d866d-dc59-4c10-9991-d7a49a1a987e"
+      "subContentId": "6a2fd6cc-c538-42cf-8968-6efd1ced37cc"
     },
     {
       "params": {
@@ -320,37 +320,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">السعادة الدنيوية ليست شرطاً لقبول العبادات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النبي عليه الصلاة والسلام كان يعلم بكل ما في القرآن.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنها تجلب السعادة الدنيوية.</p>"
+            "text": "<p style=\"text-align:right\">لأنه لم يكن يعلم بها.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة التعاملية تعكس صدق الإيمان وتطبيق الأخلاق الإسلامية.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الله أمر النبي بعدم شرحها لحكمة معينة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنها تعكس صدق الإيمان وتطبيق الأخلاق الإسلامية.</p>"
+            "text": "<p style=\"text-align:right\">لأن الله أمره بعدم شرحها.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">عدد الأصدقاء ليس معياراً لقبول العبادات.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات الكونية لم تكن معروفة في ذلك الوقت.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنها تزيد من عدد الأصدقاء.</p>"
+            "text": "<p style=\"text-align:right\">لأنها كانت معروفة لدى الناس في ذلك الوقت.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الشهرة ليست هدفاً من أهداف العبادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الآيات تحتاج إلى تفسير علمي حديث ولكن هذا ليس السبب الرئيسي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">لأنها تجعل الشخص مشهوراً.</p>"
+            "text": "<p style=\"text-align:right\">لأنها تحتاج إلى تفسير علمي حديث.</p>"
           }
         ],
         "overallFeedback": [
@@ -398,18 +398,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">لماذا تعتبر العبادة التعاملية شرطاً لقبول العبادة الشعائرية؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">لماذا لم يشرح النبي عليه الصلاة والسلام الآيات الكونية في القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "لماذا تعتبر العبادة التعاملية شرطاً لقبول العبادة الشعائرية؟",
+        "title": "لماذا لم يشرح النبي عليه الصلاة والسلام الآيات الكونية في القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "لماذا تعتبر العبادة التعاملية شرطاً لقبول العبادة الشعائرية؟"
+        "extraTitle": "لماذا لم يشرح النبي عليه الصلاة والسلام الآيات الكونية في القرآن؟"
       },
-      "subContentId": "d1fd4e05-059a-47cc-92c5-612ae9dea044"
+      "subContentId": "488fba0d-3749-44b9-ac25-66cb697e1912"
     },
     {
       "params": {
@@ -421,37 +421,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكنها ليست العبادة الأولى للقوي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك حكم أخرى.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصلاة في المسجد.</p>"
+            "text": "<p style=\"text-align:right\">لتحدي البشر بإثبات صحتها.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك حكم أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لتكون دليلاً على صدق النبي عليه الصلاة والسلام.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن هناك حكم أخرى.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">لإثبات أن القرآن من عند الله.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الأولى للقوي هي إنصاف المظلوم ونصرة الضعيف.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! جميع الأسباب المذكورة صحيحة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">إنصاف المظلوم ونصرة الضعيف.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن مهمة لكنها ليست العبادة الأولى للقوي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">قراءة القرآن يومياً.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام واجب لكنه ليس العبادة الأولى للقوي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصيام في شهر رمضان.</p>"
+            "text": "<p style=\"text-align:right\">جميع ما سبق.</p>"
           }
         ],
         "overallFeedback": [
@@ -499,18 +499,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة الأولى للقوي حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هي الحكمة من وجود الآيات الكونية في القرآن؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة الأولى للقوي حسب النص؟",
+        "title": "ما هي الحكمة من وجود الآيات الكونية في القرآن؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة الأولى للقوي حسب النص؟"
+        "extraTitle": "ما هي الحكمة من وجود الآيات الكونية في القرآن؟"
       },
-      "subContentId": "0b2ca202-9671-48fe-893e-087300c7ff72"
+      "subContentId": "5ec16f7d-30f2-41d4-83a5-8f333f77b934"
     },
     {
       "params": {
@@ -522,37 +522,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكنها ليست العبادة الأولى للمرأة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض ليست ثابتة بل تدور حول الشمس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصلاة في المسجد.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض ستبقى ثابتة في مكانها.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الأولى للمرأة هي خدمة زوجها وأولادها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الله يحافظ على توازن الكون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">خدمة زوجها وأولادها.</p>"
+            "text": "<p style=\"text-align:right\">أن الله يحافظ على توازن الكون.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن مهمة لكنها ليست العبادة الأولى للمرأة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض لن تتحرك بعيدًا عن الشمس بفضل حفظ الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن يومياً.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض ستتحرك بعيدًا عن الشمس.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام واجب لكنه ليس العبادة الأولى للمرأة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون لن ينهار بفضل حفظ الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصيام في شهر رمضان.</p>"
+            "text": "<p style=\"text-align:right\">أن الكون سينهار قريبًا.</p>"
           }
         ],
         "overallFeedback": [
@@ -600,18 +600,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة الأولى للمرأة حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يدل عليه قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة الأولى للمرأة حسب النص؟",
+        "title": "ما الذي يدل عليه قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة الأولى للمرأة حسب النص؟"
+        "extraTitle": "ما الذي يدل عليه قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟"
       },
-      "subContentId": "ae11d984-ca71-4aac-beae-37743e15b04f"
+      "subContentId": "40d6fca2-aa7b-4fce-a4cc-5b37e4d2aadc"
     },
     {
       "params": {
@@ -623,37 +623,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الأعمال الدنيوية جزء من العبادة لكنها ليست محل الخلاف الأساسي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح جزئيًا، ولكن الإعجاز أعمق من ذلك.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هل تشمل العبادة الأعمال الدنيوية أم لا.</p>"
+            "text": "<p style=\"text-align:right\">أن الزمن يختلف حسب السرعة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية لا تتحدث عن طول يوم القيامة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن يوم القيامة سيكون طويلاً.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الآية تتحدث عن نسبية الزمن وليس عن علم الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الله يعلم كل شيء.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الخلاف الأساسي يدور حول ما إذا كانت العبادة تقتصر على الشعائر فقط أم تشمل كل جوانب الحياة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الزمن نسبي ويمكن أن يختلف حسب السرعة.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">هل العبادة تقتصر على الشعائر فقط أم تشمل كل جوانب الحياة.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة واجبة على الجميع وهذا ليس محل خلاف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">هل العبادة واجبة على الجميع أم على البعض فقط.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">النية شرط في العبادة وهذا ليس محل خلاف.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">هل العبادة تحتاج إلى نية أم لا.</p>"
+            "text": "<p style=\"text-align:right\">أن الزمن نسبي ويمكن أن يختلف حسب السرعة.</p>"
           }
         ],
         "overallFeedback": [
@@ -701,18 +701,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هو الخلاف الأساسي بين المسلمين حول مفهوم العبادة؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الإعجاز في قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هو الخلاف الأساسي بين المسلمين حول مفهوم العبادة؟",
+        "title": "ما هو الإعجاز في قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هو الخلاف الأساسي بين المسلمين حول مفهوم العبادة؟"
+        "extraTitle": "ما هو الإعجاز في قوله تعالى: ﴿وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ﴾؟"
       },
-      "subContentId": "aa1558bc-d4df-478e-ad97-5b2685938522"
+      "subContentId": "335c8f07-e962-4170-b6e3-20c4334b9d83"
     },
     {
       "params": {
@@ -724,37 +724,37 @@
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكنها ليست العبادة الأولى للعالم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجبال لا تتحرك بسرعة كبيرة ولكن مع دوران الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصلاة في المسجد.</p>"
+            "text": "<p style=\"text-align:right\">أن الجبال تتحرك بسرعة كبيرة.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض تدور حول الشمس ولكن الآية تتحدث عن حركة الجبال.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الأرض تدور حول الشمس.</p>"
           },
           {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الأولى للعالم هي تعليم الناس الخير لوجه الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الجبال تتحرك مع دوران الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تعليم الناس الخير لوجه الله.</p>"
+            "text": "<p style=\"text-align:right\">أن الجبال تتحرك مع دوران الأرض.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن مهمة لكنها ليست العبادة الأولى للعالم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الجبال تتحرك مع دوران الأرض.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن يومياً.</p>"
-          },
-          {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام واجب لكنه ليس العبادة الأولى للعالم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصيام في شهر رمضان.</p>"
+            "text": "<p style=\"text-align:right\">أن الجبال ثابتة ولا تتحرك.</p>"
           }
         ],
         "overallFeedback": [
@@ -802,18 +802,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة الأولى للعالم حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما الذي يدل عليه قوله تعالى: ﴿وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ﴾؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة الأولى للعالم حسب النص؟",
+        "title": "ما الذي يدل عليه قوله تعالى: ﴿وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ﴾؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة الأولى للعالم حسب النص؟"
+        "extraTitle": "ما الذي يدل عليه قوله تعالى: ﴿وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ﴾؟"
       },
-      "subContentId": "e3fb0d10-fac6-460d-9a24-00c06e9fa2b4"
+      "subContentId": "3eebd546-dd9d-4a3c-8761-edfd6f0e783e"
     },
     {
       "params": {
@@ -822,40 +822,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصلاة مهمة لكنها ليست العبادة الأولى للمعلم.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">الصلاة في المسجد.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة الأولى للمعلم هي تعليم الطلاب الخير لوجه الله.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآية تشير إلى أن الله يحافظ على توازن الكون.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تعليم الطلاب الخير لوجه الله.</p>"
+            "text": "<p style=\"text-align:right\">أن الله يحافظ على توازن الكون.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن مهمة لكنها ليست العبادة الأولى للمعلم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون لن ينهار بفضل حفظ الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">قراءة القرآن يومياً.</p>"
+            "text": "<p style=\"text-align:right\">أن الكون سينهار قريبًا.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الصيام واجب لكنه ليس العبادة الأولى للمعلم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الأرض ليست ثابتة بل تدور حول الشمس.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">الصيام في شهر رمضان.</p>"
+            "text": "<p style=\"text-align:right\">أن الأرض ستبقى ثابتة في مكانها.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون يتوسع ولكن الآية تتحدث عن حفظ الله للتوازن.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">أن الكون سيتوسع إلى الأبد.</p>"
           }
         ],
         "overallFeedback": [
@@ -903,18 +903,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">ما هي العبادة الأولى للمعلم حسب النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">ما هو الإعجاز في قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "ما هي العبادة الأولى للمعلم حسب النص؟",
+        "title": "ما هو الإعجاز في قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "ما هي العبادة الأولى للمعلم حسب النص؟"
+        "extraTitle": "ما هو الإعجاز في قوله تعالى: ﴿إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا﴾؟"
       },
-      "subContentId": "6263f93d-0cf8-4224-a507-436db3bd2557"
+      "subContentId": "8abe5161-b3b1-41ad-8d8a-c6b000f88a58"
     },
     {
       "params": {
@@ -923,40 +923,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">العبادة لا تقتصر على الشعائر فقط.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">توافق رأيه لأن العبادة هي الشعائر فقط.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! العبادة تشمل كل جوانب الحياة بما في ذلك التعامل مع الآخرين.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات التي تشير إلى حقائق علمية غير معروفة في زمن النبي تدل على صدقه.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">توضح له أن العبادة تشمل كل جوانب الحياة بما في ذلك التعامل مع الآخرين.</p>"
+            "text": "<p style=\"text-align:right\">بإظهار الآيات التي تشير إلى حقائق علمية لم تكن معروفة في زمن النبي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">قراءة القرآن جزء من العبادة لكنها ليست كلها.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن خالي من الأخطاء العلمية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تقول له أن العبادة هي قراءة القرآن فقط.</p>"
+            "text": "<p style=\"text-align:right\">بإظهار أن القرآن يحتوي على أخطاء علمية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الحج واجب لكنه ليس كل العبادة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النبي لم يكن عالماً في الفيزياء ولكن القرآن يحتوي على إعجاز علمي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تقول له أن العبادة هي الذهاب إلى الحج فقط.</p>"
+            "text": "<p style=\"text-align:right\">بإظهار أن النبي كان عالماً في الفيزياء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن يتحدث عن حقائق علمية ولكن ليس فقط العلوم الحديثة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">بإظهار أن القرآن يتحدث عن العلوم الحديثة فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1004,18 +1004,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص يعتقد أن العبادة تقتصر على الصلاة والصيام فقط، كيف ترد عليه بناءً على النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يشك في صدق النبي عليه الصلاة والسلام، كيف يمكن استخدام الإعجاز العلمي في القرآن لإقناعه؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص يعتقد أن العبادة تقتصر على الصلاة والصيام فقط، كيف ترد عليه بناءً على النص؟",
+        "title": "إذا كان شخص يشك في صدق النبي عليه الصلاة والسلام، كيف يمكن استخدام الإعجاز العلمي في القرآن لإقناعه؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص يعتقد أن العبادة تقتصر على الصلاة والصيام فقط، كيف ترد عليه بناءً على النص؟"
+        "extraTitle": "إذا كان شخص يشك في صدق النبي عليه الصلاة والسلام، كيف يمكن استخدام الإعجاز العلمي في القرآن لإقناعه؟"
       },
-      "subContentId": "1998cf7c-8779-4294-afdb-42f043119dff"
+      "subContentId": "7ab573ca-abe8-4cb1-8c4e-6be3c483f939"
     },
     {
       "params": {
@@ -1024,40 +1024,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنفاق في سبيل الله واجب على الغني.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تقول له أن الإنفاق ليس واجباً.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الإنفاق في سبيل الله هو العبادة الأولى للغني.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! التوازن الدقيق في الكون يدل على وجود خالق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">توضح له أن الإنفاق في سبيل الله هو العبادة الأولى للغني.</p>"
+            "text": "<p style=\"text-align:right\">بإظهار أن الكون يحتوي على توازن دقيق يدل على وجود خالق.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنفاق في سبيل الله لا يقلل من الثروة بل يزيدها بركة.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">الانفجار الكبير لا ينفي وجود خالق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تقول له أن الإنفاق يقلل من ثروته.</p>"
+            "text": "<p style=\"text-align:right\">بإظهار أن الكون نشأ من انفجار كبير.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">الإنفاق في سبيل الله له أجر عظيم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">توسع الكون لا ينفي وجود خالق.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تقول له أن الإنفاق ليس له أجر.</p>"
+            "text": "<p style=\"text-align:right\">بإظهار أن الكون يتوسع إلى الأبد.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">الكون لن ينهار بفضل حفظ الله.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">بإظهار أن الكون سينهار قريبًا.</p>"
           }
         ],
         "overallFeedback": [
@@ -1105,18 +1105,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص غني لا ينفق من ماله في سبيل الله، كيف ترد عليه بناءً على النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يعتقد أن الكون نشأ بالصدفة، كيف يمكن استخدام الآيات الكونية في القرآن لإقناعه بخلق الله؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص غني لا ينفق من ماله في سبيل الله، كيف ترد عليه بناءً على النص؟",
+        "title": "إذا كان شخص يعتقد أن الكون نشأ بالصدفة، كيف يمكن استخدام الآيات الكونية في القرآن لإقناعه بخلق الله؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص غني لا ينفق من ماله في سبيل الله، كيف ترد عليه بناءً على النص؟"
+        "extraTitle": "إذا كان شخص يعتقد أن الكون نشأ بالصدفة، كيف يمكن استخدام الآيات الكونية في القرآن لإقناعه بخلق الله؟"
       },
-      "subContentId": "ba440d7d-7dee-4409-a9aa-a65e345bfade"
+      "subContentId": "ff2ec202-8dc4-4aa0-9027-732657cea9a3"
     },
     {
       "params": {
@@ -1125,40 +1125,40 @@
         },
         "answers": [
           {
-            "correct": false,
-            "tipsAndFeedback": {
-              "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنصاف المظلوم واجب على القوي.</p>",
-              "notChosenFeedback": ""
-            },
-            "text": "<p style=\"text-align:right\">تقول له أن الإنصاف ليس واجباً.</p>"
-          },
-          {
             "correct": true,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">صحيح! إنصاف المظلوم هو العبادة الأولى للقوي.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">صحيح! الآيات التي تشير إلى حقائق علمية غير معروفة في زمن النبي تدل على أن القرآن من عند الله.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">توضح له أن إنصاف المظلوم هو العبادة الأولى للقوي.</p>"
+            "text": "<p style=\"text-align:right\">بإظهار الآيات التي تشير إلى حقائق علمية لم تكن معروفة في زمن النبي.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنصاف المظلوم لا يقلل من القوة بل يزيدها احتراماً.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن خالي من الأخطاء العلمية.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تقول له أن الإنصاف يقلل من قوته.</p>"
+            "text": "<p style=\"text-align:right\">بإظهار أن القرآن يحتوي على أخطاء علمية.</p>"
           },
           {
             "correct": false,
             "tipsAndFeedback": {
               "tip": "",
-              "chosenFeedback": "<p style=\"text-align:right\">إنصاف المظلوم له أجر عظيم.</p>",
+              "chosenFeedback": "<p style=\"text-align:right\">النبي لم يكن عالماً في الفيزياء ولكن القرآن يحتوي على إعجاز علمي.</p>",
               "notChosenFeedback": ""
             },
-            "text": "<p style=\"text-align:right\">تقول له أن الإنصاف ليس له أجر.</p>"
+            "text": "<p style=\"text-align:right\">بإظهار أن النبي كان عالماً في الفيزياء.</p>"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "<p style=\"text-align:right\">القرآن يتحدث عن حقائق علمية ولكن ليس فقط العلوم الحديثة.</p>",
+              "notChosenFeedback": ""
+            },
+            "text": "<p style=\"text-align:right\">بإظهار أن القرآن يتحدث عن العلوم الحديثة فقط.</p>"
           }
         ],
         "overallFeedback": [
@@ -1206,18 +1206,18 @@
           "cancelLabel": "Cancel",
           "confirmLabel": "Confirm"
         },
-        "question": "<p> </p><p style=\"text-align:right\">شخص قوي لا ينصف المظلوم، كيف ترد عليه بناءً على النص؟</p><p> </p>"
+        "question": "<p> </p><p style=\"text-align:right\">إذا كان شخص يعتقد أن القرآن ليس من عند الله، كيف يمكن استخدام الإعجاز العلمي لإقناعه؟</p><p> </p>"
       },
       "library": "H5P.MultiChoice 1.16",
       "metadata": {
         "contentType": "Multiple Choice",
         "license": "U",
-        "title": "شخص قوي لا ينصف المظلوم، كيف ترد عليه بناءً على النص؟",
+        "title": "إذا كان شخص يعتقد أن القرآن ليس من عند الله، كيف يمكن استخدام الإعجاز العلمي لإقناعه؟",
         "authors": [],
         "changes": [],
-        "extraTitle": "شخص قوي لا ينصف المظلوم، كيف ترد عليه بناءً على النص؟"
+        "extraTitle": "إذا كان شخص يعتقد أن القرآن ليس من عند الله، كيف يمكن استخدام الإعجاز العلمي لإقناعه؟"
       },
-      "subContentId": "ca3cc48c-d1d4-4b75-a967-409dc33c0584"
+      "subContentId": "ef307d71-d9e5-47c3-89be-80ebd1ce8782"
     }
   ],
   "disableBackwardsNavigation": false,
