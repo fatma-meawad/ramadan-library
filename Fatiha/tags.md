@@ -1,6 +1,6 @@
 ---
 layout: default
-title: دليل الأيات و الأحاديث
+title: دليل الأيات و الأحاديث <span class="label">دليل</span>
 description: دليل الأيات و الأحاديث
 parent: تفسير الشعراوي - سورة الفاتحة
 nav_order: 61
