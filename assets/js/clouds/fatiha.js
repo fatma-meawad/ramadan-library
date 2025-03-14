@@ -5,7 +5,8 @@
       root.setThemes([
         am5themes_Animated.new(root)
       ]);
-    
+      let siteUrl = document.getElementById("site-data").dataset.siteUrl;
+
       var series = root.container.children.push(am5wc.WordCloud.new(root, {
         maxCount: 100,
         minWordLength: 2,
@@ -31,7 +32,7 @@
       series.labels.template.events.on("click", function(ev) {
         let category = ev.target.dataItem.dataContext.category; // Get clicked word
         let encodedCategory = encodeURIComponent(category); // Encode it for URL safety
-        window.location.href = `/Fatiha/index.html?word=${encodedCategory}`; // Redirect
+        window.location.href = `${siteUrl}/Fatiha/index.html?word=${encodedCategory}`; // Redirect
     });
      
       series.data.setAll([

@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
+
     function getQueryParam(param) {
         let urlParams = new URLSearchParams(window.location.search);
      
