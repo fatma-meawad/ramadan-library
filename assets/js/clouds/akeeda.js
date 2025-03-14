@@ -28,11 +28,13 @@
       series.labels.template.setup = function(label) {
         label.set("background", am5.RoundedRectangle.new(root, { fillOpacity: 1, fill: colorSet.next() }))
       }
-    
+      console.log(siteUrl)
+      console.log(site.Url)
+
       series.labels.template.events.on("click", function(ev) {
         let category = ev.target.dataItem.dataContext.category; // Get clicked word
         let encodedCategory = encodeURIComponent(category); // Encode it for URL safety
-        window.location.href = `//Akeedah/index.html?word=${encodedCategory}`; // Redirect
+        window.location.href = `${siteUrl}/Akeedah/index.html?word=${encodedCategory}`; // Redirect
     });
           series.data.setAll([
             { category: 'العقل', value: 8 },
