@@ -1,24 +1,9 @@
-<div id="h5p-container-{{ include.id }}" style="max-width: 100%;
-margin: 20px; font-size: 8px;"></div>
-<script>
-    document.addEventListener('DOMContentLoaded', (event) => {
-        const el = document.getElementById('h5p-container-{{ include.id }}');
-        const options = {
-            h5pJsonPath: '{{ include.path }}',
-            contentJsonPath: '{{ include.path2 }}',
-            frameJs: 'https://cdn.jsdelivr.net/npm/h5p-standalone@3.8.0/dist/frame.bundle.js',
-            frameCss: 'https://cdn.jsdelivr.net/npm/h5p-standalone@3.8.0/dist/styles/h5p.css'
-        };
-        const h5pInstance =new H5PStandalone.H5P(el, options);
-     
-       
-    });
+<div id="h5p-container-{{ include.id }}" 
+     class="h5p-container"
+     data-id="{{ include.id }}"
+     data-path="{{ include.path }}"
+     data-path2="{{ include.path2 }}"
+     style="max-width: 100%; margin: 20px; font-size: 8px;">
+</div>
 
-     // Restore Progress
-     if (localStorage.getItem(`h5p_progress_{{ include.id }}`) === "completed") {
-            console.log(`User already completed: {{ include.id }}`);
-            el.style.opacity = "0.5"; // Example: Grey out completed content
-        }
-
-
-</script>
+<script src="{{ '/assets/js/h5ptracking.js' | relative_url }}"></script>
