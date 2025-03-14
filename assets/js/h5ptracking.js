@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", async () => {
    const  el=document.querySelector(".h5p-container");
+     if (!el)
+        return;
         const contentId = el.getAttribute("data-id");
         const jsonPath = el.getAttribute("data-path");
         const contentJsonPath = el.getAttribute("data-path2");
