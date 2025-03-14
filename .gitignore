@@ -15,5 +15,5 @@ assets/.DS_Store
 .bundle/
 vendor/
 **/**.todo
-/Baqraa
+Baqra/
 
