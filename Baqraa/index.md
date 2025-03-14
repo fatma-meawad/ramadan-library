@@ -9,5 +9,3 @@ has_children: true
 # {{page.description}}
 
 #### [المصدر الاصلي ](https://shamela.ws/book/1083/54)
-
----

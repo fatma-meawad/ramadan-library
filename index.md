@@ -6,15 +6,15 @@ nav_order: 0
 
 # محتوي المكتبة
 
-{: .fs-3 .ls-2 .code-example .highlight}
+{: .fs-3 .code-example .highlight}
 
 ## [ كتاب العقيدة و الاعجاز ](Akeedah/index.html)‏
 
-{: .fs-3 .ls-2 .code-example .highlight}
+{: .fs-3 .code-example .highlight}
 
 ## [تفسير الشعراوي - سورة الفاتحة ](Fatiha/index.html)‏
 
-{: .fs-3 .ls-2 .code-example .highlight}
+{: .fs-3 .code-example .highlight}
 
 ## [ تفسير الشعراوي - سورة البقرة](Baqraa/index.html)‏
 
