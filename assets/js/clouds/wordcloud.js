@@ -31,7 +31,7 @@ am5.ready(function() {
     series.labels.template.events.on("click", function(ev) {
         let category = ev.target.dataItem.dataContext.category; // Get clicked word
         let encodedCategory = encodeURIComponent(category); // Encode it for URL safety
-        window.location.href = `/ramadan-library/index.html?word=${encodedCategory}`; // Redirect
+        window.location.href = `/index.html?word=${encodedCategory}`; // Redirect
     });
     series.data.setAll([
         { category: 'إعجاز القرآن', value: 4 },

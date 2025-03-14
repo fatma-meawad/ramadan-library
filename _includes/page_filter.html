@@ -5,7 +5,7 @@
         {% for page in site.pages %}
         {% if page.keys %}
             <li data-tags="{{ page.keys | join: ',' }}">
-                <a href="/ramadan-library/{{ page.url }}">{{ page.title }}</a>
+                <a href="{{ page.url }}">{{ page.title }}</a>
             </li>
         {% endif %}
         {% endfor %}
