@@ -8,6 +8,6 @@ nav_order: 0
 
 ## [ كتاب العقيدة و الاعجاز ](Akeedah/index.html)‏
 
-## [تفسير الشعراوي - سورة الفاتحة ](Baqra/index.html)‏
+## [تفسير الشعراوي - سورة الفاتحة ](Fatiha/index.html)‏
 
-## [ تفسير الشعراوي - سورة البقرة](Baqra/index.html)‏
+## [ تفسير الشعراوي - سورة البقرة](Baqraa/index.html)‏
