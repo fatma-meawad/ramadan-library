@@ -15,3 +15,5 @@ has_children: true
 ### ابرز الكلمات
 
 {% include maincloud.html id="fatiha" path='/assets/js/clouds/fatiha.js' %}
+
+{% include page_filter.html %}

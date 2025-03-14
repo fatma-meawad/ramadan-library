@@ -15,3 +15,4 @@ has_children: true
 ### ابرز الكلمات
 
 {% include maincloud.html id="baqra" path='/assets/js/clouds/baqra.js' %}
+{% include page_filter.html %}

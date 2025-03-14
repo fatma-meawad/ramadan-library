@@ -1,45 +1,60 @@
-document.addEventListener("DOMContentLoaded", function () {
-    if (typeof am5 === "undefined" || typeof am5wc === "undefined") {
-        console.error("amCharts WordCloud library did not load.");
-        return;
-    }
-
-    var el = document.getElementById("wordCloudChart");
-    if (!el) return;
-
-    var root = am5.Root.new(el);
-    root.rtl = true;
-
-    root.setThemes([am5themes_Animated.new(root)]);
-
-    var series = root.container.children.push(am5wc.WordCloud.new(root, {
-        maxCount: 100,
-        minWordLength: 2,
-        minFontSize: am5.percent(6),
-        maxFontSize: am5.percent(12),
-        angles: [0],
-        rtl: true
-    }));
-
-    var colorSet = am5.ColorSet.new(root, { step: 1 });
-
-    series.labels.template.setAll({
-        paddingTop: 5,
-        paddingBottom: 5,
-        paddingLeft: 5,
-        paddingRight: 5,
-        fontFamily: "Tajawal, Arial, sans-serif",
-        fontSize: am5.percent(10),
-        direction: "rtl",
-        textAlign: "right",
-        cursor: "pointer",
-        background: am5.RoundedRectangle.new(root, { fillOpacity: 1, fill: colorSet.next() })
-    });
-
-    // Set the data
-    series.data.setAll([
-        { "category": "القرآن", "value": 10 },
-        { "category": "الكون", "value": 8 },
-        { "category": "الفطرة", "value": 7 }
+am5.ready(function() {
+    
+    var root = am5.Root.new("chartdiv-word");
+    root.setThemes([
+      am5themes_Animated.new(root)
     ]);
-});
+  
+    var series = root.container.children.push(am5wc.WordCloud.new(root, {
+      maxCount: 100,
+      minWordLength: 2,
+      minFontSize: am5.percent(6),
+      maxFontSize: am5.percent(8),
+      angles: [0]
+    }));
+    
+    var colorSet = am5.ColorSet.new(root, { step: 1 });
+    
+    // Configure labels
+    series.labels.template.setAll({
+      paddingTop: 0,
+      paddingBottom: 0,
+      paddingLeft: 5,
+      paddingRight: 5,
+      fontFamily: "Courier New"
+    });
+    
+    series.labels.template.setup = function(label) {
+      label.set("background", am5.RoundedRectangle.new(root, { fillOpacity: 1, fill: colorSet.next() }))
+    }
+     
+    series.labels.template.events.on("click", function(ev) {
+        let category = ev.target.dataItem.dataContext.category; // Get clicked word
+        let encodedCategory = encodeURIComponent(category); // Encode it for URL safety
+        window.location.href = `/index.html?word=${encodedCategory}`; // Redirect
+    });
+    series.data.setAll([
+        { category: 'إعجاز القرآن', value: 4 },
+        { category: 'الآخرة', value: 6 },
+        { category: 'الكفر', value: 6 },
+        { category: 'الإيمان', value: 12 },
+        { category: 'المنافقون', value: 17 },
+        { category: 'العقل', value: 8 },
+        { category: 'الوحي', value: 4 },
+        { category: 'الكون', value: 6 },
+        { category: 'العبادة', value: 6 },
+        { category: 'الاستقامة', value: 5 },
+        { category: 'السعادة', value: 5 },
+        { category: 'الإسلام', value: 6 },
+        { category: 'التفكر', value: 7 },
+        { category: 'التكليف', value: 5 },
+        { category: 'الفطرة', value: 7 },
+        { category: 'معرفة الله', value: 4 },
+        { category: 'الإعجاز العلمي', value: 5 },
+        { category: 'القرآن الكريم', value: 15 },
+        { category: "نور الإيمان", value: 5 },
+        { category: "التناقض", value: 2 },
+        { category: "المؤمنون", value: 2 }
+    ]);});
+    
+    

@@ -28,11 +28,18 @@
       series.labels.template.setup = function(label) {
         label.set("background", am5.RoundedRectangle.new(root, { fillOpacity: 1, fill: colorSet.next() }))
       }
-    
+      series.labels.template.events.on("click", function(ev) {
+        let category = ev.target.dataItem.dataContext.category; // Get clicked word
+        let encodedCategory = encodeURIComponent(category); // Encode it for URL safety
+        window.location.href = `/Fatiha/index.html?word=${encodedCategory}`; // Redirect
+    });
      
-        series.data.setAll([
-     {category: 'المنافقون', value: '10'}, {category: "نور الإيمان", value: 5},{ category: "الآخرة", value: 2}, 
-     {category: "التناقض", value: 2}, 
-     
-     {category: "المؤمنون", value:2}, { category:"الكفر", value: 2}]);});
-      
+      series.data.setAll([
+        { category: 'المنافقون', value: 10 }, 
+        { category: "نور الإيمان", value: 5 },
+        { category: "الآخرة", value: 2 }, 
+        { category: "التناقض", value: 2 }, 
+        { category: "المؤمنون", value: 2 }, 
+        { category: "الكفر", value: 2 }
+    ]);
+  });
