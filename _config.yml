@@ -2,8 +2,8 @@ title: "مكتبة رمضان"
 description: A resources library with summaries and interactive content for islamic religious studies.
 theme: just-the-docs
 
-
-url: https://fatma-meawad.github.io/ramadan-library
+baseurl: "/ramadan-library"
+url: https://fatma-meawad.github.io
 
 # Enable custom styles
 just_the_docs:
