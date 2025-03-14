@@ -9,7 +9,7 @@
       var series = root.container.children.push(am5wc.WordCloud.new(root, {
         maxCount: 100,
         minWordLength: 2,
-        minFontSize: am5.percent(6),
+        minFontSize: am5.percent(5),
         maxFontSize: am5.percent(8),
         angles: [0]
       }));
@@ -18,10 +18,10 @@
       
       // Configure labels
       series.labels.template.setAll({
-        paddingTop: 5,
-        paddingBottom: 5,
-        paddingLeft: 5,
-        paddingRight: 5,
+        paddingTop: 0,
+        paddingBottom: 0,
+        paddingLeft: 0,
+        paddingRight: 0,
         fontFamily: "Courier New"
       });
       

@@ -31,6 +31,8 @@
     
      
         series.data.setAll([
-     {category: 'المنافقون', value: '7'},
-{category: 'القرآن', value: '4'} ]);});
+     {category: 'المنافقون', value: '10'}, {category: "نور الإيمان", value: 5},{ category: "الآخرة", value: 2}, 
+     {category: "التناقض", value: 2}, 
+     
+     {category: "المؤمنون", value:2}, { category:"الكفر", value: 2}]);});
       

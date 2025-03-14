@@ -32,10 +32,8 @@
      
         series.data.setAll([
      {category: 'إعجاز القرآن', value: '4'},
-{category: 'القرآن الكريم', value: '7'},
 {category: 'الآخرة', value: '4'},
 {category: 'الكفر', value: '4'},
 {category: 'الإيمان', value: '5'},
-{category: 'المنافقون', value: '7'},
-{category: 'القرآن', value: '4'} ]);});
+{category: 'المنافقون', value: '7'} ]);});
       
