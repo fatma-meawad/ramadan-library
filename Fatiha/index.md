@@ -11,9 +11,3 @@ has_children: true
 #### [المصدر الاصلي ](https://shamela.ws/book/1083/1)
 
 ---
-
-### ابرز الكلمات
-
-{% include maincloud.html id="fatiha" path='/assets/js/clouds/fatiha.js' %}
-
-{% include page_filter.html %}

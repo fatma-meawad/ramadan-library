@@ -11,8 +11,3 @@ has_children: true
 #### [المصدر الاصلي ](https://shamela.ws/book/1083/54)
 
 ---
-
-### ابرز الكلمات
-
-{% include maincloud.html id="baqra" path='/assets/js/clouds/baqra.js' %}
-{% include page_filter.html %}

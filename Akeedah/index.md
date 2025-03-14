@@ -12,12 +12,6 @@ has_children: true
 
 ---
 
-### ابرز الكلمات
-
-{% include maincloud.html id="akeeda" path='/assets/js/clouds/akeeda.js' %}
-
-{% include page_filter.html %}
-
 ```mermaid
 graph RL;
 
