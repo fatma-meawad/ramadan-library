@@ -16,6 +16,6 @@ nav_order: 0
 
 ## ابرز الكلمات
 
-{% include maincloud.html id="word" path='/assets/js/clouds/wordcloud.js' %}
-
 {% include page_filter.html %}
+
+{% include maincloud.html id="word" path='/assets/js/clouds/wordcloud.js' %}
