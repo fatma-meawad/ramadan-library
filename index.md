@@ -20,12 +20,9 @@ nav_order: 0
 
 ---
 
-{% include page_filter.html %}
-
 ## ابرز الكلمات
 
----
-
-{: .my-2}
-
-{% include maincloud.html id="word" path='/assets/js/clouds/wordcloud.js' %}
+<table> <td width="40%">
+{% include page_filter.html %}</td><td width="60%">
+{% include maincloud.html id="word" path='/assets/js/clouds/wordcloud.js' %}</td>
+ </table>
