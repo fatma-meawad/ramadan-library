@@ -15,6 +15,5 @@ assets/.DS_Store
 .bundle/
 vendor/
 **/**.todo
-Baqra/
 Baqra-1/
 **/.DS_Store
