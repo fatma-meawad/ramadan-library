@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     // Set the word in the title
-    if (titleElement) titleElement.innerText = ` ${word},    تظهر في `;
+    if (titleElement) titleElement.innerText = ` ${word} ,    تظهر في `;
 
     let listItems = document.querySelectorAll("#filtered-pages li");
     let hasResults = false;
